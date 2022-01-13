@@ -62,14 +62,21 @@ function YearInput(props: {
   year: number | undefined;
   setYear: Dispatch<SetStateAction<number | undefined>>;
 }) {
+  const min = 1929;
+  const max = 2021;
   return (
     <input
       value={props.year}
       onChange={(e) => props.setYear(parseInt(e.target.value))}
+      onBlur={(e) => {
+        const year = parseInt(e.target.value);
+        const yearWithinBounds = Math.min(max, Math.max(year, min));
+        props.setYear(yearWithinBounds);
+      }}
       type="number"
       placeholder="Year"
-      min={1929}
-      max={2021}
+      min={min}
+      max={max}
     />
   );
 }

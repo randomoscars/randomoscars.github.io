@@ -30,7 +30,9 @@ function App() {
         <div style={{ display: "flex" }}>
           <CategorySelect category={category} setCategory={setCategory} />
           <YearInput year={year} setYear={setYear} />
-          <IconButton label="Randomize" icon={BsShuffle} onClick={randomize} />
+          <button onClick={() => randomize()}>
+            <IconButtonLabel label="Randomize" icon={BsShuffle} />
+          </button>
         </div>
         <button onClick={() => search()} disabled={!category || !year}>
           Search
@@ -47,16 +49,12 @@ function App() {
   );
 }
 
-function IconButton(props: {
-  label: string;
-  icon: IconType;
-  onClick: () => void;
-}) {
+function IconButtonLabel(props: { label: string; icon: IconType }) {
   return (
-    <button onClick={() => props.onClick()} style={{ display: "flex" }}>
+    <div style={{ display: "flex" }}>
       <span style={{ marginRight: "1rem" }}>{props.label}</span>
       <props.icon style={{ alignSelf: "end" }} />
-    </button>
+    </div>
   );
 }
 

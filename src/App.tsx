@@ -28,7 +28,16 @@ function App() {
   return (
     <div className="App">
       <AppHeader />
-      <button onClick={() => randomize()}>Get Random Category</button>
+      <section style={{ display: "flex" }}>
+        <button onClick={() => randomize()}>Get Random Category</button>
+        <input
+          value={year}
+          onChange={(e) => setYear(parseInt(e.target.value))}
+          type="number"
+          min={1929}
+          max={2021}
+        />
+      </section>
       <section>
         <h2>
           {category} {category && year ? "|" : null} {year}

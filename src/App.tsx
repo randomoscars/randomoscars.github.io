@@ -3,7 +3,7 @@ import { queryWolframAlpha } from "./WolframAlpha.connector";
 import { getRandomCategory, getRandomYear } from "./Randomizer";
 import { BsSearch, BsShuffle } from "react-icons/bs";
 import { CategorySelect, IconButtonLabel, YearInput } from "./FormInputs";
-import { AppFooter, AppHeader } from "./StaticComponents";
+import { AppFooter, AppHeader, SiteExplainer } from "./StaticComponents";
 
 function App() {
   const [categoryInfo, setCategoryInfo] = useState("");
@@ -42,6 +42,10 @@ function App() {
           {category} {category && year ? "|" : null} {year}
         </h2>
         <Nominees categoryInfo={categoryInfo} />
+      </section>
+      <section>
+        <hr />
+        <SiteExplainer />
       </section>
       <AppFooter />
     </div>

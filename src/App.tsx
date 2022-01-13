@@ -1,46 +1,40 @@
-import React, {
-  Dispatch,
-  SetStateAction,
-  useEffect,
-  useRef,
-  useState,
-} from "react";
+import React, { Dispatch, SetStateAction, useState } from "react";
 import { queryWolframAlpha } from "./WolframAlpha.connector";
 import { getRandomCategory, getRandomYear } from "./Randomizer";
 import { categories } from "./Models";
+import { BsShuffle } from "react-icons/bs";
+import { IconType } from "react-icons";
 
 function App() {
   const [categoryInfo, setCategoryInfo] = useState("");
   const [category, setCategory] = useState<string | undefined>(undefined);
   const [year, setYear] = useState<number | undefined>(undefined);
-  const firstRender = useRef(true);
 
-  useEffect(() => {
-    // prevents effect running on first render
-    if (firstRender.current) {
-      firstRender.current = false;
-      return;
-    }
-    if (category && year) {
-      setCategoryInfo("Loading...");
-      queryWolframAlpha(category as string, year as number)
-        .then(setCategoryInfo)
-        .catch(setCategoryInfo);
-    }
-  }, [category, year]);
+  const search = () => {
+    setCategoryInfo("Loading...");
+    queryWolframAlpha(category as string, year as number)
+      .then(setCategoryInfo)
+      .catch(setCategoryInfo);
+  };
 
   const randomize = () => {
     setCategory(getRandomCategory());
     setYear(getRandomYear());
+    search();
   };
 
   return (
     <div className="App">
       <AppHeader />
-      <section style={{ display: "flex" }}>
-        <button onClick={() => randomize()}>Get Random Category</button>
-        <CategorySelect category={category} setCategory={setCategory} />
-        <YearInput year={year} setYear={setYear} />
+      <section>
+        <div style={{ display: "flex" }}>
+          <CategorySelect category={category} setCategory={setCategory} />
+          <YearInput year={year} setYear={setYear} />
+          <IconButton label="Randomize" icon={BsShuffle} onClick={randomize} />
+        </div>
+        <button onClick={() => search()} disabled={!category || !year}>
+          Search
+        </button>
       </section>
       <section>
         <h2>
@@ -50,6 +44,19 @@ function App() {
       </section>
       <AppFooter />
     </div>
+  );
+}
+
+function IconButton(props: {
+  label: string;
+  icon: IconType;
+  onClick: () => void;
+}) {
+  return (
+    <button onClick={() => props.onClick()} style={{ display: "flex" }}>
+      <span style={{ marginRight: "1rem" }}>{props.label}</span>
+      <props.icon style={{ alignSelf: "end" }} />
+    </button>
   );
 }
 

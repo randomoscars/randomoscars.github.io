@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import "./App.css";
 import { queryWolframAlpha } from "./WolframAlpha.connector";
 
 function App() {

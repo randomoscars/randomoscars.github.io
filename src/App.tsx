@@ -1,4 +1,10 @@
-import React, { useEffect, useRef, useState } from "react";
+import React, {
+  Dispatch,
+  SetStateAction,
+  useEffect,
+  useRef,
+  useState,
+} from "react";
 import { queryWolframAlpha } from "./WolframAlpha.connector";
 import { getRandomCategory, getRandomYear } from "./Randomizer";
 import { categories } from "./Models";
@@ -33,24 +39,8 @@ function App() {
       <AppHeader />
       <section style={{ display: "flex" }}>
         <button onClick={() => randomize()}>Get Random Category</button>
-        <select value={category} onChange={(e) => setCategory(e.target.value)}>
-          <option value={undefined} disabled selected hidden>
-            Category
-          </option>
-          {categories.map((cat) => (
-            <option value={cat} key={cat}>
-              {cat}
-            </option>
-          ))}
-        </select>
-        <input
-          value={year}
-          onChange={(e) => setYear(parseInt(e.target.value))}
-          type="number"
-          placeholder="Year"
-          min={1929}
-          max={2021}
-        />
+        <CategorySelect category={category} setCategory={setCategory} />
+        <YearInput year={year} setYear={setYear} />
       </section>
       <section>
         <h2>
@@ -60,6 +50,43 @@ function App() {
       </section>
       <AppFooter />
     </div>
+  );
+}
+
+function YearInput(props: {
+  year: number | undefined;
+  setYear: Dispatch<SetStateAction<number | undefined>>;
+}) {
+  return (
+    <input
+      value={props.year}
+      onChange={(e) => props.setYear(parseInt(e.target.value))}
+      type="number"
+      placeholder="Year"
+      min={1929}
+      max={2021}
+    />
+  );
+}
+
+function CategorySelect(props: {
+  category: string | undefined;
+  setCategory: Dispatch<SetStateAction<string | undefined>>;
+}) {
+  return (
+    <select
+      value={props.category}
+      onChange={(e) => props.setCategory(e.target.value)}
+    >
+      <option value={undefined} disabled selected hidden>
+        Category
+      </option>
+      {categories.map((cat) => (
+        <option value={cat} key={cat}>
+          {cat}
+        </option>
+      ))}
+    </select>
   );
 }
 

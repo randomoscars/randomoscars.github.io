@@ -3,6 +3,7 @@ import { queryWolframAlpha } from "./WolframAlpha.connector";
 import { getRandomCategory, getRandomYear } from "./Randomizer";
 import { BsSearch, BsShuffle } from "react-icons/bs";
 import { CategorySelect, IconButtonLabel, YearInput } from "./FormInputs";
+import { AppFooter, AppHeader } from "./StaticComponents";
 
 function App() {
   const [categoryInfo, setCategoryInfo] = useState("");
@@ -47,15 +48,6 @@ function App() {
   );
 }
 
-function AppHeader() {
-  return (
-    <header className="App-header">
-      <h1>Random Oscars</h1>
-      <p>Hit the button to get a random Oscar category from a random year</p>
-    </header>
-  );
-}
-
 function Nominees(props: { categoryInfo: string }) {
   const nominees = props.categoryInfo.length
     ? props.categoryInfo
@@ -68,34 +60,6 @@ function Nominees(props: { categoryInfo: string }) {
         <li key={nominee}>{nominee}</li>
       ))}
     </ul>
-  );
-}
-
-function AppFooter() {
-  return (
-    <footer>
-      <p>
-        Created by{" "}
-        <a href="https://www.kylenazario.com" target="_blank">
-          Kyle Nazario
-        </a>{" "}
-        for the podcast{" "}
-        <a href="https://twitter.com/blankcheckpod" target="_blank">
-          Blank Check
-        </a>
-        .
-      </p>
-      <p>
-        View the{" "}
-        <a
-          href="https://github.com/randomoscars/randomoscars.github.io"
-          target="_blank"
-        >
-          source code
-        </a>
-        .
-      </p>
-    </footer>
   );
 }
 

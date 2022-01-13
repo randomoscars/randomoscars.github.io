@@ -28,7 +28,12 @@ function App() {
     <div className="App">
       <AppHeader />
       <button onClick={() => randomize()}>Get Random Category</button>
-      <Nominees categoryInfo={categoryInfo} />
+      <section>
+        <h2>
+          {category} {category && year ? "|" : null} {year}
+        </h2>
+        <Nominees categoryInfo={categoryInfo} />
+      </section>
     </div>
   );
 }
@@ -47,13 +52,11 @@ function Nominees(props: { categoryInfo: string }) {
     ? props.categoryInfo.split("\n")
     : [];
   return (
-    <section>
-      <ul>
-        {nominees.map((nominee) => (
-          <li key={nominee}>{nominee}</li>
-        ))}
-      </ul>
-    </section>
+    <ul>
+      {nominees.map((nominee) => (
+        <li key={nominee}>{nominee}</li>
+      ))}
+    </ul>
   );
 }
 

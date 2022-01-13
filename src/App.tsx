@@ -1,6 +1,7 @@
 import React, { useEffect, useRef, useState } from "react";
 import { queryWolframAlpha } from "./WolframAlpha.connector";
 import { getRandomCategory, getRandomYear } from "./Randomizer";
+import { categories } from "./Models";
 
 function App() {
   const [categoryInfo, setCategoryInfo] = useState("");
@@ -14,10 +15,12 @@ function App() {
       firstRender.current = false;
       return;
     }
-    setCategoryInfo("Loading...");
-    queryWolframAlpha(category as string, year as number)
-      .then(setCategoryInfo)
-      .catch(setCategoryInfo);
+    if (category && year) {
+      setCategoryInfo("Loading...");
+      queryWolframAlpha(category as string, year as number)
+        .then(setCategoryInfo)
+        .catch(setCategoryInfo);
+    }
   }, [category, year]);
 
   const randomize = () => {
@@ -30,10 +33,21 @@ function App() {
       <AppHeader />
       <section style={{ display: "flex" }}>
         <button onClick={() => randomize()}>Get Random Category</button>
+        <select value={category} onChange={(e) => setCategory(e.target.value)}>
+          <option value={undefined} disabled selected hidden>
+            Category
+          </option>
+          {categories.map((cat) => (
+            <option value={cat} key={cat}>
+              {cat}
+            </option>
+          ))}
+        </select>
         <input
           value={year}
           onChange={(e) => setYear(parseInt(e.target.value))}
           type="number"
+          placeholder="Year"
           min={1929}
           max={2021}
         />

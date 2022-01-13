@@ -90,7 +90,7 @@ function CategorySelect(props: {
       value={props.category}
       onChange={(e) => props.setCategory(e.target.value)}
     >
-      <option value={undefined} disabled selected hidden>
+      <option value={undefined} disabled selected>
         Category
       </option>
       {categories.map((cat) => (

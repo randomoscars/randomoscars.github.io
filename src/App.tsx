@@ -19,7 +19,6 @@ function App() {
   const randomize = () => {
     setCategory(getRandomCategory());
     setYear(getRandomYear());
-    search();
   };
 
   return (

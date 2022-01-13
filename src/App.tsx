@@ -14,6 +14,7 @@ function App() {
       firstRender.current = false;
       return;
     }
+    setCategoryInfo("Loading...");
     queryWolframAlpha(category as string, year as number)
       .then(setCategoryInfo)
       .catch(setCategoryInfo);
@@ -34,6 +35,7 @@ function App() {
         </h2>
         <Nominees categoryInfo={categoryInfo} />
       </section>
+      <AppFooter />
     </div>
   );
 }
@@ -59,6 +61,34 @@ function Nominees(props: { categoryInfo: string }) {
         <li key={nominee}>{nominee}</li>
       ))}
     </ul>
+  );
+}
+
+function AppFooter() {
+  return (
+    <footer>
+      <p>
+        Created by{" "}
+        <a href="https://www.kylenazario.com" target="_blank">
+          Kyle Nazario
+        </a>{" "}
+        for the podcast{" "}
+        <a href="https://twitter.com/blankcheckpod" target="_blank">
+          Blank Check
+        </a>
+        .
+      </p>
+      <p>
+        View the{" "}
+        <a
+          href="https://github.com/randomoscars/randomoscars.github.io"
+          target="_blank"
+        >
+          source code
+        </a>
+        .
+      </p>
+    </footer>
   );
 }
 

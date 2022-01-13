@@ -77,7 +77,7 @@ export interface OscarCategory {
 export const categories = [
   "Best Actor in a Leading Role",
   "Best Actor in a Supporting Role",
-  "best supporting actor",
+  "Best Supporting Actor",
   "Best Actress in a Leading Role",
   "Best Adapted Screenplay",
   "Best Animated Feature",

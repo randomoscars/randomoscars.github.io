@@ -13,7 +13,7 @@ function App() {
     <div className="App">
       <AppHeader />
       <button onClick={() => loadCategory()}>Get Random Category</button>
-        <p>{categoryInfo}</p>
+        <Nominees categoryInfo={categoryInfo} />
     </div>
   );
 }
@@ -25,6 +25,18 @@ function AppHeader() {
       <p>Hit the button to get a random Oscar category from a random year</p>
     </header>
   )
+}
+
+function Nominees(props: {categoryInfo: string}) {
+    const nominees = props.categoryInfo.length ? props.categoryInfo.split('\n') : [];
+    nominees.shift();
+    return (
+        <section>
+            <ul>
+                {nominees.map(nominee => (<li key={nominee}>{nominee}</li>))}
+            </ul>
+        </section>
+    )
 }
 
 export default App;

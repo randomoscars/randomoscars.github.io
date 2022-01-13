@@ -1,19 +1,33 @@
-import React, { useState } from "react";
+import React, { useEffect, useRef, useState } from "react";
 import { queryWolframAlpha } from "./WolframAlpha.connector";
+import { getRandomCategory, getRandomYear } from "./Randomizer";
 
 function App() {
   const [categoryInfo, setCategoryInfo] = useState("");
+  const [category, setCategory] = useState<string | undefined>(undefined);
+  const [year, setYear] = useState<number | undefined>(undefined);
+  const firstRender = useRef(true);
 
-  const loadCategory = (category = "best actress", year = 2020) => {
-    queryWolframAlpha(category, year)
+  useEffect(() => {
+    // prevents effect running on first render
+    if (firstRender.current) {
+      firstRender.current = false;
+      return;
+    }
+    queryWolframAlpha(category as string, year as number)
       .then(setCategoryInfo)
       .catch(setCategoryInfo);
+  }, [category, year]);
+
+  const randomize = () => {
+    setCategory(getRandomCategory());
+    setYear(getRandomYear());
   };
 
   return (
     <div className="App">
       <AppHeader />
-      <button onClick={() => loadCategory()}>Get Random Category</button>
+      <button onClick={() => randomize()}>Get Random Category</button>
       <Nominees categoryInfo={categoryInfo} />
     </div>
   );
@@ -32,7 +46,6 @@ function Nominees(props: { categoryInfo: string }) {
   const nominees = props.categoryInfo.length
     ? props.categoryInfo.split("\n")
     : [];
-  nominees.shift();
   return (
     <section>
       <ul>

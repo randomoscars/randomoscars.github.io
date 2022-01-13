@@ -2,7 +2,7 @@ import React, { Dispatch, SetStateAction, useState } from "react";
 import { queryWolframAlpha } from "./WolframAlpha.connector";
 import { getRandomCategory, getRandomYear } from "./Randomizer";
 import { categories } from "./Models";
-import { BsShuffle } from "react-icons/bs";
+import { BsSearch, BsShuffle } from "react-icons/bs";
 import { IconType } from "react-icons";
 
 function App() {
@@ -35,7 +35,7 @@ function App() {
           </button>
         </div>
         <button onClick={() => search()} disabled={!category || !year}>
-          Search
+          <IconButtonLabel label="Search" icon={BsSearch} />
         </button>
       </section>
       <section>
@@ -52,8 +52,8 @@ function App() {
 function IconButtonLabel(props: { label: string; icon: IconType }) {
   return (
     <div style={{ display: "flex" }}>
-      <span style={{ marginRight: "1rem" }}>{props.label}</span>
       <props.icon style={{ alignSelf: "end" }} />
+      <span style={{ marginLeft: "1rem" }}>{props.label}</span>
     </div>
   );
 }

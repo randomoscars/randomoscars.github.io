@@ -77,6 +77,7 @@ function YearInput(props: {
       placeholder="Year"
       min={min}
       max={max}
+      style={{ width: "4rem" }}
     />
   );
 }

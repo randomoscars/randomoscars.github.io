@@ -49,7 +49,9 @@ function AppHeader() {
 
 function Nominees(props: { categoryInfo: string }) {
   const nominees = props.categoryInfo.length
-    ? props.categoryInfo.split("\n")
+    ? props.categoryInfo
+        .split("\n")
+        .filter((nominee) => nominee !== "nominee | film")
     : [];
   return (
     <ul>

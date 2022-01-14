@@ -1,10 +1,9 @@
 import React, { useState } from 'react';
-import { getRandomCategory, getRandomYear } from './Randomizer';
 import { BsSearch, BsShuffle } from 'react-icons/bs';
 import { CategorySelect, IconButtonLabel, YearInput } from './FormInputs';
 import { AppFooter, AppHeader, SiteExplainer } from './StaticComponents';
 import { OscarCategory } from './Models';
-import { getAwardData } from './Local.connector';
+import { getAwardData, randomize } from './Local.connector';
 
 function App() {
   const [awardData, setAwardData] = useState(
@@ -20,9 +19,11 @@ function App() {
       .catch(() => {});
   };
 
-  const randomize = () => {
-    setCategory(getRandomCategory());
-    setYear(getRandomYear());
+  const randomizeForm = () => {
+    randomize().then(([randomCategory, randomYear]) => {
+      setCategory(randomCategory);
+      setYear(randomYear);
+    });
   };
 
   return (
@@ -32,7 +33,7 @@ function App() {
         <div style={{ display: 'flex' }}>
           <CategorySelect category={category} setCategory={setCategory} />
           <YearInput year={year} setYear={setYear} />
-          <button onClick={() => randomize()}>
+          <button onClick={() => randomizeForm()}>
             <IconButtonLabel label="Randomize" icon={BsShuffle} />
           </button>
         </div>

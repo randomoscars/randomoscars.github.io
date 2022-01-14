@@ -3,6 +3,9 @@ import { getRandomCategory, getRandomYear } from './Randomizer';
 import { BsSearch, BsShuffle } from 'react-icons/bs';
 import { CategorySelect, IconButtonLabel, YearInput } from './FormInputs';
 import { AppFooter, AppHeader, SiteExplainer } from './StaticComponents';
+import { getAllCategories } from './Local.connector';
+
+getAllCategories();
 
 function App() {
   const [categoryInfo, setCategoryInfo] = useState('');

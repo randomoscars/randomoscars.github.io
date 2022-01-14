@@ -13,11 +13,11 @@ export function AppFooter() {
     <footer>
       <p>
         Created by{' '}
-        <a href="https://www.kylenazario.com" target="_blank" rel="noopener">
+        <a href="https://www.kylenazario.com" target="_blank" rel="noreferrer">
           Kyle Nazario
         </a>{' '}
         for the podcast{' '}
-        <a href="https://twitter.com/blankcheckpod" target="_blank" rel="noopener">
+        <a href="https://twitter.com/blankcheckpod" target="_blank" rel="noreferrer">
           Blank Check
         </a>
         .
@@ -26,7 +26,7 @@ export function AppFooter() {
         View the{' '}
         <a
           href="https://github.com/randomoscars/randomoscars.github.io"
-          target="_blank" rel="noopener"
+          target="_blank" rel="noreferrer"
         >
           source code
         </a>
@@ -46,7 +46,7 @@ export function SiteExplainer() {
       </p>
       <p>
         Data courtesy of{' '}
-        <a href="https://github.com/AminFadaee/awards/" target="_blank" rel="noopener">
+        <a href="https://github.com/AminFadaee/awards/" target="_blank" rel="noreferrer">
           @AminFadaee
         </a>
         . May be missing some people in Song and Score.

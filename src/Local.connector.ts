@@ -1,4 +1,5 @@
 import { OscarYear } from './Models';
+import uniq from 'ramda/src/uniq';
 
 export async function getAllCategories(): Promise<string[]> {
   let categories: string[] = [];
@@ -9,5 +10,5 @@ export async function getAllCategories(): Promise<string[]> {
       oscarCategories.map((category) => category.name)
     );
   }
-  return categories;
+  return uniq(categories);
 }

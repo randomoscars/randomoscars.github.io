@@ -15,14 +15,7 @@ export function AppFooter() {
         Created by{' '}
         <a href="https://www.kylenazario.com" target="_blank" rel="noreferrer">
           Kyle Nazario
-        </a>{' '}
-        for the podcast{' '}
-        <a href="https://twitter.com/blankcheckpod" target="_blank" rel="noreferrer">
-          Blank Check
-        </a>
-        .
-      </p>
-      <p>
+        </a>.
         View the{' '}
         <a
           href="https://github.com/randomoscars/randomoscars.github.io"

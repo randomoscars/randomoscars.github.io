@@ -45,5 +45,8 @@
   },
   "prettier": {
     "singleQuote": true
+  },
+  "devDependencies": {
+    "@types/ramda": "^0.27.63"
   }
 }

@@ -1,6 +1,6 @@
 import { IconType } from 'react-icons';
-import React, { Dispatch, SetStateAction } from 'react';
-import { categories } from './Models';
+import React, { Dispatch, SetStateAction, useEffect, useState } from 'react';
+import { getAllCategories } from './Local.connector';
 
 export function IconButtonLabel(props: { label: string; icon: IconType }) {
   return (
@@ -39,11 +39,20 @@ export function CategorySelect(props: {
   category: string | undefined;
   setCategory: Dispatch<SetStateAction<string | undefined>>;
 }) {
+  const [categories, setCategories] = useState([] as string[]);
+
+  useEffect(() => {
+    getAllCategories()
+      .then(setCategories)
+      .catch(() => setCategories([]));
+  }, []);
+
   return (
     <select
       value={props.category}
       onChange={(e) => props.setCategory(e.target.value)}
       defaultValue={undefined}
+      style={{ width: '20rem' }}
     >
       <option value={undefined} disabled>
         Category

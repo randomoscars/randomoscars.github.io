@@ -20,7 +20,7 @@ export async function getAllCategories(): Promise<string[]> {
       oscarCategories.map((category) => category.name)
     );
   }
-  return uniq(categories);
+  return uniq(categories).sort();
 }
 
 export async function getAwardData(

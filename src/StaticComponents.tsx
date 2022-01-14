@@ -41,8 +41,8 @@ export function SiteExplainer() {
     <details>
       <summary>How to use this site</summary>
       <p>
-        The site indexes Academy Awards from 1929 - 2021. Not every year has
-        nominees for every category.
+        The site indexes Academy Awards from 1929 - 2021. Categories have
+        changed over time, so not every year has every category.
       </p>
       <p>
         Data courtesy of{' '}

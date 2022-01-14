@@ -44,6 +44,13 @@ export function SiteExplainer() {
         The site indexes Academy Awards from 1929 - 2021. Not every year has
         nominees for every category.
       </p>
+      <p>
+        Data courtesy of{" "}
+        <a href="https://github.com/AminFadaee/awards/" target="_blank">
+          @AminFadaee
+        </a>
+        . May be missing some people in Song and Score.
+      </p>
     </details>
   );
 }

@@ -42,9 +42,7 @@ function App() {
         </button>
       </section>
       <section>
-        <h2>
-          {category} {category && year ? '|' : null} {year}
-        </h2>
+        <h2>{awardData?.name ?? ''}</h2>
         <Nominees awardData={awardData} />
       </section>
       <section>

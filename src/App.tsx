@@ -27,29 +27,40 @@ function App() {
   };
 
   return (
-    <div className="App">
-      <AppHeader />
-      <section>
-        <div style={{ display: 'flex' }}>
-          <CategorySelect category={category} setCategory={setCategory} />
-          <YearInput year={year} setYear={setYear} />
-          <button onClick={() => randomizeForm()}>
-            <IconButtonLabel label="Randomize" icon={BsShuffle} />
+    <div
+      style={{
+        display: 'flex',
+        flexDirection: 'column',
+        justifyContent: 'space-between',
+        height: '90vh',
+      }}
+    >
+      <div>
+        <AppHeader />
+        <section>
+          <div style={{ display: 'flex' }}>
+            <CategorySelect category={category} setCategory={setCategory} />
+            <YearInput year={year} setYear={setYear} />
+            <button onClick={() => randomizeForm()}>
+              <IconButtonLabel label="Randomize" icon={BsShuffle} />
+            </button>
+          </div>
+          <button onClick={() => search()} disabled={!category || !year}>
+            <IconButtonLabel label="Search" icon={BsSearch} />
           </button>
-        </div>
-        <button onClick={() => search()} disabled={!category || !year}>
-          <IconButtonLabel label="Search" icon={BsSearch} />
-        </button>
-      </section>
-      <section>
-        <NomineeHeader awardData={awardData} />
-        <Nominees awardData={awardData} />
-      </section>
-      <section>
-        <hr />
-        <SiteExplainer />
-      </section>
-      <AppFooter />
+        </section>
+        <section>
+          <NomineeHeader awardData={awardData} />
+          <Nominees awardData={awardData} />
+        </section>
+      </div>
+      <div>
+        <section>
+          <hr />
+          <SiteExplainer />
+        </section>
+        <AppFooter />
+      </div>
     </div>
   );
 }

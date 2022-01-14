@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import { queryWolframAlpha } from './WolframAlpha.connector';
 import { getRandomCategory, getRandomYear } from './Randomizer';
 import { BsSearch, BsShuffle } from 'react-icons/bs';
 import { CategorySelect, IconButtonLabel, YearInput } from './FormInputs';
@@ -12,9 +11,6 @@ function App() {
 
   const search = () => {
     setCategoryInfo('Loading...');
-    queryWolframAlpha(category as string, year as number)
-      .then(setCategoryInfo)
-      .catch(setCategoryInfo);
   };
 
   const randomize = () => {

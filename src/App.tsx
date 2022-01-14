@@ -3,14 +3,21 @@ import { getRandomCategory, getRandomYear } from './Randomizer';
 import { BsSearch, BsShuffle } from 'react-icons/bs';
 import { CategorySelect, IconButtonLabel, YearInput } from './FormInputs';
 import { AppFooter, AppHeader, SiteExplainer } from './StaticComponents';
+import { OscarCategory } from './Models';
+import { getAwardData } from './Local.connector';
 
 function App() {
-  const [categoryInfo, setCategoryInfo] = useState('');
+  const [awardData, setAwardData] = useState(
+    undefined as undefined | OscarCategory
+  );
   const [category, setCategory] = useState<string | undefined>(undefined);
   const [year, setYear] = useState<number | undefined>(undefined);
 
   const search = () => {
-    setCategoryInfo('Loading...');
+    setAwardData(undefined);
+    getAwardData(category as string, year as number)
+      .then(setAwardData)
+      .catch(() => {});
   };
 
   const randomize = () => {
@@ -37,7 +44,7 @@ function App() {
         <h2>
           {category} {category && year ? '|' : null} {year}
         </h2>
-        <Nominees categoryInfo={categoryInfo} />
+        <Nominees awardData={awardData} />
       </section>
       <section>
         <hr />
@@ -48,17 +55,24 @@ function App() {
   );
 }
 
-function Nominees(props: { categoryInfo: string }) {
-  const nominees = props.categoryInfo.length
-    ? props.categoryInfo
-        .split('\n')
-        .filter((nominee) => nominee !== 'nominee | film')
-    : [];
+function Nominees(props: { awardData: OscarCategory | undefined }) {
   return (
     <ul>
-      {nominees.map((nominee) => (
-        <li key={nominee}>{nominee}</li>
-      ))}
+      {props.awardData?.candidates.map((candidate) => {
+        const candidateWork = candidate.target.join(', ');
+        const candidateName = candidate.for.join(', ');
+        return (
+          <li
+            key={candidateName}
+            style={{
+              fontWeight: candidate.won ? 'bold' : 'normal',
+              textDecoration: candidate.won ? 'underline' : 'none',
+            }}
+          >
+            {candidateName} | {candidateWork}
+          </li>
+        );
+      })}
     </ul>
   );
 }

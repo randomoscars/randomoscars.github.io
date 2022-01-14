@@ -1,4 +1,4 @@
-import { OscarYear } from './Models';
+import { OscarCategory, OscarYear } from './Models';
 import uniq from 'ramda/src/uniq';
 
 export async function getAllCategories(): Promise<string[]> {
@@ -11,4 +11,14 @@ export async function getAllCategories(): Promise<string[]> {
     );
   }
   return uniq(categories);
+}
+
+export async function getAwardData(
+  categoryName: string,
+  year: number
+): Promise<OscarCategory | undefined> {
+  const ceremonyNum = year - 1928;
+  const fileResponse = await fetch(`/Data/${ceremonyNum}.json`);
+  const oscarCategories: OscarYear = await fileResponse.json();
+  return oscarCategories.find((category) => category.name === categoryName);
 }

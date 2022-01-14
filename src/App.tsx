@@ -76,8 +76,8 @@ function Nominees(props: { awardData: OscarCategory | undefined }) {
                 textDecoration: candidate.won ? 'underline' : 'none',
               }}
             >
-              <td>{candidateName}</td>
-              <td>{candidateWork}</td>
+              <td style={{ padding: '1rem' }}>{candidateName}</td>
+              <td style={{ padding: '1rem' }}>{candidateWork}</td>
             </tr>
           );
         })}

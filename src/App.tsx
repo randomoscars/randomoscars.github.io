@@ -42,7 +42,7 @@ function App() {
         </button>
       </section>
       <section>
-        <h2>{awardData?.name ?? ''}</h2>
+        <NomineeHeader awardData={awardData} />
         <Nominees awardData={awardData} />
       </section>
       <section>
@@ -52,6 +52,13 @@ function App() {
       <AppFooter />
     </div>
   );
+}
+
+function NomineeHeader(props: { awardData: OscarCategory | undefined }) {
+  const titleItems = [props.awardData?.name, props.awardData?.year.toString()]
+    .filter((item) => item?.length ?? 0 > 0)
+    .join(' | ');
+  return <h2>{titleItems}</h2>;
 }
 
 function Nominees(props: { awardData: OscarCategory | undefined }) {

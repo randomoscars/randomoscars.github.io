@@ -30,6 +30,7 @@ export type OscarYear = OscarCategory[];
 export type OscarCategory = {
   name: string;
   candidates: OscarCandidate[];
+  year: number;
 };
 export type OscarCandidate = {
   target: string[];

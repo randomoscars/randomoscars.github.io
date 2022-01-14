@@ -3,7 +3,13 @@ import uniq from 'ramda/src/uniq';
 
 async function getOscarCategories(ceremonyNum: number): Promise<OscarYear> {
   const fileResponse = await fetch(`/Data/${ceremonyNum}.json`);
-  return await fileResponse.json();
+  const storedCategories: Array<OscarCategory & { year?: number }> =
+    await fileResponse.json();
+  const year = ceremonyNum + 1928;
+  return storedCategories.map((category) => {
+    category.year = year;
+    return category;
+  });
 }
 
 export async function getAllCategories(): Promise<string[]> {

@@ -67,7 +67,7 @@ function App() {
 
 function NomineeHeader(props: { awardData: OscarCategory | undefined }) {
   const titleItems = [props.awardData?.name, props.awardData?.year.toString()]
-    .filter((item) => item?.length ?? 0 > 0)
+    .filter((item) => item?.length ?? -1 > 0)
     .join(' | ');
   return <h2>{titleItems}</h2>;
 }

@@ -24,3 +24,15 @@ export const categories = [
   'Best Visual Effects',
   'Live Action Short Film',
 ];
+
+export type OscarYear = OscarCategory[];
+
+export type OscarCategory = {
+  name: string;
+  candidates: OscarCandidate[];
+};
+export type OscarCandidate = {
+  target: string[];
+  for: string[];
+  won: boolean;
+};

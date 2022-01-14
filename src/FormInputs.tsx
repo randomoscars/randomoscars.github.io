@@ -43,8 +43,9 @@ export function CategorySelect(props: {
     <select
       value={props.category}
       onChange={(e) => props.setCategory(e.target.value)}
+      defaultValue={undefined}
     >
-      <option value={undefined} disabled selected>
+      <option value={undefined} disabled>
         Category
       </option>
       {categories.map((cat) => (

@@ -58,23 +58,26 @@ function App() {
 
 function Nominees(props: { awardData: OscarCategory | undefined }) {
   return (
-    <ul>
-      {props.awardData?.candidates.map((candidate) => {
-        const candidateWork = candidate.target.join(', ');
-        const candidateName = candidate.for.join(', ');
-        return (
-          <li
-            key={candidateName}
-            style={{
-              fontWeight: candidate.won ? 'bold' : 'normal',
-              textDecoration: candidate.won ? 'underline' : 'none',
-            }}
-          >
-            {candidateName} | {candidateWork}
-          </li>
-        );
-      })}
-    </ul>
+    <table>
+      <tbody>
+        {props.awardData?.candidates.map((candidate) => {
+          const candidateWork = candidate.target.join(', ');
+          const candidateName = candidate.for.join(', ');
+          return (
+            <tr
+              key={candidateName}
+              style={{
+                fontWeight: candidate.won ? 'bold' : 'normal',
+                textDecoration: candidate.won ? 'underline' : 'none',
+              }}
+            >
+              <td>{candidateName}</td>
+              <td>{candidateWork}</td>
+            </tr>
+          );
+        })}
+      </tbody>
+    </table>
   );
 }
 

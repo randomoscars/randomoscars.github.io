@@ -1,17 +1,17 @@
-import React, { useState } from "react";
-import { queryWolframAlpha } from "./WolframAlpha.connector";
-import { getRandomCategory, getRandomYear } from "./Randomizer";
-import { BsSearch, BsShuffle } from "react-icons/bs";
-import { CategorySelect, IconButtonLabel, YearInput } from "./FormInputs";
-import { AppFooter, AppHeader, SiteExplainer } from "./StaticComponents";
+import React, { useState } from 'react';
+import { queryWolframAlpha } from './WolframAlpha.connector';
+import { getRandomCategory, getRandomYear } from './Randomizer';
+import { BsSearch, BsShuffle } from 'react-icons/bs';
+import { CategorySelect, IconButtonLabel, YearInput } from './FormInputs';
+import { AppFooter, AppHeader, SiteExplainer } from './StaticComponents';
 
 function App() {
-  const [categoryInfo, setCategoryInfo] = useState("");
+  const [categoryInfo, setCategoryInfo] = useState('');
   const [category, setCategory] = useState<string | undefined>(undefined);
   const [year, setYear] = useState<number | undefined>(undefined);
 
   const search = () => {
-    setCategoryInfo("Loading...");
+    setCategoryInfo('Loading...');
     queryWolframAlpha(category as string, year as number)
       .then(setCategoryInfo)
       .catch(setCategoryInfo);
@@ -26,7 +26,7 @@ function App() {
     <div className="App">
       <AppHeader />
       <section>
-        <div style={{ display: "flex" }}>
+        <div style={{ display: 'flex' }}>
           <CategorySelect category={category} setCategory={setCategory} />
           <YearInput year={year} setYear={setYear} />
           <button onClick={() => randomize()}>
@@ -39,7 +39,7 @@ function App() {
       </section>
       <section>
         <h2>
-          {category} {category && year ? "|" : null} {year}
+          {category} {category && year ? '|' : null} {year}
         </h2>
         <Nominees categoryInfo={categoryInfo} />
       </section>
@@ -55,8 +55,8 @@ function App() {
 function Nominees(props: { categoryInfo: string }) {
   const nominees = props.categoryInfo.length
     ? props.categoryInfo
-        .split("\n")
-        .filter((nominee) => nominee !== "nominee | film")
+        .split('\n')
+        .filter((nominee) => nominee !== 'nominee | film')
     : [];
   return (
     <ul>

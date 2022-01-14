@@ -1,12 +1,12 @@
-import { IconType } from "react-icons";
-import React, { Dispatch, SetStateAction } from "react";
-import { categories } from "./Models";
+import { IconType } from 'react-icons';
+import React, { Dispatch, SetStateAction } from 'react';
+import { categories } from './Models';
 
 export function IconButtonLabel(props: { label: string; icon: IconType }) {
   return (
-    <div style={{ display: "flex" }}>
-      <props.icon style={{ alignSelf: "end" }} />
-      <span style={{ marginLeft: "1rem" }}>{props.label}</span>
+    <div style={{ display: 'flex' }}>
+      <props.icon style={{ alignSelf: 'end' }} />
+      <span style={{ marginLeft: '1rem' }}>{props.label}</span>
     </div>
   );
 }
@@ -30,7 +30,7 @@ export function YearInput(props: {
       placeholder="Year"
       min={min}
       max={max}
-      style={{ width: "4rem" }}
+      style={{ width: '4rem' }}
     />
   );
 }

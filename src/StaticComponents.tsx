@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 
 export function AppHeader() {
   return (
@@ -12,18 +12,18 @@ export function AppFooter() {
   return (
     <footer>
       <p>
-        Created by{" "}
+        Created by{' '}
         <a href="https://www.kylenazario.com" target="_blank">
           Kyle Nazario
-        </a>{" "}
-        for the podcast{" "}
+        </a>{' '}
+        for the podcast{' '}
         <a href="https://twitter.com/blankcheckpod" target="_blank">
           Blank Check
         </a>
         .
       </p>
       <p>
-        View the{" "}
+        View the{' '}
         <a
           href="https://github.com/randomoscars/randomoscars.github.io"
           target="_blank"
@@ -45,7 +45,7 @@ export function SiteExplainer() {
         nominees for every category.
       </p>
       <p>
-        Data courtesy of{" "}
+        Data courtesy of{' '}
         <a href="https://github.com/AminFadaee/awards/" target="_blank">
           @AminFadaee
         </a>

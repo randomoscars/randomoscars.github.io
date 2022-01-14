@@ -1,4 +1,4 @@
-import { categories } from "./Models";
+import { categories } from './Models';
 
 export function getRandomCategory(): string {
   const randomIndex = Math.floor(Math.random() * categories.length);

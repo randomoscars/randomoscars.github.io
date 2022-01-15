@@ -12,9 +12,9 @@ function App() {
   const [category, setCategory] = useState<string | undefined>(undefined);
   const [year, setYear] = useState<number | undefined>(undefined);
 
-  const search = () => {
+  const search = (category: string, year: number) => {
     setAwardData(undefined);
-    getAwardData(category as string, year as number)
+    getAwardData(category, year)
       .then(setAwardData)
       .catch(() => {});
   };
@@ -23,7 +23,7 @@ function App() {
     randomize().then(([randomCategory, randomYear]) => {
       setCategory(randomCategory);
       setYear(randomYear);
-      search();
+      search(randomCategory, randomYear);
     });
   };
 
@@ -42,7 +42,7 @@ function App() {
           <div style={{ display: 'flex', flexWrap: 'wrap' }}>
             <CategorySelect category={category} setCategory={setCategory} />
             <YearInput year={year} setYear={setYear} />
-            <button onClick={() => search()} disabled={!category || !year}>
+            <button onClick={() => search(category as string, year as number)} disabled={!category || !year}>
               <IconButtonLabel label="Search" icon={BsSearch} />
             </button>
           </div>

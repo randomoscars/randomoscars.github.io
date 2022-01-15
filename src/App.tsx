@@ -82,7 +82,7 @@ function Nominees(props: { awardData: OscarCategory | undefined }) {
           const candidateName = candidate.for.join(', ');
           return (
             <tr
-              key={candidateName}
+              key={candidateName + candidateWork}
               style={{
                 fontWeight: candidate.won ? 'bold' : 'normal',
                 textDecoration: candidate.won ? 'underline' : 'none',

@@ -42,7 +42,7 @@ export function SiteExplainer() {
         <a href="https://github.com/AminFadaee/awards/" target="_blank" rel="noreferrer">
           @AminFadaee
         </a>
-        . May be missing some people in Song and Score.
+        . Data in some categories may be missing, incomplete or poorly formatted.
       </p>
     </details>
   );

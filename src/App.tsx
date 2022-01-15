@@ -23,6 +23,7 @@ function App() {
     randomize().then(([randomCategory, randomYear]) => {
       setCategory(randomCategory);
       setYear(randomYear);
+      search();
     });
   };
 
@@ -41,12 +42,12 @@ function App() {
           <div style={{ display: 'flex' }}>
             <CategorySelect category={category} setCategory={setCategory} />
             <YearInput year={year} setYear={setYear} />
-            <button onClick={() => randomizeForm()}>
-              <IconButtonLabel label="Randomize" icon={BsShuffle} />
+            <button onClick={() => search()} disabled={!category || !year}>
+              <IconButtonLabel label="Search" icon={BsSearch} />
             </button>
           </div>
-          <button onClick={() => search()} disabled={!category || !year}>
-            <IconButtonLabel label="Search" icon={BsSearch} />
+          <button onClick={() => randomizeForm()}>
+            <IconButtonLabel label="Randomize" icon={BsShuffle} />
           </button>
         </section>
         <section>

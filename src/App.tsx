@@ -39,7 +39,7 @@ function App() {
       <div>
         <AppHeader />
         <section>
-          <div style={{ display: 'flex' }}>
+          <div style={{ display: 'flex', flexWrap: 'wrap' }}>
             <CategorySelect category={category} setCategory={setCategory} />
             <YearInput year={year} setYear={setYear} />
             <button onClick={() => search()} disabled={!category || !year}>

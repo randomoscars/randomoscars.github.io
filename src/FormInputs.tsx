@@ -19,7 +19,7 @@ export function YearInput(props: {
   const max = 2021;
   return (
     <input
-      value={props.year}
+      value={props.year ?? ''}
       onChange={(e) => props.setYear(parseInt(e.target.value))}
       onBlur={(e) => {
         const year = parseInt(e.target.value);

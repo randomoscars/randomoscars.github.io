@@ -15,11 +15,12 @@ export function AppFooter() {
         Created by{' '}
         <a href="https://www.kylenazario.com" target="_blank" rel="noreferrer">
           Kyle Nazario
-        </a>.
-        View the{' '}
+        </a>
+        . View the{' '}
         <a
           href="https://github.com/randomoscars/randomoscars.github.io"
-          target="_blank" rel="noreferrer"
+          target="_blank"
+          rel="noreferrer"
         >
           source code
         </a>
@@ -35,14 +36,21 @@ export function SiteExplainer() {
       <summary>How to use this site</summary>
       <p>
         The site indexes Academy Awards from 1929 - 2021. Categories have
-        changed over time, so not every year has every category.
+        changed over time, so not every year has every category. Years
+        correspond to the ceremony (e.x. enter 2021 to see movies released in
+        2020).
       </p>
       <p>
         Data courtesy of{' '}
-        <a href="https://github.com/AminFadaee/awards/" target="_blank" rel="noreferrer">
+        <a
+          href="https://github.com/AminFadaee/awards/"
+          target="_blank"
+          rel="noreferrer"
+        >
           @AminFadaee
         </a>
-        . Data in some categories may be missing, incomplete or poorly formatted.
+        . Data in some categories may be missing, incomplete or poorly
+        formatted.
       </p>
     </details>
   );

@@ -3,7 +3,7 @@ import { BsSearch, BsShuffle } from 'react-icons/bs';
 import { CategorySelect, IconButtonLabel, YearInput } from './FormInputs';
 import { AppFooter, AppHeader, SiteExplainer } from './StaticComponents';
 import { EnrichedInfo, OscarCategory } from './Models';
-import { getAwardData, randomize } from './Local.connector';
+import { getAwardDataWithRetry, randomize } from './Local.connector';
 
 function App() {
   const [awardData, setAwardData] = useState(
@@ -14,7 +14,7 @@ function App() {
 
   const search = (category: string, year: number) => {
     setAwardData(undefined);
-    getAwardData(category, year)
+    getAwardDataWithRetry(category, year)
       .then(setAwardData)
       .catch(() => {});
   };

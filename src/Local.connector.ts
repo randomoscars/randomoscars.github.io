@@ -23,6 +23,20 @@ export async function getAllCategories(): Promise<string[]> {
   return uniq(categories).sort();
 }
 
+export async function getAwardDataWithRetry(
+  categoryName: string,
+  year: number
+): Promise<OscarCategory | undefined> {
+  const awardData = await getAwardData(categoryName, year);
+  if (awardData) {
+    return awardData;
+  }
+  if (year < 2021) {
+    return await getAwardDataWithRetry(categoryName, year + 1);
+  }
+  return undefined;
+}
+
 export async function getAwardData(
   categoryName: string,
   year: number

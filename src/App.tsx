@@ -77,7 +77,7 @@ function EnrichedLink(props: {nomineeData: EnrichedInfo | undefined}) {
   const imdbUrl = props.nomineeData?.imdb_id.startsWith('tt') ?
     `https://www.imdb.com/title/${props.nomineeData?.imdb_id}` :
     `https://www.imdb.com/name/${props.nomineeData?.imdb_id}`;
-  return <a href={imdbUrl} target="_blank">{props.nomineeData?.name}</a>
+  return <a href={imdbUrl} target="_blank">{props.nomineeData?.image && <img src={props.nomineeData.image.url} style={{height: "50px"}} />}{props.nomineeData?.name}</a>
 }
 
 function Nominees(props: { awardData: OscarCategory | undefined }) {

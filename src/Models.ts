@@ -43,4 +43,10 @@ export type OscarCandidate = {
 export type EnrichedInfo = {
   name: string;
   imdb_id: string;
+  image: ImageInfo;
 };
+export type ImageInfo = {
+  url: string;
+  height: string;
+  width: string;
+}

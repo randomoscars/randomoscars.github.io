@@ -17,7 +17,7 @@ export async function getAllCategories(): Promise<string[]> {
   for (let i = 1; i <= 93; i++) {
     const oscarCategories = await getOscarCategories(i);
     categories = categories.concat(
-      oscarCategories.map((category) => category.name)
+      oscarCategories.map((category) => category.normalized_name)
     );
   }
   return uniq(categories).sort();
@@ -29,13 +29,13 @@ export async function getAwardData(
 ): Promise<OscarCategory | undefined> {
   const ceremonyNum = year - 1928;
   const oscarCategories = await getOscarCategories(ceremonyNum);
-  return oscarCategories.find((category) => category.name === categoryName);
+  return oscarCategories.find((category) => category.normalized_name === categoryName);
 }
 
 export async function randomize() {
   const ceremonyNum = Math.floor(Math.random() * 92) + 1;
   const oscarCategories = await getOscarCategories(ceremonyNum);
   const index = Math.floor(Math.random() * oscarCategories.length);
-  const categoryName = oscarCategories[index].name;
+  const categoryName = oscarCategories[index].normalized_name;
   return [categoryName, ceremonyNum + 1928] as const;
 }

@@ -29,6 +29,7 @@ export type OscarYear = OscarCategory[];
 
 export type OscarCategory = {
   name: string;
+  normalized_name: string;
   candidates: OscarCandidate[];
   year: number;
 };

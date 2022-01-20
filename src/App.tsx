@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { BsSearch, BsShuffle } from 'react-icons/bs';
 import { CategorySelect, IconButtonLabel, YearInput } from './FormInputs';
 import { AppFooter, AppHeader, SiteExplainer } from './StaticComponents';
-import { OscarCategory } from './Models';
+import { EnrichedInfo, OscarCategory } from './Models';
 import { getAwardData, randomize } from './Local.connector';
 
 function App() {
@@ -73,6 +73,13 @@ function NomineeHeader(props: { awardData: OscarCategory | undefined }) {
   return <h2>{titleItems}</h2>;
 }
 
+function EnrichedLink(props: {nomineeData: EnrichedInfo | undefined}) {
+  const imdbUrl = props.nomineeData?.imdb_id.startsWith('tt') ?
+    `https://www.imdb.com/title/${props.nomineeData?.imdb_id}` :
+    `https://www.imdb.com/name/${props.nomineeData?.imdb_id}`;
+  return <a href={imdbUrl} target="_blank">{props.nomineeData?.name}</a>
+}
+
 function Nominees(props: { awardData: OscarCategory | undefined }) {
   return (
     <table>
@@ -88,8 +95,8 @@ function Nominees(props: { awardData: OscarCategory | undefined }) {
                 textDecoration: candidate.won ? 'underline' : 'none',
               }}
             >
-              <td style={{ padding: '1rem' }}>{candidateName}</td>
-              <td style={{ padding: '1rem' }}>{candidateWork}</td>
+              <td style={{ padding: '1rem' }}>{candidate.for_enriched.map(n => {return <EnrichedLink nomineeData={n} />})}</td>
+              <td style={{ padding: '1rem' }}>{candidate.target_enriched.map(n => {return <EnrichedLink nomineeData={n} />})}</td>
             </tr>
           );
         })}

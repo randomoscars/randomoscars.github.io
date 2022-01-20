@@ -35,6 +35,12 @@ export type OscarCategory = {
 };
 export type OscarCandidate = {
   target: string[];
+  target_enriched: EnrichedInfo[];
   for: string[];
+  for_enriched: EnrichedInfo[];
   won: boolean;
+};
+export type EnrichedInfo = {
+  name: string;
+  imdb_id: string;
 };

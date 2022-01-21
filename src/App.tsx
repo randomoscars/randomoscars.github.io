@@ -77,10 +77,15 @@ function EnrichedLink(props: {nomineeData: EnrichedInfo | undefined}) {
   const imdbUrl = props.nomineeData?.imdb_id.startsWith('tt') ?
     `https://www.imdb.com/title/${props.nomineeData?.imdb_id}` :
     `https://www.imdb.com/name/${props.nomineeData?.imdb_id}`;
-  return <a href={imdbUrl} target="_blank">{props.nomineeData?.image && <img src={props.nomineeData.image.url} style={{height: "50px"}} />}{props.nomineeData?.name}</a>
+  return <div>
+            <a href={imdbUrl} target="_blank" rel="noreferrer">{props.nomineeData?.image && <img src={props.nomineeData.image.url} style={{maxHeight: "50px", maxWidth: "33px"}} alt={props.nomineeData.name} />}{props.nomineeData?.name}
+            </a>
+            {props.nomineeData?.note && <span>&nbsp;{props.nomineeData.note}</span>}
+          </div>
 }
 
 function Nominees(props: { awardData: OscarCategory | undefined }) {
+  const hasNotes = props.awardData?.candidates?.some(c => c.notes);
   return (
     <table>
       <tbody>
@@ -97,6 +102,7 @@ function Nominees(props: { awardData: OscarCategory | undefined }) {
             >
               <td style={{ padding: '1rem' }}>{candidate.for_enriched.map(n => {return <EnrichedLink nomineeData={n} />})}</td>
               <td style={{ padding: '1rem' }}>{candidate.target_enriched.map(n => {return <EnrichedLink nomineeData={n} />})}</td>
+              {hasNotes && <td style={{ padding: '1rem' }}>{candidate.notes}</td>}
             </tr>
           );
         })}

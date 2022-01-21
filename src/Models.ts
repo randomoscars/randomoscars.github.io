@@ -39,11 +39,13 @@ export type OscarCandidate = {
   for: string[];
   for_enriched: EnrichedInfo[];
   won: boolean;
+  notes: string;
 };
 export type EnrichedInfo = {
   name: string;
   imdb_id: string;
   image: ImageInfo;
+  note: string;
 };
 export type ImageInfo = {
   url: string;

@@ -86,6 +86,7 @@ function EnrichedLink(props: {nomineeData: EnrichedInfo | undefined}) {
 
 function Nominees(props: { awardData: OscarCategory | undefined }) {
   const hasNotes = props.awardData?.candidates?.some(c => c.notes);
+  const hasFor = props.awardData?.candidates?.some(c => c.for.length);
   return (
     <table>
       <tbody>
@@ -100,7 +101,7 @@ function Nominees(props: { awardData: OscarCategory | undefined }) {
                 textDecoration: candidate.won ? 'underline' : 'none',
               }}
             >
-              <td style={{ padding: '1rem' }}>{candidate.for_enriched.map(n => {return <EnrichedLink nomineeData={n} />})}</td>
+              {hasFor && <td style={{ padding: '1rem' }}>{candidate.for_enriched.map(n => {return <EnrichedLink nomineeData={n} />})}</td>}
               <td style={{ padding: '1rem' }}>{candidate.target_enriched.map(n => {return <EnrichedLink nomineeData={n} />})}</td>
               {hasNotes && <td style={{ padding: '1rem' }}>{candidate.notes}</td>}
             </tr>

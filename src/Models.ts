@@ -51,4 +51,4 @@ export type ImageInfo = {
   url: string;
   height: string;
   width: string;
-}
+};

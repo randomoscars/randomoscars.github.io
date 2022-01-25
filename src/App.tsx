@@ -42,7 +42,10 @@ function App() {
           <div style={{ display: 'flex', flexWrap: 'wrap' }}>
             <CategorySelect category={category} setCategory={setCategory} />
             <YearInput year={year} setYear={setYear} />
-            <button onClick={() => search(category as string, year as number)} disabled={!category || !year}>
+            <button
+              onClick={() => search(category as string, year as number)}
+              disabled={!category || !year}
+            >
               <IconButtonLabel label="Search" icon={BsSearch} />
             </button>
           </div>
@@ -73,20 +76,30 @@ function NomineeHeader(props: { awardData: OscarCategory | undefined }) {
   return <h2>{titleItems}</h2>;
 }
 
-function EnrichedLink(props: {nomineeData: EnrichedInfo | undefined}) {
-  const imdbUrl = props.nomineeData?.imdb_id.startsWith('tt') ?
-    `https://www.imdb.com/title/${props.nomineeData?.imdb_id}` :
-    `https://www.imdb.com/name/${props.nomineeData?.imdb_id}`;
-  return <div>
-            <a href={imdbUrl} target="_blank" rel="noreferrer">{props.nomineeData?.image && <img src={props.nomineeData.image.url} style={{maxHeight: "50px", maxWidth: "33px"}} alt={props.nomineeData.name} />}{props.nomineeData?.name}
-            </a>
-            {props.nomineeData?.note && <span>&nbsp;{props.nomineeData.note}</span>}
-          </div>
+function EnrichedLink(props: { nomineeData: EnrichedInfo | undefined }) {
+  const imdbUrl = props.nomineeData?.imdb_id.startsWith('tt')
+    ? `https://www.imdb.com/title/${props.nomineeData?.imdb_id}`
+    : `https://www.imdb.com/name/${props.nomineeData?.imdb_id}`;
+  return (
+    <div>
+      <a href={imdbUrl} target="_blank" rel="noreferrer">
+        {props.nomineeData?.image && (
+          <img
+            src={props.nomineeData.image.url}
+            style={{ maxHeight: '50px', maxWidth: '33px' }}
+            alt={props.nomineeData.name}
+          />
+        )}
+        {props.nomineeData?.name}
+      </a>
+      {props.nomineeData?.note && <span>&nbsp;{props.nomineeData.note}</span>}
+    </div>
+  );
 }
 
 function Nominees(props: { awardData: OscarCategory | undefined }) {
-  const hasNotes = props.awardData?.candidates?.some(c => c.notes);
-  const hasFor = props.awardData?.candidates?.some(c => c.for.length);
+  const hasNotes = props.awardData?.candidates?.some((c) => c.notes);
+  const hasFor = props.awardData?.candidates?.some((c) => c.for.length);
   return (
     <table>
       <tbody>
@@ -101,9 +114,21 @@ function Nominees(props: { awardData: OscarCategory | undefined }) {
                 textDecoration: candidate.won ? 'underline' : 'none',
               }}
             >
-              {hasFor && <td style={{ padding: '1rem' }}>{candidate.for_enriched.map(n => {return <EnrichedLink nomineeData={n} />})}</td>}
-              <td style={{ padding: '1rem' }}>{candidate.target_enriched.map(n => {return <EnrichedLink nomineeData={n} />})}</td>
-              {hasNotes && <td style={{ padding: '1rem' }}>{candidate.notes}</td>}
+              {hasFor && (
+                <td style={{ padding: '1rem' }}>
+                  {candidate.for_enriched.map((n) => {
+                    return <EnrichedLink nomineeData={n} />;
+                  })}
+                </td>
+              )}
+              <td style={{ padding: '1rem' }}>
+                {candidate.target_enriched.map((n) => {
+                  return <EnrichedLink nomineeData={n} />;
+                })}
+              </td>
+              {hasNotes && (
+                <td style={{ padding: '1rem' }}>{candidate.notes}</td>
+              )}
             </tr>
           );
         })}

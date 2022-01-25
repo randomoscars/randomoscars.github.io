@@ -43,7 +43,9 @@ export async function getAwardData(
 ): Promise<OscarCategory | undefined> {
   const ceremonyNum = year - 1928;
   const oscarCategories = await getOscarCategories(ceremonyNum);
-  return oscarCategories.find((category) => category.normalized_name === categoryName);
+  return oscarCategories.find(
+    (category) => category.normalized_name === categoryName
+  );
 }
 
 export async function randomize() {

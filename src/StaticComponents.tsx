@@ -15,6 +15,14 @@ export function AppFooter() {
         Created by{' '}
         <a href="https://www.kylenazario.com" target="_blank" rel="noreferrer">
           Kyle Nazario
+        </a>{' '}
+        &{' '}
+        <a
+          href="https://github.com/RikBoeykens"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Rik Boeykens
         </a>
         . View the{' '}
         <a
@@ -43,14 +51,13 @@ export function SiteExplainer() {
       <p>
         Data courtesy of{' '}
         <a
-          href="https://github.com/AminFadaee/awards/"
+          href="https://github.com/RikBoeykens"
           target="_blank"
           rel="noreferrer"
         >
-          @AminFadaee
-        </a>
-        . Data in some categories may be missing, incomplete or poorly
-        formatted.
+          Rik Boeykens
+        </a>{' '}
+        and IMDB.
       </p>
     </details>
   );

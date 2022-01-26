@@ -76,20 +76,21 @@ function NomineeHeader(props: { awardData: OscarCategory | undefined }) {
   return <h2>{titleItems}</h2>;
 }
 
-function EnrichedLink(props: { nomineeData: EnrichedInfo | undefined }) {
+function EnrichedLink(props: {
+  nomineeData: EnrichedInfo | undefined;
+  won: boolean;
+}) {
   const imdbUrl = props.nomineeData?.imdb_id.startsWith('tt')
     ? `https://www.imdb.com/title/${props.nomineeData?.imdb_id}`
     : `https://www.imdb.com/name/${props.nomineeData?.imdb_id}`;
   return (
     <div>
-      <a href={imdbUrl} target="_blank" rel="noreferrer">
-        {props.nomineeData?.image && (
-          <img
-            src={props.nomineeData.image.url}
-            style={{ maxHeight: '50px', maxWidth: '33px' }}
-            alt={props.nomineeData.name}
-          />
-        )}
+      <a
+        href={imdbUrl}
+        target="_blank"
+        rel="noreferrer"
+        style={{ color: props.won ? 'white' : undefined }}
+      >
         {props.nomineeData?.name}
       </a>
       {props.nomineeData?.note && <span>&nbsp;{props.nomineeData.note}</span>}
@@ -111,19 +112,19 @@ function Nominees(props: { awardData: OscarCategory | undefined }) {
               key={candidateName + candidateWork}
               style={{
                 fontWeight: candidate.won ? 'bold' : 'normal',
-                textDecoration: candidate.won ? 'underline' : 'none',
+                border: candidate.won ? '1px solid gray' : undefined,
               }}
             >
               {hasFor && (
                 <td style={{ padding: '1rem' }}>
                   {candidate.for_enriched.map((n) => {
-                    return <EnrichedLink nomineeData={n} />;
+                    return <EnrichedLink nomineeData={n} won={candidate.won} />;
                   })}
                 </td>
               )}
               <td style={{ padding: '1rem' }}>
                 {candidate.target_enriched.map((n) => {
-                  return <EnrichedLink nomineeData={n} />;
+                  return <EnrichedLink nomineeData={n} won={candidate.won} />;
                 })}
               </td>
               {hasNotes && (

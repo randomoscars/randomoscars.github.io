@@ -89,7 +89,7 @@ function EnrichedLink(props: {
         href={imdbUrl}
         target="_blank"
         rel="noreferrer"
-        style={{ color: props.won ? 'white' : undefined }}
+        style={{ color: props.won ? 'var(--text-bright)' : undefined }}
       >
         {props.nomineeData?.name}
       </a>

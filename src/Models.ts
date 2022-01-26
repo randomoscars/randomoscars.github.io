@@ -29,11 +29,26 @@ export type OscarYear = OscarCategory[];
 
 export type OscarCategory = {
   name: string;
+  normalized_name: string;
   candidates: OscarCandidate[];
   year: number;
 };
 export type OscarCandidate = {
   target: string[];
+  target_enriched: EnrichedInfo[];
   for: string[];
+  for_enriched: EnrichedInfo[];
   won: boolean;
+  notes: string;
+};
+export type EnrichedInfo = {
+  name: string;
+  imdb_id: string;
+  image: ImageInfo;
+  note: string;
+};
+export type ImageInfo = {
+  url: string;
+  height: string;
+  width: string;
 };

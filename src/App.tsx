@@ -2,8 +2,8 @@ import React, { useState } from 'react';
 import { BsSearch, BsShuffle } from 'react-icons/bs';
 import { CategorySelect, IconButtonLabel, YearInput } from './FormInputs';
 import { AppFooter, AppHeader, SiteExplainer } from './StaticComponents';
-import { OscarCategory } from './Models';
-import { getAwardData, randomize } from './Local.connector';
+import { EnrichedInfo, OscarCategory } from './Models';
+import { getAwardDataWithRetry, randomize } from './Local.connector';
 
 function App() {
   const [awardData, setAwardData] = useState(
@@ -14,7 +14,7 @@ function App() {
 
   const search = (category: string, year: number) => {
     setAwardData(undefined);
-    getAwardData(category, year)
+    getAwardDataWithRetry(category, year)
       .then(setAwardData)
       .catch(() => {});
   };
@@ -76,7 +76,31 @@ function NomineeHeader(props: { awardData: OscarCategory | undefined }) {
   return <h2>{titleItems}</h2>;
 }
 
+function EnrichedLink(props: {
+  nomineeData: EnrichedInfo | undefined;
+  won: boolean;
+}) {
+  const imdbUrl = props.nomineeData?.imdb_id.startsWith('tt')
+    ? `https://www.imdb.com/title/${props.nomineeData?.imdb_id}`
+    : `https://www.imdb.com/name/${props.nomineeData?.imdb_id}`;
+  return (
+    <div>
+      <a
+        href={imdbUrl}
+        target="_blank"
+        rel="noreferrer"
+        style={{ color: props.won ? 'var(--text-bright)' : undefined }}
+      >
+        {props.nomineeData?.name}
+      </a>
+      {props.nomineeData?.note && <span>&nbsp;{props.nomineeData.note}</span>}
+    </div>
+  );
+}
+
 function Nominees(props: { awardData: OscarCategory | undefined }) {
+  const hasNotes = props.awardData?.candidates?.some((c) => c.notes);
+  const hasFor = props.awardData?.candidates?.some((c) => c.for.length);
   return (
     <table>
       <tbody>
@@ -88,11 +112,24 @@ function Nominees(props: { awardData: OscarCategory | undefined }) {
               key={candidateName + candidateWork}
               style={{
                 fontWeight: candidate.won ? 'bold' : 'normal',
-                textDecoration: candidate.won ? 'underline' : 'none',
+                border: candidate.won ? '1px solid gray' : undefined,
               }}
             >
-              <td style={{ padding: '1rem' }}>{candidateName}</td>
-              <td style={{ padding: '1rem' }}>{candidateWork}</td>
+              {hasFor && (
+                <td style={{ padding: '1rem' }}>
+                  {candidate.for_enriched.map((n) => {
+                    return <EnrichedLink nomineeData={n} won={candidate.won} />;
+                  })}
+                </td>
+              )}
+              <td style={{ padding: '1rem' }}>
+                {candidate.target_enriched.map((n) => {
+                  return <EnrichedLink nomineeData={n} won={candidate.won} />;
+                })}
+              </td>
+              {hasNotes && (
+                <td style={{ padding: '1rem' }}>{candidate.notes}</td>
+              )}
             </tr>
           );
         })}

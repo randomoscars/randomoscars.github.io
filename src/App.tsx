@@ -42,7 +42,10 @@ function App() {
           <div style={{ display: 'flex', flexWrap: 'wrap' }}>
             <CategorySelect category={category} setCategory={setCategory} />
             <YearInput year={year} setYear={setYear} />
-            <button onClick={() => search(category as string, year as number)} disabled={!category || !year}>
+            <button
+              onClick={() => search(category as string, year as number)}
+              disabled={!category || !year}
+            >
               <IconButtonLabel label="Search" icon={BsSearch} />
             </button>
           </div>

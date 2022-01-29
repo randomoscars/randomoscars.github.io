@@ -52,7 +52,7 @@ export function CategorySelect(props: {
       value={props.category}
       onChange={(e) => props.setCategory(e.target.value)}
       defaultValue={undefined}
-      style={{ width: '20rem' }}
+      style={{ width: '20rem', overflowX: 'hidden' }}
     >
       <option value={undefined} disabled>
         Category

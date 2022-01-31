@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import { BsSearch, BsShuffle } from 'react-icons/bs';
 import { CategorySelect, IconButtonLabel, YearInput } from './FormInputs';
 import { AppFooter, AppHeader, SiteExplainer } from './StaticComponents';
@@ -26,6 +26,10 @@ function App() {
       search(randomCategory, randomYear);
     });
   };
+
+  useEffect(() => {
+    randomizeForm();
+  }, []);
 
   return (
     <div

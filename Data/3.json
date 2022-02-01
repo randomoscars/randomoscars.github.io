@@ -1,1545 +1,1367 @@
 [
-    {
-        "name": "Best Actor in a Leading Role",
-        "normalized_name": "Best Performance by an Actor in a Leading Role",
-        "category_id": 0,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "George Arliss"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "George Arliss",
-                        "imdb_id": "nm0002183",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTc1MDUxMzMwNF5BMl5BanBnXkFtZTgwOTI3NTYwMjE@._V1_.jpg",
-                            "height": 250,
-                            "width": 195
-                        }
-                    }
-                ],
-                "for": [
-                    "Disraeli"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Disraeli",
-                        "imdb_id": "tt0019823",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTc1NTAxOTExMV5BMl5BanBnXkFtZTgwMDk1MjgwMjE@._V1_.jpg",
-                            "height": 500,
-                            "width": 339
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "George Arliss"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "George Arliss",
-                        "imdb_id": "nm0002183",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTc1MDUxMzMwNF5BMl5BanBnXkFtZTgwOTI3NTYwMjE@._V1_.jpg",
-                            "height": 250,
-                            "width": 195
-                        }
-                    }
-                ],
-                "for": [
-                    "The Green Goddess"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "The Green Goddess",
-                        "imdb_id": "tt0020938",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTI0ODhjY2UtZjA0MS00MGU4LThmMTgtNWYzYWExYjUzYzE2XkEyXkFqcGdeQXVyNDY1NzU5NjY@._V1_.jpg",
-                            "height": 1845,
-                            "width": 1200
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Lawrence Tibbett"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Lawrence Tibbett",
-                        "imdb_id": "nm0862546",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZjk4OTgxNmQtNjZiNS00YzRhLTgxNjEtMGJlZWVlZGM2YjQxXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
-                            "height": 350,
-                            "width": 280
-                        }
-                    }
-                ],
-                "for": [
-                    "The Rogue Song"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "The Rogue Song",
-                        "imdb_id": "tt0021307",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYTYyNGIwMDgtZDJmNi00YmQyLWEzYmQtN2JkYjBkMGNiNjMwXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_.jpg",
-                            "height": 1064,
-                            "width": 799
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Maurice Chevalier"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Maurice Chevalier",
-                        "imdb_id": "nm0002001",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTM5NTgwOTU0Ml5BMl5BanBnXkFtZTYwNzA3MzU2._V1_.jpg",
-                            "height": 450,
-                            "width": 300
-                        }
-                    }
-                ],
-                "for": [
-                    "The Love Parade"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "The Love Parade",
-                        "imdb_id": "tt0020112",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNDYyZDJlYTYtMjkwYS00MTM3LTkyNmUtOTZlZGUzMTUyMWE0XkEyXkFqcGdeQXVyNjA5MTAzODY@._V1_.jpg",
-                            "height": 653,
-                            "width": 470
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Maurice Chevalier"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Maurice Chevalier",
-                        "imdb_id": "nm0002001",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTM5NTgwOTU0Ml5BMl5BanBnXkFtZTYwNzA3MzU2._V1_.jpg",
-                            "height": 450,
-                            "width": 300
-                        }
-                    }
-                ],
-                "for": [
-                    "The Big Pond"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "The Big Pond",
-                        "imdb_id": "tt0020690",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNjQ3NTRlNGEtMjRmMS00ZWQ0LWEwYzItZjBiOWY3NTdjYzc2XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 575,
-                            "width": 454
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Ronald Colman"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Ronald Colman",
-                        "imdb_id": "nm0172903",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTU3ODU4ODY4NF5BMl5BanBnXkFtZTYwNTQxMTM2._V1_.jpg",
-                            "height": 450,
-                            "width": 357
-                        }
-                    }
-                ],
-                "for": [
-                    "Condemned!"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Condemned!",
-                        "imdb_id": "tt0019785",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYzMzZTUwZWYtZWJjNC00YTc5LWExZmItNTQ2MTAxMDYwMDY3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 1000,
-                            "width": 708
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Ronald Colman"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Ronald Colman",
-                        "imdb_id": "nm0172903",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTU3ODU4ODY4NF5BMl5BanBnXkFtZTYwNTQxMTM2._V1_.jpg",
-                            "height": 450,
-                            "width": 357
-                        }
-                    }
-                ],
-                "for": [
-                    "Bulldog Drummond"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Bulldog Drummond",
-                        "imdb_id": "tt0019735",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMjI5Nzc2MTc5MF5BMl5BanBnXkFtZTgwNzM0NDAwMjE@._V1_.jpg",
-                            "height": 500,
-                            "width": 268
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Wallace Beery"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Wallace Beery",
-                        "imdb_id": "nm0000891",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTIxOTI0OTM1NF5BMl5BanBnXkFtZTYwNjUwMTM2._V1_.jpg",
-                            "height": 450,
-                            "width": 351
-                        }
-                    }
-                ],
-                "for": [
-                    "The Big House"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "The Big House",
-                        "imdb_id": "tt0020686",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNjBjMmU2NjQtOGJlYS00OTE4LWE4ZjYtNzlmMzJhYmE5MjA5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 851,
-                            "width": 454
-                        }
-                    }
-                ],
-                "notes": null
+  {
+    "name": "Best Actor in a Leading Role",
+    "normalized_name": "Best Performance by an Actor in a Leading Role",
+    "category_id": 0,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["George Arliss"],
+        "target_enriched": [
+          {
+            "name": "George Arliss",
+            "imdb_id": "nm0002183",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc1MDUxMzMwNF5BMl5BanBnXkFtZTgwOTI3NTYwMjE@._V1_.jpg",
+              "height": 250,
+              "width": 195
             }
-        ]
-    },
-    {
-        "name": "Best Actress in a Leading Role",
-        "normalized_name": "Best Performance by an Actress in a Leading Role",
-        "category_id": 1,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "Norma Shearer"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Norma Shearer",
-                        "imdb_id": "nm0790454",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTg4OTI0MjU5NV5BMl5BanBnXkFtZTYwNjYxNjU2._V1_.jpg",
-                            "height": 450,
-                            "width": 351
-                        }
-                    }
-                ],
-                "for": [
-                    "The Divorcee"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "The Divorcee",
-                        "imdb_id": "tt0020827",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTk5NzQzNjEwNV5BMl5BanBnXkFtZTgwNjA2NTAwMjE@._V1_.jpg",
-                            "height": 500,
-                            "width": 320
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Gloria Swanson"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Gloria Swanson",
-                        "imdb_id": "nm0841797",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTU3NzIxOTUwOV5BMl5BanBnXkFtZTYwNDM5MTI2._V1_.jpg",
-                            "height": 450,
-                            "width": 316
-                        }
-                    }
-                ],
-                "for": [
-                    "The Trespasser"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "The Trespasser",
-                        "imdb_id": "tt0020514",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNzg0NzgzODA5OV5BMl5BanBnXkFtZTgwOTMzNzYzMTE@._V1_.jpg",
-                            "height": 500,
-                            "width": 346
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Greta Garbo"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Greta Garbo",
-                        "imdb_id": "nm0001256",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTQ0MDU3ODQ0MF5BMl5BanBnXkFtZTgwNzY4NDQ3MTE@._V1_.jpg",
-                            "height": 3930,
-                            "width": 3111
-                        }
-                    }
-                ],
-                "for": [
-                    "Romance"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Romance",
-                        "imdb_id": "tt0021310",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYTc4YjNhZmItNTNmMy00NTg1LTgyNzYtMjVmOTljMTM4YTgxXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 688,
-                            "width": 454
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Greta Garbo"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Greta Garbo",
-                        "imdb_id": "nm0001256",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTQ0MDU3ODQ0MF5BMl5BanBnXkFtZTgwNzY4NDQ3MTE@._V1_.jpg",
-                            "height": 3930,
-                            "width": 3111
-                        }
-                    }
-                ],
-                "for": [
-                    "Anna Christie"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Anna Christie",
-                        "imdb_id": "tt0020641",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTUyNDA5MTY0M15BMl5BanBnXkFtZTgwMzA1NDIwMjE@._V1_.jpg",
-                            "height": 1080,
-                            "width": 718
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Nancy Carroll"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Nancy Carroll",
-                        "imdb_id": "nm0007216",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTI1MTQyNDM5OF5BMl5BanBnXkFtZTYwMzEzNTU2._V1_.jpg",
-                            "height": 450,
-                            "width": 355
-                        }
-                    }
-                ],
-                "for": [
-                    "The Devil's Holiday"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "The Devil's Holiday",
-                        "imdb_id": "tt0020823",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNzFlZThiOGQtNzhjMi00ZDIyLTgxZjktNjQ3YTcyNzFiNzVlXkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg",
-                            "height": 500,
-                            "width": 313
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Norma Shearer"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Norma Shearer",
-                        "imdb_id": "nm0790454",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTg4OTI0MjU5NV5BMl5BanBnXkFtZTYwNjYxNjU2._V1_.jpg",
-                            "height": 450,
-                            "width": 351
-                        }
-                    }
-                ],
-                "for": [
-                    "Their Own Desire"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Their Own Desire",
-                        "imdb_id": "tt0020488",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTMzMDk5MDYxOF5BMl5BanBnXkFtZTcwMDI3NTk5Mw@@._V1_.jpg",
-                            "height": 500,
-                            "width": 353
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Ruth Chatterton"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Ruth Chatterton",
-                        "imdb_id": "nm0154183",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTA0Nzk3NDA4NjdeQTJeQWpwZ15BbWU2MDM0MTEzNg@@._V1_.jpg",
-                            "height": 450,
-                            "width": 350
-                        }
-                    }
-                ],
-                "for": [
-                    "Sarah and Son"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Sarah and Son",
-                        "imdb_id": "tt0021335",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYjcxNzNjNzgtNjg1Mi00YzQ0LWE2ZjAtOTNmNGY5YmFlOWJmXkEyXkFqcGdeQXVyNTUyNzA5ODE@._V1_.jpg",
-                            "height": 1200,
-                            "width": 799
-                        }
-                    }
-                ],
-                "notes": null
+          }
+        ],
+        "for": ["Disraeli"],
+        "for_enriched": [
+          {
+            "name": "Disraeli",
+            "imdb_id": "tt0019823",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc1NTAxOTExMV5BMl5BanBnXkFtZTgwMDk1MjgwMjE@._V1_.jpg",
+              "height": 500,
+              "width": 339
             }
-        ]
-    },
-    {
-        "name": "Best Art Direction",
-        "normalized_name": "Best Achievement in Production Design",
-        "category_id": 2,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "King of Jazz"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "King of Jazz",
-                        "imdb_id": "tt0021025",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTAxODk3NzI3ODdeQTJeQWpwZ15BbWU4MDQwMDEwMjIx._V1_.jpg",
-                            "height": 500,
-                            "width": 338
-                        }
-                    }
-                ],
-                "for": [
-                    "Herman Rosse"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Herman Rosse",
-                        "imdb_id": "nm0743983",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Bulldog Drummond"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Bulldog Drummond",
-                        "imdb_id": "tt0019735",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMjI5Nzc2MTc5MF5BMl5BanBnXkFtZTgwNzM0NDAwMjE@._V1_.jpg",
-                            "height": 500,
-                            "width": 268
-                        }
-                    }
-                ],
-                "for": [
-                    "William Cameron Menzies"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "William Cameron Menzies",
-                        "imdb_id": "nm0580017",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZTI0MGIyNTctYmFmMS00MDNlLWIxZjQtNzdjMmIyMmVlY2JkXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 514,
-                            "width": 680
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Sally"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Sally",
-                        "imdb_id": "tt0020358",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTg5NDMzNjMwNF5BMl5BanBnXkFtZTgwODg1NTE3MzE@._V1_.jpg",
-                            "height": 500,
-                            "width": 332
-                        }
-                    }
-                ],
-                "for": [
-                    "Jack Okey"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Jack Okey",
-                        "imdb_id": "nm0645605",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Love Parade"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Love Parade",
-                        "imdb_id": "tt0020112",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNDYyZDJlYTYtMjkwYS00MTM3LTkyNmUtOTZlZGUzMTUyMWE0XkEyXkFqcGdeQXVyNjA5MTAzODY@._V1_.jpg",
-                            "height": 653,
-                            "width": 470
-                        }
-                    }
-                ],
-                "for": [
-                    "Hans Dreier"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Hans Dreier",
-                        "imdb_id": "nm0237417",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZDk1ZGNlZGQtZjYwNS00OWU0LTkzOTAtZGNkMjAyN2U4Yzc0XkEyXkFqcGdeQXVyMjQwOTE1MzE@._V1_.jpg",
-                            "height": 890,
-                            "width": 803
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Vagabond King"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Vagabond King",
-                        "imdb_id": "tt0021511",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNjEyODUxOTI0M15BMl5BanBnXkFtZTgwOTM0NzkxMjE@._V1_.jpg",
-                            "height": 500,
-                            "width": 338
-                        }
-                    }
-                ],
-                "for": [
-                    "Hans Dreier"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Hans Dreier",
-                        "imdb_id": "nm0237417",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZDk1ZGNlZGQtZjYwNS00OWU0LTkzOTAtZGNkMjAyN2U4Yzc0XkEyXkFqcGdeQXVyMjQwOTE1MzE@._V1_.jpg",
-                            "height": 890,
-                            "width": 803
-                        }
-                    }
-                ],
-                "notes": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["George Arliss"],
+        "target_enriched": [
+          {
+            "name": "George Arliss",
+            "imdb_id": "nm0002183",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc1MDUxMzMwNF5BMl5BanBnXkFtZTgwOTI3NTYwMjE@._V1_.jpg",
+              "height": 250,
+              "width": 195
             }
-        ]
-    },
-    {
-        "name": "Best Cinematography",
-        "normalized_name": "Best Achievement in Cinematography",
-        "category_id": 3,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "With Byrd at the South Pole"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "With Byrd at the South Pole",
-                        "imdb_id": "tt0020594",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYzIwYWI5MGYtOWQ3OC00MDE2LWE1MjgtNjZmYjZiNGFiYTI5XkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_.jpg",
-                            "height": 2632,
-                            "width": 1837
-                        }
-                    }
-                ],
-                "for": [
-                    "Joseph T. Rucker",
-                    "Willard Van der Veer"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Joseph T. Rucker",
-                        "imdb_id": "nm0748530",
-                        "note": null,
-                        "image": null
-                    },
-                    {
-                        "name": "Willard Van der Veer",
-                        "imdb_id": "nm0886447",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "All Quiet on the Western Front"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "All Quiet on the Western Front",
-                        "imdb_id": "tt0020629",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMzg2MWQ4MDEtOGZlNi00MTg0LWIwMjQtYWY5NTQwYmUzMWNmXkEyXkFqcGdeQXVyMzg2MzE2OTE@._V1_.jpg",
-                            "height": 1146,
-                            "width": 744
-                        }
-                    }
-                ],
-                "for": [
-                    "Arthur Edeson"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Arthur Edeson",
-                        "imdb_id": "nm0249186",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Anna Christie"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Anna Christie",
-                        "imdb_id": "tt0020641",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTUyNDA5MTY0M15BMl5BanBnXkFtZTgwMzA1NDIwMjE@._V1_.jpg",
-                            "height": 1080,
-                            "width": 718
-                        }
-                    }
-                ],
-                "for": [
-                    "William H. Daniels"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "William H. Daniels",
-                        "imdb_id": "nm0200125",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNDgxMTYyNTMtMDMyZi00NDhjLTg4YWUtZDZhZGUwNDIyMTdmXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 318,
-                            "width": 252
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Hell's Angels"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Hell's Angels",
-                        "imdb_id": "tt0020960",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMzMwODM4MzE2MF5BMl5BanBnXkFtZTgwNTc0NTgyMjE@._V1_.jpg",
-                            "height": 1060,
-                            "width": 707
-                        }
-                    }
-                ],
-                "for": [
-                    "Tony Gaudio",
-                    "Harry Perry"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Tony Gaudio",
-                        "imdb_id": "nm0309974",
-                        "note": null,
-                        "image": null
-                    },
-                    {
-                        "name": "Harry Perry",
-                        "imdb_id": "nm0675091",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Love Parade"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Love Parade",
-                        "imdb_id": "tt0020112",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNDYyZDJlYTYtMjkwYS00MTM3LTkyNmUtOTZlZGUzMTUyMWE0XkEyXkFqcGdeQXVyNjA5MTAzODY@._V1_.jpg",
-                            "height": 653,
-                            "width": 470
-                        }
-                    }
-                ],
-                "for": [
-                    "Victor Milner"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Victor Milner",
-                        "imdb_id": "nm0005800",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYTgxYzhjZjQtZGNjNS00MDc5LTkyYjYtZWRmMGVmOTVlOWNiXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 816,
-                            "width": 1030
-                        }
-                    }
-                ],
-                "notes": null
+          }
+        ],
+        "for": ["The Green Goddess"],
+        "for_enriched": [
+          {
+            "name": "The Green Goddess",
+            "imdb_id": "tt0020938",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI0ODhjY2UtZjA0MS00MGU4LThmMTgtNWYzYWExYjUzYzE2XkEyXkFqcGdeQXVyNDY1NzU5NjY@._V1_.jpg",
+              "height": 1845,
+              "width": 1200
             }
-        ]
-    },
-    {
-        "name": "Best Director",
-        "normalized_name": "Best Achievement in Directing",
-        "category_id": 12,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "Lewis Milestone"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Lewis Milestone",
-                        "imdb_id": "nm0587277",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMzNhZDI4NGUtZjQ0MS00NWZlLWFiNzQtZWY5ZjcwZmRiODM0XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 6000,
-                            "width": 4556
-                        }
-                    }
-                ],
-                "for": [
-                    "All Quiet on the Western Front"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "All Quiet on the Western Front",
-                        "imdb_id": "tt0020629",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMzg2MWQ4MDEtOGZlNi00MTg0LWIwMjQtYWY5NTQwYmUzMWNmXkEyXkFqcGdeQXVyMzg2MzE2OTE@._V1_.jpg",
-                            "height": 1146,
-                            "width": 744
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Clarence Brown"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Clarence Brown",
-                        "imdb_id": "nm0113284",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BOGU4MmMyYzktYjQwYi00NmFjLWI1NzktMGQ0NWQ0ODQ3OTQ4XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 761,
-                            "width": 510
-                        }
-                    }
-                ],
-                "for": [
-                    "Romance"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Romance",
-                        "imdb_id": "tt0021310",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYTc4YjNhZmItNTNmMy00NTg1LTgyNzYtMjVmOTljMTM4YTgxXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 688,
-                            "width": 454
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Clarence Brown"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Clarence Brown",
-                        "imdb_id": "nm0113284",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BOGU4MmMyYzktYjQwYi00NmFjLWI1NzktMGQ0NWQ0ODQ3OTQ4XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 761,
-                            "width": 510
-                        }
-                    }
-                ],
-                "for": [
-                    "Anna Christie"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Anna Christie",
-                        "imdb_id": "tt0020641",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTUyNDA5MTY0M15BMl5BanBnXkFtZTgwMzA1NDIwMjE@._V1_.jpg",
-                            "height": 1080,
-                            "width": 718
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Ernst Lubitsch"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Ernst Lubitsch",
-                        "imdb_id": "nm0523932",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMjEwMDI0ODEzMF5BMl5BanBnXkFtZTYwMDg2MjI2._V1_.jpg",
-                            "height": 450,
-                            "width": 359
-                        }
-                    }
-                ],
-                "for": [
-                    "The Love Parade"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "The Love Parade",
-                        "imdb_id": "tt0020112",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNDYyZDJlYTYtMjkwYS00MTM3LTkyNmUtOTZlZGUzMTUyMWE0XkEyXkFqcGdeQXVyNjA5MTAzODY@._V1_.jpg",
-                            "height": 653,
-                            "width": 470
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "King Vidor"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "King Vidor",
-                        "imdb_id": "nm0896542",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNGIxOTgxZjAtNmZlYy00MjA0LTk1ZjYtMjg5ZGRjMzliNDZjXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 400,
-                            "width": 260
-                        }
-                    }
-                ],
-                "for": [
-                    "Hallelujah"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Hallelujah",
-                        "imdb_id": "tt0019959",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZjg3MzgxMDUtNzc4Yi00NGJiLThhYWMtNTdkMmUyNjQ3NzgwXkEyXkFqcGdeQXVyMjcxNjI4NTk@._V1_.jpg",
-                            "height": 960,
-                            "width": 640
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Robert Z. Leonard"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Robert Z. Leonard",
-                        "imdb_id": "nm0502752",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNTlmODNlZGYtNzc0ZC00OGI3LTk5YTMtM2NjYzRiNjc4NzdhXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 1351,
-                            "width": 1063
-                        }
-                    }
-                ],
-                "for": [
-                    "The Divorcee"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "The Divorcee",
-                        "imdb_id": "tt0020827",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTk5NzQzNjEwNV5BMl5BanBnXkFtZTgwNjA2NTAwMjE@._V1_.jpg",
-                            "height": 500,
-                            "width": 320
-                        }
-                    }
-                ],
-                "notes": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Lawrence Tibbett"],
+        "target_enriched": [
+          {
+            "name": "Lawrence Tibbett",
+            "imdb_id": "nm0862546",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjk4OTgxNmQtNjZiNS00YzRhLTgxNjEtMGJlZWVlZGM2YjQxXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
+              "height": 350,
+              "width": 280
             }
-        ]
-    },
-    {
-        "name": "Best Picture",
-        "normalized_name": "Best Picture",
-        "category_id": 13,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "All Quiet on the Western Front"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "All Quiet on the Western Front",
-                        "imdb_id": "tt0020629",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMzg2MWQ4MDEtOGZlNi00MTg0LWIwMjQtYWY5NTQwYmUzMWNmXkEyXkFqcGdeQXVyMzg2MzE2OTE@._V1_.jpg",
-                            "height": 1146,
-                            "width": 744
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Disraeli"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Disraeli",
-                        "imdb_id": "tt0019823",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTc1NTAxOTExMV5BMl5BanBnXkFtZTgwMDk1MjgwMjE@._V1_.jpg",
-                            "height": 500,
-                            "width": 339
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Big House"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Big House",
-                        "imdb_id": "tt0020686",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNjBjMmU2NjQtOGJlYS00OTE4LWE4ZjYtNzlmMzJhYmE5MjA5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 851,
-                            "width": 454
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Divorcee"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Divorcee",
-                        "imdb_id": "tt0020827",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTk5NzQzNjEwNV5BMl5BanBnXkFtZTgwNjA2NTAwMjE@._V1_.jpg",
-                            "height": 500,
-                            "width": 320
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Love Parade"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Love Parade",
-                        "imdb_id": "tt0020112",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNDYyZDJlYTYtMjkwYS00MTM3LTkyNmUtOTZlZGUzMTUyMWE0XkEyXkFqcGdeQXVyNjA5MTAzODY@._V1_.jpg",
-                            "height": 653,
-                            "width": 470
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
+          }
+        ],
+        "for": ["The Rogue Song"],
+        "for_enriched": [
+          {
+            "name": "The Rogue Song",
+            "imdb_id": "tt0021307",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTYyNGIwMDgtZDJmNi00YmQyLWEzYmQtN2JkYjBkMGNiNjMwXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_.jpg",
+              "height": 1064,
+              "width": 799
             }
-        ]
-    },
-    {
-        "name": "Best Sound, Recording",
-        "normalized_name": "Best Sound, Recording",
-        "category_id": 15,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "The Big House"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Big House",
-                        "imdb_id": "tt0020686",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNjBjMmU2NjQtOGJlYS00OTE4LWE4ZjYtNzlmMzJhYmE5MjA5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 851,
-                            "width": 454
-                        }
-                    }
-                ],
-                "for": [
-                    "Douglas Shearer"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Douglas Shearer",
-                        "imdb_id": "nm0790428",
-                        "note": "(sound director)",
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYmJjMWQxMTQtY2Q0Mi00YWI4LWE3MTItM2E4YzFjN2FhNGRlXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_.jpg",
-                            "height": 1022,
-                            "width": 792
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Raffles"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Raffles",
-                        "imdb_id": "tt0021281",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZjY2MDQ5MzMtODAxZi00NWUyLWJjYTUtMzc5YjQ1YWRiZjg0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 733,
-                            "width": 500
-                        }
-                    }
-                ],
-                "for": [
-                    "Oscar Lagerstrom"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Oscar Lagerstrom",
-                        "imdb_id": "nm0481264",
-                        "note": "(sound director)",
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Case of Sergeant Grischa"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Case of Sergeant Grischa",
-                        "imdb_id": "tt0020744",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYjlkNTk5YjMtYTBjNi00YjA0LThjMWUtZTgxZDAzNGIyZDAwXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 825,
-                            "width": 825
-                        }
-                    }
-                ],
-                "for": [
-                    "John E. Tribby"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "John E. Tribby",
-                        "imdb_id": "nm0872569",
-                        "note": "(sound director)",
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Love Parade"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Love Parade",
-                        "imdb_id": "tt0020112",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNDYyZDJlYTYtMjkwYS00MTM3LTkyNmUtOTZlZGUzMTUyMWE0XkEyXkFqcGdeQXVyNjA5MTAzODY@._V1_.jpg",
-                            "height": 653,
-                            "width": 470
-                        }
-                    }
-                ],
-                "for": [
-                    "Franklin Hansen"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Franklin Hansen",
-                        "imdb_id": "nm0360630",
-                        "note": "(sound director)",
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Song of the Flame"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Song of the Flame",
-                        "imdb_id": "tt0021404",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNTBhMWRkYzktNGFhZS00ZDRjLWIwYWMtZWY1YjczZmI4MWE1XkEyXkFqcGdeQXVyMzI5NjUyMDM@._V1_.jpg",
-                            "height": 450,
-                            "width": 300
-                        }
-                    }
-                ],
-                "for": [
-                    "George Groves"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "George Groves",
-                        "imdb_id": "nm0344060",
-                        "note": "(sound director)",
-                        "image": null
-                    }
-                ],
-                "notes": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Maurice Chevalier"],
+        "target_enriched": [
+          {
+            "name": "Maurice Chevalier",
+            "imdb_id": "nm0002001",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM5NTgwOTU0Ml5BMl5BanBnXkFtZTYwNzA3MzU2._V1_.jpg",
+              "height": 450,
+              "width": 300
             }
-        ]
-    },
-    {
-        "name": "Best Writing, Achievement",
-        "normalized_name": "Best Writing, Achievement",
-        "category_id": 14,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "The Big House"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Big House",
-                        "imdb_id": "tt0020686",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNjBjMmU2NjQtOGJlYS00OTE4LWE4ZjYtNzlmMzJhYmE5MjA5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 851,
-                            "width": 454
-                        }
-                    }
-                ],
-                "for": [
-                    "Frances Marion"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Frances Marion",
-                        "imdb_id": "nm0547966",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BM2Y3NjAzN2ItZmQ1Mi00NmZkLWE4NWYtYjc4M2JiMmExZTlkXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
-                            "height": 1409,
-                            "width": 1068
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "All Quiet on the Western Front"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "All Quiet on the Western Front",
-                        "imdb_id": "tt0020629",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMzg2MWQ4MDEtOGZlNi00MTg0LWIwMjQtYWY5NTQwYmUzMWNmXkEyXkFqcGdeQXVyMzg2MzE2OTE@._V1_.jpg",
-                            "height": 1146,
-                            "width": 744
-                        }
-                    }
-                ],
-                "for": [
-                    "George Abbott",
-                    "Maxwell Anderson",
-                    "Del Andrews"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "George Abbott",
-                        "imdb_id": "nm0007973",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZjBjMGY1OGEtZDQwMy00ZWMzLTkxOGEtOTk3MTcxZDMxODQ5XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
-                            "height": 760,
-                            "width": 660
-                        }
-                    },
-                    {
-                        "name": "Maxwell Anderson",
-                        "imdb_id": "nm0027173",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BN2RmMTA2M2ItOWFmNS00NzhlLTg3ZjYtMzk2ZTliZDA2Yzc1XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_.jpg",
-                            "height": 1217,
-                            "width": 983
-                        }
-                    },
-                    {
-                        "name": "Del Andrews",
-                        "imdb_id": "nm0028636",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Disraeli"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Disraeli",
-                        "imdb_id": "tt0019823",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTc1NTAxOTExMV5BMl5BanBnXkFtZTgwMDk1MjgwMjE@._V1_.jpg",
-                            "height": 500,
-                            "width": 339
-                        }
-                    }
-                ],
-                "for": [
-                    "Julien Josephson"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Julien Josephson",
-                        "imdb_id": "nm0430756",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Street of Chance"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Street of Chance",
-                        "imdb_id": "tt0021420",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMzVhMDc2MDMtNTkxNC00YjYxLTlmODYtY2JkZWY4NWIwMjk2XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 581,
-                            "width": 297
-                        }
-                    }
-                ],
-                "for": [
-                    "Howard Estabrook"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Howard Estabrook",
-                        "imdb_id": "nm0261455",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZjc5OTA2MDAtYzA0OC00NjkyLWJmNmEtNjU4MTM4OWIwODgyXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
-                            "height": 533,
-                            "width": 433
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Divorcee"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Divorcee",
-                        "imdb_id": "tt0020827",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTk5NzQzNjEwNV5BMl5BanBnXkFtZTgwNjA2NTAwMjE@._V1_.jpg",
-                            "height": 500,
-                            "width": 320
-                        }
-                    }
-                ],
-                "for": [
-                    "John Meehan"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "John Meehan",
-                        "imdb_id": "nm0576046",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": null
+          }
+        ],
+        "for": ["The Love Parade"],
+        "for_enriched": [
+          {
+            "name": "The Love Parade",
+            "imdb_id": "tt0020112",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDYyZDJlYTYtMjkwYS00MTM3LTkyNmUtOTZlZGUzMTUyMWE0XkEyXkFqcGdeQXVyNjA5MTAzODY@._V1_.jpg",
+              "height": 653,
+              "width": 470
             }
-        ]
-    }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Maurice Chevalier"],
+        "target_enriched": [
+          {
+            "name": "Maurice Chevalier",
+            "imdb_id": "nm0002001",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM5NTgwOTU0Ml5BMl5BanBnXkFtZTYwNzA3MzU2._V1_.jpg",
+              "height": 450,
+              "width": 300
+            }
+          }
+        ],
+        "for": ["The Big Pond"],
+        "for_enriched": [
+          {
+            "name": "The Big Pond",
+            "imdb_id": "tt0020690",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjQ3NTRlNGEtMjRmMS00ZWQ0LWEwYzItZjBiOWY3NTdjYzc2XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 575,
+              "width": 454
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Ronald Colman"],
+        "target_enriched": [
+          {
+            "name": "Ronald Colman",
+            "imdb_id": "nm0172903",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU3ODU4ODY4NF5BMl5BanBnXkFtZTYwNTQxMTM2._V1_.jpg",
+              "height": 450,
+              "width": 357
+            }
+          }
+        ],
+        "for": ["Condemned!"],
+        "for_enriched": [
+          {
+            "name": "Condemned!",
+            "imdb_id": "tt0019785",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzMzZTUwZWYtZWJjNC00YTc5LWExZmItNTQ2MTAxMDYwMDY3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 1000,
+              "width": 708
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Ronald Colman"],
+        "target_enriched": [
+          {
+            "name": "Ronald Colman",
+            "imdb_id": "nm0172903",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU3ODU4ODY4NF5BMl5BanBnXkFtZTYwNTQxMTM2._V1_.jpg",
+              "height": 450,
+              "width": 357
+            }
+          }
+        ],
+        "for": ["Bulldog Drummond"],
+        "for_enriched": [
+          {
+            "name": "Bulldog Drummond",
+            "imdb_id": "tt0019735",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI5Nzc2MTc5MF5BMl5BanBnXkFtZTgwNzM0NDAwMjE@._V1_.jpg",
+              "height": 500,
+              "width": 268
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Wallace Beery"],
+        "target_enriched": [
+          {
+            "name": "Wallace Beery",
+            "imdb_id": "nm0000891",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTIxOTI0OTM1NF5BMl5BanBnXkFtZTYwNjUwMTM2._V1_.jpg",
+              "height": 450,
+              "width": 351
+            }
+          }
+        ],
+        "for": ["The Big House"],
+        "for_enriched": [
+          {
+            "name": "The Big House",
+            "imdb_id": "tt0020686",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjBjMmU2NjQtOGJlYS00OTE4LWE4ZjYtNzlmMzJhYmE5MjA5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 851,
+              "width": 454
+            }
+          }
+        ],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Actress in a Leading Role",
+    "normalized_name": "Best Performance by an Actress in a Leading Role",
+    "category_id": 1,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["Norma Shearer"],
+        "target_enriched": [
+          {
+            "name": "Norma Shearer",
+            "imdb_id": "nm0790454",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg4OTI0MjU5NV5BMl5BanBnXkFtZTYwNjYxNjU2._V1_.jpg",
+              "height": 450,
+              "width": 351
+            }
+          }
+        ],
+        "for": ["The Divorcee"],
+        "for_enriched": [
+          {
+            "name": "The Divorcee",
+            "imdb_id": "tt0020827",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk5NzQzNjEwNV5BMl5BanBnXkFtZTgwNjA2NTAwMjE@._V1_.jpg",
+              "height": 500,
+              "width": 320
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Gloria Swanson"],
+        "target_enriched": [
+          {
+            "name": "Gloria Swanson",
+            "imdb_id": "nm0841797",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU3NzIxOTUwOV5BMl5BanBnXkFtZTYwNDM5MTI2._V1_.jpg",
+              "height": 450,
+              "width": 316
+            }
+          }
+        ],
+        "for": ["The Trespasser"],
+        "for_enriched": [
+          {
+            "name": "The Trespasser",
+            "imdb_id": "tt0020514",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzg0NzgzODA5OV5BMl5BanBnXkFtZTgwOTMzNzYzMTE@._V1_.jpg",
+              "height": 500,
+              "width": 346
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Greta Garbo"],
+        "target_enriched": [
+          {
+            "name": "Greta Garbo",
+            "imdb_id": "nm0001256",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ0MDU3ODQ0MF5BMl5BanBnXkFtZTgwNzY4NDQ3MTE@._V1_.jpg",
+              "height": 3930,
+              "width": 3111
+            }
+          }
+        ],
+        "for": ["Romance"],
+        "for_enriched": [
+          {
+            "name": "Romance",
+            "imdb_id": "tt0021310",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTc4YjNhZmItNTNmMy00NTg1LTgyNzYtMjVmOTljMTM4YTgxXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 688,
+              "width": 454
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Greta Garbo"],
+        "target_enriched": [
+          {
+            "name": "Greta Garbo",
+            "imdb_id": "nm0001256",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ0MDU3ODQ0MF5BMl5BanBnXkFtZTgwNzY4NDQ3MTE@._V1_.jpg",
+              "height": 3930,
+              "width": 3111
+            }
+          }
+        ],
+        "for": ["Anna Christie"],
+        "for_enriched": [
+          {
+            "name": "Anna Christie",
+            "imdb_id": "tt0020641",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUyNDA5MTY0M15BMl5BanBnXkFtZTgwMzA1NDIwMjE@._V1_.jpg",
+              "height": 1080,
+              "width": 718
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Nancy Carroll"],
+        "target_enriched": [
+          {
+            "name": "Nancy Carroll",
+            "imdb_id": "nm0007216",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI1MTQyNDM5OF5BMl5BanBnXkFtZTYwMzEzNTU2._V1_.jpg",
+              "height": 450,
+              "width": 355
+            }
+          }
+        ],
+        "for": ["The Devil's Holiday"],
+        "for_enriched": [
+          {
+            "name": "The Devil's Holiday",
+            "imdb_id": "tt0020823",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzFlZThiOGQtNzhjMi00ZDIyLTgxZjktNjQ3YTcyNzFiNzVlXkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg",
+              "height": 500,
+              "width": 313
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Norma Shearer"],
+        "target_enriched": [
+          {
+            "name": "Norma Shearer",
+            "imdb_id": "nm0790454",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg4OTI0MjU5NV5BMl5BanBnXkFtZTYwNjYxNjU2._V1_.jpg",
+              "height": 450,
+              "width": 351
+            }
+          }
+        ],
+        "for": ["Their Own Desire"],
+        "for_enriched": [
+          {
+            "name": "Their Own Desire",
+            "imdb_id": "tt0020488",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMzMDk5MDYxOF5BMl5BanBnXkFtZTcwMDI3NTk5Mw@@._V1_.jpg",
+              "height": 500,
+              "width": 353
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Ruth Chatterton"],
+        "target_enriched": [
+          {
+            "name": "Ruth Chatterton",
+            "imdb_id": "nm0154183",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTA0Nzk3NDA4NjdeQTJeQWpwZ15BbWU2MDM0MTEzNg@@._V1_.jpg",
+              "height": 450,
+              "width": 350
+            }
+          }
+        ],
+        "for": ["Sarah and Son"],
+        "for_enriched": [
+          {
+            "name": "Sarah and Son",
+            "imdb_id": "tt0021335",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjcxNzNjNzgtNjg1Mi00YzQ0LWE2ZjAtOTNmNGY5YmFlOWJmXkEyXkFqcGdeQXVyNTUyNzA5ODE@._V1_.jpg",
+              "height": 1200,
+              "width": 799
+            }
+          }
+        ],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Art Direction",
+    "normalized_name": "Best Achievement in Production Design",
+    "category_id": 2,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["King of Jazz"],
+        "target_enriched": [
+          {
+            "name": "King of Jazz",
+            "imdb_id": "tt0021025",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTAxODk3NzI3ODdeQTJeQWpwZ15BbWU4MDQwMDEwMjIx._V1_.jpg",
+              "height": 500,
+              "width": 338
+            }
+          }
+        ],
+        "for": ["Herman Rosse"],
+        "for_enriched": [
+          {
+            "name": "Herman Rosse",
+            "imdb_id": "nm0743983",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Bulldog Drummond"],
+        "target_enriched": [
+          {
+            "name": "Bulldog Drummond",
+            "imdb_id": "tt0019735",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI5Nzc2MTc5MF5BMl5BanBnXkFtZTgwNzM0NDAwMjE@._V1_.jpg",
+              "height": 500,
+              "width": 268
+            }
+          }
+        ],
+        "for": ["William Cameron Menzies"],
+        "for_enriched": [
+          {
+            "name": "William Cameron Menzies",
+            "imdb_id": "nm0580017",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTI0MGIyNTctYmFmMS00MDNlLWIxZjQtNzdjMmIyMmVlY2JkXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 514,
+              "width": 680
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Sally"],
+        "target_enriched": [
+          {
+            "name": "Sally",
+            "imdb_id": "tt0020358",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg5NDMzNjMwNF5BMl5BanBnXkFtZTgwODg1NTE3MzE@._V1_.jpg",
+              "height": 500,
+              "width": 332
+            }
+          }
+        ],
+        "for": ["Jack Okey"],
+        "for_enriched": [
+          {
+            "name": "Jack Okey",
+            "imdb_id": "nm0645605",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The Love Parade"],
+        "target_enriched": [
+          {
+            "name": "The Love Parade",
+            "imdb_id": "tt0020112",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDYyZDJlYTYtMjkwYS00MTM3LTkyNmUtOTZlZGUzMTUyMWE0XkEyXkFqcGdeQXVyNjA5MTAzODY@._V1_.jpg",
+              "height": 653,
+              "width": 470
+            }
+          }
+        ],
+        "for": ["Hans Dreier"],
+        "for_enriched": [
+          {
+            "name": "Hans Dreier",
+            "imdb_id": "nm0237417",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDk1ZGNlZGQtZjYwNS00OWU0LTkzOTAtZGNkMjAyN2U4Yzc0XkEyXkFqcGdeQXVyMjQwOTE1MzE@._V1_.jpg",
+              "height": 890,
+              "width": 803
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The Vagabond King"],
+        "target_enriched": [
+          {
+            "name": "The Vagabond King",
+            "imdb_id": "tt0021511",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjEyODUxOTI0M15BMl5BanBnXkFtZTgwOTM0NzkxMjE@._V1_.jpg",
+              "height": 500,
+              "width": 338
+            }
+          }
+        ],
+        "for": ["Hans Dreier"],
+        "for_enriched": [
+          {
+            "name": "Hans Dreier",
+            "imdb_id": "nm0237417",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDk1ZGNlZGQtZjYwNS00OWU0LTkzOTAtZGNkMjAyN2U4Yzc0XkEyXkFqcGdeQXVyMjQwOTE1MzE@._V1_.jpg",
+              "height": 890,
+              "width": 803
+            }
+          }
+        ],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Cinematography",
+    "normalized_name": "Best Achievement in Cinematography",
+    "category_id": 3,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["With Byrd at the South Pole"],
+        "target_enriched": [
+          {
+            "name": "With Byrd at the South Pole",
+            "imdb_id": "tt0020594",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzIwYWI5MGYtOWQ3OC00MDE2LWE1MjgtNjZmYjZiNGFiYTI5XkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_.jpg",
+              "height": 2632,
+              "width": 1837
+            }
+          }
+        ],
+        "for": ["Joseph T. Rucker", "Willard Van der Veer"],
+        "for_enriched": [
+          {
+            "name": "Joseph T. Rucker",
+            "imdb_id": "nm0748530",
+            "note": null,
+            "image": null
+          },
+          {
+            "name": "Willard Van der Veer",
+            "imdb_id": "nm0886447",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["All Quiet on the Western Front"],
+        "target_enriched": [
+          {
+            "name": "All Quiet on the Western Front",
+            "imdb_id": "tt0020629",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzg2MWQ4MDEtOGZlNi00MTg0LWIwMjQtYWY5NTQwYmUzMWNmXkEyXkFqcGdeQXVyMzg2MzE2OTE@._V1_.jpg",
+              "height": 1146,
+              "width": 744
+            }
+          }
+        ],
+        "for": ["Arthur Edeson"],
+        "for_enriched": [
+          {
+            "name": "Arthur Edeson",
+            "imdb_id": "nm0249186",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Anna Christie"],
+        "target_enriched": [
+          {
+            "name": "Anna Christie",
+            "imdb_id": "tt0020641",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUyNDA5MTY0M15BMl5BanBnXkFtZTgwMzA1NDIwMjE@._V1_.jpg",
+              "height": 1080,
+              "width": 718
+            }
+          }
+        ],
+        "for": ["William H. Daniels"],
+        "for_enriched": [
+          {
+            "name": "William H. Daniels",
+            "imdb_id": "nm0200125",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDgxMTYyNTMtMDMyZi00NDhjLTg4YWUtZDZhZGUwNDIyMTdmXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 318,
+              "width": 252
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Hell's Angels"],
+        "target_enriched": [
+          {
+            "name": "Hell's Angels",
+            "imdb_id": "tt0020960",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzMwODM4MzE2MF5BMl5BanBnXkFtZTgwNTc0NTgyMjE@._V1_.jpg",
+              "height": 1060,
+              "width": 707
+            }
+          }
+        ],
+        "for": ["Tony Gaudio", "Harry Perry"],
+        "for_enriched": [
+          {
+            "name": "Tony Gaudio",
+            "imdb_id": "nm0309974",
+            "note": null,
+            "image": null
+          },
+          {
+            "name": "Harry Perry",
+            "imdb_id": "nm0675091",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The Love Parade"],
+        "target_enriched": [
+          {
+            "name": "The Love Parade",
+            "imdb_id": "tt0020112",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDYyZDJlYTYtMjkwYS00MTM3LTkyNmUtOTZlZGUzMTUyMWE0XkEyXkFqcGdeQXVyNjA5MTAzODY@._V1_.jpg",
+              "height": 653,
+              "width": 470
+            }
+          }
+        ],
+        "for": ["Victor Milner"],
+        "for_enriched": [
+          {
+            "name": "Victor Milner",
+            "imdb_id": "nm0005800",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTgxYzhjZjQtZGNjNS00MDc5LTkyYjYtZWRmMGVmOTVlOWNiXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 816,
+              "width": 1030
+            }
+          }
+        ],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Director",
+    "normalized_name": "Best Achievement in Directing",
+    "category_id": 12,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["Lewis Milestone"],
+        "target_enriched": [
+          {
+            "name": "Lewis Milestone",
+            "imdb_id": "nm0587277",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzNhZDI4NGUtZjQ0MS00NWZlLWFiNzQtZWY5ZjcwZmRiODM0XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 6000,
+              "width": 4556
+            }
+          }
+        ],
+        "for": ["All Quiet on the Western Front"],
+        "for_enriched": [
+          {
+            "name": "All Quiet on the Western Front",
+            "imdb_id": "tt0020629",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzg2MWQ4MDEtOGZlNi00MTg0LWIwMjQtYWY5NTQwYmUzMWNmXkEyXkFqcGdeQXVyMzg2MzE2OTE@._V1_.jpg",
+              "height": 1146,
+              "width": 744
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Clarence Brown"],
+        "target_enriched": [
+          {
+            "name": "Clarence Brown",
+            "imdb_id": "nm0113284",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGU4MmMyYzktYjQwYi00NmFjLWI1NzktMGQ0NWQ0ODQ3OTQ4XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 761,
+              "width": 510
+            }
+          }
+        ],
+        "for": ["Romance"],
+        "for_enriched": [
+          {
+            "name": "Romance",
+            "imdb_id": "tt0021310",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTc4YjNhZmItNTNmMy00NTg1LTgyNzYtMjVmOTljMTM4YTgxXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 688,
+              "width": 454
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Clarence Brown"],
+        "target_enriched": [
+          {
+            "name": "Clarence Brown",
+            "imdb_id": "nm0113284",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGU4MmMyYzktYjQwYi00NmFjLWI1NzktMGQ0NWQ0ODQ3OTQ4XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 761,
+              "width": 510
+            }
+          }
+        ],
+        "for": ["Anna Christie"],
+        "for_enriched": [
+          {
+            "name": "Anna Christie",
+            "imdb_id": "tt0020641",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUyNDA5MTY0M15BMl5BanBnXkFtZTgwMzA1NDIwMjE@._V1_.jpg",
+              "height": 1080,
+              "width": 718
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Ernst Lubitsch"],
+        "target_enriched": [
+          {
+            "name": "Ernst Lubitsch",
+            "imdb_id": "nm0523932",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjEwMDI0ODEzMF5BMl5BanBnXkFtZTYwMDg2MjI2._V1_.jpg",
+              "height": 450,
+              "width": 359
+            }
+          }
+        ],
+        "for": ["The Love Parade"],
+        "for_enriched": [
+          {
+            "name": "The Love Parade",
+            "imdb_id": "tt0020112",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDYyZDJlYTYtMjkwYS00MTM3LTkyNmUtOTZlZGUzMTUyMWE0XkEyXkFqcGdeQXVyNjA5MTAzODY@._V1_.jpg",
+              "height": 653,
+              "width": 470
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["King Vidor"],
+        "target_enriched": [
+          {
+            "name": "King Vidor",
+            "imdb_id": "nm0896542",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGIxOTgxZjAtNmZlYy00MjA0LTk1ZjYtMjg5ZGRjMzliNDZjXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 400,
+              "width": 260
+            }
+          }
+        ],
+        "for": ["Hallelujah"],
+        "for_enriched": [
+          {
+            "name": "Hallelujah",
+            "imdb_id": "tt0019959",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjg3MzgxMDUtNzc4Yi00NGJiLThhYWMtNTdkMmUyNjQ3NzgwXkEyXkFqcGdeQXVyMjcxNjI4NTk@._V1_.jpg",
+              "height": 960,
+              "width": 640
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Robert Z. Leonard"],
+        "target_enriched": [
+          {
+            "name": "Robert Z. Leonard",
+            "imdb_id": "nm0502752",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTlmODNlZGYtNzc0ZC00OGI3LTk5YTMtM2NjYzRiNjc4NzdhXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 1351,
+              "width": 1063
+            }
+          }
+        ],
+        "for": ["The Divorcee"],
+        "for_enriched": [
+          {
+            "name": "The Divorcee",
+            "imdb_id": "tt0020827",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk5NzQzNjEwNV5BMl5BanBnXkFtZTgwNjA2NTAwMjE@._V1_.jpg",
+              "height": 500,
+              "width": 320
+            }
+          }
+        ],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Picture",
+    "normalized_name": "Best Picture",
+    "category_id": 13,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["All Quiet on the Western Front"],
+        "target_enriched": [
+          {
+            "name": "All Quiet on the Western Front",
+            "imdb_id": "tt0020629",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzg2MWQ4MDEtOGZlNi00MTg0LWIwMjQtYWY5NTQwYmUzMWNmXkEyXkFqcGdeQXVyMzg2MzE2OTE@._V1_.jpg",
+              "height": 1146,
+              "width": 744
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Disraeli"],
+        "target_enriched": [
+          {
+            "name": "Disraeli",
+            "imdb_id": "tt0019823",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc1NTAxOTExMV5BMl5BanBnXkFtZTgwMDk1MjgwMjE@._V1_.jpg",
+              "height": 500,
+              "width": 339
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The Big House"],
+        "target_enriched": [
+          {
+            "name": "The Big House",
+            "imdb_id": "tt0020686",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjBjMmU2NjQtOGJlYS00OTE4LWE4ZjYtNzlmMzJhYmE5MjA5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 851,
+              "width": 454
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The Divorcee"],
+        "target_enriched": [
+          {
+            "name": "The Divorcee",
+            "imdb_id": "tt0020827",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk5NzQzNjEwNV5BMl5BanBnXkFtZTgwNjA2NTAwMjE@._V1_.jpg",
+              "height": 500,
+              "width": 320
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The Love Parade"],
+        "target_enriched": [
+          {
+            "name": "The Love Parade",
+            "imdb_id": "tt0020112",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDYyZDJlYTYtMjkwYS00MTM3LTkyNmUtOTZlZGUzMTUyMWE0XkEyXkFqcGdeQXVyNjA5MTAzODY@._V1_.jpg",
+              "height": 653,
+              "width": 470
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Sound, Recording",
+    "normalized_name": "Best Sound, Recording",
+    "category_id": 15,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["The Big House"],
+        "target_enriched": [
+          {
+            "name": "The Big House",
+            "imdb_id": "tt0020686",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjBjMmU2NjQtOGJlYS00OTE4LWE4ZjYtNzlmMzJhYmE5MjA5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 851,
+              "width": 454
+            }
+          }
+        ],
+        "for": ["Douglas Shearer"],
+        "for_enriched": [
+          {
+            "name": "Douglas Shearer",
+            "imdb_id": "nm0790428",
+            "note": "(sound director)",
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmJjMWQxMTQtY2Q0Mi00YWI4LWE3MTItM2E4YzFjN2FhNGRlXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_.jpg",
+              "height": 1022,
+              "width": 792
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Raffles"],
+        "target_enriched": [
+          {
+            "name": "Raffles",
+            "imdb_id": "tt0021281",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjY2MDQ5MzMtODAxZi00NWUyLWJjYTUtMzc5YjQ1YWRiZjg0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 733,
+              "width": 500
+            }
+          }
+        ],
+        "for": ["Oscar Lagerstrom"],
+        "for_enriched": [
+          {
+            "name": "Oscar Lagerstrom",
+            "imdb_id": "nm0481264",
+            "note": "(sound director)",
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The Case of Sergeant Grischa"],
+        "target_enriched": [
+          {
+            "name": "The Case of Sergeant Grischa",
+            "imdb_id": "tt0020744",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjlkNTk5YjMtYTBjNi00YjA0LThjMWUtZTgxZDAzNGIyZDAwXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 825,
+              "width": 825
+            }
+          }
+        ],
+        "for": ["John E. Tribby"],
+        "for_enriched": [
+          {
+            "name": "John E. Tribby",
+            "imdb_id": "nm0872569",
+            "note": "(sound director)",
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The Love Parade"],
+        "target_enriched": [
+          {
+            "name": "The Love Parade",
+            "imdb_id": "tt0020112",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDYyZDJlYTYtMjkwYS00MTM3LTkyNmUtOTZlZGUzMTUyMWE0XkEyXkFqcGdeQXVyNjA5MTAzODY@._V1_.jpg",
+              "height": 653,
+              "width": 470
+            }
+          }
+        ],
+        "for": ["Franklin Hansen"],
+        "for_enriched": [
+          {
+            "name": "Franklin Hansen",
+            "imdb_id": "nm0360630",
+            "note": "(sound director)",
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The Song of the Flame"],
+        "target_enriched": [
+          {
+            "name": "The Song of the Flame",
+            "imdb_id": "tt0021404",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTBhMWRkYzktNGFhZS00ZDRjLWIwYWMtZWY1YjczZmI4MWE1XkEyXkFqcGdeQXVyMzI5NjUyMDM@._V1_.jpg",
+              "height": 450,
+              "width": 300
+            }
+          }
+        ],
+        "for": ["George Groves"],
+        "for_enriched": [
+          {
+            "name": "George Groves",
+            "imdb_id": "nm0344060",
+            "note": "(sound director)",
+            "image": null
+          }
+        ],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Writing, Achievement",
+    "normalized_name": "Best Writing, Achievement",
+    "category_id": 14,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["The Big House"],
+        "target_enriched": [
+          {
+            "name": "The Big House",
+            "imdb_id": "tt0020686",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjBjMmU2NjQtOGJlYS00OTE4LWE4ZjYtNzlmMzJhYmE5MjA5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 851,
+              "width": 454
+            }
+          }
+        ],
+        "for": ["Frances Marion"],
+        "for_enriched": [
+          {
+            "name": "Frances Marion",
+            "imdb_id": "nm0547966",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2Y3NjAzN2ItZmQ1Mi00NmZkLWE4NWYtYjc4M2JiMmExZTlkXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
+              "height": 1409,
+              "width": 1068
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["All Quiet on the Western Front"],
+        "target_enriched": [
+          {
+            "name": "All Quiet on the Western Front",
+            "imdb_id": "tt0020629",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzg2MWQ4MDEtOGZlNi00MTg0LWIwMjQtYWY5NTQwYmUzMWNmXkEyXkFqcGdeQXVyMzg2MzE2OTE@._V1_.jpg",
+              "height": 1146,
+              "width": 744
+            }
+          }
+        ],
+        "for": ["George Abbott", "Maxwell Anderson", "Del Andrews"],
+        "for_enriched": [
+          {
+            "name": "George Abbott",
+            "imdb_id": "nm0007973",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjBjMGY1OGEtZDQwMy00ZWMzLTkxOGEtOTk3MTcxZDMxODQ5XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
+              "height": 760,
+              "width": 660
+            }
+          },
+          {
+            "name": "Maxwell Anderson",
+            "imdb_id": "nm0027173",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2RmMTA2M2ItOWFmNS00NzhlLTg3ZjYtMzk2ZTliZDA2Yzc1XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_.jpg",
+              "height": 1217,
+              "width": 983
+            }
+          },
+          {
+            "name": "Del Andrews",
+            "imdb_id": "nm0028636",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Disraeli"],
+        "target_enriched": [
+          {
+            "name": "Disraeli",
+            "imdb_id": "tt0019823",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc1NTAxOTExMV5BMl5BanBnXkFtZTgwMDk1MjgwMjE@._V1_.jpg",
+              "height": 500,
+              "width": 339
+            }
+          }
+        ],
+        "for": ["Julien Josephson"],
+        "for_enriched": [
+          {
+            "name": "Julien Josephson",
+            "imdb_id": "nm0430756",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Street of Chance"],
+        "target_enriched": [
+          {
+            "name": "Street of Chance",
+            "imdb_id": "tt0021420",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzVhMDc2MDMtNTkxNC00YjYxLTlmODYtY2JkZWY4NWIwMjk2XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 581,
+              "width": 297
+            }
+          }
+        ],
+        "for": ["Howard Estabrook"],
+        "for_enriched": [
+          {
+            "name": "Howard Estabrook",
+            "imdb_id": "nm0261455",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjc5OTA2MDAtYzA0OC00NjkyLWJmNmEtNjU4MTM4OWIwODgyXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
+              "height": 533,
+              "width": 433
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The Divorcee"],
+        "target_enriched": [
+          {
+            "name": "The Divorcee",
+            "imdb_id": "tt0020827",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk5NzQzNjEwNV5BMl5BanBnXkFtZTgwNjA2NTAwMjE@._V1_.jpg",
+              "height": 500,
+              "width": 320
+            }
+          }
+        ],
+        "for": ["John Meehan"],
+        "for_enriched": [
+          {
+            "name": "John Meehan",
+            "imdb_id": "nm0576046",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": null
+      }
+    ]
+  }
 ]

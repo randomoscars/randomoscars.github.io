@@ -1,1184 +1,1056 @@
 [
-    {
-        "name": "Best Actor in a Leading Role",
-        "normalized_name": "Best Performance by an Actor in a Leading Role",
-        "category_id": 0,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "Emil Jannings"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Emil Jannings",
-                        "imdb_id": "nm0417837",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTg3NzYyNTQ1Nl5BMl5BanBnXkFtZTgwMjc4NjcwMzE@._V1_.jpg",
-                            "height": 1000,
-                            "width": 783
-                        }
-                    }
-                ],
-                "for": [
-                    "The Last Command",
-                    "The Way of All Flesh"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "The Last Command",
-                        "imdb_id": "tt0019071",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNGVhZmVkNmEtMjUyMC00YTFhLWIzMmEtNmQxMmE1NTBhMjQyXkEyXkFqcGdeQXVyMjgyNjk3MzE@._V1_.jpg",
-                            "height": 1218,
-                            "width": 800
-                        }
-                    },
-                    {
-                        "name": "The Way of All Flesh",
-                        "imdb_id": "tt0019553",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTU5OTIzNTEyNl5BMl5BanBnXkFtZTgwNzgxOTYyMjE@._V1_.jpg",
-                            "height": 500,
-                            "width": 332
-                        }
-                    }
-                ],
-                "notes": "Emil Jannings received his award early due to the fact that he was going home to Europe before the ceremony."
-            },
-            {
-                "won": false,
-                "target": [
-                    "Richard Barthelmess"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Richard Barthelmess",
-                        "imdb_id": "nm0001932",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTI0NDkzMTAyN15BMl5BanBnXkFtZTYwMjU2MzM2._V1_.jpg",
-                            "height": 370,
-                            "width": 450
-                        }
-                    }
-                ],
-                "for": [
-                    "The Patent Leather Kid"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "The Patent Leather Kid",
-                        "imdb_id": "tt0018253",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMjI4YTQ3MTItYTgzNy00YmJiLWExNTktMGIyNTVhMGY1ODQyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 400,
-                            "width": 254
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Richard Barthelmess"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Richard Barthelmess",
-                        "imdb_id": "nm0001932",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTI0NDkzMTAyN15BMl5BanBnXkFtZTYwMjU2MzM2._V1_.jpg",
-                            "height": 370,
-                            "width": 450
-                        }
-                    }
-                ],
-                "for": [
-                    "The Noose"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "The Noose",
-                        "imdb_id": "tt0019217",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNDM4YjRkMjktYmJjZS00Njc5LTljYjYtYjYzNTRlMmViMTljL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 655,
-                            "width": 425
-                        }
-                    }
-                ],
-                "notes": null
+  {
+    "name": "Best Actor in a Leading Role",
+    "normalized_name": "Best Performance by an Actor in a Leading Role",
+    "category_id": 0,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["Emil Jannings"],
+        "target_enriched": [
+          {
+            "name": "Emil Jannings",
+            "imdb_id": "nm0417837",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg3NzYyNTQ1Nl5BMl5BanBnXkFtZTgwMjc4NjcwMzE@._V1_.jpg",
+              "height": 1000,
+              "width": 783
             }
-        ]
-    },
-    {
-        "name": "Best Actress in a Leading Role",
-        "normalized_name": "Best Performance by an Actress in a Leading Role",
-        "category_id": 1,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "Janet Gaynor"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Janet Gaynor",
-                        "imdb_id": "nm0310980",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTM5MzE4Nzk0N15BMl5BanBnXkFtZTYwMjg0NzU2._V1_.jpg",
-                            "height": 450,
-                            "width": 344
-                        }
-                    }
-                ],
-                "for": [
-                    "7th Heaven",
-                    "Street Angel",
-                    "Sunrise"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "7th Heaven",
-                        "imdb_id": "tt0018379",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTk2MjUzMzk3OV5BMl5BanBnXkFtZTcwOTk1MjQxMw@@._V1_.jpg",
-                            "height": 500,
-                            "width": 329
-                        }
-                    },
-                    {
-                        "name": "Street Angel",
-                        "imdb_id": "tt0019429",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTk0NTU1NzM0Ml5BMl5BanBnXkFtZTgwNDEyOTYyMjE@._V1_.jpg",
-                            "height": 500,
-                            "width": 335
-                        }
-                    },
-                    {
-                        "name": "Sunrise",
-                        "imdb_id": "tt0018455",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNDVkYmYwM2ItNzRiMy00NWQ4LTlhMjMtNDI1ZDYyOGVmMzJjXkEyXkFqcGdeQXVyNTgzMzU5MDI@._V1_.jpg",
-                            "height": 894,
-                            "width": 580
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Gloria Swanson"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Gloria Swanson",
-                        "imdb_id": "nm0841797",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTU3NzIxOTUwOV5BMl5BanBnXkFtZTYwNDM5MTI2._V1_.jpg",
-                            "height": 450,
-                            "width": 316
-                        }
-                    }
-                ],
-                "for": [
-                    "Sadie Thompson"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Sadie Thompson",
-                        "imdb_id": "tt0019344",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BOTkyOTQ1NzU1Nl5BMl5BanBnXkFtZTgwODY1MTczMTE@._V1_.jpg",
-                            "height": 500,
-                            "width": 331
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Louise Dresser"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Louise Dresser",
-                        "imdb_id": "nm0237571",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNjM0ODAwMDk4N15BMl5BanBnXkFtZTgwNDEzODY3MTE@._V1_.jpg",
-                            "height": 1024,
-                            "width": 749
-                        }
-                    }
-                ],
-                "for": [
-                    "A Ship Comes In"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "A Ship Comes In",
-                        "imdb_id": "tt0018389",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BY2M3NTIzMjEtMjczMS00NTNhLTk4OTMtM2FiYzE2NWM3NDk2XkEyXkFqcGdeQXVyMjYzMDY1NTg@._V1_.jpg",
-                            "height": 463,
-                            "width": 582
-                        }
-                    }
-                ],
-                "notes": null
+          }
+        ],
+        "for": ["The Last Command", "The Way of All Flesh"],
+        "for_enriched": [
+          {
+            "name": "The Last Command",
+            "imdb_id": "tt0019071",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGVhZmVkNmEtMjUyMC00YTFhLWIzMmEtNmQxMmE1NTBhMjQyXkEyXkFqcGdeQXVyMjgyNjk3MzE@._V1_.jpg",
+              "height": 1218,
+              "width": 800
             }
-        ]
-    },
-    {
-        "name": "Best Art Direction",
-        "normalized_name": "Best Achievement in Production Design",
-        "category_id": 2,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "Tempest"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Tempest",
-                        "imdb_id": "tt0019451",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BOGEwMTg2NjQtZDE0Yy00ZjEwLTg1NzAtNGVlYzk5NWM4NDhiXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_.jpg",
-                            "height": 686,
-                            "width": 498
-                        }
-                    }
-                ],
-                "for": [
-                    "William Cameron Menzies"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "William Cameron Menzies",
-                        "imdb_id": "nm0580017",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZTI0MGIyNTctYmFmMS00MDNlLWIxZjQtNzdjMmIyMmVlY2JkXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 514,
-                            "width": 680
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": true,
-                "target": [
-                    "The Dove"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Dove",
-                        "imdb_id": "tt0017822",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYzVlYjZiYjgtYTFkMS00YThmLTk5YmMtYjc5YTFjZjM3YzAwXkEyXkFqcGdeQXVyNjcwNzI5MTM@._V1_.jpg",
-                            "height": 1500,
-                            "width": 988
-                        }
-                    }
-                ],
-                "for": [
-                    "William Cameron Menzies"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "William Cameron Menzies",
-                        "imdb_id": "nm0580017",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZTI0MGIyNTctYmFmMS00MDNlLWIxZjQtNzdjMmIyMmVlY2JkXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 514,
-                            "width": 680
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "7th Heaven"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "7th Heaven",
-                        "imdb_id": "tt0018379",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTk2MjUzMzk3OV5BMl5BanBnXkFtZTcwOTk1MjQxMw@@._V1_.jpg",
-                            "height": 500,
-                            "width": 329
-                        }
-                    }
-                ],
-                "for": [
-                    "Harry Oliver"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Harry Oliver",
-                        "imdb_id": "nm0646856",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Sunrise"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Sunrise",
-                        "imdb_id": "tt0018455",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNDVkYmYwM2ItNzRiMy00NWQ4LTlhMjMtNDI1ZDYyOGVmMzJjXkEyXkFqcGdeQXVyNTgzMzU5MDI@._V1_.jpg",
-                            "height": 894,
-                            "width": 580
-                        }
-                    }
-                ],
-                "for": [
-                    "Rochus Gliese"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Rochus Gliese",
-                        "imdb_id": "nm0322843",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": null
+          },
+          {
+            "name": "The Way of All Flesh",
+            "imdb_id": "tt0019553",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU5OTIzNTEyNl5BMl5BanBnXkFtZTgwNzgxOTYyMjE@._V1_.jpg",
+              "height": 500,
+              "width": 332
             }
-        ]
-    },
-    {
-        "name": "Best Cinematography",
-        "normalized_name": "Best Achievement in Cinematography",
-        "category_id": 3,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "Sunrise"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Sunrise",
-                        "imdb_id": "tt0018455",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNDVkYmYwM2ItNzRiMy00NWQ4LTlhMjMtNDI1ZDYyOGVmMzJjXkEyXkFqcGdeQXVyNTgzMzU5MDI@._V1_.jpg",
-                            "height": 894,
-                            "width": 580
-                        }
-                    }
-                ],
-                "for": [
-                    "Charles Rosher",
-                    "Karl Struss"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Charles Rosher",
-                        "imdb_id": "nm0003546",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BOGE2ZGIzYWUtN2EyNy00NjY3LTgyNGQtZDFiZTIzY2FjYWNjXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 1600,
-                            "width": 1120
-                        }
-                    },
-                    {
-                        "name": "Karl Struss",
-                        "imdb_id": "nm0835365",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMGIxM2Q1YTEtZDcyMS00ODQwLWFhMzEtM2E5ZjMyZTdiMDg0XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 707,
-                            "width": 590
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Sadie Thompson"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Sadie Thompson",
-                        "imdb_id": "tt0019344",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BOTkyOTQ1NzU1Nl5BMl5BanBnXkFtZTgwODY1MTczMTE@._V1_.jpg",
-                            "height": 500,
-                            "width": 331
-                        }
-                    }
-                ],
-                "for": [
-                    "George Barnes"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "George Barnes",
-                        "imdb_id": "nm0055604",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYWMyMDJkODYtNWVmZC00ZjA1LTllM2UtYmE5ZjgyZjgyMjczXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 620,
-                            "width": 599
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Devil Dancer"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Devil Dancer",
-                        "imdb_id": "tt0017806",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMjAxZjA5ZmUtNjBjZi00MDJhLTk1MDYtNTRjZGI5Y2E2ZjhjXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_.jpg",
-                            "height": 479,
-                            "width": 616
-                        }
-                    }
-                ],
-                "for": [
-                    "George Barnes"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "George Barnes",
-                        "imdb_id": "nm0055604",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYWMyMDJkODYtNWVmZC00ZjA1LTllM2UtYmE5ZjgyZjgyMjczXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 620,
-                            "width": 599
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Magic Flame"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Magic Flame",
-                        "imdb_id": "tt0018129",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNzI0M2Q2ZTQtMmFlYy00MDc4LWJkYjAtOTUzYmE4NzRlNDQ4XkEyXkFqcGdeQXVyNDY1NzU5NjY@._V1_.jpg",
-                            "height": 672,
-                            "width": 462
-                        }
-                    }
-                ],
-                "for": [
-                    "George Barnes"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "George Barnes",
-                        "imdb_id": "nm0055604",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYWMyMDJkODYtNWVmZC00ZjA1LTllM2UtYmE5ZjgyZjgyMjczXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 620,
-                            "width": 599
-                        }
-                    }
-                ],
-                "notes": null
+          }
+        ],
+        "notes": "Emil Jannings received his award early due to the fact that he was going home to Europe before the ceremony."
+      },
+      {
+        "won": false,
+        "target": ["Richard Barthelmess"],
+        "target_enriched": [
+          {
+            "name": "Richard Barthelmess",
+            "imdb_id": "nm0001932",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI0NDkzMTAyN15BMl5BanBnXkFtZTYwMjU2MzM2._V1_.jpg",
+              "height": 370,
+              "width": 450
             }
-        ]
-    },
-    {
-        "name": "Best Director, Comedy Picture",
-        "normalized_name": "Best Director, Comedy Picture",
-        "category_id": 4,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "Lewis Milestone"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Lewis Milestone",
-                        "imdb_id": "nm0587277",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMzNhZDI4NGUtZjQ0MS00NWZlLWFiNzQtZWY5ZjcwZmRiODM0XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 6000,
-                            "width": 4556
-                        }
-                    }
-                ],
-                "for": [
-                    "Two Arabian Knights"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Two Arabian Knights",
-                        "imdb_id": "tt0018515",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNTJiNGE2M2MtODUyOS00OTI0LTgzODEtYjc0M2UwZTNjNWQzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 2048,
-                            "width": 801
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Ted Wilde"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Ted Wilde",
-                        "imdb_id": "nm0928514",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNjBjMjc0OGItYzA2Yy00MjQ0LWFkYmItYWYxMjZjYjgxODY3XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
-                            "height": 1600,
-                            "width": 1225
-                        }
-                    }
-                ],
-                "for": [
-                    "Speedy"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Speedy",
-                        "imdb_id": "tt0019412",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTg0ODM0NzEwN15BMl5BanBnXkFtZTgwMzgzODYwMjE@._V1_.jpg",
-                            "height": 1060,
-                            "width": 694
-                        }
-                    }
-                ],
-                "notes": null
+          }
+        ],
+        "for": ["The Patent Leather Kid"],
+        "for_enriched": [
+          {
+            "name": "The Patent Leather Kid",
+            "imdb_id": "tt0018253",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI4YTQ3MTItYTgzNy00YmJiLWExNTktMGIyNTVhMGY1ODQyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 400,
+              "width": 254
             }
-        ]
-    },
-    {
-        "name": "Best Director, Dramatic Picture",
-        "normalized_name": "Best Director, Dramatic Picture",
-        "category_id": 5,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "Frank Borzage"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Frank Borzage",
-                        "imdb_id": "nm0097648",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNmM1MWM2OGQtMWRmOS00ZDg3LTg1ODUtN2JhNmMzNzc2MzJkXkEyXkFqcGdeQXVyNTUyMTMyMDg@._V1_.jpg",
-                            "height": 441,
-                            "width": 320
-                        }
-                    }
-                ],
-                "for": [
-                    "7th Heaven"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "7th Heaven",
-                        "imdb_id": "tt0018379",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTk2MjUzMzk3OV5BMl5BanBnXkFtZTcwOTk1MjQxMw@@._V1_.jpg",
-                            "height": 500,
-                            "width": 329
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Herbert Brenon"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Herbert Brenon",
-                        "imdb_id": "nm0107543",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZDA4OWI0ZWEtNmEzZS00ZjgzLWI3ZWQtMGY4YTZmN2JmNmU2XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
-                            "height": 1559,
-                            "width": 1368
-                        }
-                    }
-                ],
-                "for": [
-                    "Sorrell and Son"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Sorrell and Son",
-                        "imdb_id": "tt0018429",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BM2Y2NzhmMmYtMDU4OC00ZTE3LTk2MTgtZjE3ZjM5ODQyNjc0XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 400,
-                            "width": 254
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "King Vidor"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "King Vidor",
-                        "imdb_id": "nm0896542",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNGIxOTgxZjAtNmZlYy00MjA0LTk1ZjYtMjg5ZGRjMzliNDZjXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 400,
-                            "width": 260
-                        }
-                    }
-                ],
-                "for": [
-                    "The Crowd"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "The Crowd",
-                        "imdb_id": "tt0018806",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNjhhN2QzYzEtNmE3Ny00OWU3LWEwNmUtYTQ1ZmRjNWQ2YzMyXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
-                            "height": 528,
-                            "width": 350
-                        }
-                    }
-                ],
-                "notes": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Richard Barthelmess"],
+        "target_enriched": [
+          {
+            "name": "Richard Barthelmess",
+            "imdb_id": "nm0001932",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI0NDkzMTAyN15BMl5BanBnXkFtZTYwMjU2MzM2._V1_.jpg",
+              "height": 370,
+              "width": 450
             }
-        ]
-    },
-    {
-        "name": "Best Effects, Engineering Effects",
-        "normalized_name": "Best Special Effects",
-        "category_id": 6,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "Wings"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Wings",
-                        "imdb_id": "tt0018578",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYTI1YjgzZmMtZmIyYy00YTkwLTgyOWEtOTVlNTFkZmMzNTk3XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
-                            "height": 1500,
-                            "width": 990
-                        }
-                    }
-                ],
-                "for": [
-                    "Roy Pomeroy"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Roy Pomeroy",
-                        "imdb_id": "nm0690120",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Nugent Slaughter"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Nugent Slaughter",
-                        "imdb_id": "nm0805521",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Ralph Hammeras"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Ralph Hammeras",
-                        "imdb_id": "nm0358518",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
+          }
+        ],
+        "for": ["The Noose"],
+        "for_enriched": [
+          {
+            "name": "The Noose",
+            "imdb_id": "tt0019217",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDM4YjRkMjktYmJjZS00Njc5LTljYjYtYjYzNTRlMmViMTljL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 655,
+              "width": 425
             }
-        ]
-    },
-    {
-        "name": "Best Picture, Production",
-        "normalized_name": "Best Picture, Production",
-        "category_id": 7,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "Wings"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Wings",
-                        "imdb_id": "tt0018578",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYTI1YjgzZmMtZmIyYy00YTkwLTgyOWEtOTVlNTFkZmMzNTk3XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
-                            "height": 1500,
-                            "width": 990
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "7th Heaven"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "7th Heaven",
-                        "imdb_id": "tt0018379",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTk2MjUzMzk3OV5BMl5BanBnXkFtZTcwOTk1MjQxMw@@._V1_.jpg",
-                            "height": 500,
-                            "width": 329
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Racket"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Racket",
-                        "imdb_id": "tt0019304",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTk5Mzc0MDY2N15BMl5BanBnXkFtZTgwMTg4MjQ3NDE@._V1_.jpg",
-                            "height": 500,
-                            "width": 330
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
+          }
+        ],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Actress in a Leading Role",
+    "normalized_name": "Best Performance by an Actress in a Leading Role",
+    "category_id": 1,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["Janet Gaynor"],
+        "target_enriched": [
+          {
+            "name": "Janet Gaynor",
+            "imdb_id": "nm0310980",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM5MzE4Nzk0N15BMl5BanBnXkFtZTYwMjg0NzU2._V1_.jpg",
+              "height": 450,
+              "width": 344
             }
-        ]
-    },
-    {
-        "name": "Best Picture, Unique and Artistic Production",
-        "normalized_name": "Best Picture, Unique and Artistic Production",
-        "category_id": 8,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "Sunrise"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Sunrise",
-                        "imdb_id": "tt0018455",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNDVkYmYwM2ItNzRiMy00NWQ4LTlhMjMtNDI1ZDYyOGVmMzJjXkEyXkFqcGdeQXVyNTgzMzU5MDI@._V1_.jpg",
-                            "height": 894,
-                            "width": 580
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Chang: A Drama of the Wilderness"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Chang: A Drama of the Wilderness",
-                        "imdb_id": "tt0017743",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMGMzZmQ4MWQtZWZkOS00Nzg5LTgwODItYmU0MTFhMzBjZjkwXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_.jpg",
-                            "height": 700,
-                            "width": 474
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Crowd"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Crowd",
-                        "imdb_id": "tt0018806",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNjhhN2QzYzEtNmE3Ny00OWU3LWEwNmUtYTQ1ZmRjNWQ2YzMyXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
-                            "height": 528,
-                            "width": 350
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
+          }
+        ],
+        "for": ["7th Heaven", "Street Angel", "Sunrise"],
+        "for_enriched": [
+          {
+            "name": "7th Heaven",
+            "imdb_id": "tt0018379",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk2MjUzMzk3OV5BMl5BanBnXkFtZTcwOTk1MjQxMw@@._V1_.jpg",
+              "height": 500,
+              "width": 329
             }
-        ]
-    },
-    {
-        "name": "Best Writing, Adaptation",
-        "normalized_name": "Best Adapted Screenplay",
-        "category_id": 9,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "7th Heaven"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "7th Heaven",
-                        "imdb_id": "tt0018379",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTk2MjUzMzk3OV5BMl5BanBnXkFtZTcwOTk1MjQxMw@@._V1_.jpg",
-                            "height": 500,
-                            "width": 329
-                        }
-                    }
-                ],
-                "for": [
-                    "Benjamin Glazer"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Benjamin Glazer",
-                        "imdb_id": "nm0322227",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Glorious Betsy"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Glorious Betsy",
-                        "imdb_id": "tt0018945",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BN2M1YmRjNjItNDUyOS00MWM3LTlhZGQtNmVhYzg0MTgzNGNhXkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg",
-                            "height": 876,
-                            "width": 560
-                        }
-                    }
-                ],
-                "for": [
-                    "Anthony Coldeway"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Anthony Coldeway",
-                        "imdb_id": "nm0170401",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Jazz Singer"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Jazz Singer",
-                        "imdb_id": "tt0018037",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BOTUxNTk0MjEtZjQ5Yi00ODBhLTlkY2YtMDJhOWZmNDM1YWJkXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_.jpg",
-                            "height": 1440,
-                            "width": 960
-                        }
-                    }
-                ],
-                "for": [
-                    "Alfred A. Cohn"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Alfred A. Cohn",
-                        "imdb_id": "nm0169879",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": null
+          },
+          {
+            "name": "Street Angel",
+            "imdb_id": "tt0019429",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk0NTU1NzM0Ml5BMl5BanBnXkFtZTgwNDEyOTYyMjE@._V1_.jpg",
+              "height": 500,
+              "width": 335
             }
-        ]
-    },
-    {
-        "name": "Best Writing, Original Story",
-        "normalized_name": "Best Original Screenplay",
-        "category_id": 10,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "Underworld"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Underworld",
-                        "imdb_id": "tt0018526",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNTJmZmI3OWMtZGQyZS00ZmZiLTgyNDgtMDdkNzYxZWJlMzEwXkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_.jpg",
-                            "height": 768,
-                            "width": 504
-                        }
-                    }
-                ],
-                "for": [
-                    "Ben Hecht"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Ben Hecht",
-                        "imdb_id": "nm0372942",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNGMwMGI2NmItYjkwYy00N2FkLTlmNzUtNDI2YjU0ZTk1YzhlXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 1800,
-                            "width": 1422
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Last Command"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Last Command",
-                        "imdb_id": "tt0019071",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNGVhZmVkNmEtMjUyMC00YTFhLWIzMmEtNmQxMmE1NTBhMjQyXkEyXkFqcGdeQXVyMjgyNjk3MzE@._V1_.jpg",
-                            "height": 1218,
-                            "width": 800
-                        }
-                    }
-                ],
-                "for": [
-                    "Lajos Bir\u00f3"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Lajos Bir\u00f3",
-                        "imdb_id": "nm0083742",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNTg3MzZjMTAtMWI1Ny00OThjLWEwMzgtZDQ3NzllZTJlM2RjXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
-                            "height": 592,
-                            "width": 326
-                        }
-                    }
-                ],
-                "notes": null
+          },
+          {
+            "name": "Sunrise",
+            "imdb_id": "tt0018455",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDVkYmYwM2ItNzRiMy00NWQ4LTlhMjMtNDI1ZDYyOGVmMzJjXkEyXkFqcGdeQXVyNTgzMzU5MDI@._V1_.jpg",
+              "height": 894,
+              "width": 580
             }
-        ]
-    },
-    {
-        "name": "Best Writing, Title Writing",
-        "normalized_name": "Best Writing, Title Writing",
-        "category_id": 11,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "Joseph Farnham"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Joseph Farnham",
-                        "imdb_id": "nm0267868",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYWE3YmYyYTMtNmRhMS00OGYyLThmODUtZmNhOGI0NzY3NGRlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg",
-                            "height": 689,
-                            "width": 554
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "George Marion Jr."
-                ],
-                "target_enriched": [
-                    {
-                        "name": "George Marion Jr.",
-                        "imdb_id": "nm0547938",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Private Life of Helen of Troy"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Private Life of Helen of Troy",
-                        "imdb_id": "tt0017979",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYzFjZmM2NGEtNzZkMC00MzMwLWI0YTktOTZmZTBhMDUzZjdlXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_.jpg",
-                            "height": 583,
-                            "width": 750
-                        }
-                    }
-                ],
-                "for": [
-                    "Gerald C. Duffy"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Gerald C. Duffy",
-                        "imdb_id": "nm0240534",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Gloria Swanson"],
+        "target_enriched": [
+          {
+            "name": "Gloria Swanson",
+            "imdb_id": "nm0841797",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU3NzIxOTUwOV5BMl5BanBnXkFtZTYwNDM5MTI2._V1_.jpg",
+              "height": 450,
+              "width": 316
             }
-        ]
-    }
+          }
+        ],
+        "for": ["Sadie Thompson"],
+        "for_enriched": [
+          {
+            "name": "Sadie Thompson",
+            "imdb_id": "tt0019344",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTkyOTQ1NzU1Nl5BMl5BanBnXkFtZTgwODY1MTczMTE@._V1_.jpg",
+              "height": 500,
+              "width": 331
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Louise Dresser"],
+        "target_enriched": [
+          {
+            "name": "Louise Dresser",
+            "imdb_id": "nm0237571",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjM0ODAwMDk4N15BMl5BanBnXkFtZTgwNDEzODY3MTE@._V1_.jpg",
+              "height": 1024,
+              "width": 749
+            }
+          }
+        ],
+        "for": ["A Ship Comes In"],
+        "for_enriched": [
+          {
+            "name": "A Ship Comes In",
+            "imdb_id": "tt0018389",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2M3NTIzMjEtMjczMS00NTNhLTk4OTMtM2FiYzE2NWM3NDk2XkEyXkFqcGdeQXVyMjYzMDY1NTg@._V1_.jpg",
+              "height": 463,
+              "width": 582
+            }
+          }
+        ],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Art Direction",
+    "normalized_name": "Best Achievement in Production Design",
+    "category_id": 2,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["Tempest"],
+        "target_enriched": [
+          {
+            "name": "Tempest",
+            "imdb_id": "tt0019451",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGEwMTg2NjQtZDE0Yy00ZjEwLTg1NzAtNGVlYzk5NWM4NDhiXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_.jpg",
+              "height": 686,
+              "width": 498
+            }
+          }
+        ],
+        "for": ["William Cameron Menzies"],
+        "for_enriched": [
+          {
+            "name": "William Cameron Menzies",
+            "imdb_id": "nm0580017",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTI0MGIyNTctYmFmMS00MDNlLWIxZjQtNzdjMmIyMmVlY2JkXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 514,
+              "width": 680
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": true,
+        "target": ["The Dove"],
+        "target_enriched": [
+          {
+            "name": "The Dove",
+            "imdb_id": "tt0017822",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzVlYjZiYjgtYTFkMS00YThmLTk5YmMtYjc5YTFjZjM3YzAwXkEyXkFqcGdeQXVyNjcwNzI5MTM@._V1_.jpg",
+              "height": 1500,
+              "width": 988
+            }
+          }
+        ],
+        "for": ["William Cameron Menzies"],
+        "for_enriched": [
+          {
+            "name": "William Cameron Menzies",
+            "imdb_id": "nm0580017",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTI0MGIyNTctYmFmMS00MDNlLWIxZjQtNzdjMmIyMmVlY2JkXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 514,
+              "width": 680
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["7th Heaven"],
+        "target_enriched": [
+          {
+            "name": "7th Heaven",
+            "imdb_id": "tt0018379",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk2MjUzMzk3OV5BMl5BanBnXkFtZTcwOTk1MjQxMw@@._V1_.jpg",
+              "height": 500,
+              "width": 329
+            }
+          }
+        ],
+        "for": ["Harry Oliver"],
+        "for_enriched": [
+          {
+            "name": "Harry Oliver",
+            "imdb_id": "nm0646856",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Sunrise"],
+        "target_enriched": [
+          {
+            "name": "Sunrise",
+            "imdb_id": "tt0018455",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDVkYmYwM2ItNzRiMy00NWQ4LTlhMjMtNDI1ZDYyOGVmMzJjXkEyXkFqcGdeQXVyNTgzMzU5MDI@._V1_.jpg",
+              "height": 894,
+              "width": 580
+            }
+          }
+        ],
+        "for": ["Rochus Gliese"],
+        "for_enriched": [
+          {
+            "name": "Rochus Gliese",
+            "imdb_id": "nm0322843",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Cinematography",
+    "normalized_name": "Best Achievement in Cinematography",
+    "category_id": 3,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["Sunrise"],
+        "target_enriched": [
+          {
+            "name": "Sunrise",
+            "imdb_id": "tt0018455",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDVkYmYwM2ItNzRiMy00NWQ4LTlhMjMtNDI1ZDYyOGVmMzJjXkEyXkFqcGdeQXVyNTgzMzU5MDI@._V1_.jpg",
+              "height": 894,
+              "width": 580
+            }
+          }
+        ],
+        "for": ["Charles Rosher", "Karl Struss"],
+        "for_enriched": [
+          {
+            "name": "Charles Rosher",
+            "imdb_id": "nm0003546",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGE2ZGIzYWUtN2EyNy00NjY3LTgyNGQtZDFiZTIzY2FjYWNjXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 1600,
+              "width": 1120
+            }
+          },
+          {
+            "name": "Karl Struss",
+            "imdb_id": "nm0835365",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGIxM2Q1YTEtZDcyMS00ODQwLWFhMzEtM2E5ZjMyZTdiMDg0XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 707,
+              "width": 590
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Sadie Thompson"],
+        "target_enriched": [
+          {
+            "name": "Sadie Thompson",
+            "imdb_id": "tt0019344",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTkyOTQ1NzU1Nl5BMl5BanBnXkFtZTgwODY1MTczMTE@._V1_.jpg",
+              "height": 500,
+              "width": 331
+            }
+          }
+        ],
+        "for": ["George Barnes"],
+        "for_enriched": [
+          {
+            "name": "George Barnes",
+            "imdb_id": "nm0055604",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWMyMDJkODYtNWVmZC00ZjA1LTllM2UtYmE5ZjgyZjgyMjczXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 620,
+              "width": 599
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The Devil Dancer"],
+        "target_enriched": [
+          {
+            "name": "The Devil Dancer",
+            "imdb_id": "tt0017806",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAxZjA5ZmUtNjBjZi00MDJhLTk1MDYtNTRjZGI5Y2E2ZjhjXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_.jpg",
+              "height": 479,
+              "width": 616
+            }
+          }
+        ],
+        "for": ["George Barnes"],
+        "for_enriched": [
+          {
+            "name": "George Barnes",
+            "imdb_id": "nm0055604",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWMyMDJkODYtNWVmZC00ZjA1LTllM2UtYmE5ZjgyZjgyMjczXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 620,
+              "width": 599
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The Magic Flame"],
+        "target_enriched": [
+          {
+            "name": "The Magic Flame",
+            "imdb_id": "tt0018129",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzI0M2Q2ZTQtMmFlYy00MDc4LWJkYjAtOTUzYmE4NzRlNDQ4XkEyXkFqcGdeQXVyNDY1NzU5NjY@._V1_.jpg",
+              "height": 672,
+              "width": 462
+            }
+          }
+        ],
+        "for": ["George Barnes"],
+        "for_enriched": [
+          {
+            "name": "George Barnes",
+            "imdb_id": "nm0055604",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWMyMDJkODYtNWVmZC00ZjA1LTllM2UtYmE5ZjgyZjgyMjczXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 620,
+              "width": 599
+            }
+          }
+        ],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Director, Comedy Picture",
+    "normalized_name": "Best Director, Comedy Picture",
+    "category_id": 4,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["Lewis Milestone"],
+        "target_enriched": [
+          {
+            "name": "Lewis Milestone",
+            "imdb_id": "nm0587277",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzNhZDI4NGUtZjQ0MS00NWZlLWFiNzQtZWY5ZjcwZmRiODM0XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 6000,
+              "width": 4556
+            }
+          }
+        ],
+        "for": ["Two Arabian Knights"],
+        "for_enriched": [
+          {
+            "name": "Two Arabian Knights",
+            "imdb_id": "tt0018515",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTJiNGE2M2MtODUyOS00OTI0LTgzODEtYjc0M2UwZTNjNWQzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 2048,
+              "width": 801
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Ted Wilde"],
+        "target_enriched": [
+          {
+            "name": "Ted Wilde",
+            "imdb_id": "nm0928514",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjBjMjc0OGItYzA2Yy00MjQ0LWFkYmItYWYxMjZjYjgxODY3XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
+              "height": 1600,
+              "width": 1225
+            }
+          }
+        ],
+        "for": ["Speedy"],
+        "for_enriched": [
+          {
+            "name": "Speedy",
+            "imdb_id": "tt0019412",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg0ODM0NzEwN15BMl5BanBnXkFtZTgwMzgzODYwMjE@._V1_.jpg",
+              "height": 1060,
+              "width": 694
+            }
+          }
+        ],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Director, Dramatic Picture",
+    "normalized_name": "Best Director, Dramatic Picture",
+    "category_id": 5,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["Frank Borzage"],
+        "target_enriched": [
+          {
+            "name": "Frank Borzage",
+            "imdb_id": "nm0097648",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmM1MWM2OGQtMWRmOS00ZDg3LTg1ODUtN2JhNmMzNzc2MzJkXkEyXkFqcGdeQXVyNTUyMTMyMDg@._V1_.jpg",
+              "height": 441,
+              "width": 320
+            }
+          }
+        ],
+        "for": ["7th Heaven"],
+        "for_enriched": [
+          {
+            "name": "7th Heaven",
+            "imdb_id": "tt0018379",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk2MjUzMzk3OV5BMl5BanBnXkFtZTcwOTk1MjQxMw@@._V1_.jpg",
+              "height": 500,
+              "width": 329
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Herbert Brenon"],
+        "target_enriched": [
+          {
+            "name": "Herbert Brenon",
+            "imdb_id": "nm0107543",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDA4OWI0ZWEtNmEzZS00ZjgzLWI3ZWQtMGY4YTZmN2JmNmU2XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
+              "height": 1559,
+              "width": 1368
+            }
+          }
+        ],
+        "for": ["Sorrell and Son"],
+        "for_enriched": [
+          {
+            "name": "Sorrell and Son",
+            "imdb_id": "tt0018429",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2Y2NzhmMmYtMDU4OC00ZTE3LTk2MTgtZjE3ZjM5ODQyNjc0XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 400,
+              "width": 254
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["King Vidor"],
+        "target_enriched": [
+          {
+            "name": "King Vidor",
+            "imdb_id": "nm0896542",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGIxOTgxZjAtNmZlYy00MjA0LTk1ZjYtMjg5ZGRjMzliNDZjXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 400,
+              "width": 260
+            }
+          }
+        ],
+        "for": ["The Crowd"],
+        "for_enriched": [
+          {
+            "name": "The Crowd",
+            "imdb_id": "tt0018806",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjhhN2QzYzEtNmE3Ny00OWU3LWEwNmUtYTQ1ZmRjNWQ2YzMyXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+              "height": 528,
+              "width": 350
+            }
+          }
+        ],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Effects, Engineering Effects",
+    "normalized_name": "Best Special Effects",
+    "category_id": 6,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["Wings"],
+        "target_enriched": [
+          {
+            "name": "Wings",
+            "imdb_id": "tt0018578",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTI1YjgzZmMtZmIyYy00YTkwLTgyOWEtOTVlNTFkZmMzNTk3XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+              "height": 1500,
+              "width": 990
+            }
+          }
+        ],
+        "for": ["Roy Pomeroy"],
+        "for_enriched": [
+          {
+            "name": "Roy Pomeroy",
+            "imdb_id": "nm0690120",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Nugent Slaughter"],
+        "target_enriched": [
+          {
+            "name": "Nugent Slaughter",
+            "imdb_id": "nm0805521",
+            "note": null,
+            "image": null
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Ralph Hammeras"],
+        "target_enriched": [
+          {
+            "name": "Ralph Hammeras",
+            "imdb_id": "nm0358518",
+            "note": null,
+            "image": null
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Picture, Production",
+    "normalized_name": "Best Picture, Production",
+    "category_id": 7,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["Wings"],
+        "target_enriched": [
+          {
+            "name": "Wings",
+            "imdb_id": "tt0018578",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTI1YjgzZmMtZmIyYy00YTkwLTgyOWEtOTVlNTFkZmMzNTk3XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+              "height": 1500,
+              "width": 990
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["7th Heaven"],
+        "target_enriched": [
+          {
+            "name": "7th Heaven",
+            "imdb_id": "tt0018379",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk2MjUzMzk3OV5BMl5BanBnXkFtZTcwOTk1MjQxMw@@._V1_.jpg",
+              "height": 500,
+              "width": 329
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The Racket"],
+        "target_enriched": [
+          {
+            "name": "The Racket",
+            "imdb_id": "tt0019304",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk5Mzc0MDY2N15BMl5BanBnXkFtZTgwMTg4MjQ3NDE@._V1_.jpg",
+              "height": 500,
+              "width": 330
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Picture, Unique and Artistic Production",
+    "normalized_name": "Best Picture, Unique and Artistic Production",
+    "category_id": 8,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["Sunrise"],
+        "target_enriched": [
+          {
+            "name": "Sunrise",
+            "imdb_id": "tt0018455",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDVkYmYwM2ItNzRiMy00NWQ4LTlhMjMtNDI1ZDYyOGVmMzJjXkEyXkFqcGdeQXVyNTgzMzU5MDI@._V1_.jpg",
+              "height": 894,
+              "width": 580
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Chang: A Drama of the Wilderness"],
+        "target_enriched": [
+          {
+            "name": "Chang: A Drama of the Wilderness",
+            "imdb_id": "tt0017743",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGMzZmQ4MWQtZWZkOS00Nzg5LTgwODItYmU0MTFhMzBjZjkwXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_.jpg",
+              "height": 700,
+              "width": 474
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The Crowd"],
+        "target_enriched": [
+          {
+            "name": "The Crowd",
+            "imdb_id": "tt0018806",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjhhN2QzYzEtNmE3Ny00OWU3LWEwNmUtYTQ1ZmRjNWQ2YzMyXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+              "height": 528,
+              "width": 350
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Writing, Adaptation",
+    "normalized_name": "Best Adapted Screenplay",
+    "category_id": 9,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["7th Heaven"],
+        "target_enriched": [
+          {
+            "name": "7th Heaven",
+            "imdb_id": "tt0018379",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk2MjUzMzk3OV5BMl5BanBnXkFtZTcwOTk1MjQxMw@@._V1_.jpg",
+              "height": 500,
+              "width": 329
+            }
+          }
+        ],
+        "for": ["Benjamin Glazer"],
+        "for_enriched": [
+          {
+            "name": "Benjamin Glazer",
+            "imdb_id": "nm0322227",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Glorious Betsy"],
+        "target_enriched": [
+          {
+            "name": "Glorious Betsy",
+            "imdb_id": "tt0018945",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2M1YmRjNjItNDUyOS00MWM3LTlhZGQtNmVhYzg0MTgzNGNhXkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg",
+              "height": 876,
+              "width": 560
+            }
+          }
+        ],
+        "for": ["Anthony Coldeway"],
+        "for_enriched": [
+          {
+            "name": "Anthony Coldeway",
+            "imdb_id": "nm0170401",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The Jazz Singer"],
+        "target_enriched": [
+          {
+            "name": "The Jazz Singer",
+            "imdb_id": "tt0018037",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTUxNTk0MjEtZjQ5Yi00ODBhLTlkY2YtMDJhOWZmNDM1YWJkXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_.jpg",
+              "height": 1440,
+              "width": 960
+            }
+          }
+        ],
+        "for": ["Alfred A. Cohn"],
+        "for_enriched": [
+          {
+            "name": "Alfred A. Cohn",
+            "imdb_id": "nm0169879",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Writing, Original Story",
+    "normalized_name": "Best Original Screenplay",
+    "category_id": 10,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["Underworld"],
+        "target_enriched": [
+          {
+            "name": "Underworld",
+            "imdb_id": "tt0018526",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTJmZmI3OWMtZGQyZS00ZmZiLTgyNDgtMDdkNzYxZWJlMzEwXkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_.jpg",
+              "height": 768,
+              "width": 504
+            }
+          }
+        ],
+        "for": ["Ben Hecht"],
+        "for_enriched": [
+          {
+            "name": "Ben Hecht",
+            "imdb_id": "nm0372942",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGMwMGI2NmItYjkwYy00N2FkLTlmNzUtNDI2YjU0ZTk1YzhlXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 1800,
+              "width": 1422
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The Last Command"],
+        "target_enriched": [
+          {
+            "name": "The Last Command",
+            "imdb_id": "tt0019071",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGVhZmVkNmEtMjUyMC00YTFhLWIzMmEtNmQxMmE1NTBhMjQyXkEyXkFqcGdeQXVyMjgyNjk3MzE@._V1_.jpg",
+              "height": 1218,
+              "width": 800
+            }
+          }
+        ],
+        "for": ["Lajos Bir\u00f3"],
+        "for_enriched": [
+          {
+            "name": "Lajos Bir\u00f3",
+            "imdb_id": "nm0083742",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTg3MzZjMTAtMWI1Ny00OThjLWEwMzgtZDQ3NzllZTJlM2RjXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
+              "height": 592,
+              "width": 326
+            }
+          }
+        ],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Writing, Title Writing",
+    "normalized_name": "Best Writing, Title Writing",
+    "category_id": 11,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["Joseph Farnham"],
+        "target_enriched": [
+          {
+            "name": "Joseph Farnham",
+            "imdb_id": "nm0267868",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWE3YmYyYTMtNmRhMS00OGYyLThmODUtZmNhOGI0NzY3NGRlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg",
+              "height": 689,
+              "width": 554
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["George Marion Jr."],
+        "target_enriched": [
+          {
+            "name": "George Marion Jr.",
+            "imdb_id": "nm0547938",
+            "note": null,
+            "image": null
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The Private Life of Helen of Troy"],
+        "target_enriched": [
+          {
+            "name": "The Private Life of Helen of Troy",
+            "imdb_id": "tt0017979",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzFjZmM2NGEtNzZkMC00MzMwLWI0YTktOTZmZTBhMDUzZjdlXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_.jpg",
+              "height": 583,
+              "width": 750
+            }
+          }
+        ],
+        "for": ["Gerald C. Duffy"],
+        "for_enriched": [
+          {
+            "name": "Gerald C. Duffy",
+            "imdb_id": "nm0240534",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": null
+      }
+    ]
+  }
 ]

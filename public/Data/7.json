@@ -1,2046 +1,1814 @@
 [
-    {
-        "name": "Best Actor in a Leading Role",
-        "normalized_name": "Best Performance by an Actor in a Leading Role",
-        "category_id": 0,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "Clark Gable"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Clark Gable",
-                        "imdb_id": "nm0000022",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMjE1NDY5MjM5Ml5BMl5BanBnXkFtZTYwNTU1OTQ2._V1_.jpg",
-                            "height": 450,
-                            "width": 346
-                        }
-                    }
-                ],
-                "for": [
-                    "It Happened One Night"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "It Happened One Night",
-                        "imdb_id": "tt0025316",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYzJmMWE5NjAtNWMyZS00NmFiLWIwMDgtZDE2NzczYWFhNzIzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
-                            "height": 1440,
-                            "width": 960
-                        }
-                    }
-                ],
-                "notes": "In 1996, Steven Spielberg anonymously purchased Clark Gable's Oscar to protect it from further commercial exploitation, gave it back to the Academy of Motion Picture Arts and Sciences, commenting that he could think of \"no better sanctuary for Gable's only Oscar than the Motion Picture Academy\"."
-            },
-            {
-                "won": false,
-                "target": [
-                    "Frank Morgan"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Frank Morgan",
-                        "imdb_id": "nm0604656",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTkzMTc0MzQ2OV5BMl5BanBnXkFtZTcwMzI5NTkxNA@@._V1_.jpg",
-                            "height": 1494,
-                            "width": 2048
-                        }
-                    }
-                ],
-                "for": [
-                    "The Affairs of Cellini"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "The Affairs of Cellini",
-                        "imdb_id": "tt0024816",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZmIwZDYxOWItZTc4ZS00N2VjLTlhZmItYmJhOTJmNDAwMDYxXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
-                            "height": 879,
-                            "width": 574
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "William Powell"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "William Powell",
-                        "imdb_id": "nm0001635",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTk4MzcxMjExN15BMl5BanBnXkFtZTcwODA2NDQyOA@@._V1_.jpg",
-                            "height": 1256,
-                            "width": 1000
-                        }
-                    }
-                ],
-                "for": [
-                    "The Thin Man"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "The Thin Man",
-                        "imdb_id": "tt0025878",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYmFlOWMwMjAtMDMyMC00N2JjLTllODUtZjY3YWU3NGRkM2I2L2ltYWdlXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 2739,
-                            "width": 1800
-                        }
-                    }
-                ],
-                "notes": null
+  {
+    "name": "Best Actor in a Leading Role",
+    "normalized_name": "Best Performance by an Actor in a Leading Role",
+    "category_id": 0,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["Clark Gable"],
+        "target_enriched": [
+          {
+            "name": "Clark Gable",
+            "imdb_id": "nm0000022",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE1NDY5MjM5Ml5BMl5BanBnXkFtZTYwNTU1OTQ2._V1_.jpg",
+              "height": 450,
+              "width": 346
             }
-        ]
-    },
-    {
-        "name": "Best Actress in a Leading Role",
-        "normalized_name": "Best Performance by an Actress in a Leading Role",
-        "category_id": 1,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "Claudette Colbert"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Claudette Colbert",
-                        "imdb_id": "nm0001055",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTA3MzcwMzQ4NzZeQTJeQWpwZ15BbWU2MDYyOTY0Ng@@._V1_.jpg",
-                            "height": 450,
-                            "width": 336
-                        }
-                    }
-                ],
-                "for": [
-                    "It Happened One Night"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "It Happened One Night",
-                        "imdb_id": "tt0025316",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYzJmMWE5NjAtNWMyZS00NmFiLWIwMDgtZDE2NzczYWFhNzIzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
-                            "height": 1440,
-                            "width": 960
-                        }
-                    }
-                ],
-                "notes": "Claudette Colbert was so convinced that she would lose the Oscar to write-in nominee Bette Davis that she didn't attended the ceremony originally. She was summoned from a train station to pick up her Academy Award."
-            },
-            {
-                "won": false,
-                "target": [
-                    "Bette Davis"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Bette Davis",
-                        "imdb_id": "nm0000012",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTQ2OTQ4NTU2OF5BMl5BanBnXkFtZTcwMzI3MjY5Ng@@._V1_.jpg",
-                            "height": 500,
-                            "width": 414
-                        }
-                    }
-                ],
-                "for": [
-                    "Of Human Bondage"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Of Human Bondage",
-                        "imdb_id": "tt0025586",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNDJiOGNkYTUtZDBmMS00MTgyLWIxYjQtODg0YTU2MTQ4ZDMzXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 1919,
-                            "width": 1280
-                        }
-                    }
-                ],
-                "notes": "This was a write-in nomination."
-            },
-            {
-                "won": false,
-                "target": [
-                    "Grace Moore"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Grace Moore",
-                        "imdb_id": "nm0601254",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNTQyMDVhZTktZTZkNy00MTU1LThjOTgtYzRlNWIzMzgyZDJmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
-                            "height": 450,
-                            "width": 360
-                        }
-                    }
-                ],
-                "for": [
-                    "One Night of Love"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "One Night of Love",
-                        "imdb_id": "tt0025601",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNzk5NDg0NTY4NF5BMl5BanBnXkFtZTgwODQxODgwMzE@._V1_.jpg",
-                            "height": 500,
-                            "width": 333
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Norma Shearer"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Norma Shearer",
-                        "imdb_id": "nm0790454",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTg4OTI0MjU5NV5BMl5BanBnXkFtZTYwNjYxNjU2._V1_.jpg",
-                            "height": 450,
-                            "width": 351
-                        }
-                    }
-                ],
-                "for": [
-                    "The Barretts of Wimpole Street"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "The Barretts of Wimpole Street",
-                        "imdb_id": "tt0024865",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BY2Q4ZDBkMzEtNWM4ZC00MDRjLWIwNDItZTNkYWZjOGE5MjYwXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
-                            "height": 3974,
-                            "width": 2684
-                        }
-                    }
-                ],
-                "notes": null
+          }
+        ],
+        "for": ["It Happened One Night"],
+        "for_enriched": [
+          {
+            "name": "It Happened One Night",
+            "imdb_id": "tt0025316",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzJmMWE5NjAtNWMyZS00NmFiLWIwMDgtZDE2NzczYWFhNzIzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+              "height": 1440,
+              "width": 960
             }
-        ]
-    },
-    {
-        "name": "Best Art Direction",
-        "normalized_name": "Best Achievement in Production Design",
-        "category_id": 2,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "The Merry Widow"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Merry Widow",
-                        "imdb_id": "tt0025493",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYjVjMmZkZTAtYzAwMC00MDUxLWFiODYtMzJjNjhjNzVjNTJmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
-                            "height": 1200,
-                            "width": 804
-                        }
-                    }
-                ],
-                "for": [
-                    "Cedric Gibbons",
-                    "Fredric Hope"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Cedric Gibbons",
-                        "imdb_id": "nm0316539",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYzM4MTkwMmMtNzYwMy00YzVhLWE1YjMtMWYyMjNhZDExMmM5XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 498,
-                            "width": 664
-                        }
-                    },
-                    {
-                        "name": "Fredric Hope",
-                        "imdb_id": "nm0393978",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Affairs of Cellini"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Affairs of Cellini",
-                        "imdb_id": "tt0024816",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZmIwZDYxOWItZTc4ZS00N2VjLTlhZmItYmJhOTJmNDAwMDYxXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
-                            "height": 879,
-                            "width": 574
-                        }
-                    }
-                ],
-                "for": [
-                    "Richard Day"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Richard Day",
-                        "imdb_id": "nm0206554",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Gay Divorcee"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Gay Divorcee",
-                        "imdb_id": "tt0025164",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYjNhYTQ5MmEtNjAyNS00MDYwLThkMmQtNzAxY2JhNjM3NGI2XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
-                            "height": 2215,
-                            "width": 1588
-                        }
-                    }
-                ],
-                "for": [
-                    "Van Nest Polglase",
-                    "Carroll Clark"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Van Nest Polglase",
-                        "imdb_id": "nm0689026",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYzNlOWE5YzQtMGI2OC00MjJkLWE5ZDYtOGM2ODgxNzUxMWMxXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_.jpg",
-                            "height": 1133,
-                            "width": 871
-                        }
-                    },
-                    {
-                        "name": "Carroll Clark",
-                        "imdb_id": "nm0163754",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": null
+          }
+        ],
+        "notes": "In 1996, Steven Spielberg anonymously purchased Clark Gable's Oscar to protect it from further commercial exploitation, gave it back to the Academy of Motion Picture Arts and Sciences, commenting that he could think of \"no better sanctuary for Gable's only Oscar than the Motion Picture Academy\"."
+      },
+      {
+        "won": false,
+        "target": ["Frank Morgan"],
+        "target_enriched": [
+          {
+            "name": "Frank Morgan",
+            "imdb_id": "nm0604656",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkzMTc0MzQ2OV5BMl5BanBnXkFtZTcwMzI5NTkxNA@@._V1_.jpg",
+              "height": 1494,
+              "width": 2048
             }
-        ]
-    },
-    {
-        "name": "Best Assistant Director",
-        "normalized_name": "Best Assistant Director",
-        "category_id": 19,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "John Waters"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "John Waters",
-                        "imdb_id": "nm0914112",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "for": [
-                    "Viva Villa!"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Viva Villa!",
-                        "imdb_id": "tt0025948",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZjMwZWMxZDctNTlkNC00YTE4LWIzZGEtYWZkNzFhZWU3ZDBjXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
-                            "height": 2048,
-                            "width": 1369
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Cullen Tate"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Cullen Tate",
-                        "imdb_id": "nm0851121",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "for": [
-                    "Cleopatra"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Cleopatra",
-                        "imdb_id": "tt0024991",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMjgzMTgwNTI1M15BMl5BanBnXkFtZTgwMTgxNjk3MjE@._V1_.jpg",
-                            "height": 500,
-                            "width": 335
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Scott R. Beal"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Scott R. Beal",
-                        "imdb_id": "nm0063634",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "for": [
-                    "Imitation of Life"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Imitation of Life",
-                        "imdb_id": "tt0025301",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYjk3NzFiODUtZDNjOS00MzQ2LTk3ZTEtMjg4MjRjZjc0MGMxXkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_.jpg",
-                            "height": 3564,
-                            "width": 2520
-                        }
-                    }
-                ],
-                "notes": null
+          }
+        ],
+        "for": ["The Affairs of Cellini"],
+        "for_enriched": [
+          {
+            "name": "The Affairs of Cellini",
+            "imdb_id": "tt0024816",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmIwZDYxOWItZTc4ZS00N2VjLTlhZmItYmJhOTJmNDAwMDYxXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+              "height": 879,
+              "width": 574
             }
-        ]
-    },
-    {
-        "name": "Best Cinematography",
-        "normalized_name": "Best Achievement in Cinematography",
-        "category_id": 3,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "Cleopatra"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Cleopatra",
-                        "imdb_id": "tt0024991",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMjgzMTgwNTI1M15BMl5BanBnXkFtZTgwMTgxNjk3MjE@._V1_.jpg",
-                            "height": 500,
-                            "width": 335
-                        }
-                    }
-                ],
-                "for": [
-                    "Victor Milner"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Victor Milner",
-                        "imdb_id": "nm0005800",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYTgxYzhjZjQtZGNjNS00MDc5LTkyYjYtZWRmMGVmOTVlOWNiXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 816,
-                            "width": 1030
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Operator 13"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Operator 13",
-                        "imdb_id": "tt0025607",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYjFlOTJjOTQtNmNlNi00ZjgwLTg5MzgtNjBhNzc5ZTVkZjkyXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_.jpg",
-                            "height": 1406,
-                            "width": 921
-                        }
-                    }
-                ],
-                "for": [
-                    "George J. Folsey"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "George J. Folsey",
-                        "imdb_id": "nm0005706",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNTc0ZWVmMWEtOTBkOC00N2YxLTg0YzUtOTY2NTNmODk0ZjllXkEyXkFqcGdeQXVyMjQwOTE1MzE@._V1_.jpg",
-                            "height": 1714,
-                            "width": 1285
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Affairs of Cellini"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Affairs of Cellini",
-                        "imdb_id": "tt0024816",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZmIwZDYxOWItZTc4ZS00N2VjLTlhZmItYmJhOTJmNDAwMDYxXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
-                            "height": 879,
-                            "width": 574
-                        }
-                    }
-                ],
-                "for": [
-                    "Charles Rosher"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Charles Rosher",
-                        "imdb_id": "nm0003546",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BOGE2ZGIzYWUtN2EyNy00NjY3LTgyNGQtZDFiZTIzY2FjYWNjXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 1600,
-                            "width": 1120
-                        }
-                    }
-                ],
-                "notes": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["William Powell"],
+        "target_enriched": [
+          {
+            "name": "William Powell",
+            "imdb_id": "nm0001635",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk4MzcxMjExN15BMl5BanBnXkFtZTcwODA2NDQyOA@@._V1_.jpg",
+              "height": 1256,
+              "width": 1000
             }
-        ]
-    },
-    {
-        "name": "Best Director",
-        "normalized_name": "Best Achievement in Directing",
-        "category_id": 12,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "Frank Capra"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Frank Capra",
-                        "imdb_id": "nm0001008",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTQ1NjE0NzgzNV5BMl5BanBnXkFtZTYwODg0MjI2._V1_.jpg",
-                            "height": 450,
-                            "width": 354
-                        }
-                    }
-                ],
-                "for": [
-                    "It Happened One Night"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "It Happened One Night",
-                        "imdb_id": "tt0025316",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYzJmMWE5NjAtNWMyZS00NmFiLWIwMDgtZDE2NzczYWFhNzIzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
-                            "height": 1440,
-                            "width": 960
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Victor Schertzinger"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Victor Schertzinger",
-                        "imdb_id": "nm0006276",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMGY1OGRlZmEtOThiYS00MzRmLTk0NjgtMWJlMDc5OTc0OTFmXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_.jpg",
-                            "height": 1079,
-                            "width": 890
-                        }
-                    }
-                ],
-                "for": [
-                    "One Night of Love"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "One Night of Love",
-                        "imdb_id": "tt0025601",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNzk5NDg0NTY4NF5BMl5BanBnXkFtZTgwODQxODgwMzE@._V1_.jpg",
-                            "height": 500,
-                            "width": 333
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "W.S. Van Dyke"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "W.S. Van Dyke",
-                        "imdb_id": "nm0886754",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTA5YjU4Y2UtNzcxNC00NTYyLWEwOTQtMThjNjQ5ZDBlMzEyXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 620,
-                            "width": 481
-                        }
-                    }
-                ],
-                "for": [
-                    "The Thin Man"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "The Thin Man",
-                        "imdb_id": "tt0025878",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYmFlOWMwMjAtMDMyMC00N2JjLTllODUtZjY3YWU3NGRkM2I2L2ltYWdlXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 2739,
-                            "width": 1800
-                        }
-                    }
-                ],
-                "notes": null
+          }
+        ],
+        "for": ["The Thin Man"],
+        "for_enriched": [
+          {
+            "name": "The Thin Man",
+            "imdb_id": "tt0025878",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmFlOWMwMjAtMDMyMC00N2JjLTllODUtZjY3YWU3NGRkM2I2L2ltYWdlXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 2739,
+              "width": 1800
             }
-        ]
-    },
-    {
-        "name": "Best Film Editing",
-        "normalized_name": "Best Achievement in Film Editing",
-        "category_id": 20,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "Eskimo"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Eskimo",
-                        "imdb_id": "tt0023990",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYzcyY2UyOTMtZGY1Ni00NjI3LThhNTAtNjBkZmJmOGNlZDc1XkEyXkFqcGdeQXVyODQ2NzAzMjY@._V1_.jpg",
-                            "height": 814,
-                            "width": 509
-                        }
-                    }
-                ],
-                "for": [
-                    "Conrad A. Nervig"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Conrad A. Nervig",
-                        "imdb_id": "nm0626308",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Cleopatra"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Cleopatra",
-                        "imdb_id": "tt0024991",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMjgzMTgwNTI1M15BMl5BanBnXkFtZTgwMTgxNjk3MjE@._V1_.jpg",
-                            "height": 500,
-                            "width": 335
-                        }
-                    }
-                ],
-                "for": [
-                    "Anne Bauchens"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Anne Bauchens",
-                        "imdb_id": "nm0061640",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "One Night of Love"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "One Night of Love",
-                        "imdb_id": "tt0025601",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNzk5NDg0NTY4NF5BMl5BanBnXkFtZTgwODQxODgwMzE@._V1_.jpg",
-                            "height": 500,
-                            "width": 333
-                        }
-                    }
-                ],
-                "for": [
-                    "Gene Milford"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Gene Milford",
-                        "imdb_id": "nm0587332",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": null
+          }
+        ],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Actress in a Leading Role",
+    "normalized_name": "Best Performance by an Actress in a Leading Role",
+    "category_id": 1,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["Claudette Colbert"],
+        "target_enriched": [
+          {
+            "name": "Claudette Colbert",
+            "imdb_id": "nm0001055",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTA3MzcwMzQ4NzZeQTJeQWpwZ15BbWU2MDYyOTY0Ng@@._V1_.jpg",
+              "height": 450,
+              "width": 336
             }
-        ]
-    },
-    {
-        "name": "Best Music, Original Song",
-        "normalized_name": "Best Achievement in Music Written for Motion Pictures (Original Song)",
-        "category_id": 21,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "The Gay Divorcee"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Gay Divorcee",
-                        "imdb_id": "tt0025164",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYjNhYTQ5MmEtNjAyNS00MDYwLThkMmQtNzAxY2JhNjM3NGI2XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
-                            "height": 2215,
-                            "width": 1588
-                        }
-                    }
-                ],
-                "for": [
-                    "Con Conrad",
-                    "Herb Magidson"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Con Conrad",
-                        "imdb_id": "nm0175628",
-                        "note": "(music)",
-                        "image": null
-                    },
-                    {
-                        "name": "Herb Magidson",
-                        "imdb_id": "nm0536054",
-                        "note": "(lyrics)",
-                        "image": null
-                    }
-                ],
-                "notes": "For the song \"The Continental\"."
-            },
-            {
-                "won": false,
-                "target": [
-                    "Flying Down to Rio"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Flying Down to Rio",
-                        "imdb_id": "tt0024025",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNDhjODgzMzItODU5OS00NmU4LTk2ZTgtYWFkOWNjN2IzNDA5XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
-                            "height": 2805,
-                            "width": 1810
-                        }
-                    }
-                ],
-                "for": [
-                    "Vincent Youmans",
-                    "Edward Eliscu",
-                    "Gus Kahn"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Vincent Youmans",
-                        "imdb_id": "nm0949207",
-                        "note": "(music)",
-                        "image": null
-                    },
-                    {
-                        "name": "Edward Eliscu",
-                        "imdb_id": "nm0253697",
-                        "note": "(lyrics)",
-                        "image": null
-                    },
-                    {
-                        "name": "Gus Kahn",
-                        "imdb_id": "nm0006146",
-                        "note": "(lyrics)",
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BOTBiMThhYmQtMWZkZS00OWZkLWI4MDctNGJiMmEzNzI3ZmRiL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
-                            "height": 954,
-                            "width": 734
-                        }
-                    }
-                ],
-                "notes": "For the song \"Carioca\"."
-            },
-            {
-                "won": false,
-                "target": [
-                    "She Loves Me Not"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "She Loves Me Not",
-                        "imdb_id": "tt0025774",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BY2UyZjdmYWItY2VjYy00OTQ5LTg1NGEtNmE3ODFkODY5ZDhiXkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg",
-                            "height": 1440,
-                            "width": 960
-                        }
-                    }
-                ],
-                "for": [
-                    "Ralph Rainger",
-                    "Leo Robin"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Ralph Rainger",
-                        "imdb_id": "nm0006247",
-                        "note": "(music)",
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMjg5MmE5ZjYtZGFkNi00ZmMxLTg5MTUtNDNhNjgyM2JkODM5L2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
-                            "height": 436,
-                            "width": 400
-                        }
-                    },
-                    {
-                        "name": "Leo Robin",
-                        "imdb_id": "nm0732209",
-                        "note": "(lyrics)",
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BOTE0MjI2ODQtZWMyNC00MGFhLWEyZTEtZTQ3YTIyYjc2MWI1XkEyXkFqcGdeQXVyMjQwOTE1MzE@._V1_.jpg",
-                            "height": 1000,
-                            "width": 799
-                        }
-                    }
-                ],
-                "notes": "For the song \"Love in Bloom\"."
+          }
+        ],
+        "for": ["It Happened One Night"],
+        "for_enriched": [
+          {
+            "name": "It Happened One Night",
+            "imdb_id": "tt0025316",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzJmMWE5NjAtNWMyZS00NmFiLWIwMDgtZDE2NzczYWFhNzIzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+              "height": 1440,
+              "width": 960
             }
-        ]
-    },
-    {
-        "name": "Best Music, Score",
-        "normalized_name": "Best Achievement in Music Written for Motion Pictures (Original Score)",
-        "category_id": 22,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "One Night of Love"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "One Night of Love",
-                        "imdb_id": "tt0025601",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNzk5NDg0NTY4NF5BMl5BanBnXkFtZTgwODQxODgwMzE@._V1_.jpg",
-                            "height": 500,
-                            "width": 333
-                        }
-                    }
-                ],
-                "for": [
-                    "Louis Silvers"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Louis Silvers",
-                        "imdb_id": "nm0799007",
-                        "note": "(head of department)",
-                        "image": null
-                    }
-                ],
-                "notes": "Thematic music by Victor Schertzinger and Gus Kahn."
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Gay Divorcee"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Gay Divorcee",
-                        "imdb_id": "tt0025164",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYjNhYTQ5MmEtNjAyNS00MDYwLThkMmQtNzAxY2JhNjM3NGI2XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
-                            "height": 2215,
-                            "width": 1588
-                        }
-                    }
-                ],
-                "for": [
-                    "Max Steiner"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Max Steiner",
-                        "imdb_id": "nm0000070",
-                        "note": "(head of department)",
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNDAzMjZhYTQtZjQxMC00ODE4LWIxYzEtMjljNWRjODAxZjY0XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 797,
-                            "width": 640
-                        }
-                    }
-                ],
-                "notes": "Score by Kenneth S. Webb and Samuel Hoffenstein."
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Lost Patrol"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Lost Patrol",
-                        "imdb_id": "tt0025423",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BOTVmNmZkOGQtMTczNS00YWRjLWE5NzktNzU5MjM2MjlmOTA1XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
-                            "height": 2005,
-                            "width": 1339
-                        }
-                    }
-                ],
-                "for": [
-                    "Max Steiner"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Max Steiner",
-                        "imdb_id": "nm0000070",
-                        "note": "(head of department)",
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNDAzMjZhYTQtZjQxMC00ODE4LWIxYzEtMjljNWRjODAxZjY0XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 797,
-                            "width": 640
-                        }
-                    }
-                ],
-                "notes": "Score by Max Steiner."
+          }
+        ],
+        "notes": "Claudette Colbert was so convinced that she would lose the Oscar to write-in nominee Bette Davis that she didn't attended the ceremony originally. She was summoned from a train station to pick up her Academy Award."
+      },
+      {
+        "won": false,
+        "target": ["Bette Davis"],
+        "target_enriched": [
+          {
+            "name": "Bette Davis",
+            "imdb_id": "nm0000012",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ2OTQ4NTU2OF5BMl5BanBnXkFtZTcwMzI3MjY5Ng@@._V1_.jpg",
+              "height": 500,
+              "width": 414
             }
-        ]
-    },
-    {
-        "name": "Best Picture",
-        "normalized_name": "Best Picture",
-        "category_id": 13,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "It Happened One Night"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "It Happened One Night",
-                        "imdb_id": "tt0025316",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYzJmMWE5NjAtNWMyZS00NmFiLWIwMDgtZDE2NzczYWFhNzIzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
-                            "height": 1440,
-                            "width": 960
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Cleopatra"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Cleopatra",
-                        "imdb_id": "tt0024991",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMjgzMTgwNTI1M15BMl5BanBnXkFtZTgwMTgxNjk3MjE@._V1_.jpg",
-                            "height": 500,
-                            "width": 335
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Flirtation Walk"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Flirtation Walk",
-                        "imdb_id": "tt0025124",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTcwODg1OTE3OF5BMl5BanBnXkFtZTgwMDY0NDIwMjE@._V1_.jpg",
-                            "height": 500,
-                            "width": 338
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Here Comes the Navy"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Here Comes the Navy",
-                        "imdb_id": "tt0025238",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNTZjMGU0NDUtMWRkYi00YjE3LWEzNjYtY2IyNjJhYmQ0NDliXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_.jpg",
-                            "height": 959,
-                            "width": 617
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Imitation of Life"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Imitation of Life",
-                        "imdb_id": "tt0025301",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYjk3NzFiODUtZDNjOS00MzQ2LTk3ZTEtMjg4MjRjZjc0MGMxXkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_.jpg",
-                            "height": 3564,
-                            "width": 2520
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "One Night of Love"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "One Night of Love",
-                        "imdb_id": "tt0025601",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNzk5NDg0NTY4NF5BMl5BanBnXkFtZTgwODQxODgwMzE@._V1_.jpg",
-                            "height": 500,
-                            "width": 333
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Barretts of Wimpole Street"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Barretts of Wimpole Street",
-                        "imdb_id": "tt0024865",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BY2Q4ZDBkMzEtNWM4ZC00MDRjLWIwNDItZTNkYWZjOGE5MjYwXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
-                            "height": 3974,
-                            "width": 2684
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Gay Divorcee"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Gay Divorcee",
-                        "imdb_id": "tt0025164",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYjNhYTQ5MmEtNjAyNS00MDYwLThkMmQtNzAxY2JhNjM3NGI2XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
-                            "height": 2215,
-                            "width": 1588
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "The House of Rothschild"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The House of Rothschild",
-                        "imdb_id": "tt0025272",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNTBkNjA3NmQtOGQ3MC00ODk2LTlmZjYtYmQ3ZGIxZTczMjFjXkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_.jpg",
-                            "height": 485,
-                            "width": 300
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Thin Man"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Thin Man",
-                        "imdb_id": "tt0025878",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYmFlOWMwMjAtMDMyMC00N2JjLTllODUtZjY3YWU3NGRkM2I2L2ltYWdlXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 2739,
-                            "width": 1800
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "The White Parade"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The White Parade",
-                        "imdb_id": "tt0025986",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTc1MzEwODkzMV5BMl5BanBnXkFtZTgwMjUzOTU0MjE@._V1_.jpg",
-                            "height": 500,
-                            "width": 349
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Viva Villa!"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Viva Villa!",
-                        "imdb_id": "tt0025948",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZjMwZWMxZDctNTlkNC00YTE4LWIzZGEtYWZkNzFhZWU3ZDBjXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
-                            "height": 2048,
-                            "width": 1369
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
+          }
+        ],
+        "for": ["Of Human Bondage"],
+        "for_enriched": [
+          {
+            "name": "Of Human Bondage",
+            "imdb_id": "tt0025586",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDJiOGNkYTUtZDBmMS00MTgyLWIxYjQtODg0YTU2MTQ4ZDMzXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 1919,
+              "width": 1280
             }
-        ]
-    },
-    {
-        "name": "Best Short Subject, Cartoons",
-        "normalized_name": "Best Animated Short Film",
-        "category_id": 16,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "The Tortoise and the Hare"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Tortoise and the Hare",
-                        "imdb_id": "tt0027126",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BOTYzMjQ5NjItY2UxNS00ZGIzLWIxYTAtN2EwZGIxZmZkMGYyXkEyXkFqcGdeQXVyMTk3NDAwMzI@._V1_.jpg",
-                            "height": 1440,
-                            "width": 960
-                        }
-                    }
-                ],
-                "for": [
-                    "Walt Disney"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Walt Disney",
-                        "imdb_id": "nm0000370",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMjIxMTUyNjc5OF5BMl5BanBnXkFtZTcwMjMwNjYwNA@@._V1_.jpg",
-                            "height": 500,
-                            "width": 390
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Holiday Land"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Holiday Land",
-                        "imdb_id": "tt0025260",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BOTg1MGJlNWQtYTUzYS00Y2YzLWFiNmYtNThhODA0MGFlZjI3XkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_.jpg",
-                            "height": 2049,
-                            "width": 1542
-                        }
-                    }
-                ],
-                "for": [
-                    "Charles Mintz"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Charles Mintz",
-                        "imdb_id": "nm0591762",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Jolly Little Elves"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Jolly Little Elves",
-                        "imdb_id": "tt0025332",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BOTJjZTlkZjYtYTY1Yi00MzRmLTlhODItMmNjMjk2NDI2ZTAyXkEyXkFqcGdeQXVyNjc2NjkzNTg@._V1_.jpg",
-                            "height": 720,
-                            "width": 1280
-                        }
-                    }
-                ],
-                "for": [
-                    "Walter Lantz"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Walter Lantz",
-                        "imdb_id": "nm0487237",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYmNiMjVlMGEtNTg4Zi00NDcwLWE5ZjQtYzlmMzIwYWNjOWI2XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 540,
-                            "width": 720
-                        }
-                    }
-                ],
-                "notes": null
+          }
+        ],
+        "notes": "This was a write-in nomination."
+      },
+      {
+        "won": false,
+        "target": ["Grace Moore"],
+        "target_enriched": [
+          {
+            "name": "Grace Moore",
+            "imdb_id": "nm0601254",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTQyMDVhZTktZTZkNy00MTU1LThjOTgtYzRlNWIzMzgyZDJmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
+              "height": 450,
+              "width": 360
             }
-        ]
-    },
-    {
-        "name": "Best Short Subject, Comedy",
-        "normalized_name": "Best Short Subject, Comedy",
-        "category_id": 17,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "La Cucaracha"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "La Cucaracha",
-                        "imdb_id": "tt0025019",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BM2Q2Yzk1MzYtNDljZC00MWVkLWEyNDAtNjA5YWZjNDdkODc4XkEyXkFqcGdeQXVyNTcwNjUwNzk@._V1_.jpg",
-                            "height": 1500,
-                            "width": 1000
-                        }
-                    }
-                ],
-                "for": [
-                    "Kenneth Macgowan"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Kenneth Macgowan",
-                        "imdb_id": "nm0532284",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Men in Black"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Men in Black",
-                        "imdb_id": "tt0025488",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMDYxODcwN2ItMjU2Yy00NDJhLTgzNTQtOGNhN2YyYmZkZWM5XkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_.jpg",
-                            "height": 1327,
-                            "width": 897
-                        }
-                    }
-                ],
-                "for": [
-                    "Jules White"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Jules White",
-                        "imdb_id": "nm0925028",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZDg0MjU4MDEtMDQxYS00YjI4LWE2NmEtNzZjZDM0MTdjYmI4XkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_.jpg",
-                            "height": 823,
-                            "width": 859
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "What, No Men?"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "What, No Men?",
-                        "imdb_id": "tt0025977",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNDZjZThiMTMtMWY0MS00YzI0LTgwODUtM2E5N2Y2NDU5NmU4XkEyXkFqcGdeQXVyMzI5NjUyMDM@._V1_.jpg",
-                            "height": 600,
-                            "width": 400
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
+          }
+        ],
+        "for": ["One Night of Love"],
+        "for_enriched": [
+          {
+            "name": "One Night of Love",
+            "imdb_id": "tt0025601",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzk5NDg0NTY4NF5BMl5BanBnXkFtZTgwODQxODgwMzE@._V1_.jpg",
+              "height": 500,
+              "width": 333
             }
-        ]
-    },
-    {
-        "name": "Best Short Subject, Novelty",
-        "normalized_name": "Best Short Subject, Novelty",
-        "category_id": 18,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "City of Wax"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "City of Wax",
-                        "imdb_id": "tt0024986",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BOGU4ZmNhOWUtZmFiZC00YzI2LTg5MzktNWM1YWEwNDJmODZiXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
-                            "height": 500,
-                            "width": 375
-                        }
-                    }
-                ],
-                "for": [
-                    "Horace Woodard",
-                    "Stacy Woodard"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Horace Woodard",
-                        "imdb_id": "nm0940139",
-                        "note": null,
-                        "image": null
-                    },
-                    {
-                        "name": "Stacy Woodard",
-                        "imdb_id": "nm0940152",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Bosom Friends"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Bosom Friends",
-                        "imdb_id": "tt0024909",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Strikes and Spares"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Strikes and Spares",
-                        "imdb_id": "tt0025840",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTI4NTUxMjk5OV5BMl5BanBnXkFtZTYwMDYzMzc4._V1_.jpg",
-                            "height": 334,
-                            "width": 216
-                        }
-                    }
-                ],
-                "for": [
-                    "Pete Smith"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Pete Smith",
-                        "imdb_id": "nm0809570",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYzc5MmI0MjctYzY1OC00ZjM2LWIzNzctMGE3NDBkNTEzOWE4XkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_.jpg",
-                            "height": 350,
-                            "width": 280
-                        }
-                    }
-                ],
-                "notes": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Norma Shearer"],
+        "target_enriched": [
+          {
+            "name": "Norma Shearer",
+            "imdb_id": "nm0790454",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg4OTI0MjU5NV5BMl5BanBnXkFtZTYwNjYxNjU2._V1_.jpg",
+              "height": 450,
+              "width": 351
             }
-        ]
-    },
-    {
-        "name": "Best Sound, Recording",
-        "normalized_name": "Best Sound, Recording",
-        "category_id": 15,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "One Night of Love"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "One Night of Love",
-                        "imdb_id": "tt0025601",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNzk5NDg0NTY4NF5BMl5BanBnXkFtZTgwODQxODgwMzE@._V1_.jpg",
-                            "height": 500,
-                            "width": 333
-                        }
-                    }
-                ],
-                "for": [
-                    "John P. Livadary"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "John P. Livadary",
-                        "imdb_id": "nm0515093",
-                        "note": "(sound director)",
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Cleopatra"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Cleopatra",
-                        "imdb_id": "tt0024991",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMjgzMTgwNTI1M15BMl5BanBnXkFtZTgwMTgxNjk3MjE@._V1_.jpg",
-                            "height": 500,
-                            "width": 335
-                        }
-                    }
-                ],
-                "for": [
-                    "Franklin Hansen"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Franklin Hansen",
-                        "imdb_id": "nm0360630",
-                        "note": "(sound director)",
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Flirtation Walk"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Flirtation Walk",
-                        "imdb_id": "tt0025124",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTcwODg1OTE3OF5BMl5BanBnXkFtZTgwMDY0NDIwMjE@._V1_.jpg",
-                            "height": 500,
-                            "width": 338
-                        }
-                    }
-                ],
-                "for": [
-                    "Nathan Levinson"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Nathan Levinson",
-                        "imdb_id": "nm0506080",
-                        "note": "(sound director)",
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMjU0MDM2MTE0N15BMl5BanBnXkFtZTgwOTc5MDM1NzM@._V1_.jpg",
-                            "height": 722,
-                            "width": 527
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Imitation of Life"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Imitation of Life",
-                        "imdb_id": "tt0025301",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYjk3NzFiODUtZDNjOS00MzQ2LTk3ZTEtMjg4MjRjZjc0MGMxXkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_.jpg",
-                            "height": 3564,
-                            "width": 2520
-                        }
-                    }
-                ],
-                "for": [
-                    "Theodore Soderberg"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Theodore Soderberg",
-                        "imdb_id": "nm5119569",
-                        "note": "(sound director)",
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Affairs of Cellini"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Affairs of Cellini",
-                        "imdb_id": "tt0024816",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZmIwZDYxOWItZTc4ZS00N2VjLTlhZmItYmJhOTJmNDAwMDYxXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
-                            "height": 879,
-                            "width": 574
-                        }
-                    }
-                ],
-                "for": [
-                    "Thomas T. Moulton"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Thomas T. Moulton",
-                        "imdb_id": "nm0609771",
-                        "note": "(sound director)",
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Gay Divorcee"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Gay Divorcee",
-                        "imdb_id": "tt0025164",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYjNhYTQ5MmEtNjAyNS00MDYwLThkMmQtNzAxY2JhNjM3NGI2XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
-                            "height": 2215,
-                            "width": 1588
-                        }
-                    }
-                ],
-                "for": [
-                    "Carl Dreher"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Carl Dreher",
-                        "imdb_id": "nm0237393",
-                        "note": "(sound director)",
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "The White Parade"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The White Parade",
-                        "imdb_id": "tt0025986",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTc1MzEwODkzMV5BMl5BanBnXkFtZTgwMjUzOTU0MjE@._V1_.jpg",
-                            "height": 500,
-                            "width": 349
-                        }
-                    }
-                ],
-                "for": [
-                    "Edmund H. Hansen"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Edmund H. Hansen",
-                        "imdb_id": "nm0360770",
-                        "note": "(sound director)",
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Viva Villa!"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Viva Villa!",
-                        "imdb_id": "tt0025948",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZjMwZWMxZDctNTlkNC00YTE4LWIzZGEtYWZkNzFhZWU3ZDBjXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
-                            "height": 2048,
-                            "width": 1369
-                        }
-                    }
-                ],
-                "for": [
-                    "Douglas Shearer"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Douglas Shearer",
-                        "imdb_id": "nm0790428",
-                        "note": "(sound director)",
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYmJjMWQxMTQtY2Q0Mi00YWI4LWE3MTItM2E4YzFjN2FhNGRlXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_.jpg",
-                            "height": 1022,
-                            "width": 792
-                        }
-                    }
-                ],
-                "notes": null
+          }
+        ],
+        "for": ["The Barretts of Wimpole Street"],
+        "for_enriched": [
+          {
+            "name": "The Barretts of Wimpole Street",
+            "imdb_id": "tt0024865",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2Q4ZDBkMzEtNWM4ZC00MDRjLWIwNDItZTNkYWZjOGE5MjYwXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+              "height": 3974,
+              "width": 2684
             }
-        ]
-    },
-    {
-        "name": "Best Writing, Adaptation",
-        "normalized_name": "Best Adapted Screenplay",
-        "category_id": 9,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "It Happened One Night"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "It Happened One Night",
-                        "imdb_id": "tt0025316",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYzJmMWE5NjAtNWMyZS00NmFiLWIwMDgtZDE2NzczYWFhNzIzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
-                            "height": 1440,
-                            "width": 960
-                        }
-                    }
-                ],
-                "for": [
-                    "Robert Riskin"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Robert Riskin",
-                        "imdb_id": "nm0728307",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMjRlNzIxMzctZDlhYi00NTc1LWJkMjUtMTgyMGIzY2RjZDUzXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_.jpg",
-                            "height": 669,
-                            "width": 841
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Thin Man"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Thin Man",
-                        "imdb_id": "tt0025878",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYmFlOWMwMjAtMDMyMC00N2JjLTllODUtZjY3YWU3NGRkM2I2L2ltYWdlXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 2739,
-                            "width": 1800
-                        }
-                    }
-                ],
-                "for": [
-                    "Frances Goodrich",
-                    "Albert Hackett"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Frances Goodrich",
-                        "imdb_id": "nm0329304",
-                        "note": null,
-                        "image": null
-                    },
-                    {
-                        "name": "Albert Hackett",
-                        "imdb_id": "nm0352443",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Viva Villa!"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Viva Villa!",
-                        "imdb_id": "tt0025948",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZjMwZWMxZDctNTlkNC00YTE4LWIzZGEtYWZkNzFhZWU3ZDBjXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
-                            "height": 2048,
-                            "width": 1369
-                        }
-                    }
-                ],
-                "for": [
-                    "Ben Hecht"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Ben Hecht",
-                        "imdb_id": "nm0372942",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNGMwMGI2NmItYjkwYy00N2FkLTlmNzUtNDI2YjU0ZTk1YzhlXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 1800,
-                            "width": 1422
-                        }
-                    }
-                ],
-                "notes": null
+          }
+        ],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Art Direction",
+    "normalized_name": "Best Achievement in Production Design",
+    "category_id": 2,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["The Merry Widow"],
+        "target_enriched": [
+          {
+            "name": "The Merry Widow",
+            "imdb_id": "tt0025493",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjVjMmZkZTAtYzAwMC00MDUxLWFiODYtMzJjNjhjNzVjNTJmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+              "height": 1200,
+              "width": 804
             }
-        ]
-    },
-    {
-        "name": "Best Writing, Original Story",
-        "normalized_name": "Best Original Screenplay",
-        "category_id": 10,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "Manhattan Melodrama"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Manhattan Melodrama",
-                        "imdb_id": "tt0025464",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNGRhZWVkZGUtY2FjMi00NjhlLThhNGYtYTY4ZThhMzdkMjg3XkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg",
-                            "height": 1440,
-                            "width": 960
-                        }
-                    }
-                ],
-                "for": [
-                    "Arthur Caesar"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Arthur Caesar",
-                        "imdb_id": "nm0128361",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Hide-Out"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Hide-Out",
-                        "imdb_id": "tt0025251",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZjE2NjFhZjYtODc4Yy00MzNhLWEwZTAtZGQ3ZDhkZDM1OWUyXkEyXkFqcGdeQXVyMjc3MjgzOTU@._V1_.jpg",
-                            "height": 3000,
-                            "width": 2013
-                        }
-                    }
-                ],
-                "for": [
-                    "Mauri Grashin"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Mauri Grashin",
-                        "imdb_id": "nm0335831",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Richest Girl in the World"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Richest Girl in the World",
-                        "imdb_id": "tt0025718",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYjExZTk2Y2EtMzdjMy00MzdmLTg2YzAtNjZkMjc4MDI2MTNhXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_.jpg",
-                            "height": 967,
-                            "width": 749
-                        }
-                    }
-                ],
-                "for": [
-                    "Norman Krasna"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Norman Krasna",
-                        "imdb_id": "nm0469915",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNzVkN2QwMDctNTRkMy00ZWVhLWI5ZDEtYzJkNWFhOTg4ZWNhXkEyXkFqcGdeQXVyMjQwOTE1MzE@._V1_.jpg",
-                            "height": 1113,
-                            "width": 835
-                        }
-                    }
-                ],
-                "notes": null
+          }
+        ],
+        "for": ["Cedric Gibbons", "Fredric Hope"],
+        "for_enriched": [
+          {
+            "name": "Cedric Gibbons",
+            "imdb_id": "nm0316539",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzM4MTkwMmMtNzYwMy00YzVhLWE1YjMtMWYyMjNhZDExMmM5XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 498,
+              "width": 664
             }
-        ]
-    }
+          },
+          {
+            "name": "Fredric Hope",
+            "imdb_id": "nm0393978",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The Affairs of Cellini"],
+        "target_enriched": [
+          {
+            "name": "The Affairs of Cellini",
+            "imdb_id": "tt0024816",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmIwZDYxOWItZTc4ZS00N2VjLTlhZmItYmJhOTJmNDAwMDYxXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+              "height": 879,
+              "width": 574
+            }
+          }
+        ],
+        "for": ["Richard Day"],
+        "for_enriched": [
+          {
+            "name": "Richard Day",
+            "imdb_id": "nm0206554",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The Gay Divorcee"],
+        "target_enriched": [
+          {
+            "name": "The Gay Divorcee",
+            "imdb_id": "tt0025164",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjNhYTQ5MmEtNjAyNS00MDYwLThkMmQtNzAxY2JhNjM3NGI2XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+              "height": 2215,
+              "width": 1588
+            }
+          }
+        ],
+        "for": ["Van Nest Polglase", "Carroll Clark"],
+        "for_enriched": [
+          {
+            "name": "Van Nest Polglase",
+            "imdb_id": "nm0689026",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzNlOWE5YzQtMGI2OC00MjJkLWE5ZDYtOGM2ODgxNzUxMWMxXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_.jpg",
+              "height": 1133,
+              "width": 871
+            }
+          },
+          {
+            "name": "Carroll Clark",
+            "imdb_id": "nm0163754",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Assistant Director",
+    "normalized_name": "Best Assistant Director",
+    "category_id": 19,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["John Waters"],
+        "target_enriched": [
+          {
+            "name": "John Waters",
+            "imdb_id": "nm0914112",
+            "note": null,
+            "image": null
+          }
+        ],
+        "for": ["Viva Villa!"],
+        "for_enriched": [
+          {
+            "name": "Viva Villa!",
+            "imdb_id": "tt0025948",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjMwZWMxZDctNTlkNC00YTE4LWIzZGEtYWZkNzFhZWU3ZDBjXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+              "height": 2048,
+              "width": 1369
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Cullen Tate"],
+        "target_enriched": [
+          {
+            "name": "Cullen Tate",
+            "imdb_id": "nm0851121",
+            "note": null,
+            "image": null
+          }
+        ],
+        "for": ["Cleopatra"],
+        "for_enriched": [
+          {
+            "name": "Cleopatra",
+            "imdb_id": "tt0024991",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjgzMTgwNTI1M15BMl5BanBnXkFtZTgwMTgxNjk3MjE@._V1_.jpg",
+              "height": 500,
+              "width": 335
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Scott R. Beal"],
+        "target_enriched": [
+          {
+            "name": "Scott R. Beal",
+            "imdb_id": "nm0063634",
+            "note": null,
+            "image": null
+          }
+        ],
+        "for": ["Imitation of Life"],
+        "for_enriched": [
+          {
+            "name": "Imitation of Life",
+            "imdb_id": "tt0025301",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjk3NzFiODUtZDNjOS00MzQ2LTk3ZTEtMjg4MjRjZjc0MGMxXkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_.jpg",
+              "height": 3564,
+              "width": 2520
+            }
+          }
+        ],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Cinematography",
+    "normalized_name": "Best Achievement in Cinematography",
+    "category_id": 3,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["Cleopatra"],
+        "target_enriched": [
+          {
+            "name": "Cleopatra",
+            "imdb_id": "tt0024991",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjgzMTgwNTI1M15BMl5BanBnXkFtZTgwMTgxNjk3MjE@._V1_.jpg",
+              "height": 500,
+              "width": 335
+            }
+          }
+        ],
+        "for": ["Victor Milner"],
+        "for_enriched": [
+          {
+            "name": "Victor Milner",
+            "imdb_id": "nm0005800",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTgxYzhjZjQtZGNjNS00MDc5LTkyYjYtZWRmMGVmOTVlOWNiXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 816,
+              "width": 1030
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Operator 13"],
+        "target_enriched": [
+          {
+            "name": "Operator 13",
+            "imdb_id": "tt0025607",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjFlOTJjOTQtNmNlNi00ZjgwLTg5MzgtNjBhNzc5ZTVkZjkyXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_.jpg",
+              "height": 1406,
+              "width": 921
+            }
+          }
+        ],
+        "for": ["George J. Folsey"],
+        "for_enriched": [
+          {
+            "name": "George J. Folsey",
+            "imdb_id": "nm0005706",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTc0ZWVmMWEtOTBkOC00N2YxLTg0YzUtOTY2NTNmODk0ZjllXkEyXkFqcGdeQXVyMjQwOTE1MzE@._V1_.jpg",
+              "height": 1714,
+              "width": 1285
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The Affairs of Cellini"],
+        "target_enriched": [
+          {
+            "name": "The Affairs of Cellini",
+            "imdb_id": "tt0024816",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmIwZDYxOWItZTc4ZS00N2VjLTlhZmItYmJhOTJmNDAwMDYxXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+              "height": 879,
+              "width": 574
+            }
+          }
+        ],
+        "for": ["Charles Rosher"],
+        "for_enriched": [
+          {
+            "name": "Charles Rosher",
+            "imdb_id": "nm0003546",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGE2ZGIzYWUtN2EyNy00NjY3LTgyNGQtZDFiZTIzY2FjYWNjXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 1600,
+              "width": 1120
+            }
+          }
+        ],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Director",
+    "normalized_name": "Best Achievement in Directing",
+    "category_id": 12,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["Frank Capra"],
+        "target_enriched": [
+          {
+            "name": "Frank Capra",
+            "imdb_id": "nm0001008",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ1NjE0NzgzNV5BMl5BanBnXkFtZTYwODg0MjI2._V1_.jpg",
+              "height": 450,
+              "width": 354
+            }
+          }
+        ],
+        "for": ["It Happened One Night"],
+        "for_enriched": [
+          {
+            "name": "It Happened One Night",
+            "imdb_id": "tt0025316",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzJmMWE5NjAtNWMyZS00NmFiLWIwMDgtZDE2NzczYWFhNzIzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+              "height": 1440,
+              "width": 960
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Victor Schertzinger"],
+        "target_enriched": [
+          {
+            "name": "Victor Schertzinger",
+            "imdb_id": "nm0006276",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGY1OGRlZmEtOThiYS00MzRmLTk0NjgtMWJlMDc5OTc0OTFmXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_.jpg",
+              "height": 1079,
+              "width": 890
+            }
+          }
+        ],
+        "for": ["One Night of Love"],
+        "for_enriched": [
+          {
+            "name": "One Night of Love",
+            "imdb_id": "tt0025601",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzk5NDg0NTY4NF5BMl5BanBnXkFtZTgwODQxODgwMzE@._V1_.jpg",
+              "height": 500,
+              "width": 333
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["W.S. Van Dyke"],
+        "target_enriched": [
+          {
+            "name": "W.S. Van Dyke",
+            "imdb_id": "nm0886754",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTA5YjU4Y2UtNzcxNC00NTYyLWEwOTQtMThjNjQ5ZDBlMzEyXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 620,
+              "width": 481
+            }
+          }
+        ],
+        "for": ["The Thin Man"],
+        "for_enriched": [
+          {
+            "name": "The Thin Man",
+            "imdb_id": "tt0025878",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmFlOWMwMjAtMDMyMC00N2JjLTllODUtZjY3YWU3NGRkM2I2L2ltYWdlXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 2739,
+              "width": 1800
+            }
+          }
+        ],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Film Editing",
+    "normalized_name": "Best Achievement in Film Editing",
+    "category_id": 20,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["Eskimo"],
+        "target_enriched": [
+          {
+            "name": "Eskimo",
+            "imdb_id": "tt0023990",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzcyY2UyOTMtZGY1Ni00NjI3LThhNTAtNjBkZmJmOGNlZDc1XkEyXkFqcGdeQXVyODQ2NzAzMjY@._V1_.jpg",
+              "height": 814,
+              "width": 509
+            }
+          }
+        ],
+        "for": ["Conrad A. Nervig"],
+        "for_enriched": [
+          {
+            "name": "Conrad A. Nervig",
+            "imdb_id": "nm0626308",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Cleopatra"],
+        "target_enriched": [
+          {
+            "name": "Cleopatra",
+            "imdb_id": "tt0024991",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjgzMTgwNTI1M15BMl5BanBnXkFtZTgwMTgxNjk3MjE@._V1_.jpg",
+              "height": 500,
+              "width": 335
+            }
+          }
+        ],
+        "for": ["Anne Bauchens"],
+        "for_enriched": [
+          {
+            "name": "Anne Bauchens",
+            "imdb_id": "nm0061640",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["One Night of Love"],
+        "target_enriched": [
+          {
+            "name": "One Night of Love",
+            "imdb_id": "tt0025601",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzk5NDg0NTY4NF5BMl5BanBnXkFtZTgwODQxODgwMzE@._V1_.jpg",
+              "height": 500,
+              "width": 333
+            }
+          }
+        ],
+        "for": ["Gene Milford"],
+        "for_enriched": [
+          {
+            "name": "Gene Milford",
+            "imdb_id": "nm0587332",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Music, Original Song",
+    "normalized_name": "Best Achievement in Music Written for Motion Pictures (Original Song)",
+    "category_id": 21,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["The Gay Divorcee"],
+        "target_enriched": [
+          {
+            "name": "The Gay Divorcee",
+            "imdb_id": "tt0025164",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjNhYTQ5MmEtNjAyNS00MDYwLThkMmQtNzAxY2JhNjM3NGI2XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+              "height": 2215,
+              "width": 1588
+            }
+          }
+        ],
+        "for": ["Con Conrad", "Herb Magidson"],
+        "for_enriched": [
+          {
+            "name": "Con Conrad",
+            "imdb_id": "nm0175628",
+            "note": "(music)",
+            "image": null
+          },
+          {
+            "name": "Herb Magidson",
+            "imdb_id": "nm0536054",
+            "note": "(lyrics)",
+            "image": null
+          }
+        ],
+        "notes": "For the song \"The Continental\"."
+      },
+      {
+        "won": false,
+        "target": ["Flying Down to Rio"],
+        "target_enriched": [
+          {
+            "name": "Flying Down to Rio",
+            "imdb_id": "tt0024025",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDhjODgzMzItODU5OS00NmU4LTk2ZTgtYWFkOWNjN2IzNDA5XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+              "height": 2805,
+              "width": 1810
+            }
+          }
+        ],
+        "for": ["Vincent Youmans", "Edward Eliscu", "Gus Kahn"],
+        "for_enriched": [
+          {
+            "name": "Vincent Youmans",
+            "imdb_id": "nm0949207",
+            "note": "(music)",
+            "image": null
+          },
+          {
+            "name": "Edward Eliscu",
+            "imdb_id": "nm0253697",
+            "note": "(lyrics)",
+            "image": null
+          },
+          {
+            "name": "Gus Kahn",
+            "imdb_id": "nm0006146",
+            "note": "(lyrics)",
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTBiMThhYmQtMWZkZS00OWZkLWI4MDctNGJiMmEzNzI3ZmRiL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
+              "height": 954,
+              "width": 734
+            }
+          }
+        ],
+        "notes": "For the song \"Carioca\"."
+      },
+      {
+        "won": false,
+        "target": ["She Loves Me Not"],
+        "target_enriched": [
+          {
+            "name": "She Loves Me Not",
+            "imdb_id": "tt0025774",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2UyZjdmYWItY2VjYy00OTQ5LTg1NGEtNmE3ODFkODY5ZDhiXkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg",
+              "height": 1440,
+              "width": 960
+            }
+          }
+        ],
+        "for": ["Ralph Rainger", "Leo Robin"],
+        "for_enriched": [
+          {
+            "name": "Ralph Rainger",
+            "imdb_id": "nm0006247",
+            "note": "(music)",
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjg5MmE5ZjYtZGFkNi00ZmMxLTg5MTUtNDNhNjgyM2JkODM5L2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
+              "height": 436,
+              "width": 400
+            }
+          },
+          {
+            "name": "Leo Robin",
+            "imdb_id": "nm0732209",
+            "note": "(lyrics)",
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTE0MjI2ODQtZWMyNC00MGFhLWEyZTEtZTQ3YTIyYjc2MWI1XkEyXkFqcGdeQXVyMjQwOTE1MzE@._V1_.jpg",
+              "height": 1000,
+              "width": 799
+            }
+          }
+        ],
+        "notes": "For the song \"Love in Bloom\"."
+      }
+    ]
+  },
+  {
+    "name": "Best Music, Score",
+    "normalized_name": "Best Achievement in Music Written for Motion Pictures (Original Score)",
+    "category_id": 22,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["One Night of Love"],
+        "target_enriched": [
+          {
+            "name": "One Night of Love",
+            "imdb_id": "tt0025601",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzk5NDg0NTY4NF5BMl5BanBnXkFtZTgwODQxODgwMzE@._V1_.jpg",
+              "height": 500,
+              "width": 333
+            }
+          }
+        ],
+        "for": ["Louis Silvers"],
+        "for_enriched": [
+          {
+            "name": "Louis Silvers",
+            "imdb_id": "nm0799007",
+            "note": "(head of department)",
+            "image": null
+          }
+        ],
+        "notes": "Thematic music by Victor Schertzinger and Gus Kahn."
+      },
+      {
+        "won": false,
+        "target": ["The Gay Divorcee"],
+        "target_enriched": [
+          {
+            "name": "The Gay Divorcee",
+            "imdb_id": "tt0025164",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjNhYTQ5MmEtNjAyNS00MDYwLThkMmQtNzAxY2JhNjM3NGI2XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+              "height": 2215,
+              "width": 1588
+            }
+          }
+        ],
+        "for": ["Max Steiner"],
+        "for_enriched": [
+          {
+            "name": "Max Steiner",
+            "imdb_id": "nm0000070",
+            "note": "(head of department)",
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDAzMjZhYTQtZjQxMC00ODE4LWIxYzEtMjljNWRjODAxZjY0XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 797,
+              "width": 640
+            }
+          }
+        ],
+        "notes": "Score by Kenneth S. Webb and Samuel Hoffenstein."
+      },
+      {
+        "won": false,
+        "target": ["The Lost Patrol"],
+        "target_enriched": [
+          {
+            "name": "The Lost Patrol",
+            "imdb_id": "tt0025423",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTVmNmZkOGQtMTczNS00YWRjLWE5NzktNzU5MjM2MjlmOTA1XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+              "height": 2005,
+              "width": 1339
+            }
+          }
+        ],
+        "for": ["Max Steiner"],
+        "for_enriched": [
+          {
+            "name": "Max Steiner",
+            "imdb_id": "nm0000070",
+            "note": "(head of department)",
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDAzMjZhYTQtZjQxMC00ODE4LWIxYzEtMjljNWRjODAxZjY0XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 797,
+              "width": 640
+            }
+          }
+        ],
+        "notes": "Score by Max Steiner."
+      }
+    ]
+  },
+  {
+    "name": "Best Picture",
+    "normalized_name": "Best Picture",
+    "category_id": 13,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["It Happened One Night"],
+        "target_enriched": [
+          {
+            "name": "It Happened One Night",
+            "imdb_id": "tt0025316",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzJmMWE5NjAtNWMyZS00NmFiLWIwMDgtZDE2NzczYWFhNzIzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+              "height": 1440,
+              "width": 960
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Cleopatra"],
+        "target_enriched": [
+          {
+            "name": "Cleopatra",
+            "imdb_id": "tt0024991",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjgzMTgwNTI1M15BMl5BanBnXkFtZTgwMTgxNjk3MjE@._V1_.jpg",
+              "height": 500,
+              "width": 335
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Flirtation Walk"],
+        "target_enriched": [
+          {
+            "name": "Flirtation Walk",
+            "imdb_id": "tt0025124",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTcwODg1OTE3OF5BMl5BanBnXkFtZTgwMDY0NDIwMjE@._V1_.jpg",
+              "height": 500,
+              "width": 338
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Here Comes the Navy"],
+        "target_enriched": [
+          {
+            "name": "Here Comes the Navy",
+            "imdb_id": "tt0025238",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTZjMGU0NDUtMWRkYi00YjE3LWEzNjYtY2IyNjJhYmQ0NDliXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_.jpg",
+              "height": 959,
+              "width": 617
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Imitation of Life"],
+        "target_enriched": [
+          {
+            "name": "Imitation of Life",
+            "imdb_id": "tt0025301",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjk3NzFiODUtZDNjOS00MzQ2LTk3ZTEtMjg4MjRjZjc0MGMxXkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_.jpg",
+              "height": 3564,
+              "width": 2520
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["One Night of Love"],
+        "target_enriched": [
+          {
+            "name": "One Night of Love",
+            "imdb_id": "tt0025601",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzk5NDg0NTY4NF5BMl5BanBnXkFtZTgwODQxODgwMzE@._V1_.jpg",
+              "height": 500,
+              "width": 333
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The Barretts of Wimpole Street"],
+        "target_enriched": [
+          {
+            "name": "The Barretts of Wimpole Street",
+            "imdb_id": "tt0024865",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2Q4ZDBkMzEtNWM4ZC00MDRjLWIwNDItZTNkYWZjOGE5MjYwXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+              "height": 3974,
+              "width": 2684
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The Gay Divorcee"],
+        "target_enriched": [
+          {
+            "name": "The Gay Divorcee",
+            "imdb_id": "tt0025164",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjNhYTQ5MmEtNjAyNS00MDYwLThkMmQtNzAxY2JhNjM3NGI2XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+              "height": 2215,
+              "width": 1588
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The House of Rothschild"],
+        "target_enriched": [
+          {
+            "name": "The House of Rothschild",
+            "imdb_id": "tt0025272",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTBkNjA3NmQtOGQ3MC00ODk2LTlmZjYtYmQ3ZGIxZTczMjFjXkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_.jpg",
+              "height": 485,
+              "width": 300
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The Thin Man"],
+        "target_enriched": [
+          {
+            "name": "The Thin Man",
+            "imdb_id": "tt0025878",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmFlOWMwMjAtMDMyMC00N2JjLTllODUtZjY3YWU3NGRkM2I2L2ltYWdlXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 2739,
+              "width": 1800
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The White Parade"],
+        "target_enriched": [
+          {
+            "name": "The White Parade",
+            "imdb_id": "tt0025986",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc1MzEwODkzMV5BMl5BanBnXkFtZTgwMjUzOTU0MjE@._V1_.jpg",
+              "height": 500,
+              "width": 349
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Viva Villa!"],
+        "target_enriched": [
+          {
+            "name": "Viva Villa!",
+            "imdb_id": "tt0025948",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjMwZWMxZDctNTlkNC00YTE4LWIzZGEtYWZkNzFhZWU3ZDBjXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+              "height": 2048,
+              "width": 1369
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Short Subject, Cartoons",
+    "normalized_name": "Best Animated Short Film",
+    "category_id": 16,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["The Tortoise and the Hare"],
+        "target_enriched": [
+          {
+            "name": "The Tortoise and the Hare",
+            "imdb_id": "tt0027126",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTYzMjQ5NjItY2UxNS00ZGIzLWIxYTAtN2EwZGIxZmZkMGYyXkEyXkFqcGdeQXVyMTk3NDAwMzI@._V1_.jpg",
+              "height": 1440,
+              "width": 960
+            }
+          }
+        ],
+        "for": ["Walt Disney"],
+        "for_enriched": [
+          {
+            "name": "Walt Disney",
+            "imdb_id": "nm0000370",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIxMTUyNjc5OF5BMl5BanBnXkFtZTcwMjMwNjYwNA@@._V1_.jpg",
+              "height": 500,
+              "width": 390
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Holiday Land"],
+        "target_enriched": [
+          {
+            "name": "Holiday Land",
+            "imdb_id": "tt0025260",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTg1MGJlNWQtYTUzYS00Y2YzLWFiNmYtNThhODA0MGFlZjI3XkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_.jpg",
+              "height": 2049,
+              "width": 1542
+            }
+          }
+        ],
+        "for": ["Charles Mintz"],
+        "for_enriched": [
+          {
+            "name": "Charles Mintz",
+            "imdb_id": "nm0591762",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Jolly Little Elves"],
+        "target_enriched": [
+          {
+            "name": "Jolly Little Elves",
+            "imdb_id": "tt0025332",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTJjZTlkZjYtYTY1Yi00MzRmLTlhODItMmNjMjk2NDI2ZTAyXkEyXkFqcGdeQXVyNjc2NjkzNTg@._V1_.jpg",
+              "height": 720,
+              "width": 1280
+            }
+          }
+        ],
+        "for": ["Walter Lantz"],
+        "for_enriched": [
+          {
+            "name": "Walter Lantz",
+            "imdb_id": "nm0487237",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmNiMjVlMGEtNTg4Zi00NDcwLWE5ZjQtYzlmMzIwYWNjOWI2XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 540,
+              "width": 720
+            }
+          }
+        ],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Short Subject, Comedy",
+    "normalized_name": "Best Short Subject, Comedy",
+    "category_id": 17,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["La Cucaracha"],
+        "target_enriched": [
+          {
+            "name": "La Cucaracha",
+            "imdb_id": "tt0025019",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2Q2Yzk1MzYtNDljZC00MWVkLWEyNDAtNjA5YWZjNDdkODc4XkEyXkFqcGdeQXVyNTcwNjUwNzk@._V1_.jpg",
+              "height": 1500,
+              "width": 1000
+            }
+          }
+        ],
+        "for": ["Kenneth Macgowan"],
+        "for_enriched": [
+          {
+            "name": "Kenneth Macgowan",
+            "imdb_id": "nm0532284",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Men in Black"],
+        "target_enriched": [
+          {
+            "name": "Men in Black",
+            "imdb_id": "tt0025488",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDYxODcwN2ItMjU2Yy00NDJhLTgzNTQtOGNhN2YyYmZkZWM5XkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_.jpg",
+              "height": 1327,
+              "width": 897
+            }
+          }
+        ],
+        "for": ["Jules White"],
+        "for_enriched": [
+          {
+            "name": "Jules White",
+            "imdb_id": "nm0925028",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDg0MjU4MDEtMDQxYS00YjI4LWE2NmEtNzZjZDM0MTdjYmI4XkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_.jpg",
+              "height": 823,
+              "width": 859
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["What, No Men?"],
+        "target_enriched": [
+          {
+            "name": "What, No Men?",
+            "imdb_id": "tt0025977",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDZjZThiMTMtMWY0MS00YzI0LTgwODUtM2E5N2Y2NDU5NmU4XkEyXkFqcGdeQXVyMzI5NjUyMDM@._V1_.jpg",
+              "height": 600,
+              "width": 400
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Short Subject, Novelty",
+    "normalized_name": "Best Short Subject, Novelty",
+    "category_id": 18,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["City of Wax"],
+        "target_enriched": [
+          {
+            "name": "City of Wax",
+            "imdb_id": "tt0024986",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGU4ZmNhOWUtZmFiZC00YzI2LTg5MzktNWM1YWEwNDJmODZiXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+              "height": 500,
+              "width": 375
+            }
+          }
+        ],
+        "for": ["Horace Woodard", "Stacy Woodard"],
+        "for_enriched": [
+          {
+            "name": "Horace Woodard",
+            "imdb_id": "nm0940139",
+            "note": null,
+            "image": null
+          },
+          {
+            "name": "Stacy Woodard",
+            "imdb_id": "nm0940152",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Bosom Friends"],
+        "target_enriched": [
+          {
+            "name": "Bosom Friends",
+            "imdb_id": "tt0024909",
+            "note": null,
+            "image": null
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Strikes and Spares"],
+        "target_enriched": [
+          {
+            "name": "Strikes and Spares",
+            "imdb_id": "tt0025840",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI4NTUxMjk5OV5BMl5BanBnXkFtZTYwMDYzMzc4._V1_.jpg",
+              "height": 334,
+              "width": 216
+            }
+          }
+        ],
+        "for": ["Pete Smith"],
+        "for_enriched": [
+          {
+            "name": "Pete Smith",
+            "imdb_id": "nm0809570",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzc5MmI0MjctYzY1OC00ZjM2LWIzNzctMGE3NDBkNTEzOWE4XkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_.jpg",
+              "height": 350,
+              "width": 280
+            }
+          }
+        ],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Sound, Recording",
+    "normalized_name": "Best Sound, Recording",
+    "category_id": 15,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["One Night of Love"],
+        "target_enriched": [
+          {
+            "name": "One Night of Love",
+            "imdb_id": "tt0025601",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzk5NDg0NTY4NF5BMl5BanBnXkFtZTgwODQxODgwMzE@._V1_.jpg",
+              "height": 500,
+              "width": 333
+            }
+          }
+        ],
+        "for": ["John P. Livadary"],
+        "for_enriched": [
+          {
+            "name": "John P. Livadary",
+            "imdb_id": "nm0515093",
+            "note": "(sound director)",
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Cleopatra"],
+        "target_enriched": [
+          {
+            "name": "Cleopatra",
+            "imdb_id": "tt0024991",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjgzMTgwNTI1M15BMl5BanBnXkFtZTgwMTgxNjk3MjE@._V1_.jpg",
+              "height": 500,
+              "width": 335
+            }
+          }
+        ],
+        "for": ["Franklin Hansen"],
+        "for_enriched": [
+          {
+            "name": "Franklin Hansen",
+            "imdb_id": "nm0360630",
+            "note": "(sound director)",
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Flirtation Walk"],
+        "target_enriched": [
+          {
+            "name": "Flirtation Walk",
+            "imdb_id": "tt0025124",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTcwODg1OTE3OF5BMl5BanBnXkFtZTgwMDY0NDIwMjE@._V1_.jpg",
+              "height": 500,
+              "width": 338
+            }
+          }
+        ],
+        "for": ["Nathan Levinson"],
+        "for_enriched": [
+          {
+            "name": "Nathan Levinson",
+            "imdb_id": "nm0506080",
+            "note": "(sound director)",
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjU0MDM2MTE0N15BMl5BanBnXkFtZTgwOTc5MDM1NzM@._V1_.jpg",
+              "height": 722,
+              "width": 527
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Imitation of Life"],
+        "target_enriched": [
+          {
+            "name": "Imitation of Life",
+            "imdb_id": "tt0025301",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjk3NzFiODUtZDNjOS00MzQ2LTk3ZTEtMjg4MjRjZjc0MGMxXkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_.jpg",
+              "height": 3564,
+              "width": 2520
+            }
+          }
+        ],
+        "for": ["Theodore Soderberg"],
+        "for_enriched": [
+          {
+            "name": "Theodore Soderberg",
+            "imdb_id": "nm5119569",
+            "note": "(sound director)",
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The Affairs of Cellini"],
+        "target_enriched": [
+          {
+            "name": "The Affairs of Cellini",
+            "imdb_id": "tt0024816",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmIwZDYxOWItZTc4ZS00N2VjLTlhZmItYmJhOTJmNDAwMDYxXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+              "height": 879,
+              "width": 574
+            }
+          }
+        ],
+        "for": ["Thomas T. Moulton"],
+        "for_enriched": [
+          {
+            "name": "Thomas T. Moulton",
+            "imdb_id": "nm0609771",
+            "note": "(sound director)",
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The Gay Divorcee"],
+        "target_enriched": [
+          {
+            "name": "The Gay Divorcee",
+            "imdb_id": "tt0025164",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjNhYTQ5MmEtNjAyNS00MDYwLThkMmQtNzAxY2JhNjM3NGI2XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+              "height": 2215,
+              "width": 1588
+            }
+          }
+        ],
+        "for": ["Carl Dreher"],
+        "for_enriched": [
+          {
+            "name": "Carl Dreher",
+            "imdb_id": "nm0237393",
+            "note": "(sound director)",
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The White Parade"],
+        "target_enriched": [
+          {
+            "name": "The White Parade",
+            "imdb_id": "tt0025986",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc1MzEwODkzMV5BMl5BanBnXkFtZTgwMjUzOTU0MjE@._V1_.jpg",
+              "height": 500,
+              "width": 349
+            }
+          }
+        ],
+        "for": ["Edmund H. Hansen"],
+        "for_enriched": [
+          {
+            "name": "Edmund H. Hansen",
+            "imdb_id": "nm0360770",
+            "note": "(sound director)",
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Viva Villa!"],
+        "target_enriched": [
+          {
+            "name": "Viva Villa!",
+            "imdb_id": "tt0025948",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjMwZWMxZDctNTlkNC00YTE4LWIzZGEtYWZkNzFhZWU3ZDBjXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+              "height": 2048,
+              "width": 1369
+            }
+          }
+        ],
+        "for": ["Douglas Shearer"],
+        "for_enriched": [
+          {
+            "name": "Douglas Shearer",
+            "imdb_id": "nm0790428",
+            "note": "(sound director)",
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmJjMWQxMTQtY2Q0Mi00YWI4LWE3MTItM2E4YzFjN2FhNGRlXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_.jpg",
+              "height": 1022,
+              "width": 792
+            }
+          }
+        ],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Writing, Adaptation",
+    "normalized_name": "Best Adapted Screenplay",
+    "category_id": 9,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["It Happened One Night"],
+        "target_enriched": [
+          {
+            "name": "It Happened One Night",
+            "imdb_id": "tt0025316",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzJmMWE5NjAtNWMyZS00NmFiLWIwMDgtZDE2NzczYWFhNzIzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+              "height": 1440,
+              "width": 960
+            }
+          }
+        ],
+        "for": ["Robert Riskin"],
+        "for_enriched": [
+          {
+            "name": "Robert Riskin",
+            "imdb_id": "nm0728307",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjRlNzIxMzctZDlhYi00NTc1LWJkMjUtMTgyMGIzY2RjZDUzXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_.jpg",
+              "height": 669,
+              "width": 841
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The Thin Man"],
+        "target_enriched": [
+          {
+            "name": "The Thin Man",
+            "imdb_id": "tt0025878",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmFlOWMwMjAtMDMyMC00N2JjLTllODUtZjY3YWU3NGRkM2I2L2ltYWdlXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 2739,
+              "width": 1800
+            }
+          }
+        ],
+        "for": ["Frances Goodrich", "Albert Hackett"],
+        "for_enriched": [
+          {
+            "name": "Frances Goodrich",
+            "imdb_id": "nm0329304",
+            "note": null,
+            "image": null
+          },
+          {
+            "name": "Albert Hackett",
+            "imdb_id": "nm0352443",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Viva Villa!"],
+        "target_enriched": [
+          {
+            "name": "Viva Villa!",
+            "imdb_id": "tt0025948",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjMwZWMxZDctNTlkNC00YTE4LWIzZGEtYWZkNzFhZWU3ZDBjXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+              "height": 2048,
+              "width": 1369
+            }
+          }
+        ],
+        "for": ["Ben Hecht"],
+        "for_enriched": [
+          {
+            "name": "Ben Hecht",
+            "imdb_id": "nm0372942",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGMwMGI2NmItYjkwYy00N2FkLTlmNzUtNDI2YjU0ZTk1YzhlXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 1800,
+              "width": 1422
+            }
+          }
+        ],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Writing, Original Story",
+    "normalized_name": "Best Original Screenplay",
+    "category_id": 10,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["Manhattan Melodrama"],
+        "target_enriched": [
+          {
+            "name": "Manhattan Melodrama",
+            "imdb_id": "tt0025464",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGRhZWVkZGUtY2FjMi00NjhlLThhNGYtYTY4ZThhMzdkMjg3XkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg",
+              "height": 1440,
+              "width": 960
+            }
+          }
+        ],
+        "for": ["Arthur Caesar"],
+        "for_enriched": [
+          {
+            "name": "Arthur Caesar",
+            "imdb_id": "nm0128361",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Hide-Out"],
+        "target_enriched": [
+          {
+            "name": "Hide-Out",
+            "imdb_id": "tt0025251",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjE2NjFhZjYtODc4Yy00MzNhLWEwZTAtZGQ3ZDhkZDM1OWUyXkEyXkFqcGdeQXVyMjc3MjgzOTU@._V1_.jpg",
+              "height": 3000,
+              "width": 2013
+            }
+          }
+        ],
+        "for": ["Mauri Grashin"],
+        "for_enriched": [
+          {
+            "name": "Mauri Grashin",
+            "imdb_id": "nm0335831",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The Richest Girl in the World"],
+        "target_enriched": [
+          {
+            "name": "The Richest Girl in the World",
+            "imdb_id": "tt0025718",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjExZTk2Y2EtMzdjMy00MzdmLTg2YzAtNjZkMjc4MDI2MTNhXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_.jpg",
+              "height": 967,
+              "width": 749
+            }
+          }
+        ],
+        "for": ["Norman Krasna"],
+        "for_enriched": [
+          {
+            "name": "Norman Krasna",
+            "imdb_id": "nm0469915",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzVkN2QwMDctNTRkMy00ZWVhLWI5ZDEtYzJkNWFhOTg4ZWNhXkEyXkFqcGdeQXVyMjQwOTE1MzE@._V1_.jpg",
+              "height": 1113,
+              "width": 835
+            }
+          }
+        ],
+        "notes": null
+      }
+    ]
+  }
 ]

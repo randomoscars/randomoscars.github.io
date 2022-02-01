@@ -1,1467 +1,1304 @@
 [
-    {
-        "name": "Best Actor in a Leading Role",
-        "normalized_name": "Best Performance by an Actor in a Leading Role",
-        "category_id": 0,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "Lionel Barrymore"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Lionel Barrymore",
-                        "imdb_id": "nm0000859",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTc5NzY5MTgwNV5BMl5BanBnXkFtZTYwMjc4NjQ2._V1_.jpg",
-                            "height": 450,
-                            "width": 321
-                        }
-                    }
-                ],
-                "for": [
-                    "A Free Soul"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "A Free Soul",
-                        "imdb_id": "tt0021885",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMWY4YjFkNzItMTEyZS00OTIwLWJiYmQtY2JlMTcxZGM4N2Q1XkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg",
-                            "height": 1440,
-                            "width": 960
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Adolphe Menjou"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Adolphe Menjou",
-                        "imdb_id": "nm0579663",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTg2NzgyMTE3M15BMl5BanBnXkFtZTYwNTIwMTM2._V1_.jpg",
-                            "height": 450,
-                            "width": 369
-                        }
-                    }
-                ],
-                "for": [
-                    "The Front Page"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "The Front Page",
-                        "imdb_id": "tt0021890",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNTQzODg2MDQtMmM5Ni00YjBjLWFlMTAtOGRhZTQwNzJhZTViXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
-                            "height": 2733,
-                            "width": 1802
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Fredric March"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Fredric March",
-                        "imdb_id": "nm0545298",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNTI3MDEyMzg2OF5BMl5BanBnXkFtZTYwNzA2MjI2._V1_.jpg",
-                            "height": 450,
-                            "width": 387
-                        }
-                    }
-                ],
-                "for": [
-                    "The Royal Family of Broadway"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "The Royal Family of Broadway",
-                        "imdb_id": "tt0021322",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BM2ZiNzhkNGYtMWY1MC00NTU4LWExMmQtODE3YmVjNGRhZWRjXkEyXkFqcGdeQXVyNTYyMTMwOTA@._V1_.jpg",
-                            "height": 788,
-                            "width": 1000
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Jackie Cooper"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Jackie Cooper",
-                        "imdb_id": "nm0178114",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTkzNjYwOTY4Ml5BMl5BanBnXkFtZTcwNjU0MDYwMw@@._V1_.jpg",
-                            "height": 500,
-                            "width": 333
-                        }
-                    }
-                ],
-                "for": [
-                    "Skippy"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Skippy",
-                        "imdb_id": "tt0022397",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTg0Mzc1OTg4NF5BMl5BanBnXkFtZTcwMDM1MjQxMw@@._V1_.jpg",
-                            "height": 500,
-                            "width": 351
-                        }
-                    }
-                ],
-                "notes": "At age 9 years and 20 days, Cooper is (to date) the youngest ever nominee for the Academy Award for Best Actor."
-            },
-            {
-                "won": false,
-                "target": [
-                    "Richard Dix"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Richard Dix",
-                        "imdb_id": "nm0228715",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTg4NDY3ODg2Ml5BMl5BanBnXkFtZTcwNTA0MTg2OA@@._V1_.jpg",
-                            "height": 2048,
-                            "width": 1610
-                        }
-                    }
-                ],
-                "for": [
-                    "Cimarron"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Cimarron",
-                        "imdb_id": "tt0021746",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYWQwZGM0MTktNDM1NC00MTZlLTllNzctYTllZWI2MzdiNmMyXkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_.jpg",
-                            "height": 1890,
-                            "width": 1299
-                        }
-                    }
-                ],
-                "notes": null
+  {
+    "name": "Best Actor in a Leading Role",
+    "normalized_name": "Best Performance by an Actor in a Leading Role",
+    "category_id": 0,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["Lionel Barrymore"],
+        "target_enriched": [
+          {
+            "name": "Lionel Barrymore",
+            "imdb_id": "nm0000859",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc5NzY5MTgwNV5BMl5BanBnXkFtZTYwMjc4NjQ2._V1_.jpg",
+              "height": 450,
+              "width": 321
             }
-        ]
-    },
-    {
-        "name": "Best Actress in a Leading Role",
-        "normalized_name": "Best Performance by an Actress in a Leading Role",
-        "category_id": 1,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "Marie Dressler"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Marie Dressler",
-                        "imdb_id": "nm0237597",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTczNjgxODQ0N15BMl5BanBnXkFtZTYwNjI3NjQ2._V1_.jpg",
-                            "height": 450,
-                            "width": 304
-                        }
-                    }
-                ],
-                "for": [
-                    "Min and Bill"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Min and Bill",
-                        "imdb_id": "tt0021148",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BOTdjZjI5ZmEtZTI0Mi00MjJkLWE0ZDQtNjEzYTFkMjYzMGY3XkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_.jpg",
-                            "height": 1440,
-                            "width": 960
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Ann Harding"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Ann Harding",
-                        "imdb_id": "nm0362267",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYTAyYjIxMWUtN2E0Mi00ZWUzLWJjZjgtODQxMDFjMjljM2EzXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
-                            "height": 830,
-                            "width": 800
-                        }
-                    }
-                ],
-                "for": [
-                    "Holiday"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Holiday",
-                        "imdb_id": "tt0020985",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMjMzOTI2ODczNV5BMl5BanBnXkFtZTgwNTA3MzU2MzE@._V1_.jpg",
-                            "height": 500,
-                            "width": 326
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Irene Dunne"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Irene Dunne",
-                        "imdb_id": "nm0002050",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMzA1NTg0NzU2MV5BMl5BanBnXkFtZTYwNjU5OTU2._V1_.jpg",
-                            "height": 420,
-                            "width": 339
-                        }
-                    }
-                ],
-                "for": [
-                    "Cimarron"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Cimarron",
-                        "imdb_id": "tt0021746",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYWQwZGM0MTktNDM1NC00MTZlLTllNzctYTllZWI2MzdiNmMyXkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_.jpg",
-                            "height": 1890,
-                            "width": 1299
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Marlene Dietrich"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Marlene Dietrich",
-                        "imdb_id": "nm0000017",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTI0NTcyMTM5OF5BMl5BanBnXkFtZTYwOTkzMDU2._V1_.jpg",
-                            "height": 450,
-                            "width": 355
-                        }
-                    }
-                ],
-                "for": [
-                    "Morocco"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Morocco",
-                        "imdb_id": "tt0021156",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BOWNiYzgxZjMtZTI5NC00MmZkLThkNTgtZGJmZTA0OTZmOGJiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
-                            "height": 1440,
-                            "width": 960
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Norma Shearer"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Norma Shearer",
-                        "imdb_id": "nm0790454",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTg4OTI0MjU5NV5BMl5BanBnXkFtZTYwNjYxNjU2._V1_.jpg",
-                            "height": 450,
-                            "width": 351
-                        }
-                    }
-                ],
-                "for": [
-                    "A Free Soul"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "A Free Soul",
-                        "imdb_id": "tt0021885",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMWY4YjFkNzItMTEyZS00OTIwLWJiYmQtY2JlMTcxZGM4N2Q1XkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg",
-                            "height": 1440,
-                            "width": 960
-                        }
-                    }
-                ],
-                "notes": null
+          }
+        ],
+        "for": ["A Free Soul"],
+        "for_enriched": [
+          {
+            "name": "A Free Soul",
+            "imdb_id": "tt0021885",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWY4YjFkNzItMTEyZS00OTIwLWJiYmQtY2JlMTcxZGM4N2Q1XkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg",
+              "height": 1440,
+              "width": 960
             }
-        ]
-    },
-    {
-        "name": "Best Art Direction",
-        "normalized_name": "Best Achievement in Production Design",
-        "category_id": 2,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "Cimarron"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Cimarron",
-                        "imdb_id": "tt0021746",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYWQwZGM0MTktNDM1NC00MTZlLTllNzctYTllZWI2MzdiNmMyXkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_.jpg",
-                            "height": 1890,
-                            "width": 1299
-                        }
-                    }
-                ],
-                "for": [
-                    "Max R\u00e9e"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Max R\u00e9e",
-                        "imdb_id": "nm0753663",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BY2Y1YzljZWEtNzIzMi00ZWE3LWFhNTItNWQyNjMxZjQzOTI5XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_.jpg",
-                            "height": 725,
-                            "width": 999
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Just Imagine"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Just Imagine",
-                        "imdb_id": "tt0021016",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYTBhNmRkZGUtODIwMy00ZjlhLWI1NDctYjEwM2U3N2FhNTAzXkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_.jpg",
-                            "height": 1157,
-                            "width": 780
-                        }
-                    }
-                ],
-                "for": [
-                    "Stephen Goosson",
-                    "Ralph Hammeras"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Stephen Goosson",
-                        "imdb_id": "nm0329684",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNTI4YzYyNWYtODYzMy00YTdiLWE2MTQtZDA0ZWQ0NWZmMzQ4XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_.jpg",
-                            "height": 666,
-                            "width": 1000
-                        }
-                    },
-                    {
-                        "name": "Ralph Hammeras",
-                        "imdb_id": "nm0358518",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Morocco"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Morocco",
-                        "imdb_id": "tt0021156",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BOWNiYzgxZjMtZTI5NC00MmZkLThkNTgtZGJmZTA0OTZmOGJiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
-                            "height": 1440,
-                            "width": 960
-                        }
-                    }
-                ],
-                "for": [
-                    "Hans Dreier"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Hans Dreier",
-                        "imdb_id": "nm0237417",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZDk1ZGNlZGQtZjYwNS00OWU0LTkzOTAtZGNkMjAyN2U4Yzc0XkEyXkFqcGdeQXVyMjQwOTE1MzE@._V1_.jpg",
-                            "height": 890,
-                            "width": 803
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Svengali"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Svengali",
-                        "imdb_id": "tt0022454",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMDg0Y2YyYjAtYTlmMC00YWU2LTllYjYtOTlkMGYwOTFhM2Y1XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 1734,
-                            "width": 1303
-                        }
-                    }
-                ],
-                "for": [
-                    "Anton Grot"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Anton Grot",
-                        "imdb_id": "nm0343819",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMGZkYTc1ZmItMDc3ZC00ZWQ0LThlOTItMjZmMWNjY2M4ZTcxXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 547,
-                            "width": 756
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Whoopee!"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Whoopee!",
-                        "imdb_id": "tt0021549",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTYxOTA5MTA5NV5BMl5BanBnXkFtZTcwMTY2Mjg4NA@@._V1_.jpg",
-                            "height": 1023,
-                            "width": 700
-                        }
-                    }
-                ],
-                "for": [
-                    "Richard Day"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Richard Day",
-                        "imdb_id": "nm0206554",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Adolphe Menjou"],
+        "target_enriched": [
+          {
+            "name": "Adolphe Menjou",
+            "imdb_id": "nm0579663",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg2NzgyMTE3M15BMl5BanBnXkFtZTYwNTIwMTM2._V1_.jpg",
+              "height": 450,
+              "width": 369
             }
-        ]
-    },
-    {
-        "name": "Best Cinematography",
-        "normalized_name": "Best Achievement in Cinematography",
-        "category_id": 3,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "Tabu: A Story of the South Seas"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Tabu: A Story of the South Seas",
-                        "imdb_id": "tt0022458",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNDhmNzg0M2UtZGNkNC00YTQ3LWE0ZjAtMmFjNTI2MmFkZmNiXkEyXkFqcGdeQXVyMTczMjA2Nzk@._V1_.jpg",
-                            "height": 700,
-                            "width": 479
-                        }
-                    }
-                ],
-                "for": [
-                    "Floyd Crosby"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Floyd Crosby",
-                        "imdb_id": "nm0005677",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZGRhMjhlOTgtYzc1OC00NTBlLWFiN2QtZjMxYTNiY2Y2NjVjXkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_.jpg",
-                            "height": 1709,
-                            "width": 1229
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Cimarron"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Cimarron",
-                        "imdb_id": "tt0021746",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYWQwZGM0MTktNDM1NC00MTZlLTllNzctYTllZWI2MzdiNmMyXkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_.jpg",
-                            "height": 1890,
-                            "width": 1299
-                        }
-                    }
-                ],
-                "for": [
-                    "Edward Cronjager"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Edward Cronjager",
-                        "imdb_id": "nm0005676",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BOTY2OGFjNmUtM2I4Yy00MGEyLTk4ZDktZDBkMTcxNzU2ZDU3XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 915,
-                            "width": 700
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Morocco"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Morocco",
-                        "imdb_id": "tt0021156",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BOWNiYzgxZjMtZTI5NC00MmZkLThkNTgtZGJmZTA0OTZmOGJiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
-                            "height": 1440,
-                            "width": 960
-                        }
-                    }
-                ],
-                "for": [
-                    "Lee Garmes"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Lee Garmes",
-                        "imdb_id": "nm0005716",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZDg4NjAyYTctZTkxNy00MjAzLThkZDYtMzUwYmQwMmM2ZDk2XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 3000,
-                            "width": 2384
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Svengali"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Svengali",
-                        "imdb_id": "tt0022454",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMDg0Y2YyYjAtYTlmMC00YWU2LTllYjYtOTlkMGYwOTFhM2Y1XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 1734,
-                            "width": 1303
-                        }
-                    }
-                ],
-                "for": [
-                    "Barney McGill"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Barney McGill",
-                        "imdb_id": "nm0569222",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Right to Love"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Right to Love",
-                        "imdb_id": "tt0021301",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BN2Y4OThlN2MtNGMyZS00NjE2LWJhZTAtYWU2MGE1MTMwODNhXkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg",
-                            "height": 809,
-                            "width": 640
-                        }
-                    }
-                ],
-                "for": [
-                    "Charles Lang"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Charles Lang",
-                        "imdb_id": "nm0485702",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTk4OTMxMDQtMGQ0Yy00MGEyLWExNmQtZTY2NTAwMTMwYjNmXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 620,
-                            "width": 494
-                        }
-                    }
-                ],
-                "notes": null
+          }
+        ],
+        "for": ["The Front Page"],
+        "for_enriched": [
+          {
+            "name": "The Front Page",
+            "imdb_id": "tt0021890",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTQzODg2MDQtMmM5Ni00YjBjLWFlMTAtOGRhZTQwNzJhZTViXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+              "height": 2733,
+              "width": 1802
             }
-        ]
-    },
-    {
-        "name": "Best Director",
-        "normalized_name": "Best Achievement in Directing",
-        "category_id": 12,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "Norman Taurog"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Norman Taurog",
-                        "imdb_id": "nm0851537",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYmJjOTZhZTktZTg5OC00ODQxLWI1MTctM2FhMjQxYTIxYTk1XkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_.jpg",
-                            "height": 840,
-                            "width": 660
-                        }
-                    }
-                ],
-                "for": [
-                    "Skippy"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Skippy",
-                        "imdb_id": "tt0022397",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTg0Mzc1OTg4NF5BMl5BanBnXkFtZTcwMDM1MjQxMw@@._V1_.jpg",
-                            "height": 500,
-                            "width": 351
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Clarence Brown"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Clarence Brown",
-                        "imdb_id": "nm0113284",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BOGU4MmMyYzktYjQwYi00NmFjLWI1NzktMGQ0NWQ0ODQ3OTQ4XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 761,
-                            "width": 510
-                        }
-                    }
-                ],
-                "for": [
-                    "A Free Soul"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "A Free Soul",
-                        "imdb_id": "tt0021885",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMWY4YjFkNzItMTEyZS00OTIwLWJiYmQtY2JlMTcxZGM4N2Q1XkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg",
-                            "height": 1440,
-                            "width": 960
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Josef von Sternberg"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Josef von Sternberg",
-                        "imdb_id": "nm0903049",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTg1MzYxMzkyNV5BMl5BanBnXkFtZTYwNjMxNjI2._V1_.jpg",
-                            "height": 450,
-                            "width": 304
-                        }
-                    }
-                ],
-                "for": [
-                    "Morocco"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Morocco",
-                        "imdb_id": "tt0021156",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BOWNiYzgxZjMtZTI5NC00MmZkLThkNTgtZGJmZTA0OTZmOGJiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
-                            "height": 1440,
-                            "width": 960
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Lewis Milestone"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Lewis Milestone",
-                        "imdb_id": "nm0587277",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMzNhZDI4NGUtZjQ0MS00NWZlLWFiNzQtZWY5ZjcwZmRiODM0XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 6000,
-                            "width": 4556
-                        }
-                    }
-                ],
-                "for": [
-                    "The Front Page"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "The Front Page",
-                        "imdb_id": "tt0021890",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNTQzODg2MDQtMmM5Ni00YjBjLWFlMTAtOGRhZTQwNzJhZTViXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
-                            "height": 2733,
-                            "width": 1802
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Wesley Ruggles"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Wesley Ruggles",
-                        "imdb_id": "nm0749484",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYjBhODg4NTYtZDZlNi00ZWY4LWFiY2QtOGZiNDE3YjhmY2MxXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg",
-                            "height": 720,
-                            "width": 912
-                        }
-                    }
-                ],
-                "for": [
-                    "Cimarron"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Cimarron",
-                        "imdb_id": "tt0021746",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYWQwZGM0MTktNDM1NC00MTZlLTllNzctYTllZWI2MzdiNmMyXkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_.jpg",
-                            "height": 1890,
-                            "width": 1299
-                        }
-                    }
-                ],
-                "notes": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Fredric March"],
+        "target_enriched": [
+          {
+            "name": "Fredric March",
+            "imdb_id": "nm0545298",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTI3MDEyMzg2OF5BMl5BanBnXkFtZTYwNzA2MjI2._V1_.jpg",
+              "height": 450,
+              "width": 387
             }
-        ]
-    },
-    {
-        "name": "Best Picture",
-        "normalized_name": "Best Picture",
-        "category_id": 13,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "Cimarron"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Cimarron",
-                        "imdb_id": "tt0021746",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYWQwZGM0MTktNDM1NC00MTZlLTllNzctYTllZWI2MzdiNmMyXkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_.jpg",
-                            "height": 1890,
-                            "width": 1299
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "East Lynne"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "East Lynne",
-                        "imdb_id": "tt0021826",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYjlhYzMyMzEtN2I2Yy00OGE3LWI5ZjAtNDI4YzkzMGFhM2M3XkEyXkFqcGdeQXVyNDY1NzU5NjY@._V1_.jpg",
-                            "height": 894,
-                            "width": 600
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Skippy"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Skippy",
-                        "imdb_id": "tt0022397",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTg0Mzc1OTg4NF5BMl5BanBnXkFtZTcwMDM1MjQxMw@@._V1_.jpg",
-                            "height": 500,
-                            "width": 351
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Front Page"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Front Page",
-                        "imdb_id": "tt0021890",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNTQzODg2MDQtMmM5Ni00YjBjLWFlMTAtOGRhZTQwNzJhZTViXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
-                            "height": 2733,
-                            "width": 1802
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Trader Horn"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Trader Horn",
-                        "imdb_id": "tt0022495",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMDY1YjcyZGQtZDU4Yi00NjZhLTk5YWUtNDQzNDk0YmIxOTA3XkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_.jpg",
-                            "height": 768,
-                            "width": 509
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
+          }
+        ],
+        "for": ["The Royal Family of Broadway"],
+        "for_enriched": [
+          {
+            "name": "The Royal Family of Broadway",
+            "imdb_id": "tt0021322",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2ZiNzhkNGYtMWY1MC00NTU4LWExMmQtODE3YmVjNGRhZWRjXkEyXkFqcGdeQXVyNTYyMTMwOTA@._V1_.jpg",
+              "height": 788,
+              "width": 1000
             }
-        ]
-    },
-    {
-        "name": "Best Sound, Recording",
-        "normalized_name": "Best Sound, Recording",
-        "category_id": 15,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "Paramount Publix Corporation"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Paramount Publix Corporation",
-                        "imdb_id": "co0025751",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": "Recipient: Paramount Publix Studio Sound Department"
-            },
-            {
-                "won": false,
-                "target": [
-                    "Metro-Goldwyn-Mayer (MGM)"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Metro-Goldwyn-Mayer (MGM)",
-                        "imdb_id": "co0007143",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": "Recipient: Metro-Goldwyn-Mayer Studio Sound Department"
-            },
-            {
-                "won": false,
-                "target": [
-                    "RKO Radio Pictures"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "RKO Radio Pictures",
-                        "imdb_id": "co0041421",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": "Recipient: RKO Radio Studio Sound Department"
-            },
-            {
-                "won": false,
-                "target": [
-                    "Samuel Goldwyn Sound Department",
-                    "United Artists"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Samuel Goldwyn Sound Department",
-                        "imdb_id": "co0007899",
-                        "note": null,
-                        "image": null
-                    },
-                    {
-                        "name": "United Artists",
-                        "imdb_id": "co0026841",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": "Recipient: Samuel Goldwyn-United Artists Studio Sound Department"
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Jackie Cooper"],
+        "target_enriched": [
+          {
+            "name": "Jackie Cooper",
+            "imdb_id": "nm0178114",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTkzNjYwOTY4Ml5BMl5BanBnXkFtZTcwNjU0MDYwMw@@._V1_.jpg",
+              "height": 500,
+              "width": 333
             }
-        ]
-    },
-    {
-        "name": "Best Writing, Adaptation",
-        "normalized_name": "Best Adapted Screenplay",
-        "category_id": 9,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "Cimarron"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Cimarron",
-                        "imdb_id": "tt0021746",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYWQwZGM0MTktNDM1NC00MTZlLTllNzctYTllZWI2MzdiNmMyXkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_.jpg",
-                            "height": 1890,
-                            "width": 1299
-                        }
-                    }
-                ],
-                "for": [
-                    "Howard Estabrook"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Howard Estabrook",
-                        "imdb_id": "nm0261455",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZjc5OTA2MDAtYzA0OC00NjkyLWJmNmEtNjU4MTM4OWIwODgyXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
-                            "height": 533,
-                            "width": 433
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Holiday"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Holiday",
-                        "imdb_id": "tt0020985",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMjMzOTI2ODczNV5BMl5BanBnXkFtZTgwNTA3MzU2MzE@._V1_.jpg",
-                            "height": 500,
-                            "width": 326
-                        }
-                    }
-                ],
-                "for": [
-                    "Horace Jackson"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Horace Jackson",
-                        "imdb_id": "nm0413590",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Little Caesar"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Little Caesar",
-                        "imdb_id": "tt0021079",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BY2ZlZWI1OGEtMzVlNi00ZGRlLWJkZjEtNGUyM2RmNThiZTEyXkEyXkFqcGdeQXVyNTcwNjUwNzk@._V1_.jpg",
-                            "height": 2937,
-                            "width": 1944
-                        }
-                    }
-                ],
-                "for": [
-                    "Francis Edward Faragoh",
-                    "Robert N. Lee"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Francis Edward Faragoh",
-                        "imdb_id": "nm0267020",
-                        "note": null,
-                        "image": null
-                    },
-                    {
-                        "name": "Robert N. Lee",
-                        "imdb_id": "nm0498133",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Skippy"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Skippy",
-                        "imdb_id": "tt0022397",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTg0Mzc1OTg4NF5BMl5BanBnXkFtZTcwMDM1MjQxMw@@._V1_.jpg",
-                            "height": 500,
-                            "width": 351
-                        }
-                    }
-                ],
-                "for": [
-                    "Joseph L. Mankiewicz",
-                    "Sam Mintz"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Joseph L. Mankiewicz",
-                        "imdb_id": "nm0000581",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMjA1MzMwMzEwNF5BMl5BanBnXkFtZTcwMTk5MjgyNw@@._V1_.jpg",
-                            "height": 500,
-                            "width": 415
-                        }
-                    },
-                    {
-                        "name": "Sam Mintz",
-                        "imdb_id": "nm0591791",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Criminal Code"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Criminal Code",
-                        "imdb_id": "tt0021770",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZWYyYjIwMWMtN2FhNS00MGFkLTkyMDktOWFlYTlkMTI4ZjdmXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 750,
-                            "width": 500
-                        }
-                    }
-                ],
-                "for": [
-                    "Seton I. Miller",
-                    "Fred Niblo Jr."
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Seton I. Miller",
-                        "imdb_id": "nm0589316",
-                        "note": null,
-                        "image": null
-                    },
-                    {
-                        "name": "Fred Niblo Jr.",
-                        "imdb_id": "nm0629240",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": null
+          }
+        ],
+        "for": ["Skippy"],
+        "for_enriched": [
+          {
+            "name": "Skippy",
+            "imdb_id": "tt0022397",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg0Mzc1OTg4NF5BMl5BanBnXkFtZTcwMDM1MjQxMw@@._V1_.jpg",
+              "height": 500,
+              "width": 351
             }
-        ]
-    },
-    {
-        "name": "Best Writing, Original Story",
-        "normalized_name": "Best Original Screenplay",
-        "category_id": 10,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "The Dawn Patrol"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Dawn Patrol",
-                        "imdb_id": "tt0020815",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMDUzZWYxMTMtOWUwNi00N2MzLWEyZDAtYzc2Nzc5MWIzMTJkXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 3180,
-                            "width": 2050
-                        }
-                    }
-                ],
-                "for": [
-                    "John Monk Saunders"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "John Monk Saunders",
-                        "imdb_id": "nm0766850",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNzRlOTgyZDUtNTRkNy00NWE1LWFhYTMtZWRmY2UxODdkNTQ2XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_.jpg",
-                            "height": 1315,
-                            "width": 1298
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Laughter"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Laughter",
-                        "imdb_id": "tt0021053",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMDA3NDEyZTItZjg4Yy00ZmYxLTkyYWQtNjg4NDVjMzgxMzhmXkEyXkFqcGdeQXVyNDY1NzU5NjY@._V1_.jpg",
-                            "height": 551,
-                            "width": 390
-                        }
-                    }
-                ],
-                "for": [
-                    "Harry d'Abbadie d'Arrast",
-                    "Douglas Z. Doty",
-                    "Donald Ogden Stewart"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Harry d'Abbadie d'Arrast",
-                        "imdb_id": "nm0195496",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMzI4OTllNjctZWFiZC00NGQ3LWFlZWUtODg2ZjQ3YTg5ZDMxXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_.jpg",
-                            "height": 936,
-                            "width": 793
-                        }
-                    },
-                    {
-                        "name": "Douglas Z. Doty",
-                        "imdb_id": "nm0234608",
-                        "note": null,
-                        "image": null
-                    },
-                    {
-                        "name": "Donald Ogden Stewart",
-                        "imdb_id": "nm0829330",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYjRiMjZmYmQtODk3MC00NjYzLWI3YTQtMjE4MWYzZGVlNzg4XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_.jpg",
-                            "height": 900,
-                            "width": 697
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Smart Money"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Smart Money",
-                        "imdb_id": "tt0022403",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTg3MjE5ODA2M15BMl5BanBnXkFtZTgwODU2ODgwMzE@._V1_.jpg",
-                            "height": 500,
-                            "width": 351
-                        }
-                    }
-                ],
-                "for": [
-                    "Lucien Hubbard",
-                    "Joseph Jackson"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Lucien Hubbard",
-                        "imdb_id": "nm0399203",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNzIxNWIzZTAtZDA0Ny00ODA0LWI4YWEtMjc0YTBlZDAxMTQwXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_.jpg",
-                            "height": 1330,
-                            "width": 969
-                        }
-                    },
-                    {
-                        "name": "Joseph Jackson",
-                        "imdb_id": "nm0413711",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Doorway to Hell"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Doorway to Hell",
-                        "imdb_id": "tt0020836",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BODVhODRjMTEtNWEwYy00ZWVjLTkzYTItZmI1NmM4MDZmYTc2XkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_.jpg",
-                            "height": 881,
-                            "width": 580
-                        }
-                    }
-                ],
-                "for": [
-                    "Rowland Brown"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Rowland Brown",
-                        "imdb_id": "nm0114602",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Public Enemy"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Public Enemy",
-                        "imdb_id": "tt0022286",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYjMzMDU3NmEtYjA0Zi00MzQ1LWIwMzEtMzVhZjY0MTI4NjcxXkEyXkFqcGdeQXVyNTcwNjUwNzk@._V1_.jpg",
-                            "height": 3000,
-                            "width": 1992
-                        }
-                    }
-                ],
-                "for": [
-                    "John Bright",
-                    "Kubec Glasmon"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "John Bright",
-                        "imdb_id": "nm0109148",
-                        "note": null,
-                        "image": null
-                    },
-                    {
-                        "name": "Kubec Glasmon",
-                        "imdb_id": "nm0321891",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": null
+          }
+        ],
+        "notes": "At age 9 years and 20 days, Cooper is (to date) the youngest ever nominee for the Academy Award for Best Actor."
+      },
+      {
+        "won": false,
+        "target": ["Richard Dix"],
+        "target_enriched": [
+          {
+            "name": "Richard Dix",
+            "imdb_id": "nm0228715",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg4NDY3ODg2Ml5BMl5BanBnXkFtZTcwNTA0MTg2OA@@._V1_.jpg",
+              "height": 2048,
+              "width": 1610
             }
-        ]
-    }
+          }
+        ],
+        "for": ["Cimarron"],
+        "for_enriched": [
+          {
+            "name": "Cimarron",
+            "imdb_id": "tt0021746",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWQwZGM0MTktNDM1NC00MTZlLTllNzctYTllZWI2MzdiNmMyXkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_.jpg",
+              "height": 1890,
+              "width": 1299
+            }
+          }
+        ],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Actress in a Leading Role",
+    "normalized_name": "Best Performance by an Actress in a Leading Role",
+    "category_id": 1,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["Marie Dressler"],
+        "target_enriched": [
+          {
+            "name": "Marie Dressler",
+            "imdb_id": "nm0237597",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTczNjgxODQ0N15BMl5BanBnXkFtZTYwNjI3NjQ2._V1_.jpg",
+              "height": 450,
+              "width": 304
+            }
+          }
+        ],
+        "for": ["Min and Bill"],
+        "for_enriched": [
+          {
+            "name": "Min and Bill",
+            "imdb_id": "tt0021148",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTdjZjI5ZmEtZTI0Mi00MjJkLWE0ZDQtNjEzYTFkMjYzMGY3XkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_.jpg",
+              "height": 1440,
+              "width": 960
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Ann Harding"],
+        "target_enriched": [
+          {
+            "name": "Ann Harding",
+            "imdb_id": "nm0362267",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTAyYjIxMWUtN2E0Mi00ZWUzLWJjZjgtODQxMDFjMjljM2EzXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
+              "height": 830,
+              "width": 800
+            }
+          }
+        ],
+        "for": ["Holiday"],
+        "for_enriched": [
+          {
+            "name": "Holiday",
+            "imdb_id": "tt0020985",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjMzOTI2ODczNV5BMl5BanBnXkFtZTgwNTA3MzU2MzE@._V1_.jpg",
+              "height": 500,
+              "width": 326
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Irene Dunne"],
+        "target_enriched": [
+          {
+            "name": "Irene Dunne",
+            "imdb_id": "nm0002050",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzA1NTg0NzU2MV5BMl5BanBnXkFtZTYwNjU5OTU2._V1_.jpg",
+              "height": 420,
+              "width": 339
+            }
+          }
+        ],
+        "for": ["Cimarron"],
+        "for_enriched": [
+          {
+            "name": "Cimarron",
+            "imdb_id": "tt0021746",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWQwZGM0MTktNDM1NC00MTZlLTllNzctYTllZWI2MzdiNmMyXkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_.jpg",
+              "height": 1890,
+              "width": 1299
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Marlene Dietrich"],
+        "target_enriched": [
+          {
+            "name": "Marlene Dietrich",
+            "imdb_id": "nm0000017",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI0NTcyMTM5OF5BMl5BanBnXkFtZTYwOTkzMDU2._V1_.jpg",
+              "height": 450,
+              "width": 355
+            }
+          }
+        ],
+        "for": ["Morocco"],
+        "for_enriched": [
+          {
+            "name": "Morocco",
+            "imdb_id": "tt0021156",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWNiYzgxZjMtZTI5NC00MmZkLThkNTgtZGJmZTA0OTZmOGJiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+              "height": 1440,
+              "width": 960
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Norma Shearer"],
+        "target_enriched": [
+          {
+            "name": "Norma Shearer",
+            "imdb_id": "nm0790454",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg4OTI0MjU5NV5BMl5BanBnXkFtZTYwNjYxNjU2._V1_.jpg",
+              "height": 450,
+              "width": 351
+            }
+          }
+        ],
+        "for": ["A Free Soul"],
+        "for_enriched": [
+          {
+            "name": "A Free Soul",
+            "imdb_id": "tt0021885",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWY4YjFkNzItMTEyZS00OTIwLWJiYmQtY2JlMTcxZGM4N2Q1XkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg",
+              "height": 1440,
+              "width": 960
+            }
+          }
+        ],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Art Direction",
+    "normalized_name": "Best Achievement in Production Design",
+    "category_id": 2,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["Cimarron"],
+        "target_enriched": [
+          {
+            "name": "Cimarron",
+            "imdb_id": "tt0021746",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWQwZGM0MTktNDM1NC00MTZlLTllNzctYTllZWI2MzdiNmMyXkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_.jpg",
+              "height": 1890,
+              "width": 1299
+            }
+          }
+        ],
+        "for": ["Max R\u00e9e"],
+        "for_enriched": [
+          {
+            "name": "Max R\u00e9e",
+            "imdb_id": "nm0753663",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2Y1YzljZWEtNzIzMi00ZWE3LWFhNTItNWQyNjMxZjQzOTI5XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_.jpg",
+              "height": 725,
+              "width": 999
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Just Imagine"],
+        "target_enriched": [
+          {
+            "name": "Just Imagine",
+            "imdb_id": "tt0021016",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTBhNmRkZGUtODIwMy00ZjlhLWI1NDctYjEwM2U3N2FhNTAzXkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_.jpg",
+              "height": 1157,
+              "width": 780
+            }
+          }
+        ],
+        "for": ["Stephen Goosson", "Ralph Hammeras"],
+        "for_enriched": [
+          {
+            "name": "Stephen Goosson",
+            "imdb_id": "nm0329684",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTI4YzYyNWYtODYzMy00YTdiLWE2MTQtZDA0ZWQ0NWZmMzQ4XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_.jpg",
+              "height": 666,
+              "width": 1000
+            }
+          },
+          {
+            "name": "Ralph Hammeras",
+            "imdb_id": "nm0358518",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Morocco"],
+        "target_enriched": [
+          {
+            "name": "Morocco",
+            "imdb_id": "tt0021156",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWNiYzgxZjMtZTI5NC00MmZkLThkNTgtZGJmZTA0OTZmOGJiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+              "height": 1440,
+              "width": 960
+            }
+          }
+        ],
+        "for": ["Hans Dreier"],
+        "for_enriched": [
+          {
+            "name": "Hans Dreier",
+            "imdb_id": "nm0237417",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDk1ZGNlZGQtZjYwNS00OWU0LTkzOTAtZGNkMjAyN2U4Yzc0XkEyXkFqcGdeQXVyMjQwOTE1MzE@._V1_.jpg",
+              "height": 890,
+              "width": 803
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Svengali"],
+        "target_enriched": [
+          {
+            "name": "Svengali",
+            "imdb_id": "tt0022454",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDg0Y2YyYjAtYTlmMC00YWU2LTllYjYtOTlkMGYwOTFhM2Y1XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 1734,
+              "width": 1303
+            }
+          }
+        ],
+        "for": ["Anton Grot"],
+        "for_enriched": [
+          {
+            "name": "Anton Grot",
+            "imdb_id": "nm0343819",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMGZkYTc1ZmItMDc3ZC00ZWQ0LThlOTItMjZmMWNjY2M4ZTcxXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 547,
+              "width": 756
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Whoopee!"],
+        "target_enriched": [
+          {
+            "name": "Whoopee!",
+            "imdb_id": "tt0021549",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYxOTA5MTA5NV5BMl5BanBnXkFtZTcwMTY2Mjg4NA@@._V1_.jpg",
+              "height": 1023,
+              "width": 700
+            }
+          }
+        ],
+        "for": ["Richard Day"],
+        "for_enriched": [
+          {
+            "name": "Richard Day",
+            "imdb_id": "nm0206554",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Cinematography",
+    "normalized_name": "Best Achievement in Cinematography",
+    "category_id": 3,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["Tabu: A Story of the South Seas"],
+        "target_enriched": [
+          {
+            "name": "Tabu: A Story of the South Seas",
+            "imdb_id": "tt0022458",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDhmNzg0M2UtZGNkNC00YTQ3LWE0ZjAtMmFjNTI2MmFkZmNiXkEyXkFqcGdeQXVyMTczMjA2Nzk@._V1_.jpg",
+              "height": 700,
+              "width": 479
+            }
+          }
+        ],
+        "for": ["Floyd Crosby"],
+        "for_enriched": [
+          {
+            "name": "Floyd Crosby",
+            "imdb_id": "nm0005677",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGRhMjhlOTgtYzc1OC00NTBlLWFiN2QtZjMxYTNiY2Y2NjVjXkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_.jpg",
+              "height": 1709,
+              "width": 1229
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Cimarron"],
+        "target_enriched": [
+          {
+            "name": "Cimarron",
+            "imdb_id": "tt0021746",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWQwZGM0MTktNDM1NC00MTZlLTllNzctYTllZWI2MzdiNmMyXkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_.jpg",
+              "height": 1890,
+              "width": 1299
+            }
+          }
+        ],
+        "for": ["Edward Cronjager"],
+        "for_enriched": [
+          {
+            "name": "Edward Cronjager",
+            "imdb_id": "nm0005676",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTY2OGFjNmUtM2I4Yy00MGEyLTk4ZDktZDBkMTcxNzU2ZDU3XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 915,
+              "width": 700
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Morocco"],
+        "target_enriched": [
+          {
+            "name": "Morocco",
+            "imdb_id": "tt0021156",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWNiYzgxZjMtZTI5NC00MmZkLThkNTgtZGJmZTA0OTZmOGJiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+              "height": 1440,
+              "width": 960
+            }
+          }
+        ],
+        "for": ["Lee Garmes"],
+        "for_enriched": [
+          {
+            "name": "Lee Garmes",
+            "imdb_id": "nm0005716",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDg4NjAyYTctZTkxNy00MjAzLThkZDYtMzUwYmQwMmM2ZDk2XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 3000,
+              "width": 2384
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Svengali"],
+        "target_enriched": [
+          {
+            "name": "Svengali",
+            "imdb_id": "tt0022454",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDg0Y2YyYjAtYTlmMC00YWU2LTllYjYtOTlkMGYwOTFhM2Y1XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 1734,
+              "width": 1303
+            }
+          }
+        ],
+        "for": ["Barney McGill"],
+        "for_enriched": [
+          {
+            "name": "Barney McGill",
+            "imdb_id": "nm0569222",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The Right to Love"],
+        "target_enriched": [
+          {
+            "name": "The Right to Love",
+            "imdb_id": "tt0021301",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2Y4OThlN2MtNGMyZS00NjE2LWJhZTAtYWU2MGE1MTMwODNhXkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg",
+              "height": 809,
+              "width": 640
+            }
+          }
+        ],
+        "for": ["Charles Lang"],
+        "for_enriched": [
+          {
+            "name": "Charles Lang",
+            "imdb_id": "nm0485702",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk4OTMxMDQtMGQ0Yy00MGEyLWExNmQtZTY2NTAwMTMwYjNmXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 620,
+              "width": 494
+            }
+          }
+        ],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Director",
+    "normalized_name": "Best Achievement in Directing",
+    "category_id": 12,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["Norman Taurog"],
+        "target_enriched": [
+          {
+            "name": "Norman Taurog",
+            "imdb_id": "nm0851537",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmJjOTZhZTktZTg5OC00ODQxLWI1MTctM2FhMjQxYTIxYTk1XkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_.jpg",
+              "height": 840,
+              "width": 660
+            }
+          }
+        ],
+        "for": ["Skippy"],
+        "for_enriched": [
+          {
+            "name": "Skippy",
+            "imdb_id": "tt0022397",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg0Mzc1OTg4NF5BMl5BanBnXkFtZTcwMDM1MjQxMw@@._V1_.jpg",
+              "height": 500,
+              "width": 351
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Clarence Brown"],
+        "target_enriched": [
+          {
+            "name": "Clarence Brown",
+            "imdb_id": "nm0113284",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGU4MmMyYzktYjQwYi00NmFjLWI1NzktMGQ0NWQ0ODQ3OTQ4XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 761,
+              "width": 510
+            }
+          }
+        ],
+        "for": ["A Free Soul"],
+        "for_enriched": [
+          {
+            "name": "A Free Soul",
+            "imdb_id": "tt0021885",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMWY4YjFkNzItMTEyZS00OTIwLWJiYmQtY2JlMTcxZGM4N2Q1XkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg",
+              "height": 1440,
+              "width": 960
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Josef von Sternberg"],
+        "target_enriched": [
+          {
+            "name": "Josef von Sternberg",
+            "imdb_id": "nm0903049",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg1MzYxMzkyNV5BMl5BanBnXkFtZTYwNjMxNjI2._V1_.jpg",
+              "height": 450,
+              "width": 304
+            }
+          }
+        ],
+        "for": ["Morocco"],
+        "for_enriched": [
+          {
+            "name": "Morocco",
+            "imdb_id": "tt0021156",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BOWNiYzgxZjMtZTI5NC00MmZkLThkNTgtZGJmZTA0OTZmOGJiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+              "height": 1440,
+              "width": 960
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Lewis Milestone"],
+        "target_enriched": [
+          {
+            "name": "Lewis Milestone",
+            "imdb_id": "nm0587277",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzNhZDI4NGUtZjQ0MS00NWZlLWFiNzQtZWY5ZjcwZmRiODM0XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 6000,
+              "width": 4556
+            }
+          }
+        ],
+        "for": ["The Front Page"],
+        "for_enriched": [
+          {
+            "name": "The Front Page",
+            "imdb_id": "tt0021890",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTQzODg2MDQtMmM5Ni00YjBjLWFlMTAtOGRhZTQwNzJhZTViXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+              "height": 2733,
+              "width": 1802
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Wesley Ruggles"],
+        "target_enriched": [
+          {
+            "name": "Wesley Ruggles",
+            "imdb_id": "nm0749484",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjBhODg4NTYtZDZlNi00ZWY4LWFiY2QtOGZiNDE3YjhmY2MxXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg",
+              "height": 720,
+              "width": 912
+            }
+          }
+        ],
+        "for": ["Cimarron"],
+        "for_enriched": [
+          {
+            "name": "Cimarron",
+            "imdb_id": "tt0021746",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWQwZGM0MTktNDM1NC00MTZlLTllNzctYTllZWI2MzdiNmMyXkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_.jpg",
+              "height": 1890,
+              "width": 1299
+            }
+          }
+        ],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Picture",
+    "normalized_name": "Best Picture",
+    "category_id": 13,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["Cimarron"],
+        "target_enriched": [
+          {
+            "name": "Cimarron",
+            "imdb_id": "tt0021746",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWQwZGM0MTktNDM1NC00MTZlLTllNzctYTllZWI2MzdiNmMyXkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_.jpg",
+              "height": 1890,
+              "width": 1299
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["East Lynne"],
+        "target_enriched": [
+          {
+            "name": "East Lynne",
+            "imdb_id": "tt0021826",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjlhYzMyMzEtN2I2Yy00OGE3LWI5ZjAtNDI4YzkzMGFhM2M3XkEyXkFqcGdeQXVyNDY1NzU5NjY@._V1_.jpg",
+              "height": 894,
+              "width": 600
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Skippy"],
+        "target_enriched": [
+          {
+            "name": "Skippy",
+            "imdb_id": "tt0022397",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg0Mzc1OTg4NF5BMl5BanBnXkFtZTcwMDM1MjQxMw@@._V1_.jpg",
+              "height": 500,
+              "width": 351
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The Front Page"],
+        "target_enriched": [
+          {
+            "name": "The Front Page",
+            "imdb_id": "tt0021890",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTQzODg2MDQtMmM5Ni00YjBjLWFlMTAtOGRhZTQwNzJhZTViXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+              "height": 2733,
+              "width": 1802
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Trader Horn"],
+        "target_enriched": [
+          {
+            "name": "Trader Horn",
+            "imdb_id": "tt0022495",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDY1YjcyZGQtZDU4Yi00NjZhLTk5YWUtNDQzNDk0YmIxOTA3XkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_.jpg",
+              "height": 768,
+              "width": 509
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Sound, Recording",
+    "normalized_name": "Best Sound, Recording",
+    "category_id": 15,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["Paramount Publix Corporation"],
+        "target_enriched": [
+          {
+            "name": "Paramount Publix Corporation",
+            "imdb_id": "co0025751",
+            "note": null,
+            "image": null
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": "Recipient: Paramount Publix Studio Sound Department"
+      },
+      {
+        "won": false,
+        "target": ["Metro-Goldwyn-Mayer (MGM)"],
+        "target_enriched": [
+          {
+            "name": "Metro-Goldwyn-Mayer (MGM)",
+            "imdb_id": "co0007143",
+            "note": null,
+            "image": null
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": "Recipient: Metro-Goldwyn-Mayer Studio Sound Department"
+      },
+      {
+        "won": false,
+        "target": ["RKO Radio Pictures"],
+        "target_enriched": [
+          {
+            "name": "RKO Radio Pictures",
+            "imdb_id": "co0041421",
+            "note": null,
+            "image": null
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": "Recipient: RKO Radio Studio Sound Department"
+      },
+      {
+        "won": false,
+        "target": ["Samuel Goldwyn Sound Department", "United Artists"],
+        "target_enriched": [
+          {
+            "name": "Samuel Goldwyn Sound Department",
+            "imdb_id": "co0007899",
+            "note": null,
+            "image": null
+          },
+          {
+            "name": "United Artists",
+            "imdb_id": "co0026841",
+            "note": null,
+            "image": null
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": "Recipient: Samuel Goldwyn-United Artists Studio Sound Department"
+      }
+    ]
+  },
+  {
+    "name": "Best Writing, Adaptation",
+    "normalized_name": "Best Adapted Screenplay",
+    "category_id": 9,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["Cimarron"],
+        "target_enriched": [
+          {
+            "name": "Cimarron",
+            "imdb_id": "tt0021746",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWQwZGM0MTktNDM1NC00MTZlLTllNzctYTllZWI2MzdiNmMyXkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_.jpg",
+              "height": 1890,
+              "width": 1299
+            }
+          }
+        ],
+        "for": ["Howard Estabrook"],
+        "for_enriched": [
+          {
+            "name": "Howard Estabrook",
+            "imdb_id": "nm0261455",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjc5OTA2MDAtYzA0OC00NjkyLWJmNmEtNjU4MTM4OWIwODgyXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
+              "height": 533,
+              "width": 433
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Holiday"],
+        "target_enriched": [
+          {
+            "name": "Holiday",
+            "imdb_id": "tt0020985",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjMzOTI2ODczNV5BMl5BanBnXkFtZTgwNTA3MzU2MzE@._V1_.jpg",
+              "height": 500,
+              "width": 326
+            }
+          }
+        ],
+        "for": ["Horace Jackson"],
+        "for_enriched": [
+          {
+            "name": "Horace Jackson",
+            "imdb_id": "nm0413590",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Little Caesar"],
+        "target_enriched": [
+          {
+            "name": "Little Caesar",
+            "imdb_id": "tt0021079",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2ZlZWI1OGEtMzVlNi00ZGRlLWJkZjEtNGUyM2RmNThiZTEyXkEyXkFqcGdeQXVyNTcwNjUwNzk@._V1_.jpg",
+              "height": 2937,
+              "width": 1944
+            }
+          }
+        ],
+        "for": ["Francis Edward Faragoh", "Robert N. Lee"],
+        "for_enriched": [
+          {
+            "name": "Francis Edward Faragoh",
+            "imdb_id": "nm0267020",
+            "note": null,
+            "image": null
+          },
+          {
+            "name": "Robert N. Lee",
+            "imdb_id": "nm0498133",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Skippy"],
+        "target_enriched": [
+          {
+            "name": "Skippy",
+            "imdb_id": "tt0022397",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg0Mzc1OTg4NF5BMl5BanBnXkFtZTcwMDM1MjQxMw@@._V1_.jpg",
+              "height": 500,
+              "width": 351
+            }
+          }
+        ],
+        "for": ["Joseph L. Mankiewicz", "Sam Mintz"],
+        "for_enriched": [
+          {
+            "name": "Joseph L. Mankiewicz",
+            "imdb_id": "nm0000581",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA1MzMwMzEwNF5BMl5BanBnXkFtZTcwMTk5MjgyNw@@._V1_.jpg",
+              "height": 500,
+              "width": 415
+            }
+          },
+          {
+            "name": "Sam Mintz",
+            "imdb_id": "nm0591791",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The Criminal Code"],
+        "target_enriched": [
+          {
+            "name": "The Criminal Code",
+            "imdb_id": "tt0021770",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWYyYjIwMWMtN2FhNS00MGFkLTkyMDktOWFlYTlkMTI4ZjdmXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 750,
+              "width": 500
+            }
+          }
+        ],
+        "for": ["Seton I. Miller", "Fred Niblo Jr."],
+        "for_enriched": [
+          {
+            "name": "Seton I. Miller",
+            "imdb_id": "nm0589316",
+            "note": null,
+            "image": null
+          },
+          {
+            "name": "Fred Niblo Jr.",
+            "imdb_id": "nm0629240",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Writing, Original Story",
+    "normalized_name": "Best Original Screenplay",
+    "category_id": 10,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["The Dawn Patrol"],
+        "target_enriched": [
+          {
+            "name": "The Dawn Patrol",
+            "imdb_id": "tt0020815",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDUzZWYxMTMtOWUwNi00N2MzLWEyZDAtYzc2Nzc5MWIzMTJkXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 3180,
+              "width": 2050
+            }
+          }
+        ],
+        "for": ["John Monk Saunders"],
+        "for_enriched": [
+          {
+            "name": "John Monk Saunders",
+            "imdb_id": "nm0766850",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzRlOTgyZDUtNTRkNy00NWE1LWFhYTMtZWRmY2UxODdkNTQ2XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_.jpg",
+              "height": 1315,
+              "width": 1298
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Laughter"],
+        "target_enriched": [
+          {
+            "name": "Laughter",
+            "imdb_id": "tt0021053",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDA3NDEyZTItZjg4Yy00ZmYxLTkyYWQtNjg4NDVjMzgxMzhmXkEyXkFqcGdeQXVyNDY1NzU5NjY@._V1_.jpg",
+              "height": 551,
+              "width": 390
+            }
+          }
+        ],
+        "for": [
+          "Harry d'Abbadie d'Arrast",
+          "Douglas Z. Doty",
+          "Donald Ogden Stewart"
+        ],
+        "for_enriched": [
+          {
+            "name": "Harry d'Abbadie d'Arrast",
+            "imdb_id": "nm0195496",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzI4OTllNjctZWFiZC00NGQ3LWFlZWUtODg2ZjQ3YTg5ZDMxXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_.jpg",
+              "height": 936,
+              "width": 793
+            }
+          },
+          {
+            "name": "Douglas Z. Doty",
+            "imdb_id": "nm0234608",
+            "note": null,
+            "image": null
+          },
+          {
+            "name": "Donald Ogden Stewart",
+            "imdb_id": "nm0829330",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjRiMjZmYmQtODk3MC00NjYzLWI3YTQtMjE4MWYzZGVlNzg4XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_.jpg",
+              "height": 900,
+              "width": 697
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Smart Money"],
+        "target_enriched": [
+          {
+            "name": "Smart Money",
+            "imdb_id": "tt0022403",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg3MjE5ODA2M15BMl5BanBnXkFtZTgwODU2ODgwMzE@._V1_.jpg",
+              "height": 500,
+              "width": 351
+            }
+          }
+        ],
+        "for": ["Lucien Hubbard", "Joseph Jackson"],
+        "for_enriched": [
+          {
+            "name": "Lucien Hubbard",
+            "imdb_id": "nm0399203",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzIxNWIzZTAtZDA0Ny00ODA0LWI4YWEtMjc0YTBlZDAxMTQwXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_.jpg",
+              "height": 1330,
+              "width": 969
+            }
+          },
+          {
+            "name": "Joseph Jackson",
+            "imdb_id": "nm0413711",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The Doorway to Hell"],
+        "target_enriched": [
+          {
+            "name": "The Doorway to Hell",
+            "imdb_id": "tt0020836",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BODVhODRjMTEtNWEwYy00ZWVjLTkzYTItZmI1NmM4MDZmYTc2XkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_.jpg",
+              "height": 881,
+              "width": 580
+            }
+          }
+        ],
+        "for": ["Rowland Brown"],
+        "for_enriched": [
+          {
+            "name": "Rowland Brown",
+            "imdb_id": "nm0114602",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The Public Enemy"],
+        "target_enriched": [
+          {
+            "name": "The Public Enemy",
+            "imdb_id": "tt0022286",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjMzMDU3NmEtYjA0Zi00MzQ1LWIwMzEtMzVhZjY0MTI4NjcxXkEyXkFqcGdeQXVyNTcwNjUwNzk@._V1_.jpg",
+              "height": 3000,
+              "width": 1992
+            }
+          }
+        ],
+        "for": ["John Bright", "Kubec Glasmon"],
+        "for_enriched": [
+          {
+            "name": "John Bright",
+            "imdb_id": "nm0109148",
+            "note": null,
+            "image": null
+          },
+          {
+            "name": "Kubec Glasmon",
+            "imdb_id": "nm0321891",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": null
+      }
+    ]
+  }
 ]

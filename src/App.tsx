@@ -71,7 +71,7 @@ function App() {
 
 function NomineeHeader(props: { awardData: OscarCategory | undefined }) {
   const titleItems = [props.awardData?.name, props.awardData?.year.toString()]
-    .filter((item) => item?.length ?? -1 > 0)
+    .filter(item => item?.length ?? -1 > 0)
     .join(' | ');
   return <h2>{titleItems}</h2>;
 }
@@ -99,12 +99,12 @@ function EnrichedLink(props: {
 }
 
 function Nominees(props: { awardData: OscarCategory | undefined }) {
-  const hasNotes = props.awardData?.candidates?.some((c) => c.notes);
-  const hasFor = props.awardData?.candidates?.some((c) => c.for.length);
+  const hasNotes = props.awardData?.candidates?.some(c => c.notes);
+  const hasFor = props.awardData?.candidates?.some(c => c.for.length);
   return (
     <table>
       <tbody>
-        {props.awardData?.candidates.map((candidate) => {
+        {props.awardData?.candidates.map(candidate => {
           const candidateWork = candidate.target.join(', ');
           const candidateName = candidate.for.join(', ');
           return (
@@ -117,13 +117,13 @@ function Nominees(props: { awardData: OscarCategory | undefined }) {
             >
               {hasFor && (
                 <td style={{ padding: '1rem' }}>
-                  {candidate.for_enriched.map((n) => {
+                  {candidate.for_enriched.map(n => {
                     return <EnrichedLink nomineeData={n} won={candidate.won} />;
                   })}
                 </td>
               )}
               <td style={{ padding: '1rem' }}>
-                {candidate.target_enriched.map((n) => {
+                {candidate.target_enriched.map(n => {
                   return <EnrichedLink nomineeData={n} won={candidate.won} />;
                 })}
               </td>

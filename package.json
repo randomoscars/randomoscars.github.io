@@ -47,7 +47,8 @@
     ]
   },
   "prettier": {
-    "singleQuote": true
+    "singleQuote": true,
+    "arrowParens": "avoid"
   },
   "homepage": "http://randomoscars.github.io/"
 }

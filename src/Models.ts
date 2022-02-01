@@ -32,6 +32,7 @@ export type OscarCategory = {
   normalized_name: string;
   candidates: OscarCandidate[];
   year: number;
+  category_id: number;
 };
 export type OscarCandidate = {
   target: string[];

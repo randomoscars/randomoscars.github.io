@@ -1,10 +1,12 @@
-imdb_all_events_json_url = 'https://d2vyvawkvp20f9.cloudfront.net/event/index/data.json'
+# folder where the files will be located
+result_folder = '../public/Data'
+
+# url info for imdb
 imdb_base_url = 'https://www.imdb.com/'
 imdb_event_route = 'event/'
-imdb_person_route = 'name/'
-imdb_film_route = 'title/'
+
+# id for the Academy Awards within imdb
 event_imdb_id = 'ev0000003'
-result_folder = 'public/Data'
 
 DEBUG = True
 

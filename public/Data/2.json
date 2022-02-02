@@ -1,1514 +1,1340 @@
 [
-    {
-        "name": "Best Actor in a Leading Role",
-        "normalized_name": "Best Performance by an Actor in a Leading Role",
-        "category_id": 0,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "Warner Baxter"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Warner Baxter",
-                        "imdb_id": "nm0062828",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTQ3NTA0NDk0NV5BMl5BanBnXkFtZTYwMTUyNjU2._V1_.jpg",
-                            "height": 450,
-                            "width": 324
-                        }
-                    }
-                ],
-                "for": [
-                    "In Old Arizona"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "In Old Arizona",
-                        "imdb_id": "tt0020018",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMjE0ODAxNzQ0M15BMl5BanBnXkFtZTgwNTk4ODQwMjE@._V1_.jpg",
-                            "height": 500,
-                            "width": 337
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Chester Morris"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Chester Morris",
-                        "imdb_id": "nm0606431",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTI4OTc3MzAyMl5BMl5BanBnXkFtZTYwMTkwMDY2._V1_.jpg",
-                            "height": 450,
-                            "width": 327
-                        }
-                    }
-                ],
-                "for": [
-                    "Alibi"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Alibi",
-                        "imdb_id": "tt0019630",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZWNjOGZhMmMtZjYxZC00NDE0LWJmOTktMTcyNTNjNjE1ZWRmXkEyXkFqcGdeQXVyMTQ2MjQyNDc@._V1_.jpg",
-                            "height": 746,
-                            "width": 500
-                        }
-                    }
-                ],
-                "notes": "No official nominees had been announced this year."
-            },
-            {
-                "won": false,
-                "target": [
-                    "George Bancroft"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "George Bancroft",
-                        "imdb_id": "nm0051628",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BN2Y3MzQzZGYtYmViNC00NDM5LWI3ZWEtNzEyMTVkMTY0ZGQ2XkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_.jpg",
-                            "height": 576,
-                            "width": 720
-                        }
-                    }
-                ],
-                "for": [
-                    "Thunderbolt"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Thunderbolt",
-                        "imdb_id": "tt0020499",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMmFhNWVjNDUtZTU0Yi00NGIxLThiODQtNTg0MDFhZDRkZTQzXkEyXkFqcGdeQXVyMjQ3MTQ1MTg@._V1_.jpg",
-                            "height": 675,
-                            "width": 450
-                        }
-                    }
-                ],
-                "notes": "No official nominees had been announced this year."
-            },
-            {
-                "won": false,
-                "target": [
-                    "Lewis Stone"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Lewis Stone",
-                        "imdb_id": "nm0832011",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMjEwMDQyMjIzMl5BMl5BanBnXkFtZTgwNzc3MTI1MzE@._V1_.jpg",
-                            "height": 1173,
-                            "width": 750
-                        }
-                    }
-                ],
-                "for": [
-                    "The Patriot"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "The Patriot",
-                        "imdb_id": "tt0019257",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYjgwNDU1MWMtOTg0NC00NTIwLTg5NGYtYThmYWRjYzFjYTk1XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 758,
-                            "width": 475
-                        }
-                    }
-                ],
-                "notes": "No official nominees had been announced this year."
-            },
-            {
-                "won": false,
-                "target": [
-                    "Paul Muni"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Paul Muni",
-                        "imdb_id": "nm0612847",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYTY1YzA5OTgtNDkwOC00MjNjLWJlNDQtM2M2MTg1NzEyYTUzXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
-                            "height": 1396,
-                            "width": 1132
-                        }
-                    }
-                ],
-                "for": [
-                    "The Valiant"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "The Valiant",
-                        "imdb_id": "tt0020543",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMmZhMWQwZGUtZDlhMy00MjlmLWE3OGQtNjAzMTQxMzA3Yjc5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_.jpg",
-                            "height": 1090,
-                            "width": 750
-                        }
-                    }
-                ],
-                "notes": "No official nominees had been announced this year."
+  {
+    "name": "Best Actor in a Leading Role",
+    "normalized_name": "Best Performance by an Actor in a Leading Role",
+    "category_id": 0,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["Warner Baxter"],
+        "target_enriched": [
+          {
+            "name": "Warner Baxter",
+            "imdb_id": "nm0062828",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ3NTA0NDk0NV5BMl5BanBnXkFtZTYwMTUyNjU2._V1_.jpg",
+              "height": 450,
+              "width": 324
             }
-        ]
-    },
-    {
-        "name": "Best Actress in a Leading Role",
-        "normalized_name": "Best Performance by an Actress in a Leading Role",
-        "category_id": 1,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "Mary Pickford"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Mary Pickford",
-                        "imdb_id": "nm0681933",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTcxODkxOTExMl5BMl5BanBnXkFtZTgwMDIzNTQwMjE@._V1_.jpg",
-                            "height": 500,
-                            "width": 391
-                        }
-                    }
-                ],
-                "for": [
-                    "Coquette"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Coquette",
-                        "imdb_id": "tt0019788",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BODY0OGEwMWYtNDQ4NC00Y2M2LWJkN2ItYjI0ZjI1MjJiMmJhXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
-                            "height": 1695,
-                            "width": 1167
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Bessie Love"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Bessie Love",
-                        "imdb_id": "nm0522281",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTUyMzIwMjU3MF5BMl5BanBnXkFtZTgwMTI0OTg0MzE@._V1_.jpg",
-                            "height": 1478,
-                            "width": 1000
-                        }
-                    }
-                ],
-                "for": [
-                    "The Broadway Melody"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "The Broadway Melody",
-                        "imdb_id": "tt0019729",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZmJlOWM4NDEtYmZmYS00MTIyLTgwYWMtMjFhYmNhZWU4ZmVmXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
-                            "height": 2563,
-                            "width": 1704
-                        }
-                    }
-                ],
-                "notes": "No official nominees had been announced this year."
-            },
-            {
-                "won": false,
-                "target": [
-                    "Betty Compson"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Betty Compson",
-                        "imdb_id": "nm0173993",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTc3NTYzMTQ1Nl5BMl5BanBnXkFtZTYwMjc1ODU2._V1_.jpg",
-                            "height": 450,
-                            "width": 348
-                        }
-                    }
-                ],
-                "for": [
-                    "The Barker"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "The Barker",
-                        "imdb_id": "tt0018674",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTUzMjE2NTk3NF5BMl5BanBnXkFtZTgwNzkwMDY0MjE@._V1_.jpg",
-                            "height": 500,
-                            "width": 332
-                        }
-                    }
-                ],
-                "notes": "No official nominees had been announced this year."
-            },
-            {
-                "won": false,
-                "target": [
-                    "Corinne Griffith"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Corinne Griffith",
-                        "imdb_id": "nm0341464",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTYwNjg0Mzg1OF5BMl5BanBnXkFtZTYwNTUxNjI2._V1_.jpg",
-                            "height": 450,
-                            "width": 318
-                        }
-                    }
-                ],
-                "for": [
-                    "The Divine Lady"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "The Divine Lady",
-                        "imdb_id": "tt0019824",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTc3MDIxODQ3MF5BMl5BanBnXkFtZTgwMTkwMDY0MjE@._V1_.jpg",
-                            "height": 500,
-                            "width": 330
-                        }
-                    }
-                ],
-                "notes": "No official nominees had been announced this year."
-            },
-            {
-                "won": false,
-                "target": [
-                    "Jeanne Eagels"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Jeanne Eagels",
-                        "imdb_id": "nm0247074",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMjI3MTYyMDA1OF5BMl5BanBnXkFtZTgwMzIyNjc3MTE@._V1_.jpg",
-                            "height": 1686,
-                            "width": 1342
-                        }
-                    }
-                ],
-                "for": [
-                    "The Letter"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "The Letter",
-                        "imdb_id": "tt0020092",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZWFiM2YxNzYtZjdjMC00MzI4LWI0MjUtNTUxMTAyNmM4NGEwXkEyXkFqcGdeQXVyMTk4MDgwNA@@._V1_.jpg",
-                            "height": 960,
-                            "width": 640
-                        }
-                    }
-                ],
-                "notes": "Posthumously. No official nominees had been announced this year."
-            },
-            {
-                "won": false,
-                "target": [
-                    "Ruth Chatterton"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Ruth Chatterton",
-                        "imdb_id": "nm0154183",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTA0Nzk3NDA4NjdeQTJeQWpwZ15BbWU2MDM0MTEzNg@@._V1_.jpg",
-                            "height": 450,
-                            "width": 350
-                        }
-                    }
-                ],
-                "for": [
-                    "Madame X"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Madame X",
-                        "imdb_id": "tt0020126",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTY0NjIyMTA0NF5BMl5BanBnXkFtZTgwODg5MDgxMjE@._V1_.jpg",
-                            "height": 500,
-                            "width": 338
-                        }
-                    }
-                ],
-                "notes": "No official nominees had been announced this year."
+          }
+        ],
+        "for": ["In Old Arizona"],
+        "for_enriched": [
+          {
+            "name": "In Old Arizona",
+            "imdb_id": "tt0020018",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE0ODAxNzQ0M15BMl5BanBnXkFtZTgwNTk4ODQwMjE@._V1_.jpg",
+              "height": 500,
+              "width": 337
             }
-        ]
-    },
-    {
-        "name": "Best Art Direction",
-        "normalized_name": "Best Achievement in Production Design",
-        "category_id": 2,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "The Bridge of San Luis Rey"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Bridge of San Luis Rey",
-                        "imdb_id": "tt0019722",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMjI3MTM0MzE2MV5BMl5BanBnXkFtZTgwMjU3NTMzMjE@._V1_.jpg",
-                            "height": 500,
-                            "width": 350
-                        }
-                    }
-                ],
-                "for": [
-                    "Cedric Gibbons"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Cedric Gibbons",
-                        "imdb_id": "nm0316539",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYzM4MTkwMmMtNzYwMy00YzVhLWE1YjMtMWYyMjNhZDExMmM5XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 498,
-                            "width": 664
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Alibi"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Alibi",
-                        "imdb_id": "tt0019630",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZWNjOGZhMmMtZjYxZC00NDE0LWJmOTktMTcyNTNjNjE1ZWRmXkEyXkFqcGdeQXVyMTQ2MjQyNDc@._V1_.jpg",
-                            "height": 746,
-                            "width": 500
-                        }
-                    }
-                ],
-                "for": [
-                    "William Cameron Menzies"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "William Cameron Menzies",
-                        "imdb_id": "nm0580017",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZTI0MGIyNTctYmFmMS00MDNlLWIxZjQtNzdjMmIyMmVlY2JkXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 514,
-                            "width": 680
-                        }
-                    }
-                ],
-                "notes": "No official nominees had been announced this year."
-            },
-            {
-                "won": false,
-                "target": [
-                    "Dynamite"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Dynamite",
-                        "imdb_id": "tt0019843",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMzg0OGYzNzktMmQ0Ni00NGFiLTg3NjgtNjdiOGVmZDllNzQ4XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
-                            "height": 2805,
-                            "width": 1861
-                        }
-                    }
-                ],
-                "for": [
-                    "Mitchell Leisen"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Mitchell Leisen",
-                        "imdb_id": "nm0500552",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMzg1ZDhlNzItNzliMi00NTQxLWI4YTgtOTBiOWMyYzc5NTE3XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 641,
-                            "width": 591
-                        }
-                    }
-                ],
-                "notes": "No official nominees had been announced this year."
-            },
-            {
-                "won": false,
-                "target": [
-                    "Street Angel"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Street Angel",
-                        "imdb_id": "tt0019429",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTk0NTU1NzM0Ml5BMl5BanBnXkFtZTgwNDEyOTYyMjE@._V1_.jpg",
-                            "height": 500,
-                            "width": 335
-                        }
-                    }
-                ],
-                "for": [
-                    "Harry Oliver"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Harry Oliver",
-                        "imdb_id": "nm0646856",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": "No official nominees had been announced this year."
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Awakening"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Awakening",
-                        "imdb_id": "tt0018666",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMjIwMWMzNjctMTUyYS00MDM5LWFlMGUtYzgyODVlOTZjOGMwXkEyXkFqcGdeQXVyMjYzMDY1NTg@._V1_.jpg",
-                            "height": 663,
-                            "width": 495
-                        }
-                    }
-                ],
-                "for": [
-                    "William Cameron Menzies"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "William Cameron Menzies",
-                        "imdb_id": "nm0580017",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZTI0MGIyNTctYmFmMS00MDNlLWIxZjQtNzdjMmIyMmVlY2JkXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 514,
-                            "width": 680
-                        }
-                    }
-                ],
-                "notes": "No official nominees had been announced this year."
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Patriot"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Patriot",
-                        "imdb_id": "tt0019257",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYjgwNDU1MWMtOTg0NC00NTIwLTg5NGYtYThmYWRjYzFjYTk1XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 758,
-                            "width": 475
-                        }
-                    }
-                ],
-                "for": [
-                    "Hans Dreier"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Hans Dreier",
-                        "imdb_id": "nm0237417",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZDk1ZGNlZGQtZjYwNS00OWU0LTkzOTAtZGNkMjAyN2U4Yzc0XkEyXkFqcGdeQXVyMjQwOTE1MzE@._V1_.jpg",
-                            "height": 890,
-                            "width": 803
-                        }
-                    }
-                ],
-                "notes": "No official nominees had been announced this year."
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Chester Morris"],
+        "target_enriched": [
+          {
+            "name": "Chester Morris",
+            "imdb_id": "nm0606431",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI4OTc3MzAyMl5BMl5BanBnXkFtZTYwMTkwMDY2._V1_.jpg",
+              "height": 450,
+              "width": 327
             }
-        ]
-    },
-    {
-        "name": "Best Cinematography",
-        "normalized_name": "Best Achievement in Cinematography",
-        "category_id": 3,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "White Shadows in the South Seas"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "White Shadows in the South Seas",
-                        "imdb_id": "tt0019574",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZWUzOWM3ODgtYjBlNS00YjRmLWI4OWUtMDY3ZWU3ODEwMDA1XkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_.jpg",
-                            "height": 1426,
-                            "width": 960
-                        }
-                    }
-                ],
-                "for": [
-                    "Clyde De Vinna"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Clyde De Vinna",
-                        "imdb_id": "nm0005682",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNzhiNTE4ZTMtOWE1YS00Nzk1LTk1YjctZjYzNWQzNTMwMzg0XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_.jpg",
-                            "height": 1536,
-                            "width": 1526
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "4 Devils"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "4 Devils",
-                        "imdb_id": "tt0018907",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNzk5MzQ4NDI2M15BMl5BanBnXkFtZTgwMDM1Mzg4MjE@._V1_.jpg",
-                            "height": 423,
-                            "width": 500
-                        }
-                    }
-                ],
-                "for": [
-                    "Ernest Palmer"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Ernest Palmer",
-                        "imdb_id": "nm0005823",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": "No official nominees had been announced this year."
-            },
-            {
-                "won": false,
-                "target": [
-                    "In Old Arizona"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "In Old Arizona",
-                        "imdb_id": "tt0020018",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMjE0ODAxNzQ0M15BMl5BanBnXkFtZTgwNTk4ODQwMjE@._V1_.jpg",
-                            "height": 500,
-                            "width": 337
-                        }
-                    }
-                ],
-                "for": [
-                    "Arthur Edeson"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Arthur Edeson",
-                        "imdb_id": "nm0249186",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": "No official nominees had been announced this year."
-            },
-            {
-                "won": false,
-                "target": [
-                    "Our Dancing Daughters"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Our Dancing Daughters",
-                        "imdb_id": "tt0019237",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMjIyNTJlNmItODhjOC00OGZkLTgwMDYtMmIyMmYyOTBiZDMwXkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg",
-                            "height": 1440,
-                            "width": 960
-                        }
-                    }
-                ],
-                "for": [
-                    "George Barnes"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "George Barnes",
-                        "imdb_id": "nm0055604",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYWMyMDJkODYtNWVmZC00ZjA1LTllM2UtYmE5ZjgyZjgyMjczXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 620,
-                            "width": 599
-                        }
-                    }
-                ],
-                "notes": "No official nominees had been announced this year."
-            },
-            {
-                "won": false,
-                "target": [
-                    "Street Angel"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Street Angel",
-                        "imdb_id": "tt0019429",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTk0NTU1NzM0Ml5BMl5BanBnXkFtZTgwNDEyOTYyMjE@._V1_.jpg",
-                            "height": 500,
-                            "width": 335
-                        }
-                    }
-                ],
-                "for": [
-                    "Ernest Palmer"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Ernest Palmer",
-                        "imdb_id": "nm0005823",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": "No official nominees had been announced this year."
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Divine Lady"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Divine Lady",
-                        "imdb_id": "tt0019824",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTc3MDIxODQ3MF5BMl5BanBnXkFtZTgwMTkwMDY0MjE@._V1_.jpg",
-                            "height": 500,
-                            "width": 330
-                        }
-                    }
-                ],
-                "for": [
-                    "John F. Seitz"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "John F. Seitz",
-                        "imdb_id": "nm0005870",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNzFjNGQ1OGUtODJmOC00ZmIzLTgzYjMtMDU2ZDRhYjk5MGEyXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 298,
-                            "width": 280
-                        }
-                    }
-                ],
-                "notes": "No official nominees had been announced this year."
+          }
+        ],
+        "for": ["Alibi"],
+        "for_enriched": [
+          {
+            "name": "Alibi",
+            "imdb_id": "tt0019630",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWNjOGZhMmMtZjYxZC00NDE0LWJmOTktMTcyNTNjNjE1ZWRmXkEyXkFqcGdeQXVyMTQ2MjQyNDc@._V1_.jpg",
+              "height": 746,
+              "width": 500
             }
-        ]
-    },
-    {
-        "name": "Best Director",
-        "normalized_name": "Best Achievement in Directing",
-        "category_id": 12,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "Frank Lloyd"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Frank Lloyd",
-                        "imdb_id": "nm0515979",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTUwNzA2NjMyNF5BMl5BanBnXkFtZTYwMjg0Njcy._V1_.jpg",
-                            "height": 596,
-                            "width": 450
-                        }
-                    }
-                ],
-                "for": [
-                    "The Divine Lady"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "The Divine Lady",
-                        "imdb_id": "tt0019824",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTc3MDIxODQ3MF5BMl5BanBnXkFtZTgwMTkwMDY0MjE@._V1_.jpg",
-                            "height": 500,
-                            "width": 330
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Ernst Lubitsch"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Ernst Lubitsch",
-                        "imdb_id": "nm0523932",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMjEwMDI0ODEzMF5BMl5BanBnXkFtZTYwMDg2MjI2._V1_.jpg",
-                            "height": 450,
-                            "width": 359
-                        }
-                    }
-                ],
-                "for": [
-                    "The Patriot"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "The Patriot",
-                        "imdb_id": "tt0019257",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYjgwNDU1MWMtOTg0NC00NTIwLTg5NGYtYThmYWRjYzFjYTk1XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 758,
-                            "width": 475
-                        }
-                    }
-                ],
-                "notes": "No official nominees had been announced this year."
-            },
-            {
-                "won": false,
-                "target": [
-                    "Frank Lloyd"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Frank Lloyd",
-                        "imdb_id": "nm0515979",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTUwNzA2NjMyNF5BMl5BanBnXkFtZTYwMjg0Njcy._V1_.jpg",
-                            "height": 596,
-                            "width": 450
-                        }
-                    }
-                ],
-                "for": [
-                    "Drag"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Drag",
-                        "imdb_id": "tt0019833",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BM2E2ZTQ3YjQtNzYxNC00OGJmLTgwYzctNTk4ZTJmNmQwOTgzXkEyXkFqcGdeQXVyMjk2NjgyMjE@._V1_.jpg",
-                            "height": 2571,
-                            "width": 1362
-                        }
-                    }
-                ],
-                "notes": "No official nominees had been announced this year."
-            },
-            {
-                "won": false,
-                "target": [
-                    "Frank Lloyd"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Frank Lloyd",
-                        "imdb_id": "nm0515979",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTUwNzA2NjMyNF5BMl5BanBnXkFtZTYwMjg0Njcy._V1_.jpg",
-                            "height": 596,
-                            "width": 450
-                        }
-                    }
-                ],
-                "for": [
-                    "Weary River"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Weary River",
-                        "imdb_id": "tt0019557",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTY3MjAwMDE5MF5BMl5BanBnXkFtZTgwMzE4MDI0MjE@._V1_.jpg",
-                            "height": 500,
-                            "width": 333
-                        }
-                    }
-                ],
-                "notes": "No official nominees had been announced this year."
-            },
-            {
-                "won": false,
-                "target": [
-                    "Harry Beaumont"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Harry Beaumont",
-                        "imdb_id": "nm0064600",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZjgxOGIyOWEtYmJjYy00NzA1LWExYWUtZWYwZjNhYTdmY2QwXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 1062,
-                            "width": 709
-                        }
-                    }
-                ],
-                "for": [
-                    "The Broadway Melody"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "The Broadway Melody",
-                        "imdb_id": "tt0019729",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZmJlOWM4NDEtYmZmYS00MTIyLTgwYWMtMjFhYmNhZWU4ZmVmXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
-                            "height": 2563,
-                            "width": 1704
-                        }
-                    }
-                ],
-                "notes": "No official nominees had been announced this year."
-            },
-            {
-                "won": false,
-                "target": [
-                    "Irving Cummings"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Irving Cummings",
-                        "imdb_id": "nm0191899",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNDA5MDU3YTYtZTJiZi00OTZlLWJhNTMtMzRjYTMzNTZkZGVjXkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_.jpg",
-                            "height": 847,
-                            "width": 555
-                        }
-                    }
-                ],
-                "for": [
-                    "In Old Arizona"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "In Old Arizona",
-                        "imdb_id": "tt0020018",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMjE0ODAxNzQ0M15BMl5BanBnXkFtZTgwNTk4ODQwMjE@._V1_.jpg",
-                            "height": 500,
-                            "width": 337
-                        }
-                    }
-                ],
-                "notes": "No official nominees had been announced this year."
-            },
-            {
-                "won": false,
-                "target": [
-                    "Lionel Barrymore"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Lionel Barrymore",
-                        "imdb_id": "nm0000859",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTc5NzY5MTgwNV5BMl5BanBnXkFtZTYwMjc4NjQ2._V1_.jpg",
-                            "height": 450,
-                            "width": 321
-                        }
-                    }
-                ],
-                "for": [
-                    "Madame X"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Madame X",
-                        "imdb_id": "tt0020126",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTY0NjIyMTA0NF5BMl5BanBnXkFtZTgwODg5MDgxMjE@._V1_.jpg",
-                            "height": 500,
-                            "width": 338
-                        }
-                    }
-                ],
-                "notes": "No official nominees had been announced this year."
+          }
+        ],
+        "notes": "No official nominees had been announced this year."
+      },
+      {
+        "won": false,
+        "target": ["George Bancroft"],
+        "target_enriched": [
+          {
+            "name": "George Bancroft",
+            "imdb_id": "nm0051628",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2Y3MzQzZGYtYmViNC00NDM5LWI3ZWEtNzEyMTVkMTY0ZGQ2XkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_.jpg",
+              "height": 576,
+              "width": 720
             }
-        ]
-    },
-    {
-        "name": "Best Picture",
-        "normalized_name": "Best Picture",
-        "category_id": 13,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "The Broadway Melody"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Broadway Melody",
-                        "imdb_id": "tt0019729",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZmJlOWM4NDEtYmZmYS00MTIyLTgwYWMtMjFhYmNhZWU4ZmVmXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
-                            "height": 2563,
-                            "width": 1704
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Alibi"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Alibi",
-                        "imdb_id": "tt0019630",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZWNjOGZhMmMtZjYxZC00NDE0LWJmOTktMTcyNTNjNjE1ZWRmXkEyXkFqcGdeQXVyMTQ2MjQyNDc@._V1_.jpg",
-                            "height": 746,
-                            "width": 500
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": "No official nominees had been announced this year."
-            },
-            {
-                "won": false,
-                "target": [
-                    "In Old Arizona"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "In Old Arizona",
-                        "imdb_id": "tt0020018",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMjE0ODAxNzQ0M15BMl5BanBnXkFtZTgwNTk4ODQwMjE@._V1_.jpg",
-                            "height": 500,
-                            "width": 337
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": "No official nominees had been announced this year."
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Hollywood Revue of 1929"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Hollywood Revue of 1929",
-                        "imdb_id": "tt0019993",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNjBlYjY4NGEtOTZiMS00NWZlLWFmYjMtOWQ5M2FiYTU3Yjk4XkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_.jpg",
-                            "height": 1323,
-                            "width": 960
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": "No official nominees had been announced this year."
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Patriot"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Patriot",
-                        "imdb_id": "tt0019257",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYjgwNDU1MWMtOTg0NC00NTIwLTg5NGYtYThmYWRjYzFjYTk1XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 758,
-                            "width": 475
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": "No official nominees had been announced this year."
+          }
+        ],
+        "for": ["Thunderbolt"],
+        "for_enriched": [
+          {
+            "name": "Thunderbolt",
+            "imdb_id": "tt0020499",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmFhNWVjNDUtZTU0Yi00NGIxLThiODQtNTg0MDFhZDRkZTQzXkEyXkFqcGdeQXVyMjQ3MTQ1MTg@._V1_.jpg",
+              "height": 675,
+              "width": 450
             }
-        ]
-    },
-    {
-        "name": "Best Writing, Achievement",
-        "normalized_name": "Best Writing, Achievement",
-        "category_id": 14,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "The Patriot"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Patriot",
-                        "imdb_id": "tt0019257",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYjgwNDU1MWMtOTg0NC00NTIwLTg5NGYtYThmYWRjYzFjYTk1XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 758,
-                            "width": 475
-                        }
-                    }
-                ],
-                "for": [
-                    "Hanns Kr\u00e4ly"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Hanns Kr\u00e4ly",
-                        "imdb_id": "nm0473134",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "A Woman of Affairs"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "A Woman of Affairs",
-                        "imdb_id": "tt0019591",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTQzMzUyNjc0OF5BMl5BanBnXkFtZTgwNTk5MjgzMjE@._V1_.jpg",
-                            "height": 500,
-                            "width": 338
-                        }
-                    }
-                ],
-                "for": [
-                    "Bess Meredyth"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Bess Meredyth",
-                        "imdb_id": "nm0580648",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BOGNiOWRkNzItYWYzMy00OTg3LWFiYjItMDhhZWQ4MTZlMGRkXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
-                            "height": 1015,
-                            "width": 797
-                        }
-                    }
-                ],
-                "notes": "No official nominees had been announced this year."
-            },
-            {
-                "won": false,
-                "target": [
-                    "In Old Arizona"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "In Old Arizona",
-                        "imdb_id": "tt0020018",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMjE0ODAxNzQ0M15BMl5BanBnXkFtZTgwNTk4ODQwMjE@._V1_.jpg",
-                            "height": 500,
-                            "width": 337
-                        }
-                    }
-                ],
-                "for": [
-                    "Tom Barry"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Tom Barry",
-                        "imdb_id": "nm0058179",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": "No official nominees had been announced this year."
-            },
-            {
-                "won": false,
-                "target": [
-                    "Our Dancing Daughters"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Our Dancing Daughters",
-                        "imdb_id": "tt0019237",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMjIyNTJlNmItODhjOC00OGZkLTgwMDYtMmIyMmYyOTBiZDMwXkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg",
-                            "height": 1440,
-                            "width": 960
-                        }
-                    }
-                ],
-                "for": [
-                    "Josephine Lovett"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Josephine Lovett",
-                        "imdb_id": "nm0522674",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": "No official nominees had been announced this year."
-            },
-            {
-                "won": false,
-                "target": [
-                    "Sal of Singapore"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Sal of Singapore",
-                        "imdb_id": "tt0019348",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMjA1OTMzNDg4Ml5BMl5BanBnXkFtZTgwNTM4NzY1MjE@._V1_.jpg",
-                            "height": 1169,
-                            "width": 580
-                        }
-                    }
-                ],
-                "for": [
-                    "Elliott J. Clawson"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Elliott J. Clawson",
-                        "imdb_id": "nm0165470",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZjlhNDQ4YWMtMjkyOS00YzY4LWI1MDUtMmQ0ZGUyNmJkODQyXkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_.jpg",
-                            "height": 763,
-                            "width": 496
-                        }
-                    }
-                ],
-                "notes": "No official nominees had been announced this year."
-            },
-            {
-                "won": false,
-                "target": [
-                    "Skyscraper"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Skyscraper",
-                        "imdb_id": "tt0019398",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMDM2NDk0NDctOTRmMi00N2FiLWI3ZWUtNGVlNTA5NDczOGEzXkEyXkFqcGdeQXVyMzI5NjUyMDM@._V1_.jpg",
-                            "height": 874,
-                            "width": 580
-                        }
-                    }
-                ],
-                "for": [
-                    "Elliott J. Clawson"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Elliott J. Clawson",
-                        "imdb_id": "nm0165470",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZjlhNDQ4YWMtMjkyOS00YzY4LWI1MDUtMmQ0ZGUyNmJkODQyXkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_.jpg",
-                            "height": 763,
-                            "width": 496
-                        }
-                    }
-                ],
-                "notes": "No official nominees had been announced this year."
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Cop"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Cop",
-                        "imdb_id": "tt0018792",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNzY4MjliZGQtNWYxZi00NjIxLWFmMmYtNjU5YmY2OGEzY2ZjXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 420,
-                            "width": 300
-                        }
-                    }
-                ],
-                "for": [
-                    "Elliott J. Clawson"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Elliott J. Clawson",
-                        "imdb_id": "nm0165470",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZjlhNDQ4YWMtMjkyOS00YzY4LWI1MDUtMmQ0ZGUyNmJkODQyXkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_.jpg",
-                            "height": 763,
-                            "width": 496
-                        }
-                    }
-                ],
-                "notes": "No official nominees had been announced this year."
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Last of Mrs. Cheyney"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Last of Mrs. Cheyney",
-                        "imdb_id": "tt0020081",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMzc1MjU1MDg3NV5BMl5BanBnXkFtZTgwMTE5NzM2MzE@._V1_.jpg",
-                            "height": 500,
-                            "width": 332
-                        }
-                    }
-                ],
-                "for": [
-                    "Hanns Kr\u00e4ly"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Hanns Kr\u00e4ly",
-                        "imdb_id": "nm0473134",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": "No official nominees had been announced this year."
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Leatherneck"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Leatherneck",
-                        "imdb_id": "tt0020088",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BOGRhMDZkZjYtODkzNy00MTA5LWFiNjktNzMxMThlNWFjZjc1XkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_.jpg",
-                            "height": 1456,
-                            "width": 1142
-                        }
-                    }
-                ],
-                "for": [
-                    "Elliott J. Clawson"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Elliott J. Clawson",
-                        "imdb_id": "nm0165470",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZjlhNDQ4YWMtMjkyOS00YzY4LWI1MDUtMmQ0ZGUyNmJkODQyXkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_.jpg",
-                            "height": 763,
-                            "width": 496
-                        }
-                    }
-                ],
-                "notes": "No official nominees had been announced this year."
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Valiant"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Valiant",
-                        "imdb_id": "tt0020543",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMmZhMWQwZGUtZDlhMy00MjlmLWE3OGQtNjAzMTQxMzA3Yjc5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_.jpg",
-                            "height": 1090,
-                            "width": 750
-                        }
-                    }
-                ],
-                "for": [
-                    "Tom Barry"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Tom Barry",
-                        "imdb_id": "nm0058179",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": "No official nominees had been announced this year."
-            },
-            {
-                "won": false,
-                "target": [
-                    "Wonder of Women"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Wonder of Women",
-                        "imdb_id": "tt0020603",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZjYzMjUwNDItZjBlZi00MTM0LTk0YmQtN2ZkMGMwYWQ2NTcyXkEyXkFqcGdeQXVyMDY4MzkyNw@@._V1_.jpg",
-                            "height": 1675,
-                            "width": 1517
-                        }
-                    }
-                ],
-                "for": [
-                    "Bess Meredyth"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Bess Meredyth",
-                        "imdb_id": "nm0580648",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BOGNiOWRkNzItYWYzMy00OTg3LWFiYjItMDhhZWQ4MTZlMGRkXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
-                            "height": 1015,
-                            "width": 797
-                        }
-                    }
-                ],
-                "notes": "No official nominees had been announced this year."
+          }
+        ],
+        "notes": "No official nominees had been announced this year."
+      },
+      {
+        "won": false,
+        "target": ["Lewis Stone"],
+        "target_enriched": [
+          {
+            "name": "Lewis Stone",
+            "imdb_id": "nm0832011",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjEwMDQyMjIzMl5BMl5BanBnXkFtZTgwNzc3MTI1MzE@._V1_.jpg",
+              "height": 1173,
+              "width": 750
             }
-        ]
-    }
+          }
+        ],
+        "for": ["The Patriot"],
+        "for_enriched": [
+          {
+            "name": "The Patriot",
+            "imdb_id": "tt0019257",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjgwNDU1MWMtOTg0NC00NTIwLTg5NGYtYThmYWRjYzFjYTk1XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 758,
+              "width": 475
+            }
+          }
+        ],
+        "notes": "No official nominees had been announced this year."
+      },
+      {
+        "won": false,
+        "target": ["Paul Muni"],
+        "target_enriched": [
+          {
+            "name": "Paul Muni",
+            "imdb_id": "nm0612847",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTY1YzA5OTgtNDkwOC00MjNjLWJlNDQtM2M2MTg1NzEyYTUzXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
+              "height": 1396,
+              "width": 1132
+            }
+          }
+        ],
+        "for": ["The Valiant"],
+        "for_enriched": [
+          {
+            "name": "The Valiant",
+            "imdb_id": "tt0020543",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmZhMWQwZGUtZDlhMy00MjlmLWE3OGQtNjAzMTQxMzA3Yjc5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_.jpg",
+              "height": 1090,
+              "width": 750
+            }
+          }
+        ],
+        "notes": "No official nominees had been announced this year."
+      }
+    ]
+  },
+  {
+    "name": "Best Actress in a Leading Role",
+    "normalized_name": "Best Performance by an Actress in a Leading Role",
+    "category_id": 1,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["Mary Pickford"],
+        "target_enriched": [
+          {
+            "name": "Mary Pickford",
+            "imdb_id": "nm0681933",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTcxODkxOTExMl5BMl5BanBnXkFtZTgwMDIzNTQwMjE@._V1_.jpg",
+              "height": 500,
+              "width": 391
+            }
+          }
+        ],
+        "for": ["Coquette"],
+        "for_enriched": [
+          {
+            "name": "Coquette",
+            "imdb_id": "tt0019788",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BODY0OGEwMWYtNDQ4NC00Y2M2LWJkN2ItYjI0ZjI1MjJiMmJhXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+              "height": 1695,
+              "width": 1167
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Bessie Love"],
+        "target_enriched": [
+          {
+            "name": "Bessie Love",
+            "imdb_id": "nm0522281",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUyMzIwMjU3MF5BMl5BanBnXkFtZTgwMTI0OTg0MzE@._V1_.jpg",
+              "height": 1478,
+              "width": 1000
+            }
+          }
+        ],
+        "for": ["The Broadway Melody"],
+        "for_enriched": [
+          {
+            "name": "The Broadway Melody",
+            "imdb_id": "tt0019729",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmJlOWM4NDEtYmZmYS00MTIyLTgwYWMtMjFhYmNhZWU4ZmVmXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+              "height": 2563,
+              "width": 1704
+            }
+          }
+        ],
+        "notes": "No official nominees had been announced this year."
+      },
+      {
+        "won": false,
+        "target": ["Betty Compson"],
+        "target_enriched": [
+          {
+            "name": "Betty Compson",
+            "imdb_id": "nm0173993",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc3NTYzMTQ1Nl5BMl5BanBnXkFtZTYwMjc1ODU2._V1_.jpg",
+              "height": 450,
+              "width": 348
+            }
+          }
+        ],
+        "for": ["The Barker"],
+        "for_enriched": [
+          {
+            "name": "The Barker",
+            "imdb_id": "tt0018674",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUzMjE2NTk3NF5BMl5BanBnXkFtZTgwNzkwMDY0MjE@._V1_.jpg",
+              "height": 500,
+              "width": 332
+            }
+          }
+        ],
+        "notes": "No official nominees had been announced this year."
+      },
+      {
+        "won": false,
+        "target": ["Corinne Griffith"],
+        "target_enriched": [
+          {
+            "name": "Corinne Griffith",
+            "imdb_id": "nm0341464",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYwNjg0Mzg1OF5BMl5BanBnXkFtZTYwNTUxNjI2._V1_.jpg",
+              "height": 450,
+              "width": 318
+            }
+          }
+        ],
+        "for": ["The Divine Lady"],
+        "for_enriched": [
+          {
+            "name": "The Divine Lady",
+            "imdb_id": "tt0019824",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc3MDIxODQ3MF5BMl5BanBnXkFtZTgwMTkwMDY0MjE@._V1_.jpg",
+              "height": 500,
+              "width": 330
+            }
+          }
+        ],
+        "notes": "No official nominees had been announced this year."
+      },
+      {
+        "won": false,
+        "target": ["Jeanne Eagels"],
+        "target_enriched": [
+          {
+            "name": "Jeanne Eagels",
+            "imdb_id": "nm0247074",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI3MTYyMDA1OF5BMl5BanBnXkFtZTgwMzIyNjc3MTE@._V1_.jpg",
+              "height": 1686,
+              "width": 1342
+            }
+          }
+        ],
+        "for": ["The Letter"],
+        "for_enriched": [
+          {
+            "name": "The Letter",
+            "imdb_id": "tt0020092",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWFiM2YxNzYtZjdjMC00MzI4LWI0MjUtNTUxMTAyNmM4NGEwXkEyXkFqcGdeQXVyMTk4MDgwNA@@._V1_.jpg",
+              "height": 960,
+              "width": 640
+            }
+          }
+        ],
+        "notes": "Posthumously. No official nominees had been announced this year."
+      },
+      {
+        "won": false,
+        "target": ["Ruth Chatterton"],
+        "target_enriched": [
+          {
+            "name": "Ruth Chatterton",
+            "imdb_id": "nm0154183",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTA0Nzk3NDA4NjdeQTJeQWpwZ15BbWU2MDM0MTEzNg@@._V1_.jpg",
+              "height": 450,
+              "width": 350
+            }
+          }
+        ],
+        "for": ["Madame X"],
+        "for_enriched": [
+          {
+            "name": "Madame X",
+            "imdb_id": "tt0020126",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY0NjIyMTA0NF5BMl5BanBnXkFtZTgwODg5MDgxMjE@._V1_.jpg",
+              "height": 500,
+              "width": 338
+            }
+          }
+        ],
+        "notes": "No official nominees had been announced this year."
+      }
+    ]
+  },
+  {
+    "name": "Best Art Direction",
+    "normalized_name": "Best Achievement in Production Design",
+    "category_id": 2,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["The Bridge of San Luis Rey"],
+        "target_enriched": [
+          {
+            "name": "The Bridge of San Luis Rey",
+            "imdb_id": "tt0019722",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI3MTM0MzE2MV5BMl5BanBnXkFtZTgwMjU3NTMzMjE@._V1_.jpg",
+              "height": 500,
+              "width": 350
+            }
+          }
+        ],
+        "for": ["Cedric Gibbons"],
+        "for_enriched": [
+          {
+            "name": "Cedric Gibbons",
+            "imdb_id": "nm0316539",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzM4MTkwMmMtNzYwMy00YzVhLWE1YjMtMWYyMjNhZDExMmM5XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 498,
+              "width": 664
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Alibi"],
+        "target_enriched": [
+          {
+            "name": "Alibi",
+            "imdb_id": "tt0019630",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWNjOGZhMmMtZjYxZC00NDE0LWJmOTktMTcyNTNjNjE1ZWRmXkEyXkFqcGdeQXVyMTQ2MjQyNDc@._V1_.jpg",
+              "height": 746,
+              "width": 500
+            }
+          }
+        ],
+        "for": ["William Cameron Menzies"],
+        "for_enriched": [
+          {
+            "name": "William Cameron Menzies",
+            "imdb_id": "nm0580017",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTI0MGIyNTctYmFmMS00MDNlLWIxZjQtNzdjMmIyMmVlY2JkXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 514,
+              "width": 680
+            }
+          }
+        ],
+        "notes": "No official nominees had been announced this year."
+      },
+      {
+        "won": false,
+        "target": ["Dynamite"],
+        "target_enriched": [
+          {
+            "name": "Dynamite",
+            "imdb_id": "tt0019843",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzg0OGYzNzktMmQ0Ni00NGFiLTg3NjgtNjdiOGVmZDllNzQ4XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+              "height": 2805,
+              "width": 1861
+            }
+          }
+        ],
+        "for": ["Mitchell Leisen"],
+        "for_enriched": [
+          {
+            "name": "Mitchell Leisen",
+            "imdb_id": "nm0500552",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzg1ZDhlNzItNzliMi00NTQxLWI4YTgtOTBiOWMyYzc5NTE3XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 641,
+              "width": 591
+            }
+          }
+        ],
+        "notes": "No official nominees had been announced this year."
+      },
+      {
+        "won": false,
+        "target": ["Street Angel"],
+        "target_enriched": [
+          {
+            "name": "Street Angel",
+            "imdb_id": "tt0019429",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk0NTU1NzM0Ml5BMl5BanBnXkFtZTgwNDEyOTYyMjE@._V1_.jpg",
+              "height": 500,
+              "width": 335
+            }
+          }
+        ],
+        "for": ["Harry Oliver"],
+        "for_enriched": [
+          {
+            "name": "Harry Oliver",
+            "imdb_id": "nm0646856",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": "No official nominees had been announced this year."
+      },
+      {
+        "won": false,
+        "target": ["The Awakening"],
+        "target_enriched": [
+          {
+            "name": "The Awakening",
+            "imdb_id": "tt0018666",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIwMWMzNjctMTUyYS00MDM5LWFlMGUtYzgyODVlOTZjOGMwXkEyXkFqcGdeQXVyMjYzMDY1NTg@._V1_.jpg",
+              "height": 663,
+              "width": 495
+            }
+          }
+        ],
+        "for": ["William Cameron Menzies"],
+        "for_enriched": [
+          {
+            "name": "William Cameron Menzies",
+            "imdb_id": "nm0580017",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTI0MGIyNTctYmFmMS00MDNlLWIxZjQtNzdjMmIyMmVlY2JkXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 514,
+              "width": 680
+            }
+          }
+        ],
+        "notes": "No official nominees had been announced this year."
+      },
+      {
+        "won": false,
+        "target": ["The Patriot"],
+        "target_enriched": [
+          {
+            "name": "The Patriot",
+            "imdb_id": "tt0019257",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjgwNDU1MWMtOTg0NC00NTIwLTg5NGYtYThmYWRjYzFjYTk1XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 758,
+              "width": 475
+            }
+          }
+        ],
+        "for": ["Hans Dreier"],
+        "for_enriched": [
+          {
+            "name": "Hans Dreier",
+            "imdb_id": "nm0237417",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDk1ZGNlZGQtZjYwNS00OWU0LTkzOTAtZGNkMjAyN2U4Yzc0XkEyXkFqcGdeQXVyMjQwOTE1MzE@._V1_.jpg",
+              "height": 890,
+              "width": 803
+            }
+          }
+        ],
+        "notes": "No official nominees had been announced this year."
+      }
+    ]
+  },
+  {
+    "name": "Best Cinematography",
+    "normalized_name": "Best Achievement in Cinematography",
+    "category_id": 3,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["White Shadows in the South Seas"],
+        "target_enriched": [
+          {
+            "name": "White Shadows in the South Seas",
+            "imdb_id": "tt0019574",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWUzOWM3ODgtYjBlNS00YjRmLWI4OWUtMDY3ZWU3ODEwMDA1XkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_.jpg",
+              "height": 1426,
+              "width": 960
+            }
+          }
+        ],
+        "for": ["Clyde De Vinna"],
+        "for_enriched": [
+          {
+            "name": "Clyde De Vinna",
+            "imdb_id": "nm0005682",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzhiNTE4ZTMtOWE1YS00Nzk1LTk1YjctZjYzNWQzNTMwMzg0XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_.jpg",
+              "height": 1536,
+              "width": 1526
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["4 Devils"],
+        "target_enriched": [
+          {
+            "name": "4 Devils",
+            "imdb_id": "tt0018907",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzk5MzQ4NDI2M15BMl5BanBnXkFtZTgwMDM1Mzg4MjE@._V1_.jpg",
+              "height": 423,
+              "width": 500
+            }
+          }
+        ],
+        "for": ["Ernest Palmer"],
+        "for_enriched": [
+          {
+            "name": "Ernest Palmer",
+            "imdb_id": "nm0005823",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": "No official nominees had been announced this year."
+      },
+      {
+        "won": false,
+        "target": ["In Old Arizona"],
+        "target_enriched": [
+          {
+            "name": "In Old Arizona",
+            "imdb_id": "tt0020018",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE0ODAxNzQ0M15BMl5BanBnXkFtZTgwNTk4ODQwMjE@._V1_.jpg",
+              "height": 500,
+              "width": 337
+            }
+          }
+        ],
+        "for": ["Arthur Edeson"],
+        "for_enriched": [
+          {
+            "name": "Arthur Edeson",
+            "imdb_id": "nm0249186",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": "No official nominees had been announced this year."
+      },
+      {
+        "won": false,
+        "target": ["Our Dancing Daughters"],
+        "target_enriched": [
+          {
+            "name": "Our Dancing Daughters",
+            "imdb_id": "tt0019237",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIyNTJlNmItODhjOC00OGZkLTgwMDYtMmIyMmYyOTBiZDMwXkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg",
+              "height": 1440,
+              "width": 960
+            }
+          }
+        ],
+        "for": ["George Barnes"],
+        "for_enriched": [
+          {
+            "name": "George Barnes",
+            "imdb_id": "nm0055604",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWMyMDJkODYtNWVmZC00ZjA1LTllM2UtYmE5ZjgyZjgyMjczXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 620,
+              "width": 599
+            }
+          }
+        ],
+        "notes": "No official nominees had been announced this year."
+      },
+      {
+        "won": false,
+        "target": ["Street Angel"],
+        "target_enriched": [
+          {
+            "name": "Street Angel",
+            "imdb_id": "tt0019429",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk0NTU1NzM0Ml5BMl5BanBnXkFtZTgwNDEyOTYyMjE@._V1_.jpg",
+              "height": 500,
+              "width": 335
+            }
+          }
+        ],
+        "for": ["Ernest Palmer"],
+        "for_enriched": [
+          {
+            "name": "Ernest Palmer",
+            "imdb_id": "nm0005823",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": "No official nominees had been announced this year."
+      },
+      {
+        "won": false,
+        "target": ["The Divine Lady"],
+        "target_enriched": [
+          {
+            "name": "The Divine Lady",
+            "imdb_id": "tt0019824",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc3MDIxODQ3MF5BMl5BanBnXkFtZTgwMTkwMDY0MjE@._V1_.jpg",
+              "height": 500,
+              "width": 330
+            }
+          }
+        ],
+        "for": ["John F. Seitz"],
+        "for_enriched": [
+          {
+            "name": "John F. Seitz",
+            "imdb_id": "nm0005870",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzFjNGQ1OGUtODJmOC00ZmIzLTgzYjMtMDU2ZDRhYjk5MGEyXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 298,
+              "width": 280
+            }
+          }
+        ],
+        "notes": "No official nominees had been announced this year."
+      }
+    ]
+  },
+  {
+    "name": "Best Director",
+    "normalized_name": "Best Achievement in Directing",
+    "category_id": 12,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["Frank Lloyd"],
+        "target_enriched": [
+          {
+            "name": "Frank Lloyd",
+            "imdb_id": "nm0515979",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUwNzA2NjMyNF5BMl5BanBnXkFtZTYwMjg0Njcy._V1_.jpg",
+              "height": 596,
+              "width": 450
+            }
+          }
+        ],
+        "for": ["The Divine Lady"],
+        "for_enriched": [
+          {
+            "name": "The Divine Lady",
+            "imdb_id": "tt0019824",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc3MDIxODQ3MF5BMl5BanBnXkFtZTgwMTkwMDY0MjE@._V1_.jpg",
+              "height": 500,
+              "width": 330
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Ernst Lubitsch"],
+        "target_enriched": [
+          {
+            "name": "Ernst Lubitsch",
+            "imdb_id": "nm0523932",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjEwMDI0ODEzMF5BMl5BanBnXkFtZTYwMDg2MjI2._V1_.jpg",
+              "height": 450,
+              "width": 359
+            }
+          }
+        ],
+        "for": ["The Patriot"],
+        "for_enriched": [
+          {
+            "name": "The Patriot",
+            "imdb_id": "tt0019257",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjgwNDU1MWMtOTg0NC00NTIwLTg5NGYtYThmYWRjYzFjYTk1XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 758,
+              "width": 475
+            }
+          }
+        ],
+        "notes": "No official nominees had been announced this year."
+      },
+      {
+        "won": false,
+        "target": ["Frank Lloyd"],
+        "target_enriched": [
+          {
+            "name": "Frank Lloyd",
+            "imdb_id": "nm0515979",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUwNzA2NjMyNF5BMl5BanBnXkFtZTYwMjg0Njcy._V1_.jpg",
+              "height": 596,
+              "width": 450
+            }
+          }
+        ],
+        "for": ["Drag"],
+        "for_enriched": [
+          {
+            "name": "Drag",
+            "imdb_id": "tt0019833",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2E2ZTQ3YjQtNzYxNC00OGJmLTgwYzctNTk4ZTJmNmQwOTgzXkEyXkFqcGdeQXVyMjk2NjgyMjE@._V1_.jpg",
+              "height": 2571,
+              "width": 1362
+            }
+          }
+        ],
+        "notes": "No official nominees had been announced this year."
+      },
+      {
+        "won": false,
+        "target": ["Frank Lloyd"],
+        "target_enriched": [
+          {
+            "name": "Frank Lloyd",
+            "imdb_id": "nm0515979",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUwNzA2NjMyNF5BMl5BanBnXkFtZTYwMjg0Njcy._V1_.jpg",
+              "height": 596,
+              "width": 450
+            }
+          }
+        ],
+        "for": ["Weary River"],
+        "for_enriched": [
+          {
+            "name": "Weary River",
+            "imdb_id": "tt0019557",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY3MjAwMDE5MF5BMl5BanBnXkFtZTgwMzE4MDI0MjE@._V1_.jpg",
+              "height": 500,
+              "width": 333
+            }
+          }
+        ],
+        "notes": "No official nominees had been announced this year."
+      },
+      {
+        "won": false,
+        "target": ["Harry Beaumont"],
+        "target_enriched": [
+          {
+            "name": "Harry Beaumont",
+            "imdb_id": "nm0064600",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjgxOGIyOWEtYmJjYy00NzA1LWExYWUtZWYwZjNhYTdmY2QwXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 1062,
+              "width": 709
+            }
+          }
+        ],
+        "for": ["The Broadway Melody"],
+        "for_enriched": [
+          {
+            "name": "The Broadway Melody",
+            "imdb_id": "tt0019729",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmJlOWM4NDEtYmZmYS00MTIyLTgwYWMtMjFhYmNhZWU4ZmVmXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+              "height": 2563,
+              "width": 1704
+            }
+          }
+        ],
+        "notes": "No official nominees had been announced this year."
+      },
+      {
+        "won": false,
+        "target": ["Irving Cummings"],
+        "target_enriched": [
+          {
+            "name": "Irving Cummings",
+            "imdb_id": "nm0191899",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDA5MDU3YTYtZTJiZi00OTZlLWJhNTMtMzRjYTMzNTZkZGVjXkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_.jpg",
+              "height": 847,
+              "width": 555
+            }
+          }
+        ],
+        "for": ["In Old Arizona"],
+        "for_enriched": [
+          {
+            "name": "In Old Arizona",
+            "imdb_id": "tt0020018",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE0ODAxNzQ0M15BMl5BanBnXkFtZTgwNTk4ODQwMjE@._V1_.jpg",
+              "height": 500,
+              "width": 337
+            }
+          }
+        ],
+        "notes": "No official nominees had been announced this year."
+      },
+      {
+        "won": false,
+        "target": ["Lionel Barrymore"],
+        "target_enriched": [
+          {
+            "name": "Lionel Barrymore",
+            "imdb_id": "nm0000859",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTc5NzY5MTgwNV5BMl5BanBnXkFtZTYwMjc4NjQ2._V1_.jpg",
+              "height": 450,
+              "width": 321
+            }
+          }
+        ],
+        "for": ["Madame X"],
+        "for_enriched": [
+          {
+            "name": "Madame X",
+            "imdb_id": "tt0020126",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY0NjIyMTA0NF5BMl5BanBnXkFtZTgwODg5MDgxMjE@._V1_.jpg",
+              "height": 500,
+              "width": 338
+            }
+          }
+        ],
+        "notes": "No official nominees had been announced this year."
+      }
+    ]
+  },
+  {
+    "name": "Best Picture",
+    "normalized_name": "Best Picture",
+    "category_id": 13,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["The Broadway Melody"],
+        "target_enriched": [
+          {
+            "name": "The Broadway Melody",
+            "imdb_id": "tt0019729",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmJlOWM4NDEtYmZmYS00MTIyLTgwYWMtMjFhYmNhZWU4ZmVmXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+              "height": 2563,
+              "width": 1704
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Alibi"],
+        "target_enriched": [
+          {
+            "name": "Alibi",
+            "imdb_id": "tt0019630",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWNjOGZhMmMtZjYxZC00NDE0LWJmOTktMTcyNTNjNjE1ZWRmXkEyXkFqcGdeQXVyMTQ2MjQyNDc@._V1_.jpg",
+              "height": 746,
+              "width": 500
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": "No official nominees had been announced this year."
+      },
+      {
+        "won": false,
+        "target": ["In Old Arizona"],
+        "target_enriched": [
+          {
+            "name": "In Old Arizona",
+            "imdb_id": "tt0020018",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE0ODAxNzQ0M15BMl5BanBnXkFtZTgwNTk4ODQwMjE@._V1_.jpg",
+              "height": 500,
+              "width": 337
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": "No official nominees had been announced this year."
+      },
+      {
+        "won": false,
+        "target": ["The Hollywood Revue of 1929"],
+        "target_enriched": [
+          {
+            "name": "The Hollywood Revue of 1929",
+            "imdb_id": "tt0019993",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjBlYjY4NGEtOTZiMS00NWZlLWFmYjMtOWQ5M2FiYTU3Yjk4XkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_.jpg",
+              "height": 1323,
+              "width": 960
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": "No official nominees had been announced this year."
+      },
+      {
+        "won": false,
+        "target": ["The Patriot"],
+        "target_enriched": [
+          {
+            "name": "The Patriot",
+            "imdb_id": "tt0019257",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjgwNDU1MWMtOTg0NC00NTIwLTg5NGYtYThmYWRjYzFjYTk1XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 758,
+              "width": 475
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": "No official nominees had been announced this year."
+      }
+    ]
+  },
+  {
+    "name": "Best Writing, Achievement",
+    "normalized_name": "Best Writing, Achievement",
+    "category_id": 14,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["The Patriot"],
+        "target_enriched": [
+          {
+            "name": "The Patriot",
+            "imdb_id": "tt0019257",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjgwNDU1MWMtOTg0NC00NTIwLTg5NGYtYThmYWRjYzFjYTk1XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 758,
+              "width": 475
+            }
+          }
+        ],
+        "for": ["Hanns Kr\u00e4ly"],
+        "for_enriched": [
+          {
+            "name": "Hanns Kr\u00e4ly",
+            "imdb_id": "nm0473134",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["A Woman of Affairs"],
+        "target_enriched": [
+          {
+            "name": "A Woman of Affairs",
+            "imdb_id": "tt0019591",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQzMzUyNjc0OF5BMl5BanBnXkFtZTgwNTk5MjgzMjE@._V1_.jpg",
+              "height": 500,
+              "width": 338
+            }
+          }
+        ],
+        "for": ["Bess Meredyth"],
+        "for_enriched": [
+          {
+            "name": "Bess Meredyth",
+            "imdb_id": "nm0580648",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGNiOWRkNzItYWYzMy00OTg3LWFiYjItMDhhZWQ4MTZlMGRkXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
+              "height": 1015,
+              "width": 797
+            }
+          }
+        ],
+        "notes": "No official nominees had been announced this year."
+      },
+      {
+        "won": false,
+        "target": ["In Old Arizona"],
+        "target_enriched": [
+          {
+            "name": "In Old Arizona",
+            "imdb_id": "tt0020018",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE0ODAxNzQ0M15BMl5BanBnXkFtZTgwNTk4ODQwMjE@._V1_.jpg",
+              "height": 500,
+              "width": 337
+            }
+          }
+        ],
+        "for": ["Tom Barry"],
+        "for_enriched": [
+          {
+            "name": "Tom Barry",
+            "imdb_id": "nm0058179",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": "No official nominees had been announced this year."
+      },
+      {
+        "won": false,
+        "target": ["Our Dancing Daughters"],
+        "target_enriched": [
+          {
+            "name": "Our Dancing Daughters",
+            "imdb_id": "tt0019237",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIyNTJlNmItODhjOC00OGZkLTgwMDYtMmIyMmYyOTBiZDMwXkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg",
+              "height": 1440,
+              "width": 960
+            }
+          }
+        ],
+        "for": ["Josephine Lovett"],
+        "for_enriched": [
+          {
+            "name": "Josephine Lovett",
+            "imdb_id": "nm0522674",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": "No official nominees had been announced this year."
+      },
+      {
+        "won": false,
+        "target": ["Sal of Singapore"],
+        "target_enriched": [
+          {
+            "name": "Sal of Singapore",
+            "imdb_id": "tt0019348",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA1OTMzNDg4Ml5BMl5BanBnXkFtZTgwNTM4NzY1MjE@._V1_.jpg",
+              "height": 1169,
+              "width": 580
+            }
+          }
+        ],
+        "for": ["Elliott J. Clawson"],
+        "for_enriched": [
+          {
+            "name": "Elliott J. Clawson",
+            "imdb_id": "nm0165470",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjlhNDQ4YWMtMjkyOS00YzY4LWI1MDUtMmQ0ZGUyNmJkODQyXkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_.jpg",
+              "height": 763,
+              "width": 496
+            }
+          }
+        ],
+        "notes": "No official nominees had been announced this year."
+      },
+      {
+        "won": false,
+        "target": ["Skyscraper"],
+        "target_enriched": [
+          {
+            "name": "Skyscraper",
+            "imdb_id": "tt0019398",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDM2NDk0NDctOTRmMi00N2FiLWI3ZWUtNGVlNTA5NDczOGEzXkEyXkFqcGdeQXVyMzI5NjUyMDM@._V1_.jpg",
+              "height": 874,
+              "width": 580
+            }
+          }
+        ],
+        "for": ["Elliott J. Clawson"],
+        "for_enriched": [
+          {
+            "name": "Elliott J. Clawson",
+            "imdb_id": "nm0165470",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjlhNDQ4YWMtMjkyOS00YzY4LWI1MDUtMmQ0ZGUyNmJkODQyXkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_.jpg",
+              "height": 763,
+              "width": 496
+            }
+          }
+        ],
+        "notes": "No official nominees had been announced this year."
+      },
+      {
+        "won": false,
+        "target": ["The Cop"],
+        "target_enriched": [
+          {
+            "name": "The Cop",
+            "imdb_id": "tt0018792",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzY4MjliZGQtNWYxZi00NjIxLWFmMmYtNjU5YmY2OGEzY2ZjXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 420,
+              "width": 300
+            }
+          }
+        ],
+        "for": ["Elliott J. Clawson"],
+        "for_enriched": [
+          {
+            "name": "Elliott J. Clawson",
+            "imdb_id": "nm0165470",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjlhNDQ4YWMtMjkyOS00YzY4LWI1MDUtMmQ0ZGUyNmJkODQyXkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_.jpg",
+              "height": 763,
+              "width": 496
+            }
+          }
+        ],
+        "notes": "No official nominees had been announced this year."
+      },
+      {
+        "won": false,
+        "target": ["The Last of Mrs. Cheyney"],
+        "target_enriched": [
+          {
+            "name": "The Last of Mrs. Cheyney",
+            "imdb_id": "tt0020081",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzc1MjU1MDg3NV5BMl5BanBnXkFtZTgwMTE5NzM2MzE@._V1_.jpg",
+              "height": 500,
+              "width": 332
+            }
+          }
+        ],
+        "for": ["Hanns Kr\u00e4ly"],
+        "for_enriched": [
+          {
+            "name": "Hanns Kr\u00e4ly",
+            "imdb_id": "nm0473134",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": "No official nominees had been announced this year."
+      },
+      {
+        "won": false,
+        "target": ["The Leatherneck"],
+        "target_enriched": [
+          {
+            "name": "The Leatherneck",
+            "imdb_id": "tt0020088",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGRhMDZkZjYtODkzNy00MTA5LWFiNjktNzMxMThlNWFjZjc1XkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_.jpg",
+              "height": 1456,
+              "width": 1142
+            }
+          }
+        ],
+        "for": ["Elliott J. Clawson"],
+        "for_enriched": [
+          {
+            "name": "Elliott J. Clawson",
+            "imdb_id": "nm0165470",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjlhNDQ4YWMtMjkyOS00YzY4LWI1MDUtMmQ0ZGUyNmJkODQyXkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_.jpg",
+              "height": 763,
+              "width": 496
+            }
+          }
+        ],
+        "notes": "No official nominees had been announced this year."
+      },
+      {
+        "won": false,
+        "target": ["The Valiant"],
+        "target_enriched": [
+          {
+            "name": "The Valiant",
+            "imdb_id": "tt0020543",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmZhMWQwZGUtZDlhMy00MjlmLWE3OGQtNjAzMTQxMzA3Yjc5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_.jpg",
+              "height": 1090,
+              "width": 750
+            }
+          }
+        ],
+        "for": ["Tom Barry"],
+        "for_enriched": [
+          {
+            "name": "Tom Barry",
+            "imdb_id": "nm0058179",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": "No official nominees had been announced this year."
+      },
+      {
+        "won": false,
+        "target": ["Wonder of Women"],
+        "target_enriched": [
+          {
+            "name": "Wonder of Women",
+            "imdb_id": "tt0020603",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjYzMjUwNDItZjBlZi00MTM0LTk0YmQtN2ZkMGMwYWQ2NTcyXkEyXkFqcGdeQXVyMDY4MzkyNw@@._V1_.jpg",
+              "height": 1675,
+              "width": 1517
+            }
+          }
+        ],
+        "for": ["Bess Meredyth"],
+        "for_enriched": [
+          {
+            "name": "Bess Meredyth",
+            "imdb_id": "nm0580648",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGNiOWRkNzItYWYzMy00OTg3LWFiYjItMDhhZWQ4MTZlMGRkXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
+              "height": 1015,
+              "width": 797
+            }
+          }
+        ],
+        "notes": "No official nominees had been announced this year."
+      }
+    ]
+  }
 ]

@@ -1,2889 +1,2562 @@
 [
-    {
-        "name": "Best Actor in a Leading Role",
-        "normalized_name": "Best Performance by an Actor in a Leading Role",
-        "category_id": 0,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "Victor McLaglen"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Victor McLaglen",
-                        "imdb_id": "nm0572142",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTgwNTYxNTcxNF5BMl5BanBnXkFtZTcwMDg1MTMxOA@@._V1_.jpg",
-                            "height": 2048,
-                            "width": 1574
-                        }
-                    }
-                ],
-                "for": [
-                    "The Informer"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "The Informer",
-                        "imdb_id": "tt0026529",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMDM1YjliYzYtOTkzMS00M2NkLThhNjctM2RlM2MxODE4YjJjXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
-                            "height": 1139,
-                            "width": 751
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Charles Laughton"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Charles Laughton",
-                        "imdb_id": "nm0001452",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTMzOTQ0MTMzNF5BMl5BanBnXkFtZTYwNzkyNjI2._V1_.jpg",
-                            "height": 450,
-                            "width": 371
-                        }
-                    }
-                ],
-                "for": [
-                    "Mutiny on the Bounty"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Mutiny on the Bounty",
-                        "imdb_id": "tt0026752",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNmRhZWU4MTAtNzE0OC00YjIyLTk2MGItMDRjYTc0MTZiNmU1XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
-                            "height": 2812,
-                            "width": 1825
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Clark Gable"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Clark Gable",
-                        "imdb_id": "nm0000022",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMjE1NDY5MjM5Ml5BMl5BanBnXkFtZTYwNTU1OTQ2._V1_.jpg",
-                            "height": 450,
-                            "width": 346
-                        }
-                    }
-                ],
-                "for": [
-                    "Mutiny on the Bounty"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Mutiny on the Bounty",
-                        "imdb_id": "tt0026752",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNmRhZWU4MTAtNzE0OC00YjIyLTk2MGItMDRjYTc0MTZiNmU1XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
-                            "height": 2812,
-                            "width": 1825
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Franchot Tone"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Franchot Tone",
-                        "imdb_id": "nm0867144",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTk4MTE4MDg0MV5BMl5BanBnXkFtZTYwNjI0NDgy._V1_.jpg",
-                            "height": 387,
-                            "width": 300
-                        }
-                    }
-                ],
-                "for": [
-                    "Mutiny on the Bounty"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Mutiny on the Bounty",
-                        "imdb_id": "tt0026752",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNmRhZWU4MTAtNzE0OC00YjIyLTk2MGItMDRjYTc0MTZiNmU1XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
-                            "height": 2812,
-                            "width": 1825
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Paul Muni"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Paul Muni",
-                        "imdb_id": "nm0612847",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYTY1YzA5OTgtNDkwOC00MjNjLWJlNDQtM2M2MTg1NzEyYTUzXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
-                            "height": 1396,
-                            "width": 1132
-                        }
-                    }
-                ],
-                "for": [
-                    "Black Fury"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Black Fury",
-                        "imdb_id": "tt0026121",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYmE5OWY5ODctOWIxNC00Mzk4LWE2ZGYtMjVjMTAwYjE5Nzg2XkEyXkFqcGdeQXVyMTYzMTY1MjQ@._V1_.jpg",
-                            "height": 907,
-                            "width": 600
-                        }
-                    }
-                ],
-                "notes": "This was a write-in candidate, who came in second on the final ballots. It was not an official nomination."
+  {
+    "name": "Best Actor in a Leading Role",
+    "normalized_name": "Best Performance by an Actor in a Leading Role",
+    "category_id": 0,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["Victor McLaglen"],
+        "target_enriched": [
+          {
+            "name": "Victor McLaglen",
+            "imdb_id": "nm0572142",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgwNTYxNTcxNF5BMl5BanBnXkFtZTcwMDg1MTMxOA@@._V1_.jpg",
+              "height": 2048,
+              "width": 1574
             }
-        ]
-    },
-    {
-        "name": "Best Actress in a Leading Role",
-        "normalized_name": "Best Performance by an Actress in a Leading Role",
-        "category_id": 1,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "Bette Davis"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Bette Davis",
-                        "imdb_id": "nm0000012",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTQ2OTQ4NTU2OF5BMl5BanBnXkFtZTcwMzI3MjY5Ng@@._V1_.jpg",
-                            "height": 500,
-                            "width": 414
-                        }
-                    }
-                ],
-                "for": [
-                    "Dangerous"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Dangerous",
-                        "imdb_id": "tt0026261",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZDFlY2VkNTMtMDcwOC00YjlkLWE2ZGMtMGVlZGUxNTcwNGVjXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 1029,
-                            "width": 675
-                        }
-                    }
-                ],
-                "notes": "On 14 December 2002 Steven Spielberg anonymously bought Davis' Oscar at a Sotheby's auction in New York to return it to the Academy of Motion Picture Arts and Sciences. The statuette was among the memorabilia sold by the Planet Hollywood restaurant chain, which has emerged from bankruptcy protection."
-            },
-            {
-                "won": false,
-                "target": [
-                    "Claudette Colbert"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Claudette Colbert",
-                        "imdb_id": "nm0001055",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTA3MzcwMzQ4NzZeQTJeQWpwZ15BbWU2MDYyOTY0Ng@@._V1_.jpg",
-                            "height": 450,
-                            "width": 336
-                        }
-                    }
-                ],
-                "for": [
-                    "Private Worlds"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Private Worlds",
-                        "imdb_id": "tt0026893",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNjAyZGJmMDctNjJiNC00OTdjLTlmOGEtZGYxOTUyZTc2YjE2XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
-                            "height": 1200,
-                            "width": 763
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Elisabeth Bergner"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Elisabeth Bergner",
-                        "imdb_id": "nm0074949",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMjM5NzAzNzExMV5BMl5BanBnXkFtZTgwODQ3MzE1MjE@._V1_.jpg",
-                            "height": 767,
-                            "width": 621
-                        }
-                    }
-                ],
-                "for": [
-                    "Escape Me Never"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Escape Me Never",
-                        "imdb_id": "tt0026320",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNWIwYmYzZGEtZDA0Mi00ZDMxLWI0MzctYmQzYzk1ODQ1YjIwXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_.jpg",
-                            "height": 897,
-                            "width": 821
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Katharine Hepburn"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Katharine Hepburn",
-                        "imdb_id": "nm0000031",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTE5NTk4Mjc0OF5BMl5BanBnXkFtZTYwNzI0NDM2._V1_.jpg",
-                            "height": 450,
-                            "width": 324
-                        }
-                    }
-                ],
-                "for": [
-                    "Alice Adams"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Alice Adams",
-                        "imdb_id": "tt0026056",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYTJkYmJmOTMtMjJmZi00OGE4LTgwNzYtY2Q4MzU1NjYxN2M0XkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg",
-                            "height": 3000,
-                            "width": 1524
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Merle Oberon"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Merle Oberon",
-                        "imdb_id": "nm0643353",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTM3MDI2ODI0NV5BMl5BanBnXkFtZTYwNDIwNzQ2._V1_.jpg",
-                            "height": 450,
-                            "width": 327
-                        }
-                    }
-                ],
-                "for": [
-                    "The Dark Angel"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "The Dark Angel",
-                        "imdb_id": "tt0026264",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BN2U1NjkyZjktNzU5MS00NGIyLTkxMGQtOTk3OTczM2YxOGY2XkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg",
-                            "height": 1440,
-                            "width": 960
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Miriam Hopkins"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Miriam Hopkins",
-                        "imdb_id": "nm0394244",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTYyMTI4MzU0MF5BMl5BanBnXkFtZTYwMjY4NjQ2._V1_.jpg",
-                            "height": 450,
-                            "width": 342
-                        }
-                    }
-                ],
-                "for": [
-                    "Becky Sharp"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Becky Sharp",
-                        "imdb_id": "tt0026104",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZjMxMjE0YTYtNjhiMi00ZDU4LTgwODctZWI4MjljYWE3YWM4XkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg",
-                            "height": 1292,
-                            "width": 960
-                        }
-                    }
-                ],
-                "notes": null
+          }
+        ],
+        "for": ["The Informer"],
+        "for_enriched": [
+          {
+            "name": "The Informer",
+            "imdb_id": "tt0026529",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDM1YjliYzYtOTkzMS00M2NkLThhNjctM2RlM2MxODE4YjJjXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+              "height": 1139,
+              "width": 751
             }
-        ]
-    },
-    {
-        "name": "Best Art Direction",
-        "normalized_name": "Best Achievement in Production Design",
-        "category_id": 2,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "The Dark Angel"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Dark Angel",
-                        "imdb_id": "tt0026264",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BN2U1NjkyZjktNzU5MS00NGIyLTkxMGQtOTk3OTczM2YxOGY2XkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg",
-                            "height": 1440,
-                            "width": 960
-                        }
-                    }
-                ],
-                "for": [
-                    "Richard Day"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Richard Day",
-                        "imdb_id": "nm0206554",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Lives of a Bengal Lancer"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Lives of a Bengal Lancer",
-                        "imdb_id": "tt0026643",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BOTMwOTMwY2QtMGVmYS00NjYxLWI5MjQtOTczNTVmOWVlNzczXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
-                            "height": 4016,
-                            "width": 2654
-                        }
-                    }
-                ],
-                "for": [
-                    "Hans Dreier",
-                    "Roland Anderson"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Hans Dreier",
-                        "imdb_id": "nm0237417",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZDk1ZGNlZGQtZjYwNS00OWU0LTkzOTAtZGNkMjAyN2U4Yzc0XkEyXkFqcGdeQXVyMjQwOTE1MzE@._V1_.jpg",
-                            "height": 890,
-                            "width": 803
-                        }
-                    },
-                    {
-                        "name": "Roland Anderson",
-                        "imdb_id": "nm0027380",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Top Hat"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Top Hat",
-                        "imdb_id": "tt0027125",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BN2Q0NjE1NTMtOTY5Zi00NWMxLTliOGYtNTg1OGU5M2RjNjVkXkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_.jpg",
-                            "height": 1890,
-                            "width": 1299
-                        }
-                    }
-                ],
-                "for": [
-                    "Carroll Clark",
-                    "Van Nest Polglase"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Carroll Clark",
-                        "imdb_id": "nm0163754",
-                        "note": null,
-                        "image": null
-                    },
-                    {
-                        "name": "Van Nest Polglase",
-                        "imdb_id": "nm0689026",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYzNlOWE5YzQtMGI2OC00MjJkLWE5ZDYtOGM2ODgxNzUxMWMxXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_.jpg",
-                            "height": 1133,
-                            "width": 871
-                        }
-                    }
-                ],
-                "notes": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Charles Laughton"],
+        "target_enriched": [
+          {
+            "name": "Charles Laughton",
+            "imdb_id": "nm0001452",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMzOTQ0MTMzNF5BMl5BanBnXkFtZTYwNzkyNjI2._V1_.jpg",
+              "height": 450,
+              "width": 371
             }
-        ]
-    },
-    {
-        "name": "Best Assistant Director",
-        "normalized_name": "Best Assistant Director",
-        "category_id": 19,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "Clem Beauchamp",
-                    "Paul Wing"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Clem Beauchamp",
-                        "imdb_id": "nm0064303",
-                        "note": null,
-                        "image": null
-                    },
-                    {
-                        "name": "Paul Wing",
-                        "imdb_id": "nm0934963",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "for": [
-                    "The Lives of a Bengal Lancer"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "The Lives of a Bengal Lancer",
-                        "imdb_id": "tt0026643",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BOTMwOTMwY2QtMGVmYS00NjYxLWI5MjQtOTczNTVmOWVlNzczXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
-                            "height": 4016,
-                            "width": 2654
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Eric Stacey"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Eric Stacey",
-                        "imdb_id": "nm0820947",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "for": [
-                    "Les Mis\u00e9rables"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Les Mis\u00e9rables",
-                        "imdb_id": "tt0026725",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMDMyMzdjN2QtNDE3OC00M2RmLWI1YTgtNDgxZjA0NDk4ZTY4XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 2604,
-                            "width": 1704
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Joseph M. Newman"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Joseph M. Newman",
-                        "imdb_id": "nm0628149",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZjdhOTcyMjMtNmVkNy00ZTg3LTk0MTYtZDlkY2NjZTM5ZmJmXkEyXkFqcGdeQXVyMjQwOTE1MzE@._V1_.jpg",
-                            "height": 900,
-                            "width": 600
-                        }
-                    }
-                ],
-                "for": [
-                    "David Copperfield"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "David Copperfield",
-                        "imdb_id": "tt0026266",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYWE1NWMxZGEtM2UzNS00NDA4LWExNGQtZmJjNjBkODAzMDkzXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
-                            "height": 3250,
-                            "width": 2286
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Sherry Shourds"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Sherry Shourds",
-                        "imdb_id": "nm0795258",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "for": [
-                    "A Midsummer Night's Dream"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "A Midsummer Night's Dream",
-                        "imdb_id": "tt0026714",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNmM4NTI0ZTktMTY5ZC00ZDgyLWJjNjUtN2JhYjhkNDlmMDE2XkEyXkFqcGdeQXVyNTc2NzQ3Njk@._V1_.jpg",
-                            "height": 1564,
-                            "width": 1000
-                        }
-                    }
-                ],
-                "notes": null
+          }
+        ],
+        "for": ["Mutiny on the Bounty"],
+        "for_enriched": [
+          {
+            "name": "Mutiny on the Bounty",
+            "imdb_id": "tt0026752",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmRhZWU4MTAtNzE0OC00YjIyLTk2MGItMDRjYTc0MTZiNmU1XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+              "height": 2812,
+              "width": 1825
             }
-        ]
-    },
-    {
-        "name": "Best Cinematography",
-        "normalized_name": "Best Achievement in Cinematography",
-        "category_id": 3,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "A Midsummer Night's Dream"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "A Midsummer Night's Dream",
-                        "imdb_id": "tt0026714",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNmM4NTI0ZTktMTY5ZC00ZDgyLWJjNjUtN2JhYjhkNDlmMDE2XkEyXkFqcGdeQXVyNTc2NzQ3Njk@._V1_.jpg",
-                            "height": 1564,
-                            "width": 1000
-                        }
-                    }
-                ],
-                "for": [
-                    "Hal Mohr"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Hal Mohr",
-                        "imdb_id": "nm0005803",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMjAwZmI3OTYtM2ZjNy00Njg1LTgzNTUtNzIxZDRkZmU5NTllXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg",
-                            "height": 923,
-                            "width": 700
-                        }
-                    }
-                ],
-                "notes": "First and only write-in nominee to actually win."
-            },
-            {
-                "won": false,
-                "target": [
-                    "Barbary Coast"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Barbary Coast",
-                        "imdb_id": "tt0026097",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYTQ0YjlmMDMtM2QyMC00NWQzLWFmNWUtMjU4Zjk3NzAxYTQ2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
-                            "height": 1618,
-                            "width": 1062
-                        }
-                    }
-                ],
-                "for": [
-                    "Ray June"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Ray June",
-                        "imdb_id": "nm0432482",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZDY5ZWM5MWYtMDdlMy00MzhmLTg2MmMtZDA1NTgwM2ZiZTY4XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
-                            "height": 973,
-                            "width": 700
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Les Mis\u00e9rables"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Les Mis\u00e9rables",
-                        "imdb_id": "tt0026725",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMDMyMzdjN2QtNDE3OC00M2RmLWI1YTgtNDgxZjA0NDk4ZTY4XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 2604,
-                            "width": 1704
-                        }
-                    }
-                ],
-                "for": [
-                    "Gregg Toland"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Gregg Toland",
-                        "imdb_id": "nm0005904",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTMzMjU0NDI1OV5BMl5BanBnXkFtZTYwOTAzNDI2._V1_.jpg",
-                            "height": 420,
-                            "width": 330
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Crusades"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Crusades",
-                        "imdb_id": "tt0026249",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BOThjNmY5NmItZGNjNS00NjE4LTk1ZjMtYjgwOWI0MjU4YzhhXkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg",
-                            "height": 1440,
-                            "width": 960
-                        }
-                    }
-                ],
-                "for": [
-                    "Victor Milner"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Victor Milner",
-                        "imdb_id": "nm0005800",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYTgxYzhjZjQtZGNjNS00MDc5LTkyYjYtZWRmMGVmOTVlOWNiXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 816,
-                            "width": 1030
-                        }
-                    }
-                ],
-                "notes": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Clark Gable"],
+        "target_enriched": [
+          {
+            "name": "Clark Gable",
+            "imdb_id": "nm0000022",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE1NDY5MjM5Ml5BMl5BanBnXkFtZTYwNTU1OTQ2._V1_.jpg",
+              "height": 450,
+              "width": 346
             }
-        ]
-    },
-    {
-        "name": "Best Dance Direction",
-        "normalized_name": "Best Dance Direction",
-        "category_id": 23,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "Broadway Melody of 1936"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Broadway Melody of 1936",
-                        "imdb_id": "tt0026144",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZWJlZmFhMjQtMDJkNy00ZGFkLTg2Y2ItMTIxNTI0YWZjNWVmXkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg",
-                            "height": 1440,
-                            "width": 960
-                        }
-                    }
-                ],
-                "for": [
-                    "Dave Gould"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Dave Gould",
-                        "imdb_id": "nm0332346",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZTE3NjExYzYtNmJiOC00NjJjLTlhMzUtMGRkNTJiZTY0ODU2XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
-                            "height": 422,
-                            "width": 312
-                        }
-                    }
-                ],
-                "notes": "For \"I've Got a Feeling You're Fooling\"."
-            },
-            {
-                "won": true,
-                "target": [
-                    "Folies Berg\u00e8re de Paris"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Folies Berg\u00e8re de Paris",
-                        "imdb_id": "tt0026373",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZGIzOTk4YjctZjk4Ni00M2E3LWJjM2QtMzc4OTMyZTg0MTk3XkEyXkFqcGdeQXVyODI1OTk4MTQ@._V1_.jpg",
-                            "height": 1020,
-                            "width": 596
-                        }
-                    }
-                ],
-                "for": [
-                    "Dave Gould"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Dave Gould",
-                        "imdb_id": "nm0332346",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZTE3NjExYzYtNmJiOC00NjJjLTlhMzUtMGRkNTJiZTY0ODU2XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
-                            "height": 422,
-                            "width": 312
-                        }
-                    }
-                ],
-                "notes": "For \"Straw Hat\"."
-            },
-            {
-                "won": false,
-                "target": [
-                    "All the King's Horses"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "All the King's Horses",
-                        "imdb_id": "tt0024823",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYTNmZmFmNzEtZTIxOC00MTAxLThlY2EtMjkyZTY5ZmUyOGRkXkEyXkFqcGdeQXVyNDY3MzU2MDM@._V1_.jpg",
-                            "height": 778,
-                            "width": 500
-                        }
-                    }
-                ],
-                "for": [
-                    "LeRoy Prinz"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "LeRoy Prinz",
-                        "imdb_id": "nm0697895",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": "For \"Viennese Waltz\"."
-            },
-            {
-                "won": false,
-                "target": [
-                    "Broadway Hostess"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Broadway Hostess",
-                        "imdb_id": "tt0026143",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNTYyNmU1NjItODcwMy00OWI3LWE4ZDctZDcwNjY0ZmVjYzEzXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
-                            "height": 864,
-                            "width": 572
-                        }
-                    }
-                ],
-                "for": [
-                    "Bobby Connolly"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Bobby Connolly",
-                        "imdb_id": "nm0175265",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": "For \"Playboy of Paree\"."
-            },
-            {
-                "won": false,
-                "target": [
-                    "Go Into Your Dance"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Go Into Your Dance",
-                        "imdb_id": "tt0026418",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTY1MGZhYmItMDg0Mi00MjgwLTg0YWQtNjJmYmZjYjFmYTVmXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_.jpg",
-                            "height": 757,
-                            "width": 520
-                        }
-                    }
-                ],
-                "for": [
-                    "Bobby Connolly"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Bobby Connolly",
-                        "imdb_id": "nm0175265",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": "For \"Latin from Manhattan\"."
-            },
-            {
-                "won": false,
-                "target": [
-                    "Gold Diggers of 1935"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Gold Diggers of 1935",
-                        "imdb_id": "tt0026421",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BM2IyNWVjOTItOGIzNi00ZDQ4LWEwYWMtN2Q3NWM3ZjlhNjllXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_.jpg",
-                            "height": 1961,
-                            "width": 1235
-                        }
-                    }
-                ],
-                "for": [
-                    "Busby Berkeley"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Busby Berkeley",
-                        "imdb_id": "nm0000923",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZTFmN2VkZWItN2YzYS00M2YyLWIxMDYtNDYwZjU2MGE1YmEyXkEyXkFqcGdeQXVyNzY1ODU1OTk@._V1_.jpg",
-                            "height": 3872,
-                            "width": 3106
-                        }
-                    }
-                ],
-                "notes": "For \"Lullaby of Broadway\" and \"The Words Are in My Heart\"."
-            },
-            {
-                "won": false,
-                "target": [
-                    "King of Burlesque"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "King of Burlesque",
-                        "imdb_id": "tt0026571",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNmQ4MDM5ZGItNmRkZi00MmJiLTk4OWUtMjE1ODMwMzA1ZDViXkEyXkFqcGdeQXVyNDY3MzU2MDM@._V1_.jpg",
-                            "height": 866,
-                            "width": 580
-                        }
-                    }
-                ],
-                "for": [
-                    "Sammy Lee"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Sammy Lee",
-                        "imdb_id": "nm0498192",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": "For \"Lovely Lady\" and \"Too Good to Be True\"."
-            },
-            {
-                "won": false,
-                "target": [
-                    "She"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "She",
-                        "imdb_id": "tt0026983",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMDI1YmJlMWUtM2Y4Yi00Y2JmLThmODktMjM4NzMwNjM0ZWQwXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
-                            "height": 2181,
-                            "width": 1531
-                        }
-                    }
-                ],
-                "for": [
-                    "Benjamin Zemach"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Benjamin Zemach",
-                        "imdb_id": "nm0954706",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": "For \"Hall of Kings\"."
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Big Broadcast of 1936"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Big Broadcast of 1936",
-                        "imdb_id": "tt0026113",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNjdiNTlhMjMtN2RkOC00YzQyLWI5NGItOTkwMDc4NjZmNDI1XkEyXkFqcGdeQXVyNDY3MzU2MDM@._V1_.jpg",
-                            "height": 692,
-                            "width": 480
-                        }
-                    }
-                ],
-                "for": [
-                    "LeRoy Prinz"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "LeRoy Prinz",
-                        "imdb_id": "nm0697895",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": "For \"Elephant - It's the Animal in Me\"."
-            },
-            {
-                "won": false,
-                "target": [
-                    "Top Hat"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Top Hat",
-                        "imdb_id": "tt0027125",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BN2Q0NjE1NTMtOTY5Zi00NWMxLTliOGYtNTg1OGU5M2RjNjVkXkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_.jpg",
-                            "height": 1890,
-                            "width": 1299
-                        }
-                    }
-                ],
-                "for": [
-                    "Hermes Pan"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Hermes Pan",
-                        "imdb_id": "nm0659009",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTU0Njg0NjEwMF5BMl5BanBnXkFtZTcwMTk5ODAyMw@@._V1_.jpg",
-                            "height": 500,
-                            "width": 398
-                        }
-                    }
-                ],
-                "notes": "For \"Piccolino\" and \"Top Hat\"."
+          }
+        ],
+        "for": ["Mutiny on the Bounty"],
+        "for_enriched": [
+          {
+            "name": "Mutiny on the Bounty",
+            "imdb_id": "tt0026752",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmRhZWU4MTAtNzE0OC00YjIyLTk2MGItMDRjYTc0MTZiNmU1XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+              "height": 2812,
+              "width": 1825
             }
-        ]
-    },
-    {
-        "name": "Best Director",
-        "normalized_name": "Best Achievement in Directing",
-        "category_id": 12,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "John Ford"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "John Ford",
-                        "imdb_id": "nm0000406",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTI5NDczOTUzMV5BMl5BanBnXkFtZTcwNDE3NDkwNA@@._V1_.jpg",
-                            "height": 2048,
-                            "width": 1635
-                        }
-                    }
-                ],
-                "for": [
-                    "The Informer"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "The Informer",
-                        "imdb_id": "tt0026529",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMDM1YjliYzYtOTkzMS00M2NkLThhNjctM2RlM2MxODE4YjJjXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
-                            "height": 1139,
-                            "width": 751
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Frank Lloyd"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Frank Lloyd",
-                        "imdb_id": "nm0515979",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTUwNzA2NjMyNF5BMl5BanBnXkFtZTYwMjg0Njcy._V1_.jpg",
-                            "height": 596,
-                            "width": 450
-                        }
-                    }
-                ],
-                "for": [
-                    "Mutiny on the Bounty"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Mutiny on the Bounty",
-                        "imdb_id": "tt0026752",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNmRhZWU4MTAtNzE0OC00YjIyLTk2MGItMDRjYTc0MTZiNmU1XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
-                            "height": 2812,
-                            "width": 1825
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Henry Hathaway"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Henry Hathaway",
-                        "imdb_id": "nm0368871",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMDc3ZGVjZGEtYzU0Zi00NjJhLTllYTAtYjgyNzM2MWFiOGU5XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 620,
-                            "width": 503
-                        }
-                    }
-                ],
-                "for": [
-                    "The Lives of a Bengal Lancer"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "The Lives of a Bengal Lancer",
-                        "imdb_id": "tt0026643",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BOTMwOTMwY2QtMGVmYS00NjYxLWI5MjQtOTczNTVmOWVlNzczXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
-                            "height": 4016,
-                            "width": 2654
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Michael Curtiz"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Michael Curtiz",
-                        "imdb_id": "nm0002031",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTcyMjA2MTgwNF5BMl5BanBnXkFtZTYwMTcwMDY2._V1_.jpg",
-                            "height": 450,
-                            "width": 326
-                        }
-                    }
-                ],
-                "for": [
-                    "Captain Blood"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Captain Blood",
-                        "imdb_id": "tt0026174",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMjMwNDc1MzMyNV5BMl5BanBnXkFtZTgwODUzMjU1MzE@._V1_.jpg",
-                            "height": 1878,
-                            "width": 1159
-                        }
-                    }
-                ],
-                "notes": "This was a write-in candidate, who came in second on the final ballots. It was not an official nomination."
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Franchot Tone"],
+        "target_enriched": [
+          {
+            "name": "Franchot Tone",
+            "imdb_id": "nm0867144",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk4MTE4MDg0MV5BMl5BanBnXkFtZTYwNjI0NDgy._V1_.jpg",
+              "height": 387,
+              "width": 300
             }
-        ]
-    },
-    {
-        "name": "Best Film Editing",
-        "normalized_name": "Best Achievement in Film Editing",
-        "category_id": 20,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "A Midsummer Night's Dream"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "A Midsummer Night's Dream",
-                        "imdb_id": "tt0026714",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNmM4NTI0ZTktMTY5ZC00ZDgyLWJjNjUtN2JhYjhkNDlmMDE2XkEyXkFqcGdeQXVyNTc2NzQ3Njk@._V1_.jpg",
-                            "height": 1564,
-                            "width": 1000
-                        }
-                    }
-                ],
-                "for": [
-                    "Ralph Dawson"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Ralph Dawson",
-                        "imdb_id": "nm0206238",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "David Copperfield"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "David Copperfield",
-                        "imdb_id": "tt0026266",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYWE1NWMxZGEtM2UzNS00NDA4LWExNGQtZmJjNjBkODAzMDkzXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
-                            "height": 3250,
-                            "width": 2286
-                        }
-                    }
-                ],
-                "for": [
-                    "Robert Kern"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Robert Kern",
-                        "imdb_id": "nm0449493",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Les Mis\u00e9rables"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Les Mis\u00e9rables",
-                        "imdb_id": "tt0026725",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMDMyMzdjN2QtNDE3OC00M2RmLWI1YTgtNDgxZjA0NDk4ZTY4XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 2604,
-                            "width": 1704
-                        }
-                    }
-                ],
-                "for": [
-                    "Barbara McLean"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Barbara McLean",
-                        "imdb_id": "nm0572492",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Mutiny on the Bounty"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Mutiny on the Bounty",
-                        "imdb_id": "tt0026752",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNmRhZWU4MTAtNzE0OC00YjIyLTk2MGItMDRjYTc0MTZiNmU1XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
-                            "height": 2812,
-                            "width": 1825
-                        }
-                    }
-                ],
-                "for": [
-                    "Margaret Booth"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Margaret Booth",
-                        "imdb_id": "nm0004290",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYTBjYWM1ZmMtMjg4YS00NzFhLTkwZmQtZjYxZGJhMzI4MDMzXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_.jpg",
-                            "height": 809,
-                            "width": 1221
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Informer"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Informer",
-                        "imdb_id": "tt0026529",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMDM1YjliYzYtOTkzMS00M2NkLThhNjctM2RlM2MxODE4YjJjXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
-                            "height": 1139,
-                            "width": 751
-                        }
-                    }
-                ],
-                "for": [
-                    "George Hively"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "George Hively",
-                        "imdb_id": "nm0387000",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Lives of a Bengal Lancer"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Lives of a Bengal Lancer",
-                        "imdb_id": "tt0026643",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BOTMwOTMwY2QtMGVmYS00NjYxLWI5MjQtOTczNTVmOWVlNzczXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
-                            "height": 4016,
-                            "width": 2654
-                        }
-                    }
-                ],
-                "for": [
-                    "Ellsworth Hoagland"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Ellsworth Hoagland",
-                        "imdb_id": "nm0387449",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": null
+          }
+        ],
+        "for": ["Mutiny on the Bounty"],
+        "for_enriched": [
+          {
+            "name": "Mutiny on the Bounty",
+            "imdb_id": "tt0026752",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmRhZWU4MTAtNzE0OC00YjIyLTk2MGItMDRjYTc0MTZiNmU1XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+              "height": 2812,
+              "width": 1825
             }
-        ]
-    },
-    {
-        "name": "Best Music, Original Song",
-        "normalized_name": "Best Achievement in Music Written for Motion Pictures (Original Song)",
-        "category_id": 21,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "Gold Diggers of 1935"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Gold Diggers of 1935",
-                        "imdb_id": "tt0026421",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BM2IyNWVjOTItOGIzNi00ZDQ4LWEwYWMtN2Q3NWM3ZjlhNjllXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_.jpg",
-                            "height": 1961,
-                            "width": 1235
-                        }
-                    }
-                ],
-                "for": [
-                    "Harry Warren",
-                    "Al Dubin"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Harry Warren",
-                        "imdb_id": "nm0912851",
-                        "note": "(music)",
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNDY1MzYxMTk4NF5BMl5BanBnXkFtZTcwMjg3NzE2NA@@._V1_.jpg",
-                            "height": 423,
-                            "width": 336
-                        }
-                    },
-                    {
-                        "name": "Al Dubin",
-                        "imdb_id": "nm0006048",
-                        "note": "(lyrics)",
-                        "image": null
-                    }
-                ],
-                "notes": "For the song \"Lullaby of Broadway\"."
-            },
-            {
-                "won": false,
-                "target": [
-                    "Roberta"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Roberta",
-                        "imdb_id": "tt0026942",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMzRjNjU5ODEtODk5Ni00YzZhLWFiOGItZjdkNWQyN2E3MjU5XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
-                            "height": 2791,
-                            "width": 1821
-                        }
-                    }
-                ],
-                "for": [
-                    "Jerome Kern",
-                    "Dorothy Fields",
-                    "Jimmy McHugh"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Jerome Kern",
-                        "imdb_id": "nm0006153",
-                        "note": "(music)",
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMThmNmNlNjAtOTEwNC00ZThmLTk5YTctYWMyMmE1ZTM2N2NjL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
-                            "height": 800,
-                            "width": 800
-                        }
-                    },
-                    {
-                        "name": "Dorothy Fields",
-                        "imdb_id": "nm0276227",
-                        "note": "(lyrics)",
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMmQ5NzEyMDktOWQ2Zi00ZTQwLWI2MWItYTIzMTkyNmE1ZDY1XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
-                            "height": 525,
-                            "width": 357
-                        }
-                    },
-                    {
-                        "name": "Jimmy McHugh",
-                        "imdb_id": "nm0006192",
-                        "note": "(lyrics)",
-                        "image": null
-                    }
-                ],
-                "notes": "For the song \"Lovely to Look at\"."
-            },
-            {
-                "won": false,
-                "target": [
-                    "Top Hat"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Top Hat",
-                        "imdb_id": "tt0027125",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BN2Q0NjE1NTMtOTY5Zi00NWMxLTliOGYtNTg1OGU5M2RjNjVkXkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_.jpg",
-                            "height": 1890,
-                            "width": 1299
-                        }
-                    }
-                ],
-                "for": [
-                    "Irving Berlin"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Irving Berlin",
-                        "imdb_id": "nm0000927",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTgwNTU4Mjg2NV5BMl5BanBnXkFtZTYwMjk0MzI2._V1_.jpg",
-                            "height": 450,
-                            "width": 355
-                        }
-                    }
-                ],
-                "notes": "For the song \"Cheek to Cheek\"."
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Paul Muni"],
+        "target_enriched": [
+          {
+            "name": "Paul Muni",
+            "imdb_id": "nm0612847",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTY1YzA5OTgtNDkwOC00MjNjLWJlNDQtM2M2MTg1NzEyYTUzXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
+              "height": 1396,
+              "width": 1132
             }
-        ]
-    },
-    {
-        "name": "Best Music, Score",
-        "normalized_name": "Best Achievement in Music Written for Motion Pictures (Original Score)",
-        "category_id": 22,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "The Informer"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Informer",
-                        "imdb_id": "tt0026529",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMDM1YjliYzYtOTkzMS00M2NkLThhNjctM2RlM2MxODE4YjJjXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
-                            "height": 1139,
-                            "width": 751
-                        }
-                    }
-                ],
-                "for": [
-                    "Max Steiner"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Max Steiner",
-                        "imdb_id": "nm0000070",
-                        "note": "(head of departmment)",
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNDAzMjZhYTQtZjQxMC00ODE4LWIxYzEtMjljNWRjODAxZjY0XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 797,
-                            "width": 640
-                        }
-                    }
-                ],
-                "notes": "Score by Max Steiner."
-            },
-            {
-                "won": false,
-                "target": [
-                    "Captain Blood"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Captain Blood",
-                        "imdb_id": "tt0026174",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMjMwNDc1MzMyNV5BMl5BanBnXkFtZTgwODUzMjU1MzE@._V1_.jpg",
-                            "height": 1878,
-                            "width": 1159
-                        }
-                    }
-                ],
-                "for": [
-                    "Leo F. Forbstein"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Leo F. Forbstein",
-                        "imdb_id": "nm0006079",
-                        "note": "(head of department)",
-                        "image": null
-                    }
-                ],
-                "notes": "Score by Erich Wolfgang Korngold. This was a write-in candidate, who came in third on the final ballots. It was not an official nomination."
-            },
-            {
-                "won": false,
-                "target": [
-                    "Mutiny on the Bounty"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Mutiny on the Bounty",
-                        "imdb_id": "tt0026752",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNmRhZWU4MTAtNzE0OC00YjIyLTk2MGItMDRjYTc0MTZiNmU1XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
-                            "height": 2812,
-                            "width": 1825
-                        }
-                    }
-                ],
-                "for": [
-                    "Nat W. Finston"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Nat W. Finston",
-                        "imdb_id": "nm0278358",
-                        "note": "(head of departmment)",
-                        "image": null
-                    }
-                ],
-                "notes": "Score by Herbert Stothart."
-            },
-            {
-                "won": false,
-                "target": [
-                    "Peter Ibbetson"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Peter Ibbetson",
-                        "imdb_id": "tt0026866",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BODBjOTc2NjMtYzE0Ni00YjRiLTlhODYtMTUxMDFkMDRiN2U0XkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_.jpg",
-                            "height": 764,
-                            "width": 500
-                        }
-                    }
-                ],
-                "for": [
-                    "Irvin Talbot"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Irvin Talbot",
-                        "imdb_id": "nm0847913",
-                        "note": "(head of departmment)",
-                        "image": null
-                    }
-                ],
-                "notes": "Score by Ernst Toch."
+          }
+        ],
+        "for": ["Black Fury"],
+        "for_enriched": [
+          {
+            "name": "Black Fury",
+            "imdb_id": "tt0026121",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmE5OWY5ODctOWIxNC00Mzk4LWE2ZGYtMjVjMTAwYjE5Nzg2XkEyXkFqcGdeQXVyMTYzMTY1MjQ@._V1_.jpg",
+              "height": 907,
+              "width": 600
             }
-        ]
-    },
-    {
-        "name": "Best Picture",
-        "normalized_name": "Best Picture",
-        "category_id": 13,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "Mutiny on the Bounty"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Mutiny on the Bounty",
-                        "imdb_id": "tt0026752",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNmRhZWU4MTAtNzE0OC00YjIyLTk2MGItMDRjYTc0MTZiNmU1XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
-                            "height": 2812,
-                            "width": 1825
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "A Midsummer Night's Dream"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "A Midsummer Night's Dream",
-                        "imdb_id": "tt0026714",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNmM4NTI0ZTktMTY5ZC00ZDgyLWJjNjUtN2JhYjhkNDlmMDE2XkEyXkFqcGdeQXVyNTc2NzQ3Njk@._V1_.jpg",
-                            "height": 1564,
-                            "width": 1000
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Alice Adams"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Alice Adams",
-                        "imdb_id": "tt0026056",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYTJkYmJmOTMtMjJmZi00OGE4LTgwNzYtY2Q4MzU1NjYxN2M0XkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg",
-                            "height": 3000,
-                            "width": 1524
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Broadway Melody of 1936"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Broadway Melody of 1936",
-                        "imdb_id": "tt0026144",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZWJlZmFhMjQtMDJkNy00ZGFkLTg2Y2ItMTIxNTI0YWZjNWVmXkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg",
-                            "height": 1440,
-                            "width": 960
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Captain Blood"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Captain Blood",
-                        "imdb_id": "tt0026174",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMjMwNDc1MzMyNV5BMl5BanBnXkFtZTgwODUzMjU1MzE@._V1_.jpg",
-                            "height": 1878,
-                            "width": 1159
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "David Copperfield"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "David Copperfield",
-                        "imdb_id": "tt0026266",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYWE1NWMxZGEtM2UzNS00NDA4LWExNGQtZmJjNjBkODAzMDkzXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
-                            "height": 3250,
-                            "width": 2286
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Les Mis\u00e9rables"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Les Mis\u00e9rables",
-                        "imdb_id": "tt0026725",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMDMyMzdjN2QtNDE3OC00M2RmLWI1YTgtNDgxZjA0NDk4ZTY4XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 2604,
-                            "width": 1704
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Naughty Marietta"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Naughty Marietta",
-                        "imdb_id": "tt0026768",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMzAwYTE3MjAtNjI3MS00MTM2LThkZDEtMDAxOWU5YWU5N2QyL2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
-                            "height": 2904,
-                            "width": 1952
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Ruggles of Red Gap"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Ruggles of Red Gap",
-                        "imdb_id": "tt0026955",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZmM5ZGI2YTItMTIyYy00N2RiLTk4ZjAtZTQ0YmVhMWIwMjljXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
-                            "height": 2988,
-                            "width": 1983
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Informer"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Informer",
-                        "imdb_id": "tt0026529",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMDM1YjliYzYtOTkzMS00M2NkLThhNjctM2RlM2MxODE4YjJjXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
-                            "height": 1139,
-                            "width": 751
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Lives of a Bengal Lancer"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Lives of a Bengal Lancer",
-                        "imdb_id": "tt0026643",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BOTMwOTMwY2QtMGVmYS00NjYxLWI5MjQtOTczNTVmOWVlNzczXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
-                            "height": 4016,
-                            "width": 2654
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Top Hat"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Top Hat",
-                        "imdb_id": "tt0027125",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BN2Q0NjE1NTMtOTY5Zi00NWMxLTliOGYtNTg1OGU5M2RjNjVkXkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_.jpg",
-                            "height": 1890,
-                            "width": 1299
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
+          }
+        ],
+        "notes": "This was a write-in candidate, who came in second on the final ballots. It was not an official nomination."
+      }
+    ]
+  },
+  {
+    "name": "Best Actress in a Leading Role",
+    "normalized_name": "Best Performance by an Actress in a Leading Role",
+    "category_id": 1,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["Bette Davis"],
+        "target_enriched": [
+          {
+            "name": "Bette Davis",
+            "imdb_id": "nm0000012",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTQ2OTQ4NTU2OF5BMl5BanBnXkFtZTcwMzI3MjY5Ng@@._V1_.jpg",
+              "height": 500,
+              "width": 414
             }
-        ]
-    },
-    {
-        "name": "Best Short Subject, Cartoons",
-        "normalized_name": "Best Animated Short Film",
-        "category_id": 16,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "Three Orphan Kittens"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Three Orphan Kittens",
-                        "imdb_id": "tt0027100",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BY2ZkY2RjMmUtMTY1NS00NmVhLTg3MDEtM2QwN2FiOTAwN2Q3XkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_.jpg",
-                            "height": 1000,
-                            "width": 752
-                        }
-                    }
-                ],
-                "for": [
-                    "Walt Disney"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Walt Disney",
-                        "imdb_id": "nm0000370",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMjIxMTUyNjc5OF5BMl5BanBnXkFtZTcwMjMwNjYwNA@@._V1_.jpg",
-                            "height": 500,
-                            "width": 390
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Calico Dragon"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Calico Dragon",
-                        "imdb_id": "tt0026162",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTA0YjliYWEtYTM3Yy00MGVhLWIwNTUtY2Q0NzJmM2Y2ZDJiXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_.jpg",
-                            "height": 573,
-                            "width": 713
-                        }
-                    }
-                ],
-                "for": [
-                    "Rudolf Ising",
-                    "Hugh Harman"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Rudolf Ising",
-                        "imdb_id": "nm0411208",
-                        "note": null,
-                        "image": null
-                    },
-                    {
-                        "name": "Hugh Harman",
-                        "imdb_id": "nm0363414",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Who Killed Cock Robin?"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Who Killed Cock Robin?",
-                        "imdb_id": "tt0027212",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZDFhMDE5NzYtYzNlMS00ZTVkLWFlNGEtYmE2YzliMDQxM2NmXkEyXkFqcGdeQXVyNjAzNDExMw@@._V1_.jpg",
-                            "height": 917,
-                            "width": 600
-                        }
-                    }
-                ],
-                "for": [
-                    "Walt Disney"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Walt Disney",
-                        "imdb_id": "nm0000370",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMjIxMTUyNjc5OF5BMl5BanBnXkFtZTcwMjMwNjYwNA@@._V1_.jpg",
-                            "height": 500,
-                            "width": 390
-                        }
-                    }
-                ],
-                "notes": null
+          }
+        ],
+        "for": ["Dangerous"],
+        "for_enriched": [
+          {
+            "name": "Dangerous",
+            "imdb_id": "tt0026261",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDFlY2VkNTMtMDcwOC00YjlkLWE2ZGMtMGVlZGUxNTcwNGVjXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 1029,
+              "width": 675
             }
-        ]
-    },
-    {
-        "name": "Best Short Subject, Comedy",
-        "normalized_name": "Best Short Subject, Comedy",
-        "category_id": 17,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "How to Sleep"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "How to Sleep",
-                        "imdb_id": "tt0026497",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYWI4Mjc5NzgtMWNmZi00YzgxLTk0MDMtMjgyNDU5NGIwMWYwXkEyXkFqcGdeQXVyMTYzMTY1MjQ@._V1_.jpg",
-                            "height": 484,
-                            "width": 640
-                        }
-                    }
-                ],
-                "for": [
-                    "Jack Chertok"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Jack Chertok",
-                        "imdb_id": "nm0156134",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNmNkZjkyNWEtMTg3Ny00NGY5LTkwYzgtNGVmZjMyMzY0OGJjXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_.jpg",
-                            "height": 329,
-                            "width": 346
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Oh, My Nerves"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Oh, My Nerves",
-                        "imdb_id": "tt0026803",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "for": [
-                    "Jules White"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Jules White",
-                        "imdb_id": "nm0925028",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZDg0MjU4MDEtMDQxYS00YjI4LWE2NmEtNzZjZDM0MTdjYmI4XkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_.jpg",
-                            "height": 823,
-                            "width": 859
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Tit for Tat"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Tit for Tat",
-                        "imdb_id": "tt0027113",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZTZiMWZkZTUtN2QwMS00NTAzLWFkM2EtMzkyNGJiZTI4NDQ5XkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_.jpg",
-                            "height": 713,
-                            "width": 500
-                        }
-                    }
-                ],
-                "for": [
-                    "Hal Roach"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Hal Roach",
-                        "imdb_id": "nm0730018",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMTk0ODg0NDA5MF5BMl5BanBnXkFtZTYwODM0NzU2._V1_.jpg",
-                            "height": 450,
-                            "width": 351
-                        }
-                    }
-                ],
-                "notes": null
+          }
+        ],
+        "notes": "On 14 December 2002 Steven Spielberg anonymously bought Davis' Oscar at a Sotheby's auction in New York to return it to the Academy of Motion Picture Arts and Sciences. The statuette was among the memorabilia sold by the Planet Hollywood restaurant chain, which has emerged from bankruptcy protection."
+      },
+      {
+        "won": false,
+        "target": ["Claudette Colbert"],
+        "target_enriched": [
+          {
+            "name": "Claudette Colbert",
+            "imdb_id": "nm0001055",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTA3MzcwMzQ4NzZeQTJeQWpwZ15BbWU2MDYyOTY0Ng@@._V1_.jpg",
+              "height": 450,
+              "width": 336
             }
-        ]
-    },
-    {
-        "name": "Best Short Subject, Novelty",
-        "normalized_name": "Best Short Subject, Novelty",
-        "category_id": 18,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "Wings Over Everest"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Wings Over Everest",
-                        "imdb_id": "tt0024777",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BOTE2MjgzYmEtY2RlNi00NjY0LTljYjEtYTg5YWUxMTcwYTQxXkEyXkFqcGdeQXVyNTYwODQyMA@@._V1_.jpg",
-                            "height": 1066,
-                            "width": 782
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Audioscopiks"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Audioscopiks",
-                        "imdb_id": "tt0026086",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYmRhY2NiNDEtYjVmNS00MmUxLTk1ZDEtYjgxMGU0OGZmZGQ5XkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_.jpg",
-                            "height": 593,
-                            "width": 400
-                        }
-                    }
-                ],
-                "for": [
-                    "Pete Smith"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Pete Smith",
-                        "imdb_id": "nm0809570",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYzc5MmI0MjctYzY1OC00ZjM2LWIzNzctMGE3NDBkNTEzOWE4XkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_.jpg",
-                            "height": 350,
-                            "width": 280
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Camera Thrills"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Camera Thrills",
-                        "imdb_id": "tt0026167",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
+          }
+        ],
+        "for": ["Private Worlds"],
+        "for_enriched": [
+          {
+            "name": "Private Worlds",
+            "imdb_id": "tt0026893",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjAyZGJmMDctNjJiNC00OTdjLTlmOGEtZGYxOTUyZTc2YjE2XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+              "height": 1200,
+              "width": 763
             }
-        ]
-    },
-    {
-        "name": "Best Sound, Recording",
-        "normalized_name": "Best Sound, Recording",
-        "category_id": 15,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "Naughty Marietta"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Naughty Marietta",
-                        "imdb_id": "tt0026768",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMzAwYTE3MjAtNjI3MS00MTM2LThkZDEtMDAxOWU5YWU5N2QyL2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
-                            "height": 2904,
-                            "width": 1952
-                        }
-                    }
-                ],
-                "for": [
-                    "Douglas Shearer"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Douglas Shearer",
-                        "imdb_id": "nm0790428",
-                        "note": "(sound director)",
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYmJjMWQxMTQtY2Q0Mi00YWI4LWE3MTItM2E4YzFjN2FhNGRlXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_.jpg",
-                            "height": 1022,
-                            "width": 792
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "1, 000 Dollars a Minute"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "1, 000 Dollars a Minute",
-                        "imdb_id": "tt0026027",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYmE2YzkyN2QtZWM5Ny00YjU2LWI2OGQtMDBhMGFiMzM4NDA1XkEyXkFqcGdeQXVyMzI5NjUyMDM@._V1_.jpg",
-                            "height": 612,
-                            "width": 400
-                        }
-                    }
-                ],
-                "for": [],
-                "for_enriched": [],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Captain Blood"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Captain Blood",
-                        "imdb_id": "tt0026174",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMjMwNDc1MzMyNV5BMl5BanBnXkFtZTgwODUzMjU1MzE@._V1_.jpg",
-                            "height": 1878,
-                            "width": 1159
-                        }
-                    }
-                ],
-                "for": [
-                    "Nathan Levinson"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Nathan Levinson",
-                        "imdb_id": "nm0506080",
-                        "note": "(sound director)",
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMjU0MDM2MTE0N15BMl5BanBnXkFtZTgwOTc5MDM1NzM@._V1_.jpg",
-                            "height": 722,
-                            "width": 527
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "I Dream Too Much"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "I Dream Too Much",
-                        "imdb_id": "tt0026507",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNzY1NGNlNjEtMTk2YS00Y2U1LTkwZWItODhlNmYxMTEwNGZmXkEyXkFqcGdeQXVyMTIxOTk5MzY@._V1_.jpg",
-                            "height": 411,
-                            "width": 267
-                        }
-                    }
-                ],
-                "for": [
-                    "Carl Dreher"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Carl Dreher",
-                        "imdb_id": "nm0237393",
-                        "note": "(sound director)",
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Love Me Forever"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Love Me Forever",
-                        "imdb_id": "tt0026654",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BYThlMGI0OGEtN2MzOC00ZjA4LTllZjItOWU0M2FmMTczYzhlXkEyXkFqcGdeQXVyNjQ0OTEwNA@@._V1_.jpg",
-                            "height": 450,
-                            "width": 300
-                        }
-                    }
-                ],
-                "for": [
-                    "John P. Livadary"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "John P. Livadary",
-                        "imdb_id": "nm0515093",
-                        "note": "(sound director)",
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "Thanks a Million"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Thanks a Million",
-                        "imdb_id": "tt0027088",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BY2U5N2JmNmMtNzM0MC00MmY3LTkxMjMtZmY3YWZiMjg0MDE1XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
-                            "height": 2038,
-                            "width": 1666
-                        }
-                    }
-                ],
-                "for": [
-                    "Edmund H. Hansen"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Edmund H. Hansen",
-                        "imdb_id": "nm0360770",
-                        "note": "(sound director)",
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Bride of Frankenstein"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Bride of Frankenstein",
-                        "imdb_id": "tt0026138",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BOTUzMzAzMzEzNV5BMl5BanBnXkFtZTgwOTg1NTAwMjE@._V1_.jpg",
-                            "height": 1600,
-                            "width": 1075
-                        }
-                    }
-                ],
-                "for": [
-                    "Gilbert Kurland"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Gilbert Kurland",
-                        "imdb_id": "nm0475792",
-                        "note": "(sound director)",
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Dark Angel"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Dark Angel",
-                        "imdb_id": "tt0026264",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BN2U1NjkyZjktNzU5MS00NGIyLTkxMGQtOTk3OTczM2YxOGY2XkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg",
-                            "height": 1440,
-                            "width": 960
-                        }
-                    }
-                ],
-                "for": [
-                    "Thomas T. Moulton"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Thomas T. Moulton",
-                        "imdb_id": "nm0609771",
-                        "note": "(sound director)",
-                        "image": null
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Lives of a Bengal Lancer"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Lives of a Bengal Lancer",
-                        "imdb_id": "tt0026643",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BOTMwOTMwY2QtMGVmYS00NjYxLWI5MjQtOTczNTVmOWVlNzczXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
-                            "height": 4016,
-                            "width": 2654
-                        }
-                    }
-                ],
-                "for": [
-                    "Franklin Hansen"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Franklin Hansen",
-                        "imdb_id": "nm0360630",
-                        "note": "(sound director)",
-                        "image": null
-                    }
-                ],
-                "notes": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Elisabeth Bergner"],
+        "target_enriched": [
+          {
+            "name": "Elisabeth Bergner",
+            "imdb_id": "nm0074949",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjM5NzAzNzExMV5BMl5BanBnXkFtZTgwODQ3MzE1MjE@._V1_.jpg",
+              "height": 767,
+              "width": 621
             }
-        ]
-    },
-    {
-        "name": "Best Writing, Original Story",
-        "normalized_name": "Best Original Screenplay",
-        "category_id": 10,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "The Scoundrel"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Scoundrel",
-                        "imdb_id": "tt0026970",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BOGE4ZTVkYWUtM2EyMS00MmNjLWIwNTItZjM2MTFkOTE0N2NiXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_.jpg",
-                            "height": 2183,
-                            "width": 1600
-                        }
-                    }
-                ],
-                "for": [
-                    "Ben Hecht",
-                    "Charles MacArthur"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Ben Hecht",
-                        "imdb_id": "nm0372942",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNGMwMGI2NmItYjkwYy00N2FkLTlmNzUtNDI2YjU0ZTk1YzhlXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 1800,
-                            "width": 1422
-                        }
-                    },
-                    {
-                        "name": "Charles MacArthur",
-                        "imdb_id": "nm0531269",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNTM0MmViZTEtODUxOS00NzhhLWJmYzEtZTFkYzA2MzFhMWFiXkEyXkFqcGdeQXVyNTUyMTMyMDg@._V1_.jpg",
-                            "height": 371,
-                            "width": 248
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "'G' Men"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "'G' Men",
-                        "imdb_id": "tt0026393",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMjA1ODEyNzIzMl5BMl5BanBnXkFtZTgwNTg0OTMyMjE@._V1_.jpg",
-                            "height": 500,
-                            "width": 353
-                        }
-                    }
-                ],
-                "for": [
-                    "Darryl F. Zanuck"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Darryl F. Zanuck",
-                        "imdb_id": "nm0953123",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMjA5MDIzODQyMV5BMl5BanBnXkFtZTYwOTk0NzQ2._V1_.jpg",
-                            "height": 450,
-                            "width": 350
-                        }
-                    }
-                ],
-                "notes": "Write-in candidate, not an official nominee. The official AMPAS records list the pseudonym 'Gregory Rogers' as nominee."
-            },
-            {
-                "won": false,
-                "target": [
-                    "Broadway Melody of 1936"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Broadway Melody of 1936",
-                        "imdb_id": "tt0026144",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZWJlZmFhMjQtMDJkNy00ZGFkLTg2Y2ItMTIxNTI0YWZjNWVmXkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg",
-                            "height": 1440,
-                            "width": 960
-                        }
-                    }
-                ],
-                "for": [
-                    "Moss Hart"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Moss Hart",
-                        "imdb_id": "nm0366454",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNGJkOWQ4MTAtOGY0Mi00MDUxLWJkODEtOTI4MGYzNWMzNmU4XkEyXkFqcGdeQXVyNTUyMTMyMDg@._V1_.jpg",
-                            "height": 712,
-                            "width": 552
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Gay Deception"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Gay Deception",
-                        "imdb_id": "tt0026400",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZjM0NjZhYjgtY2ZjMS00M2RmLWFlYzAtNGQ0ZDhjYjNlNDVkXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 606,
-                            "width": 400
-                        }
-                    }
-                ],
-                "for": [
-                    "Don Hartman",
-                    "Stephen Morehouse Avery"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Don Hartman",
-                        "imdb_id": "nm0366942",
-                        "note": null,
-                        "image": null
-                    },
-                    {
-                        "name": "Stephen Morehouse Avery",
-                        "imdb_id": "nm0043081",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": null
+          }
+        ],
+        "for": ["Escape Me Never"],
+        "for_enriched": [
+          {
+            "name": "Escape Me Never",
+            "imdb_id": "tt0026320",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNWIwYmYzZGEtZDA0Mi00ZDMxLWI0MzctYmQzYzk1ODQ1YjIwXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_.jpg",
+              "height": 897,
+              "width": 821
             }
-        ]
-    },
-    {
-        "name": "Best Writing, Screenplay",
-        "normalized_name": "Best Writing, Screenplay",
-        "category_id": 24,
-        "candidates": [
-            {
-                "won": true,
-                "target": [
-                    "The Informer"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Informer",
-                        "imdb_id": "tt0026529",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMDM1YjliYzYtOTkzMS00M2NkLThhNjctM2RlM2MxODE4YjJjXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
-                            "height": 1139,
-                            "width": 751
-                        }
-                    }
-                ],
-                "for": [
-                    "Dudley Nichols"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Dudley Nichols",
-                        "imdb_id": "nm0629580",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZjk2ZDBiNzAtYTg1ZS00YjBmLWEyMTctZTBjNDQyYjdiZjg5XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg",
-                            "height": 225,
-                            "width": 300
-                        }
-                    }
-                ],
-                "notes": "Refused to accept his award because of the antagonism between several industry guilds and the academy over union matters. This marked the first time an Academy Award had been declined. Academy records show that Dudley was in possession of an Oscar statuette by 1949."
-            },
-            {
-                "won": false,
-                "target": [
-                    "Captain Blood"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Captain Blood",
-                        "imdb_id": "tt0026174",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMjMwNDc1MzMyNV5BMl5BanBnXkFtZTgwODUzMjU1MzE@._V1_.jpg",
-                            "height": 1878,
-                            "width": 1159
-                        }
-                    }
-                ],
-                "for": [
-                    "Casey Robinson"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Casey Robinson",
-                        "imdb_id": "nm0732452",
-                        "note": null,
-                        "image": null
-                    }
-                ],
-                "notes": "This was a write-in candidate, who came in third on the final ballots. It was not an official nomination."
-            },
-            {
-                "won": false,
-                "target": [
-                    "Mutiny on the Bounty"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "Mutiny on the Bounty",
-                        "imdb_id": "tt0026752",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNmRhZWU4MTAtNzE0OC00YjIyLTk2MGItMDRjYTc0MTZiNmU1XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
-                            "height": 2812,
-                            "width": 1825
-                        }
-                    }
-                ],
-                "for": [
-                    "Jules Furthman",
-                    "Talbot Jennings",
-                    "Carey Wilson"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Jules Furthman",
-                        "imdb_id": "nm0299154",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BMmRiOWRhZjMtZmNlZC00M2U1LTgzZDEtZmQyMjlkZjM1MmFmXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_.jpg",
-                            "height": 1124,
-                            "width": 889
-                        }
-                    },
-                    {
-                        "name": "Talbot Jennings",
-                        "imdb_id": "nm0421255",
-                        "note": null,
-                        "image": null
-                    },
-                    {
-                        "name": "Carey Wilson",
-                        "imdb_id": "nm0933133",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZmJjOTQyMjQtYjQ2YS00OGU1LTg5OGMtYWJhMzI3YzFmMGJjXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_.jpg",
-                            "height": 350,
-                            "width": 280
-                        }
-                    }
-                ],
-                "notes": null
-            },
-            {
-                "won": false,
-                "target": [
-                    "The Lives of a Bengal Lancer"
-                ],
-                "target_enriched": [
-                    {
-                        "name": "The Lives of a Bengal Lancer",
-                        "imdb_id": "tt0026643",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BOTMwOTMwY2QtMGVmYS00NjYxLWI5MjQtOTczNTVmOWVlNzczXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
-                            "height": 4016,
-                            "width": 2654
-                        }
-                    }
-                ],
-                "for": [
-                    "Achmed Abdullah",
-                    "John L. Balderston",
-                    "Grover Jones",
-                    "William Slavens McNutt",
-                    "Waldemar Young"
-                ],
-                "for_enriched": [
-                    {
-                        "name": "Achmed Abdullah",
-                        "imdb_id": "nm0008280",
-                        "note": null,
-                        "image": null
-                    },
-                    {
-                        "name": "John L. Balderston",
-                        "imdb_id": "nm0049721",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BNDNkYWQ3ZWItODlkOC00OTQzLWEyMGItN2FiZjc2Y2ZhMDJlXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
-                            "height": 1307,
-                            "width": 668
-                        }
-                    },
-                    {
-                        "name": "Grover Jones",
-                        "imdb_id": "nm0428177",
-                        "note": null,
-                        "image": null
-                    },
-                    {
-                        "name": "William Slavens McNutt",
-                        "imdb_id": "nm0574112",
-                        "note": null,
-                        "image": null
-                    },
-                    {
-                        "name": "Waldemar Young",
-                        "imdb_id": "nm0950150",
-                        "note": null,
-                        "image": {
-                            "url": "https://m.media-amazon.com/images/M/MV5BZDY3YjgwZmItNzRiYS00YWU1LWEyMWEtMjVmZjBhYjg1MzY5XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
-                            "height": 979,
-                            "width": 832
-                        }
-                    }
-                ],
-                "notes": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Katharine Hepburn"],
+        "target_enriched": [
+          {
+            "name": "Katharine Hepburn",
+            "imdb_id": "nm0000031",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTE5NTk4Mjc0OF5BMl5BanBnXkFtZTYwNzI0NDM2._V1_.jpg",
+              "height": 450,
+              "width": 324
             }
-        ]
-    }
+          }
+        ],
+        "for": ["Alice Adams"],
+        "for_enriched": [
+          {
+            "name": "Alice Adams",
+            "imdb_id": "tt0026056",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTJkYmJmOTMtMjJmZi00OGE4LTgwNzYtY2Q4MzU1NjYxN2M0XkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg",
+              "height": 3000,
+              "width": 1524
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Merle Oberon"],
+        "target_enriched": [
+          {
+            "name": "Merle Oberon",
+            "imdb_id": "nm0643353",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTM3MDI2ODI0NV5BMl5BanBnXkFtZTYwNDIwNzQ2._V1_.jpg",
+              "height": 450,
+              "width": 327
+            }
+          }
+        ],
+        "for": ["The Dark Angel"],
+        "for_enriched": [
+          {
+            "name": "The Dark Angel",
+            "imdb_id": "tt0026264",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2U1NjkyZjktNzU5MS00NGIyLTkxMGQtOTk3OTczM2YxOGY2XkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg",
+              "height": 1440,
+              "width": 960
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Miriam Hopkins"],
+        "target_enriched": [
+          {
+            "name": "Miriam Hopkins",
+            "imdb_id": "nm0394244",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTYyMTI4MzU0MF5BMl5BanBnXkFtZTYwMjY4NjQ2._V1_.jpg",
+              "height": 450,
+              "width": 342
+            }
+          }
+        ],
+        "for": ["Becky Sharp"],
+        "for_enriched": [
+          {
+            "name": "Becky Sharp",
+            "imdb_id": "tt0026104",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjMxMjE0YTYtNjhiMi00ZDU4LTgwODctZWI4MjljYWE3YWM4XkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg",
+              "height": 1292,
+              "width": 960
+            }
+          }
+        ],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Art Direction",
+    "normalized_name": "Best Achievement in Production Design",
+    "category_id": 2,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["The Dark Angel"],
+        "target_enriched": [
+          {
+            "name": "The Dark Angel",
+            "imdb_id": "tt0026264",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2U1NjkyZjktNzU5MS00NGIyLTkxMGQtOTk3OTczM2YxOGY2XkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg",
+              "height": 1440,
+              "width": 960
+            }
+          }
+        ],
+        "for": ["Richard Day"],
+        "for_enriched": [
+          {
+            "name": "Richard Day",
+            "imdb_id": "nm0206554",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The Lives of a Bengal Lancer"],
+        "target_enriched": [
+          {
+            "name": "The Lives of a Bengal Lancer",
+            "imdb_id": "tt0026643",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTMwOTMwY2QtMGVmYS00NjYxLWI5MjQtOTczNTVmOWVlNzczXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+              "height": 4016,
+              "width": 2654
+            }
+          }
+        ],
+        "for": ["Hans Dreier", "Roland Anderson"],
+        "for_enriched": [
+          {
+            "name": "Hans Dreier",
+            "imdb_id": "nm0237417",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDk1ZGNlZGQtZjYwNS00OWU0LTkzOTAtZGNkMjAyN2U4Yzc0XkEyXkFqcGdeQXVyMjQwOTE1MzE@._V1_.jpg",
+              "height": 890,
+              "width": 803
+            }
+          },
+          {
+            "name": "Roland Anderson",
+            "imdb_id": "nm0027380",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Top Hat"],
+        "target_enriched": [
+          {
+            "name": "Top Hat",
+            "imdb_id": "tt0027125",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2Q0NjE1NTMtOTY5Zi00NWMxLTliOGYtNTg1OGU5M2RjNjVkXkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_.jpg",
+              "height": 1890,
+              "width": 1299
+            }
+          }
+        ],
+        "for": ["Carroll Clark", "Van Nest Polglase"],
+        "for_enriched": [
+          {
+            "name": "Carroll Clark",
+            "imdb_id": "nm0163754",
+            "note": null,
+            "image": null
+          },
+          {
+            "name": "Van Nest Polglase",
+            "imdb_id": "nm0689026",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzNlOWE5YzQtMGI2OC00MjJkLWE5ZDYtOGM2ODgxNzUxMWMxXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_.jpg",
+              "height": 1133,
+              "width": 871
+            }
+          }
+        ],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Assistant Director",
+    "normalized_name": "Best Assistant Director",
+    "category_id": 19,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["Clem Beauchamp", "Paul Wing"],
+        "target_enriched": [
+          {
+            "name": "Clem Beauchamp",
+            "imdb_id": "nm0064303",
+            "note": null,
+            "image": null
+          },
+          {
+            "name": "Paul Wing",
+            "imdb_id": "nm0934963",
+            "note": null,
+            "image": null
+          }
+        ],
+        "for": ["The Lives of a Bengal Lancer"],
+        "for_enriched": [
+          {
+            "name": "The Lives of a Bengal Lancer",
+            "imdb_id": "tt0026643",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTMwOTMwY2QtMGVmYS00NjYxLWI5MjQtOTczNTVmOWVlNzczXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+              "height": 4016,
+              "width": 2654
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Eric Stacey"],
+        "target_enriched": [
+          {
+            "name": "Eric Stacey",
+            "imdb_id": "nm0820947",
+            "note": null,
+            "image": null
+          }
+        ],
+        "for": ["Les Mis\u00e9rables"],
+        "for_enriched": [
+          {
+            "name": "Les Mis\u00e9rables",
+            "imdb_id": "tt0026725",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDMyMzdjN2QtNDE3OC00M2RmLWI1YTgtNDgxZjA0NDk4ZTY4XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 2604,
+              "width": 1704
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Joseph M. Newman"],
+        "target_enriched": [
+          {
+            "name": "Joseph M. Newman",
+            "imdb_id": "nm0628149",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjdhOTcyMjMtNmVkNy00ZTg3LTk0MTYtZDlkY2NjZTM5ZmJmXkEyXkFqcGdeQXVyMjQwOTE1MzE@._V1_.jpg",
+              "height": 900,
+              "width": 600
+            }
+          }
+        ],
+        "for": ["David Copperfield"],
+        "for_enriched": [
+          {
+            "name": "David Copperfield",
+            "imdb_id": "tt0026266",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWE1NWMxZGEtM2UzNS00NDA4LWExNGQtZmJjNjBkODAzMDkzXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+              "height": 3250,
+              "width": 2286
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Sherry Shourds"],
+        "target_enriched": [
+          {
+            "name": "Sherry Shourds",
+            "imdb_id": "nm0795258",
+            "note": null,
+            "image": null
+          }
+        ],
+        "for": ["A Midsummer Night's Dream"],
+        "for_enriched": [
+          {
+            "name": "A Midsummer Night's Dream",
+            "imdb_id": "tt0026714",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmM4NTI0ZTktMTY5ZC00ZDgyLWJjNjUtN2JhYjhkNDlmMDE2XkEyXkFqcGdeQXVyNTc2NzQ3Njk@._V1_.jpg",
+              "height": 1564,
+              "width": 1000
+            }
+          }
+        ],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Cinematography",
+    "normalized_name": "Best Achievement in Cinematography",
+    "category_id": 3,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["A Midsummer Night's Dream"],
+        "target_enriched": [
+          {
+            "name": "A Midsummer Night's Dream",
+            "imdb_id": "tt0026714",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmM4NTI0ZTktMTY5ZC00ZDgyLWJjNjUtN2JhYjhkNDlmMDE2XkEyXkFqcGdeQXVyNTc2NzQ3Njk@._V1_.jpg",
+              "height": 1564,
+              "width": 1000
+            }
+          }
+        ],
+        "for": ["Hal Mohr"],
+        "for_enriched": [
+          {
+            "name": "Hal Mohr",
+            "imdb_id": "nm0005803",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAwZmI3OTYtM2ZjNy00Njg1LTgzNTUtNzIxZDRkZmU5NTllXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg",
+              "height": 923,
+              "width": 700
+            }
+          }
+        ],
+        "notes": "First and only write-in nominee to actually win."
+      },
+      {
+        "won": false,
+        "target": ["Barbary Coast"],
+        "target_enriched": [
+          {
+            "name": "Barbary Coast",
+            "imdb_id": "tt0026097",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTQ0YjlmMDMtM2QyMC00NWQzLWFmNWUtMjU4Zjk3NzAxYTQ2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+              "height": 1618,
+              "width": 1062
+            }
+          }
+        ],
+        "for": ["Ray June"],
+        "for_enriched": [
+          {
+            "name": "Ray June",
+            "imdb_id": "nm0432482",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDY5ZWM5MWYtMDdlMy00MzhmLTg2MmMtZDA1NTgwM2ZiZTY4XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
+              "height": 973,
+              "width": 700
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Les Mis\u00e9rables"],
+        "target_enriched": [
+          {
+            "name": "Les Mis\u00e9rables",
+            "imdb_id": "tt0026725",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDMyMzdjN2QtNDE3OC00M2RmLWI1YTgtNDgxZjA0NDk4ZTY4XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 2604,
+              "width": 1704
+            }
+          }
+        ],
+        "for": ["Gregg Toland"],
+        "for_enriched": [
+          {
+            "name": "Gregg Toland",
+            "imdb_id": "nm0005904",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMzMjU0NDI1OV5BMl5BanBnXkFtZTYwOTAzNDI2._V1_.jpg",
+              "height": 420,
+              "width": 330
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The Crusades"],
+        "target_enriched": [
+          {
+            "name": "The Crusades",
+            "imdb_id": "tt0026249",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BOThjNmY5NmItZGNjNS00NjE4LTk1ZjMtYjgwOWI0MjU4YzhhXkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg",
+              "height": 1440,
+              "width": 960
+            }
+          }
+        ],
+        "for": ["Victor Milner"],
+        "for_enriched": [
+          {
+            "name": "Victor Milner",
+            "imdb_id": "nm0005800",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTgxYzhjZjQtZGNjNS00MDc5LTkyYjYtZWRmMGVmOTVlOWNiXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 816,
+              "width": 1030
+            }
+          }
+        ],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Dance Direction",
+    "normalized_name": "Best Dance Direction",
+    "category_id": 23,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["Broadway Melody of 1936"],
+        "target_enriched": [
+          {
+            "name": "Broadway Melody of 1936",
+            "imdb_id": "tt0026144",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWJlZmFhMjQtMDJkNy00ZGFkLTg2Y2ItMTIxNTI0YWZjNWVmXkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg",
+              "height": 1440,
+              "width": 960
+            }
+          }
+        ],
+        "for": ["Dave Gould"],
+        "for_enriched": [
+          {
+            "name": "Dave Gould",
+            "imdb_id": "nm0332346",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTE3NjExYzYtNmJiOC00NjJjLTlhMzUtMGRkNTJiZTY0ODU2XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
+              "height": 422,
+              "width": 312
+            }
+          }
+        ],
+        "notes": "For \"I've Got a Feeling You're Fooling\"."
+      },
+      {
+        "won": true,
+        "target": ["Folies Berg\u00e8re de Paris"],
+        "target_enriched": [
+          {
+            "name": "Folies Berg\u00e8re de Paris",
+            "imdb_id": "tt0026373",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGIzOTk4YjctZjk4Ni00M2E3LWJjM2QtMzc4OTMyZTg0MTk3XkEyXkFqcGdeQXVyODI1OTk4MTQ@._V1_.jpg",
+              "height": 1020,
+              "width": 596
+            }
+          }
+        ],
+        "for": ["Dave Gould"],
+        "for_enriched": [
+          {
+            "name": "Dave Gould",
+            "imdb_id": "nm0332346",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTE3NjExYzYtNmJiOC00NjJjLTlhMzUtMGRkNTJiZTY0ODU2XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
+              "height": 422,
+              "width": 312
+            }
+          }
+        ],
+        "notes": "For \"Straw Hat\"."
+      },
+      {
+        "won": false,
+        "target": ["All the King's Horses"],
+        "target_enriched": [
+          {
+            "name": "All the King's Horses",
+            "imdb_id": "tt0024823",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTNmZmFmNzEtZTIxOC00MTAxLThlY2EtMjkyZTY5ZmUyOGRkXkEyXkFqcGdeQXVyNDY3MzU2MDM@._V1_.jpg",
+              "height": 778,
+              "width": 500
+            }
+          }
+        ],
+        "for": ["LeRoy Prinz"],
+        "for_enriched": [
+          {
+            "name": "LeRoy Prinz",
+            "imdb_id": "nm0697895",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": "For \"Viennese Waltz\"."
+      },
+      {
+        "won": false,
+        "target": ["Broadway Hostess"],
+        "target_enriched": [
+          {
+            "name": "Broadway Hostess",
+            "imdb_id": "tt0026143",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTYyNmU1NjItODcwMy00OWI3LWE4ZDctZDcwNjY0ZmVjYzEzXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+              "height": 864,
+              "width": 572
+            }
+          }
+        ],
+        "for": ["Bobby Connolly"],
+        "for_enriched": [
+          {
+            "name": "Bobby Connolly",
+            "imdb_id": "nm0175265",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": "For \"Playboy of Paree\"."
+      },
+      {
+        "won": false,
+        "target": ["Go Into Your Dance"],
+        "target_enriched": [
+          {
+            "name": "Go Into Your Dance",
+            "imdb_id": "tt0026418",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTY1MGZhYmItMDg0Mi00MjgwLTg0YWQtNjJmYmZjYjFmYTVmXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_.jpg",
+              "height": 757,
+              "width": 520
+            }
+          }
+        ],
+        "for": ["Bobby Connolly"],
+        "for_enriched": [
+          {
+            "name": "Bobby Connolly",
+            "imdb_id": "nm0175265",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": "For \"Latin from Manhattan\"."
+      },
+      {
+        "won": false,
+        "target": ["Gold Diggers of 1935"],
+        "target_enriched": [
+          {
+            "name": "Gold Diggers of 1935",
+            "imdb_id": "tt0026421",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2IyNWVjOTItOGIzNi00ZDQ4LWEwYWMtN2Q3NWM3ZjlhNjllXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_.jpg",
+              "height": 1961,
+              "width": 1235
+            }
+          }
+        ],
+        "for": ["Busby Berkeley"],
+        "for_enriched": [
+          {
+            "name": "Busby Berkeley",
+            "imdb_id": "nm0000923",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTFmN2VkZWItN2YzYS00M2YyLWIxMDYtNDYwZjU2MGE1YmEyXkEyXkFqcGdeQXVyNzY1ODU1OTk@._V1_.jpg",
+              "height": 3872,
+              "width": 3106
+            }
+          }
+        ],
+        "notes": "For \"Lullaby of Broadway\" and \"The Words Are in My Heart\"."
+      },
+      {
+        "won": false,
+        "target": ["King of Burlesque"],
+        "target_enriched": [
+          {
+            "name": "King of Burlesque",
+            "imdb_id": "tt0026571",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmQ4MDM5ZGItNmRkZi00MmJiLTk4OWUtMjE1ODMwMzA1ZDViXkEyXkFqcGdeQXVyNDY3MzU2MDM@._V1_.jpg",
+              "height": 866,
+              "width": 580
+            }
+          }
+        ],
+        "for": ["Sammy Lee"],
+        "for_enriched": [
+          {
+            "name": "Sammy Lee",
+            "imdb_id": "nm0498192",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": "For \"Lovely Lady\" and \"Too Good to Be True\"."
+      },
+      {
+        "won": false,
+        "target": ["She"],
+        "target_enriched": [
+          {
+            "name": "She",
+            "imdb_id": "tt0026983",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDI1YmJlMWUtM2Y4Yi00Y2JmLThmODktMjM4NzMwNjM0ZWQwXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+              "height": 2181,
+              "width": 1531
+            }
+          }
+        ],
+        "for": ["Benjamin Zemach"],
+        "for_enriched": [
+          {
+            "name": "Benjamin Zemach",
+            "imdb_id": "nm0954706",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": "For \"Hall of Kings\"."
+      },
+      {
+        "won": false,
+        "target": ["The Big Broadcast of 1936"],
+        "target_enriched": [
+          {
+            "name": "The Big Broadcast of 1936",
+            "imdb_id": "tt0026113",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjdiNTlhMjMtN2RkOC00YzQyLWI5NGItOTkwMDc4NjZmNDI1XkEyXkFqcGdeQXVyNDY3MzU2MDM@._V1_.jpg",
+              "height": 692,
+              "width": 480
+            }
+          }
+        ],
+        "for": ["LeRoy Prinz"],
+        "for_enriched": [
+          {
+            "name": "LeRoy Prinz",
+            "imdb_id": "nm0697895",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": "For \"Elephant - It's the Animal in Me\"."
+      },
+      {
+        "won": false,
+        "target": ["Top Hat"],
+        "target_enriched": [
+          {
+            "name": "Top Hat",
+            "imdb_id": "tt0027125",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2Q0NjE1NTMtOTY5Zi00NWMxLTliOGYtNTg1OGU5M2RjNjVkXkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_.jpg",
+              "height": 1890,
+              "width": 1299
+            }
+          }
+        ],
+        "for": ["Hermes Pan"],
+        "for_enriched": [
+          {
+            "name": "Hermes Pan",
+            "imdb_id": "nm0659009",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTU0Njg0NjEwMF5BMl5BanBnXkFtZTcwMTk5ODAyMw@@._V1_.jpg",
+              "height": 500,
+              "width": 398
+            }
+          }
+        ],
+        "notes": "For \"Piccolino\" and \"Top Hat\"."
+      }
+    ]
+  },
+  {
+    "name": "Best Director",
+    "normalized_name": "Best Achievement in Directing",
+    "category_id": 12,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["John Ford"],
+        "target_enriched": [
+          {
+            "name": "John Ford",
+            "imdb_id": "nm0000406",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTI5NDczOTUzMV5BMl5BanBnXkFtZTcwNDE3NDkwNA@@._V1_.jpg",
+              "height": 2048,
+              "width": 1635
+            }
+          }
+        ],
+        "for": ["The Informer"],
+        "for_enriched": [
+          {
+            "name": "The Informer",
+            "imdb_id": "tt0026529",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDM1YjliYzYtOTkzMS00M2NkLThhNjctM2RlM2MxODE4YjJjXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+              "height": 1139,
+              "width": 751
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Frank Lloyd"],
+        "target_enriched": [
+          {
+            "name": "Frank Lloyd",
+            "imdb_id": "nm0515979",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUwNzA2NjMyNF5BMl5BanBnXkFtZTYwMjg0Njcy._V1_.jpg",
+              "height": 596,
+              "width": 450
+            }
+          }
+        ],
+        "for": ["Mutiny on the Bounty"],
+        "for_enriched": [
+          {
+            "name": "Mutiny on the Bounty",
+            "imdb_id": "tt0026752",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmRhZWU4MTAtNzE0OC00YjIyLTk2MGItMDRjYTc0MTZiNmU1XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+              "height": 2812,
+              "width": 1825
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Henry Hathaway"],
+        "target_enriched": [
+          {
+            "name": "Henry Hathaway",
+            "imdb_id": "nm0368871",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDc3ZGVjZGEtYzU0Zi00NjJhLTllYTAtYjgyNzM2MWFiOGU5XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 620,
+              "width": 503
+            }
+          }
+        ],
+        "for": ["The Lives of a Bengal Lancer"],
+        "for_enriched": [
+          {
+            "name": "The Lives of a Bengal Lancer",
+            "imdb_id": "tt0026643",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTMwOTMwY2QtMGVmYS00NjYxLWI5MjQtOTczNTVmOWVlNzczXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+              "height": 4016,
+              "width": 2654
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Michael Curtiz"],
+        "target_enriched": [
+          {
+            "name": "Michael Curtiz",
+            "imdb_id": "nm0002031",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTcyMjA2MTgwNF5BMl5BanBnXkFtZTYwMTcwMDY2._V1_.jpg",
+              "height": 450,
+              "width": 326
+            }
+          }
+        ],
+        "for": ["Captain Blood"],
+        "for_enriched": [
+          {
+            "name": "Captain Blood",
+            "imdb_id": "tt0026174",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjMwNDc1MzMyNV5BMl5BanBnXkFtZTgwODUzMjU1MzE@._V1_.jpg",
+              "height": 1878,
+              "width": 1159
+            }
+          }
+        ],
+        "notes": "This was a write-in candidate, who came in second on the final ballots. It was not an official nomination."
+      }
+    ]
+  },
+  {
+    "name": "Best Film Editing",
+    "normalized_name": "Best Achievement in Film Editing",
+    "category_id": 20,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["A Midsummer Night's Dream"],
+        "target_enriched": [
+          {
+            "name": "A Midsummer Night's Dream",
+            "imdb_id": "tt0026714",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmM4NTI0ZTktMTY5ZC00ZDgyLWJjNjUtN2JhYjhkNDlmMDE2XkEyXkFqcGdeQXVyNTc2NzQ3Njk@._V1_.jpg",
+              "height": 1564,
+              "width": 1000
+            }
+          }
+        ],
+        "for": ["Ralph Dawson"],
+        "for_enriched": [
+          {
+            "name": "Ralph Dawson",
+            "imdb_id": "nm0206238",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["David Copperfield"],
+        "target_enriched": [
+          {
+            "name": "David Copperfield",
+            "imdb_id": "tt0026266",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWE1NWMxZGEtM2UzNS00NDA4LWExNGQtZmJjNjBkODAzMDkzXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+              "height": 3250,
+              "width": 2286
+            }
+          }
+        ],
+        "for": ["Robert Kern"],
+        "for_enriched": [
+          {
+            "name": "Robert Kern",
+            "imdb_id": "nm0449493",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Les Mis\u00e9rables"],
+        "target_enriched": [
+          {
+            "name": "Les Mis\u00e9rables",
+            "imdb_id": "tt0026725",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDMyMzdjN2QtNDE3OC00M2RmLWI1YTgtNDgxZjA0NDk4ZTY4XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 2604,
+              "width": 1704
+            }
+          }
+        ],
+        "for": ["Barbara McLean"],
+        "for_enriched": [
+          {
+            "name": "Barbara McLean",
+            "imdb_id": "nm0572492",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Mutiny on the Bounty"],
+        "target_enriched": [
+          {
+            "name": "Mutiny on the Bounty",
+            "imdb_id": "tt0026752",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmRhZWU4MTAtNzE0OC00YjIyLTk2MGItMDRjYTc0MTZiNmU1XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+              "height": 2812,
+              "width": 1825
+            }
+          }
+        ],
+        "for": ["Margaret Booth"],
+        "for_enriched": [
+          {
+            "name": "Margaret Booth",
+            "imdb_id": "nm0004290",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTBjYWM1ZmMtMjg4YS00NzFhLTkwZmQtZjYxZGJhMzI4MDMzXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_.jpg",
+              "height": 809,
+              "width": 1221
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The Informer"],
+        "target_enriched": [
+          {
+            "name": "The Informer",
+            "imdb_id": "tt0026529",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDM1YjliYzYtOTkzMS00M2NkLThhNjctM2RlM2MxODE4YjJjXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+              "height": 1139,
+              "width": 751
+            }
+          }
+        ],
+        "for": ["George Hively"],
+        "for_enriched": [
+          {
+            "name": "George Hively",
+            "imdb_id": "nm0387000",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The Lives of a Bengal Lancer"],
+        "target_enriched": [
+          {
+            "name": "The Lives of a Bengal Lancer",
+            "imdb_id": "tt0026643",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTMwOTMwY2QtMGVmYS00NjYxLWI5MjQtOTczNTVmOWVlNzczXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+              "height": 4016,
+              "width": 2654
+            }
+          }
+        ],
+        "for": ["Ellsworth Hoagland"],
+        "for_enriched": [
+          {
+            "name": "Ellsworth Hoagland",
+            "imdb_id": "nm0387449",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Music, Original Song",
+    "normalized_name": "Best Achievement in Music Written for Motion Pictures (Original Song)",
+    "category_id": 21,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["Gold Diggers of 1935"],
+        "target_enriched": [
+          {
+            "name": "Gold Diggers of 1935",
+            "imdb_id": "tt0026421",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BM2IyNWVjOTItOGIzNi00ZDQ4LWEwYWMtN2Q3NWM3ZjlhNjllXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_.jpg",
+              "height": 1961,
+              "width": 1235
+            }
+          }
+        ],
+        "for": ["Harry Warren", "Al Dubin"],
+        "for_enriched": [
+          {
+            "name": "Harry Warren",
+            "imdb_id": "nm0912851",
+            "note": "(music)",
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDY1MzYxMTk4NF5BMl5BanBnXkFtZTcwMjg3NzE2NA@@._V1_.jpg",
+              "height": 423,
+              "width": 336
+            }
+          },
+          {
+            "name": "Al Dubin",
+            "imdb_id": "nm0006048",
+            "note": "(lyrics)",
+            "image": null
+          }
+        ],
+        "notes": "For the song \"Lullaby of Broadway\"."
+      },
+      {
+        "won": false,
+        "target": ["Roberta"],
+        "target_enriched": [
+          {
+            "name": "Roberta",
+            "imdb_id": "tt0026942",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzRjNjU5ODEtODk5Ni00YzZhLWFiOGItZjdkNWQyN2E3MjU5XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+              "height": 2791,
+              "width": 1821
+            }
+          }
+        ],
+        "for": ["Jerome Kern", "Dorothy Fields", "Jimmy McHugh"],
+        "for_enriched": [
+          {
+            "name": "Jerome Kern",
+            "imdb_id": "nm0006153",
+            "note": "(music)",
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMThmNmNlNjAtOTEwNC00ZThmLTk5YTctYWMyMmE1ZTM2N2NjL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
+              "height": 800,
+              "width": 800
+            }
+          },
+          {
+            "name": "Dorothy Fields",
+            "imdb_id": "nm0276227",
+            "note": "(lyrics)",
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmQ5NzEyMDktOWQ2Zi00ZTQwLWI2MWItYTIzMTkyNmE1ZDY1XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
+              "height": 525,
+              "width": 357
+            }
+          },
+          {
+            "name": "Jimmy McHugh",
+            "imdb_id": "nm0006192",
+            "note": "(lyrics)",
+            "image": null
+          }
+        ],
+        "notes": "For the song \"Lovely to Look at\"."
+      },
+      {
+        "won": false,
+        "target": ["Top Hat"],
+        "target_enriched": [
+          {
+            "name": "Top Hat",
+            "imdb_id": "tt0027125",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2Q0NjE1NTMtOTY5Zi00NWMxLTliOGYtNTg1OGU5M2RjNjVkXkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_.jpg",
+              "height": 1890,
+              "width": 1299
+            }
+          }
+        ],
+        "for": ["Irving Berlin"],
+        "for_enriched": [
+          {
+            "name": "Irving Berlin",
+            "imdb_id": "nm0000927",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTgwNTU4Mjg2NV5BMl5BanBnXkFtZTYwMjk0MzI2._V1_.jpg",
+              "height": 450,
+              "width": 355
+            }
+          }
+        ],
+        "notes": "For the song \"Cheek to Cheek\"."
+      }
+    ]
+  },
+  {
+    "name": "Best Music, Score",
+    "normalized_name": "Best Achievement in Music Written for Motion Pictures (Original Score)",
+    "category_id": 22,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["The Informer"],
+        "target_enriched": [
+          {
+            "name": "The Informer",
+            "imdb_id": "tt0026529",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDM1YjliYzYtOTkzMS00M2NkLThhNjctM2RlM2MxODE4YjJjXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+              "height": 1139,
+              "width": 751
+            }
+          }
+        ],
+        "for": ["Max Steiner"],
+        "for_enriched": [
+          {
+            "name": "Max Steiner",
+            "imdb_id": "nm0000070",
+            "note": "(head of departmment)",
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDAzMjZhYTQtZjQxMC00ODE4LWIxYzEtMjljNWRjODAxZjY0XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 797,
+              "width": 640
+            }
+          }
+        ],
+        "notes": "Score by Max Steiner."
+      },
+      {
+        "won": false,
+        "target": ["Captain Blood"],
+        "target_enriched": [
+          {
+            "name": "Captain Blood",
+            "imdb_id": "tt0026174",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjMwNDc1MzMyNV5BMl5BanBnXkFtZTgwODUzMjU1MzE@._V1_.jpg",
+              "height": 1878,
+              "width": 1159
+            }
+          }
+        ],
+        "for": ["Leo F. Forbstein"],
+        "for_enriched": [
+          {
+            "name": "Leo F. Forbstein",
+            "imdb_id": "nm0006079",
+            "note": "(head of department)",
+            "image": null
+          }
+        ],
+        "notes": "Score by Erich Wolfgang Korngold. This was a write-in candidate, who came in third on the final ballots. It was not an official nomination."
+      },
+      {
+        "won": false,
+        "target": ["Mutiny on the Bounty"],
+        "target_enriched": [
+          {
+            "name": "Mutiny on the Bounty",
+            "imdb_id": "tt0026752",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmRhZWU4MTAtNzE0OC00YjIyLTk2MGItMDRjYTc0MTZiNmU1XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+              "height": 2812,
+              "width": 1825
+            }
+          }
+        ],
+        "for": ["Nat W. Finston"],
+        "for_enriched": [
+          {
+            "name": "Nat W. Finston",
+            "imdb_id": "nm0278358",
+            "note": "(head of departmment)",
+            "image": null
+          }
+        ],
+        "notes": "Score by Herbert Stothart."
+      },
+      {
+        "won": false,
+        "target": ["Peter Ibbetson"],
+        "target_enriched": [
+          {
+            "name": "Peter Ibbetson",
+            "imdb_id": "tt0026866",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BODBjOTc2NjMtYzE0Ni00YjRiLTlhODYtMTUxMDFkMDRiN2U0XkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_.jpg",
+              "height": 764,
+              "width": 500
+            }
+          }
+        ],
+        "for": ["Irvin Talbot"],
+        "for_enriched": [
+          {
+            "name": "Irvin Talbot",
+            "imdb_id": "nm0847913",
+            "note": "(head of departmment)",
+            "image": null
+          }
+        ],
+        "notes": "Score by Ernst Toch."
+      }
+    ]
+  },
+  {
+    "name": "Best Picture",
+    "normalized_name": "Best Picture",
+    "category_id": 13,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["Mutiny on the Bounty"],
+        "target_enriched": [
+          {
+            "name": "Mutiny on the Bounty",
+            "imdb_id": "tt0026752",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmRhZWU4MTAtNzE0OC00YjIyLTk2MGItMDRjYTc0MTZiNmU1XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+              "height": 2812,
+              "width": 1825
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["A Midsummer Night's Dream"],
+        "target_enriched": [
+          {
+            "name": "A Midsummer Night's Dream",
+            "imdb_id": "tt0026714",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmM4NTI0ZTktMTY5ZC00ZDgyLWJjNjUtN2JhYjhkNDlmMDE2XkEyXkFqcGdeQXVyNTc2NzQ3Njk@._V1_.jpg",
+              "height": 1564,
+              "width": 1000
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Alice Adams"],
+        "target_enriched": [
+          {
+            "name": "Alice Adams",
+            "imdb_id": "tt0026056",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYTJkYmJmOTMtMjJmZi00OGE4LTgwNzYtY2Q4MzU1NjYxN2M0XkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg",
+              "height": 3000,
+              "width": 1524
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Broadway Melody of 1936"],
+        "target_enriched": [
+          {
+            "name": "Broadway Melody of 1936",
+            "imdb_id": "tt0026144",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWJlZmFhMjQtMDJkNy00ZGFkLTg2Y2ItMTIxNTI0YWZjNWVmXkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg",
+              "height": 1440,
+              "width": 960
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Captain Blood"],
+        "target_enriched": [
+          {
+            "name": "Captain Blood",
+            "imdb_id": "tt0026174",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjMwNDc1MzMyNV5BMl5BanBnXkFtZTgwODUzMjU1MzE@._V1_.jpg",
+              "height": 1878,
+              "width": 1159
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["David Copperfield"],
+        "target_enriched": [
+          {
+            "name": "David Copperfield",
+            "imdb_id": "tt0026266",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWE1NWMxZGEtM2UzNS00NDA4LWExNGQtZmJjNjBkODAzMDkzXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+              "height": 3250,
+              "width": 2286
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Les Mis\u00e9rables"],
+        "target_enriched": [
+          {
+            "name": "Les Mis\u00e9rables",
+            "imdb_id": "tt0026725",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDMyMzdjN2QtNDE3OC00M2RmLWI1YTgtNDgxZjA0NDk4ZTY4XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 2604,
+              "width": 1704
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Naughty Marietta"],
+        "target_enriched": [
+          {
+            "name": "Naughty Marietta",
+            "imdb_id": "tt0026768",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzAwYTE3MjAtNjI3MS00MTM2LThkZDEtMDAxOWU5YWU5N2QyL2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+              "height": 2904,
+              "width": 1952
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Ruggles of Red Gap"],
+        "target_enriched": [
+          {
+            "name": "Ruggles of Red Gap",
+            "imdb_id": "tt0026955",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmM5ZGI2YTItMTIyYy00N2RiLTk4ZjAtZTQ0YmVhMWIwMjljXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+              "height": 2988,
+              "width": 1983
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The Informer"],
+        "target_enriched": [
+          {
+            "name": "The Informer",
+            "imdb_id": "tt0026529",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDM1YjliYzYtOTkzMS00M2NkLThhNjctM2RlM2MxODE4YjJjXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+              "height": 1139,
+              "width": 751
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The Lives of a Bengal Lancer"],
+        "target_enriched": [
+          {
+            "name": "The Lives of a Bengal Lancer",
+            "imdb_id": "tt0026643",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTMwOTMwY2QtMGVmYS00NjYxLWI5MjQtOTczNTVmOWVlNzczXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+              "height": 4016,
+              "width": 2654
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Top Hat"],
+        "target_enriched": [
+          {
+            "name": "Top Hat",
+            "imdb_id": "tt0027125",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2Q0NjE1NTMtOTY5Zi00NWMxLTliOGYtNTg1OGU5M2RjNjVkXkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_.jpg",
+              "height": 1890,
+              "width": 1299
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Short Subject, Cartoons",
+    "normalized_name": "Best Animated Short Film",
+    "category_id": 16,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["Three Orphan Kittens"],
+        "target_enriched": [
+          {
+            "name": "Three Orphan Kittens",
+            "imdb_id": "tt0027100",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2ZkY2RjMmUtMTY1NS00NmVhLTg3MDEtM2QwN2FiOTAwN2Q3XkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_.jpg",
+              "height": 1000,
+              "width": 752
+            }
+          }
+        ],
+        "for": ["Walt Disney"],
+        "for_enriched": [
+          {
+            "name": "Walt Disney",
+            "imdb_id": "nm0000370",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIxMTUyNjc5OF5BMl5BanBnXkFtZTcwMjMwNjYwNA@@._V1_.jpg",
+              "height": 500,
+              "width": 390
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The Calico Dragon"],
+        "target_enriched": [
+          {
+            "name": "The Calico Dragon",
+            "imdb_id": "tt0026162",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTA0YjliYWEtYTM3Yy00MGVhLWIwNTUtY2Q0NzJmM2Y2ZDJiXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_.jpg",
+              "height": 573,
+              "width": 713
+            }
+          }
+        ],
+        "for": ["Rudolf Ising", "Hugh Harman"],
+        "for_enriched": [
+          {
+            "name": "Rudolf Ising",
+            "imdb_id": "nm0411208",
+            "note": null,
+            "image": null
+          },
+          {
+            "name": "Hugh Harman",
+            "imdb_id": "nm0363414",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Who Killed Cock Robin?"],
+        "target_enriched": [
+          {
+            "name": "Who Killed Cock Robin?",
+            "imdb_id": "tt0027212",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDFhMDE5NzYtYzNlMS00ZTVkLWFlNGEtYmE2YzliMDQxM2NmXkEyXkFqcGdeQXVyNjAzNDExMw@@._V1_.jpg",
+              "height": 917,
+              "width": 600
+            }
+          }
+        ],
+        "for": ["Walt Disney"],
+        "for_enriched": [
+          {
+            "name": "Walt Disney",
+            "imdb_id": "nm0000370",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjIxMTUyNjc5OF5BMl5BanBnXkFtZTcwMjMwNjYwNA@@._V1_.jpg",
+              "height": 500,
+              "width": 390
+            }
+          }
+        ],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Short Subject, Comedy",
+    "normalized_name": "Best Short Subject, Comedy",
+    "category_id": 17,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["How to Sleep"],
+        "target_enriched": [
+          {
+            "name": "How to Sleep",
+            "imdb_id": "tt0026497",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYWI4Mjc5NzgtMWNmZi00YzgxLTk0MDMtMjgyNDU5NGIwMWYwXkEyXkFqcGdeQXVyMTYzMTY1MjQ@._V1_.jpg",
+              "height": 484,
+              "width": 640
+            }
+          }
+        ],
+        "for": ["Jack Chertok"],
+        "for_enriched": [
+          {
+            "name": "Jack Chertok",
+            "imdb_id": "nm0156134",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmNkZjkyNWEtMTg3Ny00NGY5LTkwYzgtNGVmZjMyMzY0OGJjXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_.jpg",
+              "height": 329,
+              "width": 346
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Oh, My Nerves"],
+        "target_enriched": [
+          {
+            "name": "Oh, My Nerves",
+            "imdb_id": "tt0026803",
+            "note": null,
+            "image": null
+          }
+        ],
+        "for": ["Jules White"],
+        "for_enriched": [
+          {
+            "name": "Jules White",
+            "imdb_id": "nm0925028",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDg0MjU4MDEtMDQxYS00YjI4LWE2NmEtNzZjZDM0MTdjYmI4XkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_.jpg",
+              "height": 823,
+              "width": 859
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Tit for Tat"],
+        "target_enriched": [
+          {
+            "name": "Tit for Tat",
+            "imdb_id": "tt0027113",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTZiMWZkZTUtN2QwMS00NTAzLWFkM2EtMzkyNGJiZTI4NDQ5XkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_.jpg",
+              "height": 713,
+              "width": 500
+            }
+          }
+        ],
+        "for": ["Hal Roach"],
+        "for_enriched": [
+          {
+            "name": "Hal Roach",
+            "imdb_id": "nm0730018",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk0ODg0NDA5MF5BMl5BanBnXkFtZTYwODM0NzU2._V1_.jpg",
+              "height": 450,
+              "width": 351
+            }
+          }
+        ],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Short Subject, Novelty",
+    "normalized_name": "Best Short Subject, Novelty",
+    "category_id": 18,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["Wings Over Everest"],
+        "target_enriched": [
+          {
+            "name": "Wings Over Everest",
+            "imdb_id": "tt0024777",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTE2MjgzYmEtY2RlNi00NjY0LTljYjEtYTg5YWUxMTcwYTQxXkEyXkFqcGdeQXVyNTYwODQyMA@@._V1_.jpg",
+              "height": 1066,
+              "width": 782
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Audioscopiks"],
+        "target_enriched": [
+          {
+            "name": "Audioscopiks",
+            "imdb_id": "tt0026086",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmRhY2NiNDEtYjVmNS00MmUxLTk1ZDEtYjgxMGU0OGZmZGQ5XkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_.jpg",
+              "height": 593,
+              "width": 400
+            }
+          }
+        ],
+        "for": ["Pete Smith"],
+        "for_enriched": [
+          {
+            "name": "Pete Smith",
+            "imdb_id": "nm0809570",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYzc5MmI0MjctYzY1OC00ZjM2LWIzNzctMGE3NDBkNTEzOWE4XkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_.jpg",
+              "height": 350,
+              "width": 280
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Camera Thrills"],
+        "target_enriched": [
+          {
+            "name": "Camera Thrills",
+            "imdb_id": "tt0026167",
+            "note": null,
+            "image": null
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Sound, Recording",
+    "normalized_name": "Best Sound, Recording",
+    "category_id": 15,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["Naughty Marietta"],
+        "target_enriched": [
+          {
+            "name": "Naughty Marietta",
+            "imdb_id": "tt0026768",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzAwYTE3MjAtNjI3MS00MTM2LThkZDEtMDAxOWU5YWU5N2QyL2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+              "height": 2904,
+              "width": 1952
+            }
+          }
+        ],
+        "for": ["Douglas Shearer"],
+        "for_enriched": [
+          {
+            "name": "Douglas Shearer",
+            "imdb_id": "nm0790428",
+            "note": "(sound director)",
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmJjMWQxMTQtY2Q0Mi00YWI4LWE3MTItM2E4YzFjN2FhNGRlXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_.jpg",
+              "height": 1022,
+              "width": 792
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["1, 000 Dollars a Minute"],
+        "target_enriched": [
+          {
+            "name": "1, 000 Dollars a Minute",
+            "imdb_id": "tt0026027",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYmE2YzkyN2QtZWM5Ny00YjU2LWI2OGQtMDBhMGFiMzM4NDA1XkEyXkFqcGdeQXVyMzI5NjUyMDM@._V1_.jpg",
+              "height": 612,
+              "width": 400
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Captain Blood"],
+        "target_enriched": [
+          {
+            "name": "Captain Blood",
+            "imdb_id": "tt0026174",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjMwNDc1MzMyNV5BMl5BanBnXkFtZTgwODUzMjU1MzE@._V1_.jpg",
+              "height": 1878,
+              "width": 1159
+            }
+          }
+        ],
+        "for": ["Nathan Levinson"],
+        "for_enriched": [
+          {
+            "name": "Nathan Levinson",
+            "imdb_id": "nm0506080",
+            "note": "(sound director)",
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjU0MDM2MTE0N15BMl5BanBnXkFtZTgwOTc5MDM1NzM@._V1_.jpg",
+              "height": 722,
+              "width": 527
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["I Dream Too Much"],
+        "target_enriched": [
+          {
+            "name": "I Dream Too Much",
+            "imdb_id": "tt0026507",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNzY1NGNlNjEtMTk2YS00Y2U1LTkwZWItODhlNmYxMTEwNGZmXkEyXkFqcGdeQXVyMTIxOTk5MzY@._V1_.jpg",
+              "height": 411,
+              "width": 267
+            }
+          }
+        ],
+        "for": ["Carl Dreher"],
+        "for_enriched": [
+          {
+            "name": "Carl Dreher",
+            "imdb_id": "nm0237393",
+            "note": "(sound director)",
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Love Me Forever"],
+        "target_enriched": [
+          {
+            "name": "Love Me Forever",
+            "imdb_id": "tt0026654",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYThlMGI0OGEtN2MzOC00ZjA4LTllZjItOWU0M2FmMTczYzhlXkEyXkFqcGdeQXVyNjQ0OTEwNA@@._V1_.jpg",
+              "height": 450,
+              "width": 300
+            }
+          }
+        ],
+        "for": ["John P. Livadary"],
+        "for_enriched": [
+          {
+            "name": "John P. Livadary",
+            "imdb_id": "nm0515093",
+            "note": "(sound director)",
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["Thanks a Million"],
+        "target_enriched": [
+          {
+            "name": "Thanks a Million",
+            "imdb_id": "tt0027088",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2U5N2JmNmMtNzM0MC00MmY3LTkxMjMtZmY3YWZiMjg0MDE1XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+              "height": 2038,
+              "width": 1666
+            }
+          }
+        ],
+        "for": ["Edmund H. Hansen"],
+        "for_enriched": [
+          {
+            "name": "Edmund H. Hansen",
+            "imdb_id": "nm0360770",
+            "note": "(sound director)",
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The Bride of Frankenstein"],
+        "target_enriched": [
+          {
+            "name": "The Bride of Frankenstein",
+            "imdb_id": "tt0026138",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTUzMzAzMzEzNV5BMl5BanBnXkFtZTgwOTg1NTAwMjE@._V1_.jpg",
+              "height": 1600,
+              "width": 1075
+            }
+          }
+        ],
+        "for": ["Gilbert Kurland"],
+        "for_enriched": [
+          {
+            "name": "Gilbert Kurland",
+            "imdb_id": "nm0475792",
+            "note": "(sound director)",
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The Dark Angel"],
+        "target_enriched": [
+          {
+            "name": "The Dark Angel",
+            "imdb_id": "tt0026264",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BN2U1NjkyZjktNzU5MS00NGIyLTkxMGQtOTk3OTczM2YxOGY2XkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg",
+              "height": 1440,
+              "width": 960
+            }
+          }
+        ],
+        "for": ["Thomas T. Moulton"],
+        "for_enriched": [
+          {
+            "name": "Thomas T. Moulton",
+            "imdb_id": "nm0609771",
+            "note": "(sound director)",
+            "image": null
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The Lives of a Bengal Lancer"],
+        "target_enriched": [
+          {
+            "name": "The Lives of a Bengal Lancer",
+            "imdb_id": "tt0026643",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTMwOTMwY2QtMGVmYS00NjYxLWI5MjQtOTczNTVmOWVlNzczXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+              "height": 4016,
+              "width": 2654
+            }
+          }
+        ],
+        "for": ["Franklin Hansen"],
+        "for_enriched": [
+          {
+            "name": "Franklin Hansen",
+            "imdb_id": "nm0360630",
+            "note": "(sound director)",
+            "image": null
+          }
+        ],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Writing, Original Story",
+    "normalized_name": "Best Original Screenplay",
+    "category_id": 10,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["The Scoundrel"],
+        "target_enriched": [
+          {
+            "name": "The Scoundrel",
+            "imdb_id": "tt0026970",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BOGE4ZTVkYWUtM2EyMS00MmNjLWIwNTItZjM2MTFkOTE0N2NiXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_.jpg",
+              "height": 2183,
+              "width": 1600
+            }
+          }
+        ],
+        "for": ["Ben Hecht", "Charles MacArthur"],
+        "for_enriched": [
+          {
+            "name": "Ben Hecht",
+            "imdb_id": "nm0372942",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGMwMGI2NmItYjkwYy00N2FkLTlmNzUtNDI2YjU0ZTk1YzhlXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 1800,
+              "width": 1422
+            }
+          },
+          {
+            "name": "Charles MacArthur",
+            "imdb_id": "nm0531269",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNTM0MmViZTEtODUxOS00NzhhLWJmYzEtZTFkYzA2MzFhMWFiXkEyXkFqcGdeQXVyNTUyMTMyMDg@._V1_.jpg",
+              "height": 371,
+              "width": 248
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["'G' Men"],
+        "target_enriched": [
+          {
+            "name": "'G' Men",
+            "imdb_id": "tt0026393",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA1ODEyNzIzMl5BMl5BanBnXkFtZTgwNTg0OTMyMjE@._V1_.jpg",
+              "height": 500,
+              "width": 353
+            }
+          }
+        ],
+        "for": ["Darryl F. Zanuck"],
+        "for_enriched": [
+          {
+            "name": "Darryl F. Zanuck",
+            "imdb_id": "nm0953123",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjA5MDIzODQyMV5BMl5BanBnXkFtZTYwOTk0NzQ2._V1_.jpg",
+              "height": 450,
+              "width": 350
+            }
+          }
+        ],
+        "notes": "Write-in candidate, not an official nominee. The official AMPAS records list the pseudonym 'Gregory Rogers' as nominee."
+      },
+      {
+        "won": false,
+        "target": ["Broadway Melody of 1936"],
+        "target_enriched": [
+          {
+            "name": "Broadway Melody of 1936",
+            "imdb_id": "tt0026144",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWJlZmFhMjQtMDJkNy00ZGFkLTg2Y2ItMTIxNTI0YWZjNWVmXkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg",
+              "height": 1440,
+              "width": 960
+            }
+          }
+        ],
+        "for": ["Moss Hart"],
+        "for_enriched": [
+          {
+            "name": "Moss Hart",
+            "imdb_id": "nm0366454",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGJkOWQ4MTAtOGY0Mi00MDUxLWJkODEtOTI4MGYzNWMzNmU4XkEyXkFqcGdeQXVyNTUyMTMyMDg@._V1_.jpg",
+              "height": 712,
+              "width": 552
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The Gay Deception"],
+        "target_enriched": [
+          {
+            "name": "The Gay Deception",
+            "imdb_id": "tt0026400",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjM0NjZhYjgtY2ZjMS00M2RmLWFlYzAtNGQ0ZDhjYjNlNDVkXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 606,
+              "width": 400
+            }
+          }
+        ],
+        "for": ["Don Hartman", "Stephen Morehouse Avery"],
+        "for_enriched": [
+          {
+            "name": "Don Hartman",
+            "imdb_id": "nm0366942",
+            "note": null,
+            "image": null
+          },
+          {
+            "name": "Stephen Morehouse Avery",
+            "imdb_id": "nm0043081",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": null
+      }
+    ]
+  },
+  {
+    "name": "Best Writing, Screenplay",
+    "normalized_name": "Best Writing, Screenplay",
+    "category_id": 24,
+    "candidates": [
+      {
+        "won": true,
+        "target": ["The Informer"],
+        "target_enriched": [
+          {
+            "name": "The Informer",
+            "imdb_id": "tt0026529",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDM1YjliYzYtOTkzMS00M2NkLThhNjctM2RlM2MxODE4YjJjXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+              "height": 1139,
+              "width": 751
+            }
+          }
+        ],
+        "for": ["Dudley Nichols"],
+        "for_enriched": [
+          {
+            "name": "Dudley Nichols",
+            "imdb_id": "nm0629580",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZjk2ZDBiNzAtYTg1ZS00YjBmLWEyMTctZTBjNDQyYjdiZjg5XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg",
+              "height": 225,
+              "width": 300
+            }
+          }
+        ],
+        "notes": "Refused to accept his award because of the antagonism between several industry guilds and the academy over union matters. This marked the first time an Academy Award had been declined. Academy records show that Dudley was in possession of an Oscar statuette by 1949."
+      },
+      {
+        "won": false,
+        "target": ["Captain Blood"],
+        "target_enriched": [
+          {
+            "name": "Captain Blood",
+            "imdb_id": "tt0026174",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjMwNDc1MzMyNV5BMl5BanBnXkFtZTgwODUzMjU1MzE@._V1_.jpg",
+              "height": 1878,
+              "width": 1159
+            }
+          }
+        ],
+        "for": ["Casey Robinson"],
+        "for_enriched": [
+          {
+            "name": "Casey Robinson",
+            "imdb_id": "nm0732452",
+            "note": null,
+            "image": null
+          }
+        ],
+        "notes": "This was a write-in candidate, who came in third on the final ballots. It was not an official nomination."
+      },
+      {
+        "won": false,
+        "target": ["Mutiny on the Bounty"],
+        "target_enriched": [
+          {
+            "name": "Mutiny on the Bounty",
+            "imdb_id": "tt0026752",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmRhZWU4MTAtNzE0OC00YjIyLTk2MGItMDRjYTc0MTZiNmU1XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+              "height": 2812,
+              "width": 1825
+            }
+          }
+        ],
+        "for": ["Jules Furthman", "Talbot Jennings", "Carey Wilson"],
+        "for_enriched": [
+          {
+            "name": "Jules Furthman",
+            "imdb_id": "nm0299154",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmRiOWRhZjMtZmNlZC00M2U1LTgzZDEtZmQyMjlkZjM1MmFmXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_.jpg",
+              "height": 1124,
+              "width": 889
+            }
+          },
+          {
+            "name": "Talbot Jennings",
+            "imdb_id": "nm0421255",
+            "note": null,
+            "image": null
+          },
+          {
+            "name": "Carey Wilson",
+            "imdb_id": "nm0933133",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmJjOTQyMjQtYjQ2YS00OGU1LTg5OGMtYWJhMzI3YzFmMGJjXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_.jpg",
+              "height": 350,
+              "width": 280
+            }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The Lives of a Bengal Lancer"],
+        "target_enriched": [
+          {
+            "name": "The Lives of a Bengal Lancer",
+            "imdb_id": "tt0026643",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTMwOTMwY2QtMGVmYS00NjYxLWI5MjQtOTczNTVmOWVlNzczXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+              "height": 4016,
+              "width": 2654
+            }
+          }
+        ],
+        "for": [
+          "Achmed Abdullah",
+          "John L. Balderston",
+          "Grover Jones",
+          "William Slavens McNutt",
+          "Waldemar Young"
+        ],
+        "for_enriched": [
+          {
+            "name": "Achmed Abdullah",
+            "imdb_id": "nm0008280",
+            "note": null,
+            "image": null
+          },
+          {
+            "name": "John L. Balderston",
+            "imdb_id": "nm0049721",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNDNkYWQ3ZWItODlkOC00OTQzLWEyMGItN2FiZjc2Y2ZhMDJlXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+              "height": 1307,
+              "width": 668
+            }
+          },
+          {
+            "name": "Grover Jones",
+            "imdb_id": "nm0428177",
+            "note": null,
+            "image": null
+          },
+          {
+            "name": "William Slavens McNutt",
+            "imdb_id": "nm0574112",
+            "note": null,
+            "image": null
+          },
+          {
+            "name": "Waldemar Young",
+            "imdb_id": "nm0950150",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZDY3YjgwZmItNzRiYS00YWU1LWEyMWEtMjVmZjBhYjg1MzY5XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
+              "height": 979,
+              "width": 832
+            }
+          }
+        ],
+        "notes": null
+      }
+    ]
+  }
 ]

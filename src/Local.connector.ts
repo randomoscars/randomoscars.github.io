@@ -6,7 +6,7 @@ async function getOscarCategories(ceremonyNum: number): Promise<OscarYear> {
   const storedCategories: Array<OscarCategory & { year?: number }> =
     await fileResponse.json();
   const year = ceremonyNum + 1928;
-  return storedCategories.map((category) => {
+  return storedCategories.map(category => {
     category.year = year;
     return category;
   });
@@ -17,7 +17,7 @@ export async function getAllCategories(): Promise<string[]> {
   for (let i = 1; i <= 93; i++) {
     const oscarCategories = await getOscarCategories(i);
     categories = categories.concat(
-      oscarCategories.map((category) => category.normalized_name)
+      oscarCategories.map(category => category.normalized_name)
     );
   }
   return uniq(categories).sort();
@@ -44,7 +44,7 @@ export async function getAwardData(
   const ceremonyNum = year - 1928;
   const oscarCategories = await getOscarCategories(ceremonyNum);
   return oscarCategories.find(
-    (category) => category.normalized_name === categoryName
+    category => category.normalized_name === categoryName
   );
 }
 

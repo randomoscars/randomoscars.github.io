@@ -20,8 +20,8 @@ export function YearInput(props: {
   return (
     <input
       value={props.year ?? ''}
-      onChange={(e) => props.setYear(parseInt(e.target.value))}
-      onBlur={(e) => {
+      onChange={e => props.setYear(parseInt(e.target.value))}
+      onBlur={e => {
         const year = parseInt(e.target.value);
         const yearWithinBounds = Math.min(max, Math.max(year, min));
         props.setYear(yearWithinBounds);
@@ -50,14 +50,14 @@ export function CategorySelect(props: {
   return (
     <select
       value={props.category}
-      onChange={(e) => props.setCategory(e.target.value)}
+      onChange={e => props.setCategory(e.target.value)}
       defaultValue={undefined}
-      style={{ width: '20rem' }}
+      style={{ width: '20rem', overflowX: 'hidden' }}
     >
       <option value={undefined} disabled>
         Category
       </option>
-      {categories.map((cat) => (
+      {categories.map(cat => (
         <option value={cat} key={cat}>
           {cat}
         </option>

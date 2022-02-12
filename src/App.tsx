@@ -40,10 +40,13 @@ function Layout() {
 
   useEffect(() => {
     setAwardData(undefined);
-    getAwardDataWithRetry(
-      Number(searchParams.get('category')),
-      Number(searchParams.get('year'))
-    ).then(setAwardData);
+    const categoryId = searchParams.get('category');
+    const year = searchParams.get('year');
+    if (typeof categoryId === 'string' && typeof year === 'string') {
+      getAwardDataWithRetry(Number(categoryId), Number(year)).then(
+        setAwardData
+      );
+    }
   }, [searchParams]);
 
   return (

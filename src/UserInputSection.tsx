@@ -44,7 +44,7 @@ export function UserInputSection(props: {
         <YearInput year={year} setYear={setYear} />
         <button
           onClick={() => search(categoryId as number, year as number)}
-          disabled={!categoryId || !year}
+          disabled={typeof year !== 'number'}
         >
           <IconButtonLabel label="Search" icon={BsSearch} />
         </button>

@@ -52,7 +52,10 @@ function Layout() {
   return (
     <>
       <section>
-        <UserInputSection setSearchParams={setSearchParams} />
+        <UserInputSection
+          searchParams={searchParams}
+          setSearchParams={setSearchParams}
+        />
       </section>
       <section>
         <NomineeHeader awardData={awardData} />

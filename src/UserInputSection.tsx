@@ -1,10 +1,11 @@
 import { CategorySelect, IconButtonLabel, YearInput } from './FormInputs';
 import { BsSearch, BsShuffle } from 'react-icons/bs';
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import { randomize } from './Local.connector';
 import { SearchParamsSetter } from './Models';
 
 export function UserInputSection(props: {
+  searchParams: URLSearchParams;
   setSearchParams: SearchParamsSetter;
 }) {
   const [categoryId, setCategoryId] = useState<number | undefined>(undefined);
@@ -19,11 +20,17 @@ export function UserInputSection(props: {
 
   const randomizeForm = () => {
     randomize().then(([randomCategoryId, randomYear]) => {
-      setCategoryId(randomCategoryId);
-      setYear(randomYear);
       search(randomCategoryId, randomYear);
     });
   };
+
+  useEffect(() => {
+    const categoryId = props.searchParams.get('category');
+    if (typeof categoryId === 'string') setCategoryId(Number(categoryId));
+    const year = props.searchParams.get('year');
+    if (typeof year === 'string') setYear(Number(year));
+  }, [props.searchParams]);
+
   return (
     <>
       <div style={{ display: 'flex', flexWrap: 'wrap' }}>

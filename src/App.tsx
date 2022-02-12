@@ -1,8 +1,9 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import { AppFooter, AppHeader, SiteExplainer } from './StaticComponents';
 import { EnrichedInfo, OscarCategory } from './Models';
 import { UserInputSection } from './UserInputSection';
 import { Routes, Route, useSearchParams } from 'react-router-dom';
+import { getAwardDataWithRetry } from './Local.connector';
 
 function App() {
   return (
@@ -36,6 +37,14 @@ function Layout() {
     undefined as undefined | OscarCategory
   );
   const [searchParams, setSearchParams] = useSearchParams();
+
+  useEffect(() => {
+    setAwardData(undefined);
+    getAwardDataWithRetry(
+      Number(searchParams.get('category')),
+      Number(searchParams.get('year'))
+    ).then(setAwardData);
+  }, [searchParams]);
 
   return (
     <>

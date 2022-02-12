@@ -1,26 +1,20 @@
 import { CategorySelect, IconButtonLabel, YearInput } from './FormInputs';
 import { BsSearch, BsShuffle } from 'react-icons/bs';
 import React, { useState } from 'react';
-import { getAwardDataWithRetry, randomize } from './Local.connector';
-import { OscarCategory } from './Models';
-import { useNavigate } from 'react-router-dom';
+import { randomize } from './Local.connector';
+import { SearchParamsSetter } from './Models';
 
 export function UserInputSection(props: {
-  setAwardData: React.Dispatch<React.SetStateAction<OscarCategory | undefined>>;
+  setSearchParams: SearchParamsSetter;
 }) {
   const [categoryId, setCategoryId] = useState<number | undefined>(undefined);
   const [year, setYear] = useState<number | undefined>(undefined);
-  const navigate = useNavigate();
 
   const search = (categoryId: number, year: number) => {
-    navigate({
-      pathname: '/',
-      search: `?category=${categoryId}&year=${year}`,
+    props.setSearchParams({
+      category: categoryId.toString(),
+      year: year.toString(),
     });
-    props.setAwardData(undefined);
-    getAwardDataWithRetry(categoryId, year)
-      .then(props.setAwardData)
-      .catch(() => {});
   };
 
   const randomizeForm = () => {

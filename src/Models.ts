@@ -1,3 +1,5 @@
+import { URLSearchParamsInit } from 'react-router-dom';
+
 export const categories = [
   'Best Actor in a Leading Role',
   'Best Actor in a Supporting Role',
@@ -53,3 +55,13 @@ export type ImageInfo = {
   height: string;
   width: string;
 };
+
+export type SearchParamsSetter = (
+  nextInit: URLSearchParamsInit,
+  navigateOptions?:
+    | {
+        replace?: boolean | undefined;
+        state?: any;
+      }
+    | undefined
+) => void;

@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { AppFooter, AppHeader, SiteExplainer } from './StaticComponents';
 import { EnrichedInfo, OscarCategory } from './Models';
 import { UserInputSection } from './UserInputSection';
-import { Routes, Route } from 'react-router-dom';
+import { Routes, Route, useSearchParams } from 'react-router-dom';
 
 function App() {
   return (
@@ -35,11 +35,12 @@ function Layout() {
   const [awardData, setAwardData] = useState(
     undefined as undefined | OscarCategory
   );
+  const [searchParams, setSearchParams] = useSearchParams();
 
   return (
     <>
       <section>
-        <UserInputSection setAwardData={setAwardData} />
+        <UserInputSection setSearchParams={setSearchParams} />
       </section>
       <section>
         <NomineeHeader awardData={awardData} />

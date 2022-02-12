@@ -65,3 +65,6 @@ export type SearchParamsSetter = (
       }
     | undefined
 ) => void;
+
+export const DEFAULT_YEAR = undefined;
+export const DEFAULT_CATEGORY_ID = 13;

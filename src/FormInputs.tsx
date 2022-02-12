@@ -38,7 +38,7 @@ export function YearInput(props: {
 
 export function CategorySelect(props: {
   categoryId: number | undefined;
-  setCategoryId: Dispatch<SetStateAction<number | undefined>>;
+  setCategoryId: Dispatch<SetStateAction<number>>;
 }) {
   const [categories, setCategories] = useState([] as OscarCategory[]);
 
@@ -55,9 +55,6 @@ export function CategorySelect(props: {
       defaultValue={undefined}
       style={{ width: '20rem', overflowX: 'hidden' }}
     >
-      <option value={undefined} disabled>
-        Category
-      </option>
       {categories.map(cat => (
         <option value={cat.category_id} key={cat.category_id}>
           {cat.normalized_name}

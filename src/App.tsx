@@ -1,31 +1,12 @@
 import React, { useState } from 'react';
-import { BsSearch, BsShuffle } from 'react-icons/bs';
-import { CategorySelect, IconButtonLabel, YearInput } from './FormInputs';
 import { AppFooter, AppHeader, SiteExplainer } from './StaticComponents';
 import { EnrichedInfo, OscarCategory } from './Models';
-import { getAwardDataWithRetry, randomize } from './Local.connector';
+import { UserInputSection } from './UserInputSection';
 
 function App() {
   const [awardData, setAwardData] = useState(
     undefined as undefined | OscarCategory
   );
-  const [category, setCategory] = useState<string | undefined>(undefined);
-  const [year, setYear] = useState<number | undefined>(undefined);
-
-  const search = (category: string, year: number) => {
-    setAwardData(undefined);
-    getAwardDataWithRetry(category, year)
-      .then(setAwardData)
-      .catch(() => {});
-  };
-
-  const randomizeForm = () => {
-    randomize().then(([randomCategory, randomYear]) => {
-      setCategory(randomCategory);
-      setYear(randomYear);
-      search(randomCategory, randomYear);
-    });
-  };
 
   return (
     <div
@@ -39,19 +20,7 @@ function App() {
       <div>
         <AppHeader />
         <section>
-          <div style={{ display: 'flex', flexWrap: 'wrap' }}>
-            <CategorySelect category={category} setCategory={setCategory} />
-            <YearInput year={year} setYear={setYear} />
-            <button
-              onClick={() => search(category as string, year as number)}
-              disabled={!category || !year}
-            >
-              <IconButtonLabel label="Search" icon={BsSearch} />
-            </button>
-          </div>
-          <button onClick={() => randomizeForm()}>
-            <IconButtonLabel label="Randomize" icon={BsShuffle} />
-          </button>
+          <UserInputSection setAwardData={setAwardData} />
         </section>
         <section>
           <NomineeHeader awardData={awardData} />

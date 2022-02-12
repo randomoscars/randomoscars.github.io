@@ -36,7 +36,7 @@ export function YearInput(props: {
 }
 
 export function CategorySelect(props: {
-  category: string | undefined;
+  categoryName: string | undefined;
   setCategory: Dispatch<SetStateAction<string | undefined>>;
 }) {
   const [categories, setCategories] = useState([] as string[]);
@@ -49,7 +49,7 @@ export function CategorySelect(props: {
 
   return (
     <select
-      value={props.category}
+      value={props.categoryName}
       onChange={e => props.setCategory(e.target.value)}
       defaultValue={undefined}
       style={{ width: '20rem', overflowX: 'hidden' }}

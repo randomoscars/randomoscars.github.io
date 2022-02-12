@@ -53,5 +53,6 @@ export async function randomize() {
   const oscarCategories = await getOscarCategories(ceremonyNum);
   const index = Math.floor(Math.random() * oscarCategories.length);
   const categoryName = oscarCategories[index].normalized_name;
-  return [categoryName, ceremonyNum + 1928] as const;
+  const categoryId = oscarCategories[index].category_id;
+  return [categoryId, categoryName, ceremonyNum + 1928] as const;
 }

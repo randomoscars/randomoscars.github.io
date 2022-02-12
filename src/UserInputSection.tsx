@@ -3,14 +3,20 @@ import { BsSearch, BsShuffle } from 'react-icons/bs';
 import React, { useState } from 'react';
 import { getAwardDataWithRetry, randomize } from './Local.connector';
 import { OscarCategory } from './Models';
+import { useNavigate } from 'react-router-dom';
 
 export function UserInputSection(props: {
   setAwardData: React.Dispatch<React.SetStateAction<OscarCategory | undefined>>;
 }) {
   const [categoryId, setCategoryId] = useState<number | undefined>(undefined);
   const [year, setYear] = useState<number | undefined>(undefined);
+  const navigate = useNavigate();
 
   const search = (categoryId: number, year: number) => {
+    navigate({
+      pathname: '/',
+      search: `?category=${categoryId}&year=${year}`,
+    });
     props.setAwardData(undefined);
     getAwardDataWithRetry(categoryId, year)
       .then(props.setAwardData)

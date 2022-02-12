@@ -111,13 +111,25 @@ function Nominees(props: { awardData: OscarCategory | undefined }) {
               {hasFor && (
                 <td style={{ padding: '1rem' }}>
                   {candidate.for_enriched.map(n => {
-                    return <EnrichedLink nomineeData={n} won={candidate.won} />;
+                    return (
+                      <EnrichedLink
+                        nomineeData={n}
+                        won={candidate.won}
+                        key={n.imdb_id}
+                      />
+                    );
                   })}
                 </td>
               )}
               <td style={{ padding: '1rem' }}>
                 {candidate.target_enriched.map(n => {
-                  return <EnrichedLink nomineeData={n} won={candidate.won} />;
+                  return (
+                    <EnrichedLink
+                      nomineeData={n}
+                      won={candidate.won}
+                      key={n.imdb_id}
+                    />
+                  );
                 })}
               </td>
               {hasNotes && (

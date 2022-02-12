@@ -24,35 +24,32 @@ export async function getAllCategories(): Promise<OscarCategory[]> {
 }
 
 export async function getAwardDataWithRetry(
-  categoryName: string,
+  categoryId: number,
   year: number
 ): Promise<OscarCategory | undefined> {
-  const awardData = await getAwardData(categoryName, year);
+  const awardData = await getAwardData(categoryId, year);
   if (awardData) {
     return awardData;
   }
   if (year < 2021) {
-    return await getAwardDataWithRetry(categoryName, year + 1);
+    return await getAwardDataWithRetry(categoryId, year + 1);
   }
   return undefined;
 }
 
 export async function getAwardData(
-  categoryName: string,
+  categoryId: number,
   year: number
 ): Promise<OscarCategory | undefined> {
   const ceremonyNum = year - 1928;
   const oscarCategories = await getOscarCategories(ceremonyNum);
-  return oscarCategories.find(
-    category => category.normalized_name === categoryName
-  );
+  return oscarCategories.find(category => category.category_id === categoryId);
 }
 
 export async function randomize() {
   const ceremonyNum = Math.floor(Math.random() * 92) + 1;
   const oscarCategories = await getOscarCategories(ceremonyNum);
   const index = Math.floor(Math.random() * oscarCategories.length);
-  const categoryName = oscarCategories[index].normalized_name;
   const categoryId = oscarCategories[index].category_id;
-  return [categoryId, categoryName, ceremonyNum + 1928] as const;
+  return [categoryId, ceremonyNum + 1928] as const;
 }

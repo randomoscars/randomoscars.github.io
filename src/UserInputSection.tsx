@@ -8,23 +8,20 @@ export function UserInputSection(props: {
   setAwardData: React.Dispatch<React.SetStateAction<OscarCategory | undefined>>;
 }) {
   const [categoryId, setCategoryId] = useState<number | undefined>(undefined);
-  const [categoryName, setCategoryName] = useState<string | undefined>(
-    undefined
-  );
   const [year, setYear] = useState<number | undefined>(undefined);
 
-  const search = (categoryId: number, categoryName: string, year: number) => {
+  const search = (categoryId: number, year: number) => {
     props.setAwardData(undefined);
-    getAwardDataWithRetry(categoryName, year)
+    getAwardDataWithRetry(categoryId, year)
       .then(props.setAwardData)
       .catch(() => {});
   };
 
   const randomizeForm = () => {
-    randomize().then(([randomCategoryId, randomCategoryName, randomYear]) => {
-      setCategoryName(randomCategoryName);
+    randomize().then(([randomCategoryId, randomYear]) => {
+      setCategoryId(randomCategoryId);
       setYear(randomYear);
-      search(randomCategoryId, randomCategoryName, randomYear);
+      search(randomCategoryId, randomYear);
     });
   };
   return (
@@ -33,10 +30,8 @@ export function UserInputSection(props: {
         <CategorySelect categoryId={categoryId} setCategoryId={setCategoryId} />
         <YearInput year={year} setYear={setYear} />
         <button
-          onClick={() =>
-            search(categoryId as number, categoryName as string, year as number)
-          }
-          disabled={!categoryName || !year}
+          onClick={() => search(categoryId as number, year as number)}
+          disabled={!categoryId || !year}
         >
           <IconButtonLabel label="Search" icon={BsSearch} />
         </button>

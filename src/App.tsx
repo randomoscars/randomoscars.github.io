@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { AppFooter, AppHeader, SiteExplainer } from './StaticComponents';
 import { EnrichedInfo, OscarCategory } from './Models';
 import { UserInputSection } from './UserInputSection';
+import { Routes, Route } from 'react-router-dom';
 
 function App() {
   return (
@@ -15,7 +16,9 @@ function App() {
     >
       <div>
         <AppHeader />
-        <Layout />
+        <Routes>
+          <Route path="/" element={<Layout />} />
+        </Routes>
       </div>
       <div>
         <section>

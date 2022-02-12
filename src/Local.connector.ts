@@ -1,5 +1,5 @@
 import { OscarCategory, OscarYear } from './Models';
-import uniq from 'ramda/src/uniq';
+import uniqBy from 'ramda/src/uniqBy';
 
 async function getOscarCategories(ceremonyNum: number): Promise<OscarYear> {
   const fileResponse = await fetch(`/Data/${ceremonyNum}.json`);
@@ -12,15 +12,15 @@ async function getOscarCategories(ceremonyNum: number): Promise<OscarYear> {
   });
 }
 
-export async function getAllCategories(): Promise<string[]> {
-  let categories: string[] = [];
+export async function getAllCategories(): Promise<OscarCategory[]> {
+  let categories: OscarCategory[] = [];
   for (let i = 1; i <= 93; i++) {
     const oscarCategories = await getOscarCategories(i);
-    categories = categories.concat(
-      oscarCategories.map(category => category.normalized_name)
-    );
+    categories = categories.concat(oscarCategories);
   }
-  return uniq(categories).sort();
+  return uniqBy(cat => cat.normalized_name, categories).sort((a, b) =>
+    a.normalized_name > b.normalized_name ? 1 : -1
+  );
 }
 
 export async function getAwardDataWithRetry(

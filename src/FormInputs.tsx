@@ -1,6 +1,7 @@
 import { IconType } from 'react-icons';
 import React, { Dispatch, SetStateAction, useEffect, useState } from 'react';
 import { getAllCategories } from './Local.connector';
+import { OscarCategory } from './Models';
 
 export function IconButtonLabel(props: { label: string; icon: IconType }) {
   return (
@@ -36,10 +37,10 @@ export function YearInput(props: {
 }
 
 export function CategorySelect(props: {
-  categoryName: string | undefined;
-  setCategory: Dispatch<SetStateAction<string | undefined>>;
+  categoryId: number | undefined;
+  setCategoryId: Dispatch<SetStateAction<number | undefined>>;
 }) {
-  const [categories, setCategories] = useState([] as string[]);
+  const [categories, setCategories] = useState([] as OscarCategory[]);
 
   useEffect(() => {
     getAllCategories()
@@ -49,8 +50,8 @@ export function CategorySelect(props: {
 
   return (
     <select
-      value={props.categoryName}
-      onChange={e => props.setCategory(e.target.value)}
+      value={props.categoryId}
+      onChange={e => props.setCategoryId(Number(e.target.value))}
       defaultValue={undefined}
       style={{ width: '20rem', overflowX: 'hidden' }}
     >
@@ -58,8 +59,8 @@ export function CategorySelect(props: {
         Category
       </option>
       {categories.map(cat => (
-        <option value={cat} key={cat}>
-          {cat}
+        <option value={cat.category_id} key={cat.category_id}>
+          {cat.normalized_name}
         </option>
       ))}
     </select>

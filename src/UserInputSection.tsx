@@ -30,10 +30,7 @@ export function UserInputSection(props: {
   return (
     <>
       <div style={{ display: 'flex', flexWrap: 'wrap' }}>
-        <CategorySelect
-          categoryName={categoryName}
-          setCategory={setCategoryName}
-        />
+        <CategorySelect categoryId={categoryId} setCategoryId={setCategoryId} />
         <YearInput year={year} setYear={setYear} />
         <button
           onClick={() =>

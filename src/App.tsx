@@ -4,10 +4,6 @@ import { EnrichedInfo, OscarCategory } from './Models';
 import { UserInputSection } from './UserInputSection';
 
 function App() {
-  const [awardData, setAwardData] = useState(
-    undefined as undefined | OscarCategory
-  );
-
   return (
     <div
       style={{
@@ -17,16 +13,7 @@ function App() {
         height: '90vh',
       }}
     >
-      <div>
-        <AppHeader />
-        <section>
-          <UserInputSection setAwardData={setAwardData} />
-        </section>
-        <section>
-          <NomineeHeader awardData={awardData} />
-          <Nominees awardData={awardData} />
-        </section>
-      </div>
+      <Layout />
       <div>
         <section>
           <hr />
@@ -34,6 +21,25 @@ function App() {
         </section>
         <AppFooter />
       </div>
+    </div>
+  );
+}
+
+function Layout() {
+  const [awardData, setAwardData] = useState(
+    undefined as undefined | OscarCategory
+  );
+
+  return (
+    <div>
+      <AppHeader />
+      <section>
+        <UserInputSection setAwardData={setAwardData} />
+      </section>
+      <section>
+        <NomineeHeader awardData={awardData} />
+        <Nominees awardData={awardData} />
+      </section>
     </div>
   );
 }

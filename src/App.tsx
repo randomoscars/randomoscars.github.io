@@ -13,7 +13,10 @@ function App() {
         height: '90vh',
       }}
     >
-      <Layout />
+      <div>
+        <AppHeader />
+        <Layout />
+      </div>
       <div>
         <section>
           <hr />
@@ -31,8 +34,7 @@ function Layout() {
   );
 
   return (
-    <div>
-      <AppHeader />
+    <>
       <section>
         <UserInputSection setAwardData={setAwardData} />
       </section>
@@ -40,7 +42,7 @@ function Layout() {
         <NomineeHeader awardData={awardData} />
         <Nominees awardData={awardData} />
       </section>
-    </div>
+    </>
   );
 }
 

@@ -67,4 +67,4 @@ export type SearchParamsSetter = (
 ) => void;
 
 export const DEFAULT_YEAR = undefined;
-export const DEFAULT_CATEGORY_ID = 13;
+export const DEFAULT_CATEGORY_ID = 61; // Best Motion Picture of the Year

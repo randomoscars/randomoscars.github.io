@@ -1,3 +1,5 @@
+import { URLSearchParamsInit } from 'react-router-dom';
+
 export const categories = [
   'Best Actor in a Leading Role',
   'Best Actor in a Supporting Role',
@@ -53,3 +55,16 @@ export type ImageInfo = {
   height: string;
   width: string;
 };
+
+export type SearchParamsSetter = (
+  nextInit: URLSearchParamsInit,
+  navigateOptions?:
+    | {
+        replace?: boolean | undefined;
+        state?: any;
+      }
+    | undefined
+) => void;
+
+export const DEFAULT_YEAR = undefined;
+export const DEFAULT_CATEGORY_ID = 61; // Best Motion Picture of the Year

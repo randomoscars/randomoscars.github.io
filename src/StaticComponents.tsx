@@ -1,9 +1,12 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 export function AppHeader() {
   return (
     <header className="App-header">
-      <h1>Random Oscars</h1>
+      <Link to="/">
+        <h1>Random Oscars</h1>
+      </Link>
     </header>
   );
 }

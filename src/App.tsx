@@ -1,32 +1,11 @@
-import React, { useState } from 'react';
-import { BsSearch, BsShuffle } from 'react-icons/bs';
-import { CategorySelect, IconButtonLabel, YearInput } from './FormInputs';
+import React, { useEffect, useState } from 'react';
 import { AppFooter, AppHeader, SiteExplainer } from './StaticComponents';
 import { EnrichedInfo, OscarCategory } from './Models';
-import { getAwardDataWithRetry, randomize } from './Local.connector';
+import { UserInputSection } from './UserInputSection';
+import { Routes, Route, useSearchParams } from 'react-router-dom';
+import { getAwardDataWithRetry } from './Local.connector';
 
 function App() {
-  const [awardData, setAwardData] = useState(
-    undefined as undefined | OscarCategory
-  );
-  const [category, setCategory] = useState<string | undefined>(undefined);
-  const [year, setYear] = useState<number | undefined>(undefined);
-
-  const search = (category: string, year: number) => {
-    setAwardData(undefined);
-    getAwardDataWithRetry(category, year)
-      .then(setAwardData)
-      .catch(() => {});
-  };
-
-  const randomizeForm = () => {
-    randomize().then(([randomCategory, randomYear]) => {
-      setCategory(randomCategory);
-      setYear(randomYear);
-      search(randomCategory, randomYear);
-    });
-  };
-
   return (
     <div
       style={{
@@ -38,25 +17,9 @@ function App() {
     >
       <div>
         <AppHeader />
-        <section>
-          <div style={{ display: 'flex', flexWrap: 'wrap' }}>
-            <CategorySelect category={category} setCategory={setCategory} />
-            <YearInput year={year} setYear={setYear} />
-            <button
-              onClick={() => search(category as string, year as number)}
-              disabled={!category || !year}
-            >
-              <IconButtonLabel label="Search" icon={BsSearch} />
-            </button>
-          </div>
-          <button onClick={() => randomizeForm()}>
-            <IconButtonLabel label="Randomize" icon={BsShuffle} />
-          </button>
-        </section>
-        <section>
-          <NomineeHeader awardData={awardData} />
-          <Nominees awardData={awardData} />
-        </section>
+        <Routes>
+          <Route path="/" element={<Layout />} />
+        </Routes>
       </div>
       <div>
         <section>
@@ -66,6 +29,39 @@ function App() {
         <AppFooter />
       </div>
     </div>
+  );
+}
+
+function Layout() {
+  const [awardData, setAwardData] = useState(
+    undefined as undefined | OscarCategory
+  );
+  const [searchParams, setSearchParams] = useSearchParams();
+
+  useEffect(() => {
+    setAwardData(undefined);
+    const categoryId = searchParams.get('category');
+    const year = searchParams.get('year');
+    if (typeof categoryId === 'string' && typeof year === 'string') {
+      getAwardDataWithRetry(Number(categoryId), Number(year)).then(
+        setAwardData
+      );
+    }
+  }, [searchParams]);
+
+  return (
+    <>
+      <section>
+        <UserInputSection
+          searchParams={searchParams}
+          setSearchParams={setSearchParams}
+        />
+      </section>
+      <section>
+        <NomineeHeader awardData={awardData} />
+        <Nominees awardData={awardData} />
+      </section>
+    </>
   );
 }
 
@@ -118,13 +114,25 @@ function Nominees(props: { awardData: OscarCategory | undefined }) {
               {hasFor && (
                 <td style={{ padding: '1rem' }}>
                   {candidate.for_enriched.map(n => {
-                    return <EnrichedLink nomineeData={n} won={candidate.won} />;
+                    return (
+                      <EnrichedLink
+                        nomineeData={n}
+                        won={candidate.won}
+                        key={n.imdb_id}
+                      />
+                    );
                   })}
                 </td>
               )}
               <td style={{ padding: '1rem' }}>
                 {candidate.target_enriched.map(n => {
-                  return <EnrichedLink nomineeData={n} won={candidate.won} />;
+                  return (
+                    <EnrichedLink
+                      nomineeData={n}
+                      won={candidate.won}
+                      key={n.imdb_id}
+                    />
+                  );
                 })}
               </td>
               {hasNotes && (

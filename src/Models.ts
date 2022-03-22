@@ -68,3 +68,4 @@ export type SearchParamsSetter = (
 
 export const DEFAULT_YEAR = undefined;
 export const DEFAULT_CATEGORY_ID = 61; // Best Motion Picture of the Year
+export const CURRENT_YEAR = 2022;

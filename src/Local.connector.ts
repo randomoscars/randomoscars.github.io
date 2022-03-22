@@ -1,4 +1,4 @@
-import { OscarCategory, OscarYear } from './Models';
+import { CURRENT_YEAR, OscarCategory, OscarYear } from './Models';
 import uniqBy from 'ramda/src/uniqBy';
 
 async function getOscarCategories(ceremonyNum: number): Promise<OscarYear> {
@@ -31,7 +31,7 @@ export async function getAwardDataWithRetry(
   if (awardData) {
     return awardData;
   }
-  if (year < 2021) {
+  if (year < CURRENT_YEAR) {
     return await getAwardDataWithRetry(categoryId, year + 1);
   }
   return undefined;

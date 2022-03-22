@@ -1,7 +1,7 @@
 import { IconType } from 'react-icons';
 import React, { Dispatch, SetStateAction, useEffect, useState } from 'react';
 import { getAllCategories } from './Local.connector';
-import { OscarCategory } from './Models';
+import { CURRENT_YEAR, OscarCategory } from './Models';
 
 export function IconButtonLabel(props: { label: string; icon: IconType }) {
   return (
@@ -17,7 +17,7 @@ export function YearInput(props: {
   setYear: Dispatch<SetStateAction<number | undefined>>;
 }) {
   const min = 1929;
-  const max = 2021;
+  const max = CURRENT_YEAR;
   return (
     <input
       value={props.year ?? ''}

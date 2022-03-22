@@ -206,10 +206,10 @@
             }
           }
         ],
-        "for": ["Star Wars: Episode IV - A New Hope"],
+        "for": ["Star Wars"],
         "for_enriched": [
           {
-            "name": "Star Wars: Episode IV - A New Hope",
+            "name": "Star Wars",
             "imdb_id": "tt0076759",
             "note": null,
             "image": {
@@ -617,9 +617,9 @@
             "imdb_id": "tt0076327",
             "note": null,
             "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BMjAwNzAzNjY5NF5BMl5BanBnXkFtZTgwMzcwMjEyMDE@._V1_.jpg",
-              "height": 500,
-              "width": 332
+              "url": "https://m.media-amazon.com/images/M/MV5BYzdjNDhkOWMtMTllMS00OTJlLWIxZTAtMTQ0MGZjNzc0OWJlXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+              "height": 4079,
+              "width": 2689
             }
           }
         ],
@@ -634,10 +634,10 @@
     "candidates": [
       {
         "won": true,
-        "target": ["Star Wars: Episode IV - A New Hope"],
+        "target": ["Star Wars"],
         "target_enriched": [
           {
-            "name": "Star Wars: Episode IV - A New Hope",
+            "name": "Star Wars",
             "imdb_id": "tt0076759",
             "note": null,
             "image": {
@@ -698,9 +698,9 @@
             "imdb_id": "tt0075648",
             "note": null,
             "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BMzM4OWM1N2UtZTRkZi00NjA4LThiOGUtNDA4ZDc2OTI1YjBkXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_.jpg",
-              "height": 1150,
-              "width": 736
+              "url": "https://m.media-amazon.com/images/M/MV5BYjA3NzE5NDItMTU2NS00ZmZhLThmMzQtZmM0ZDZjZjE3MmUxXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+              "height": 2901,
+              "width": 1907
             }
           }
         ],
@@ -947,9 +947,9 @@
             "imdb_id": "tt0076327",
             "note": null,
             "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BMjAwNzAzNjY5NF5BMl5BanBnXkFtZTgwMzcwMjEyMDE@._V1_.jpg",
-              "height": 500,
-              "width": 332
+              "url": "https://m.media-amazon.com/images/M/MV5BYzdjNDhkOWMtMTllMS00OTJlLWIxZTAtMTQ0MGZjNzc0OWJlXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+              "height": 4079,
+              "width": 2689
             }
           }
         ],
@@ -1007,10 +1007,10 @@
     "candidates": [
       {
         "won": true,
-        "target": ["Star Wars: Episode IV - A New Hope"],
+        "target": ["Star Wars"],
         "target_enriched": [
           {
-            "name": "Star Wars: Episode IV - A New Hope",
+            "name": "Star Wars",
             "imdb_id": "tt0076759",
             "note": null,
             "image": {
@@ -1070,9 +1070,9 @@
             "imdb_id": "tt0075648",
             "note": null,
             "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BMzM4OWM1N2UtZTRkZi00NjA4LThiOGUtNDA4ZDc2OTI1YjBkXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_.jpg",
-              "height": 1150,
-              "width": 736
+              "url": "https://m.media-amazon.com/images/M/MV5BYjA3NzE5NDItMTU2NS00ZmZhLThmMzQtZmM0ZDZjZjE3MmUxXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+              "height": 2901,
+              "width": 1907
             }
           }
         ],
@@ -1239,10 +1239,10 @@
             }
           }
         ],
-        "for": ["Star Wars: Episode IV - A New Hope"],
+        "for": ["Star Wars"],
         "for_enriched": [
           {
-            "name": "Star Wars: Episode IV - A New Hope",
+            "name": "Star Wars",
             "imdb_id": "tt0076759",
             "note": null,
             "image": {
@@ -1667,10 +1667,10 @@
     "candidates": [
       {
         "won": true,
-        "target": ["Star Wars: Episode IV - A New Hope"],
+        "target": ["Star Wars"],
         "target_enriched": [
           {
-            "name": "Star Wars: Episode IV - A New Hope",
+            "name": "Star Wars",
             "imdb_id": "tt0076759",
             "note": null,
             "image": {
@@ -1814,10 +1814,10 @@
     "candidates": [
       {
         "won": true,
-        "target": ["Star Wars: Episode IV - A New Hope"],
+        "target": ["Star Wars"],
         "target_enriched": [
           {
-            "name": "Star Wars: Episode IV - A New Hope",
+            "name": "Star Wars",
             "imdb_id": "tt0076759",
             "note": null,
             "image": {
@@ -2101,10 +2101,10 @@
     "candidates": [
       {
         "won": true,
-        "target": ["Star Wars: Episode IV - A New Hope"],
+        "target": ["Star Wars"],
         "target_enriched": [
           {
-            "name": "Star Wars: Episode IV - A New Hope",
+            "name": "Star Wars",
             "imdb_id": "tt0076759",
             "note": null,
             "image": {
@@ -2618,10 +2618,10 @@
       },
       {
         "won": false,
-        "target": ["Star Wars: Episode IV - A New Hope"],
+        "target": ["Star Wars"],
         "target_enriched": [
           {
-            "name": "Star Wars: Episode IV - A New Hope",
+            "name": "Star Wars",
             "imdb_id": "tt0076759",
             "note": null,
             "image": {
@@ -3011,10 +3011,10 @@
     "candidates": [
       {
         "won": true,
-        "target": ["Star Wars: Episode IV - A New Hope"],
+        "target": ["Star Wars"],
         "target_enriched": [
           {
-            "name": "Star Wars: Episode IV - A New Hope",
+            "name": "Star Wars",
             "imdb_id": "tt0076759",
             "note": null,
             "image": {
@@ -3115,9 +3115,9 @@
             "imdb_id": "tt0076740",
             "note": null,
             "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BNTVhMzk3ZDItNDIxMi00OTJiLWI3ZmMtMzAwNTQ0YjRhZWZhXkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_.jpg",
-              "height": 1890,
-              "width": 1299
+              "url": "https://m.media-amazon.com/images/M/MV5BZTE4Zjc2MWQtZTYzNS00ZjJmLWFhYWUtMGI0M2ZkOWRhYWJjXkEyXkFqcGdeQXVyMjYzNDExNzU@._V1_.jpg",
+              "height": 1581,
+              "width": 1041
             }
           }
         ],
@@ -3168,9 +3168,9 @@
             "imdb_id": "tt0075925",
             "note": null,
             "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BYTM1OTBhZTgtZTc1NC00ZWFjLTk3NzgtZWU3MDI1ZDkxMWI5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
-              "height": 1370,
-              "width": 901
+              "url": "https://m.media-amazon.com/images/M/MV5BYjZhMDNjMGUtMjExYS00MWM5LThhZDMtNGViOTI3ZmFkZjllXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+              "height": 1000,
+              "width": 662
             }
           }
         ],
@@ -3369,9 +3369,9 @@
             "imdb_id": "tt0076489",
             "note": null,
             "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BZDI5ODkzODAtNjJhYy00YjIyLWEzYzUtYjNiZWE1Mzc0MmQ4XkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_.jpg",
-              "height": 2908,
-              "width": 1945
+              "url": "https://m.media-amazon.com/images/M/MV5BNWJhMTZjZGItNWE5Zi00ZDFmLWEyZDctZmI3Mjc4Y2Y1NWFmXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+              "height": 2850,
+              "width": 1887
             }
           }
         ],
@@ -3479,10 +3479,10 @@
       },
       {
         "won": false,
-        "target": ["Star Wars: Episode IV - A New Hope"],
+        "target": ["Star Wars"],
         "target_enriched": [
           {
-            "name": "Star Wars: Episode IV - A New Hope",
+            "name": "Star Wars",
             "imdb_id": "tt0076759",
             "note": null,
             "image": {

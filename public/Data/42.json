@@ -738,9 +738,9 @@
             "imdb_id": "tt0064357",
             "note": null,
             "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BMTQ2MDIzMDEwMV5BMl5BanBnXkFtZTgwOTMxODk1MDE@._V1_.jpg",
-              "height": 500,
-              "width": 333
+              "url": "https://m.media-amazon.com/images/M/MV5BOTViYTFkMWMtNzM1Yy00NWY4LWFmMjAtYjdmZTI3YjdmYWJjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+              "height": 1800,
+              "width": 1159
             }
           }
         ],
@@ -1055,9 +1055,9 @@
             "imdb_id": "tt0064357",
             "note": null,
             "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BMTQ2MDIzMDEwMV5BMl5BanBnXkFtZTgwOTMxODk1MDE@._V1_.jpg",
-              "height": 500,
-              "width": 333
+              "url": "https://m.media-amazon.com/images/M/MV5BOTViYTFkMWMtNzM1Yy00NWY4LWFmMjAtYjdmZTI3YjdmYWJjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+              "height": 1800,
+              "width": 1159
             }
           }
         ],
@@ -1399,7 +1399,11 @@
             "name": "Emile de Antonio",
             "imdb_id": "nm0207108",
             "note": null,
-            "image": null
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmZmZWY2ODUtODYxOC00MGFhLTgwMzUtMmU5OWU3ZmRiZmM1XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "height": 1327,
+              "width": 1307
+            }
           }
         ],
         "notes": null
@@ -2328,7 +2332,11 @@
             "name": "Leslie Bricusse",
             "imdb_id": "nm0108634",
             "note": null,
-            "image": null
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDYzMWI4MGMtOTg5Yy00OWZkLWIwOTYtMjY1ZDM3YWQ4YzFhXkEyXkFqcGdeQXVyMTA3MzQ4MTc0._V1_.jpg",
+              "height": 500,
+              "width": 380
+            }
           },
           {
             "name": "John Williams",
@@ -2876,9 +2884,9 @@
             "imdb_id": "tt0064357",
             "note": null,
             "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BMTQ2MDIzMDEwMV5BMl5BanBnXkFtZTgwOTMxODk1MDE@._V1_.jpg",
-              "height": 500,
-              "width": 333
+              "url": "https://m.media-amazon.com/images/M/MV5BOTViYTFkMWMtNzM1Yy00NWY4LWFmMjAtYjdmZTI3YjdmYWJjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+              "height": 1800,
+              "width": 1159
             }
           }
         ],

@@ -154,9 +154,9 @@
             "imdb_id": "nm0744839",
             "note": "(producer)",
             "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BMjIzNDc0MzA1MF5BMl5BanBnXkFtZTgwODM4NDc3MTE@._V1_.jpg",
-              "height": 3840,
-              "width": 5760
+              "url": "https://m.media-amazon.com/images/M/MV5BNTBmYmI1OTAtZWQyNS00NDY1LTg2MzUtYjAwZjNjZjM1ZWM5XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "height": 861,
+              "width": 864
             }
           },
           {
@@ -861,10 +861,10 @@
     "candidates": [
       {
         "won": true,
-        "target": ["Yuh-Jung Youn"],
+        "target": ["Youn Yuh-jung"],
         "target_enriched": [
           {
-            "name": "Yuh-Jung Youn",
+            "name": "Youn Yuh-jung",
             "imdb_id": "nm0950926",
             "note": null,
             "image": {
@@ -2040,11 +2040,7 @@
             "name": "Elizabeth Keenan",
             "imdb_id": "nm1404582",
             "note": "(set decoration)",
-            "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BZDY4NGJmZTAtYTUzZC00ZDZhLWI0NzItNmMzZDZkNTYwZmI3XkEyXkFqcGdeQXVyMzY0MjQ0NjE@._V1_.jpg",
-              "height": 2048,
-              "width": 1536
-            }
+            "image": null
           }
         ],
         "notes": null
@@ -2110,11 +2106,7 @@
             "name": "Peter Francis",
             "imdb_id": "nm0290286",
             "note": "(production design)",
-            "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BYjZmZDc2ZTYtNjY0ZS00YzA3LWIyNmQtZDZlY2E1MmNkMTE1XkEyXkFqcGdeQXVyMTY4MTg4NTQ@._V1_.jpg",
-              "height": 2866,
-              "width": 1934
-            }
+            "image": null
           },
           {
             "name": "Cathy Featherstone",
@@ -2278,9 +2270,9 @@
             "imdb_id": "nm1964768",
             "note": null,
             "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BYmZmNzhhMzYtNjQzYi00YjNlLTg5OTktMTg1Y2YzY2Q2Y2E0XkEyXkFqcGdeQXVyMTMyODk0ODk@._V1_.jpg",
-              "height": 1328,
-              "width": 1062
+              "url": "https://m.media-amazon.com/images/M/MV5BZWVjNWQ0NmUtZGU1MC00ZGQzLWE3MjAtZTcyOTE3ZDgxM2NlXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_.jpg",
+              "height": 720,
+              "width": 1280
             }
           }
         ],
@@ -2387,11 +2379,7 @@
             "name": "Warren Shaw",
             "imdb_id": "nm0790022",
             "note": null,
-            "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BMzJiZTY2YTYtMmU4NS00MTc4LWFmMDktZDg4MzJmZWI1ZGQzXkEyXkFqcGdeQXVyMTQzMzMwNA@@._V1_.jpg",
-              "height": 720,
-              "width": 1080
-            }
+            "image": null
           },
           {
             "name": "Michael Minkler",
@@ -2530,11 +2518,7 @@
             "name": "John Pritchett",
             "imdb_id": "nm0698099",
             "note": null,
-            "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BOTg5Mjg4NTUyM15BMl5BanBnXkFtZTYwMTc0MTM4._V1_.jpg",
-              "height": 432,
-              "width": 288
-            }
+            "image": null
           }
         ],
         "notes": null
@@ -3160,9 +3144,9 @@
             "imdb_id": "nm1306128",
             "note": "(lyric by)",
             "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BMTI0Mjg3OTUxNl5BMl5BanBnXkFtZTYwMjI4NDgz._V1_.jpg",
-              "height": 400,
-              "width": 266
+              "url": "https://m.media-amazon.com/images/M/MV5BNTE3M2Q0YmYtZmU2OS00NDdiLTllZmQtNDRkNTZjYjBiMTYyXkEyXkFqcGdeQXVyMzQ0NTk5NzU@._V1_.jpg",
+              "height": 3855,
+              "width": 5783
             }
           }
         ],
@@ -4021,9 +4005,9 @@
             "imdb_id": "tt7488208",
             "note": null,
             "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BNmU0YzljYTYtODU3Zi00YmExLWJhODgtZWJjZmY5OTIyYmEzXkEyXkFqcGdeQXVyNDA5NTgxNjU@._V1_.jpg",
-              "height": 1900,
-              "width": 1284
+              "url": "https://m.media-amazon.com/images/M/MV5BNDAxMzBlZTUtNTgwNS00NjZhLWJjZmItMDBjZjhhZTM4OWQ2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+              "height": 946,
+              "width": 639
             }
           }
         ],
@@ -4407,7 +4391,7 @@
             "imdb_id": "nm1001945",
             "note": null,
             "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BYzM5YzM4M2UtNjQ5Yi00NWUxLTkwMjctYjQwZGJhYjNjM2RlXkEyXkFqcGdeQXVyNDUzMjY0Nzg@._V1_.jpg",
+              "url": "https://m.media-amazon.com/images/M/MV5BMzE1OWM2MmUtNDEyMy00ZDE3LWIwNzQtODg2ZTFiZWEwYjc1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
               "height": 956,
               "width": 684
             }

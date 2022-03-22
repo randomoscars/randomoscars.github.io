@@ -3749,10 +3749,10 @@
     "candidates": [
       {
         "won": true,
-        "target": ["The Yankee Doodle Mouse"],
+        "target": ["Mouse at War"],
         "target_enriched": [
           {
-            "name": "The Yankee Doodle Mouse",
+            "name": "Mouse at War",
             "imdb_id": "tt0036547",
             "note": null,
             "image": {

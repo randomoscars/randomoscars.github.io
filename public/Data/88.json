@@ -1415,7 +1415,11 @@
             "name": "S. Leigh Savidge",
             "imdb_id": "nm0767655",
             "note": "(story)",
-            "image": null
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNmJjMDkzYWYtYTI4ZS00OGQyLThkMGYtNzAyYTQ2OGE2YjQzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "height": 178,
+              "width": 178
+            }
           },
           {
             "name": "Alan Wenkus",
@@ -2400,9 +2404,9 @@
             "imdb_id": "nm0006453",
             "note": null,
             "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BZjY1YTBiZjUtZTJiYi00ODNjLWIyZWItNDdiODM3MWQ2YjE0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
-              "height": 3024,
-              "width": 4032
+              "url": "https://m.media-amazon.com/images/M/MV5BYzE5M2I5OWItNzRiYy00ZGU0LTg4ZmItZDI3MzIxMWY2YzBkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+              "height": 2400,
+              "width": 4800
             }
           }
         ],

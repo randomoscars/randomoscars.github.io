@@ -2706,25 +2706,6 @@
       },
       {
         "won": false,
-        "target": ["La grande illusion"],
-        "target_enriched": [
-          {
-            "name": "La grande illusion",
-            "imdb_id": "tt0028950",
-            "note": null,
-            "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BMTg3MTI5NTk0N15BMl5BanBnXkFtZTgwMjU1MDM5MTE@._V1_.jpg",
-              "height": 1200,
-              "width": 885
-            }
-          }
-        ],
-        "for": [],
-        "for_enriched": [],
-        "notes": null
-      },
-      {
-        "won": false,
         "target": ["Pygmalion"],
         "target_enriched": [
           {
@@ -2792,6 +2773,25 @@
               "url": "https://m.media-amazon.com/images/M/MV5BMzM1MWY1ZDktNGIwYy00NmY1LTg2NDAtNjJhMDExNWJlODM4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
               "height": 480,
               "width": 342
+            }
+          }
+        ],
+        "for": [],
+        "for_enriched": [],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The Grand Illusion"],
+        "target_enriched": [
+          {
+            "name": "The Grand Illusion",
+            "imdb_id": "tt0028950",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMTg3MTI5NTk0N15BMl5BanBnXkFtZTgwMjU1MDM5MTE@._V1_.jpg",
+              "height": 1200,
+              "width": 885
             }
           }
         ],
@@ -2979,7 +2979,11 @@
             "name": "The Great Heart",
             "imdb_id": "tt0030201",
             "note": null,
-            "image": null
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmExY2JmZDUtNjlhYy00ZGYyLTkzNmEtZDIyZmMwMzQzNzc2XkEyXkFqcGdeQXVyMDYxMTUwNg@@._V1_.jpg",
+              "height": 864,
+              "width": 1275
+            }
           }
         ],
         "for": [],

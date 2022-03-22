@@ -1307,9 +1307,9 @@
             "imdb_id": "nm0744839",
             "note": null,
             "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BMjIzNDc0MzA1MF5BMl5BanBnXkFtZTgwODM4NDc3MTE@._V1_.jpg",
-              "height": 3840,
-              "width": 5760
+              "url": "https://m.media-amazon.com/images/M/MV5BNTBmYmI1OTAtZWQyNS00NDY1LTg2MzUtYjAwZjNjZjM1ZWM5XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "height": 861,
+              "width": 864
             }
           }
         ],
@@ -2399,11 +2399,7 @@
             "name": "John Pritchett",
             "imdb_id": "nm0698099",
             "note": null,
-            "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BOTg5Mjg4NTUyM15BMl5BanBnXkFtZTYwMTc0MTM4._V1_.jpg",
-              "height": 432,
-              "width": 288
-            }
+            "image": null
           }
         ],
         "notes": null
@@ -3587,9 +3583,9 @@
             "imdb_id": "tt0424205",
             "note": null,
             "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BMTQyODczNjU3NF5BMl5BanBnXkFtZTcwNjQ0NDIzMQ@@._V1_.jpg",
-              "height": 444,
-              "width": 300
+              "url": "https://m.media-amazon.com/images/M/MV5BYzIzNzM2MTAtNzE5MS00M2ZhLTkxNDctMmQyODE3Mzg3YWE5XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+              "height": 1200,
+              "width": 800
             }
           }
         ],
@@ -3860,11 +3856,7 @@
             "name": "Nikki Gooley",
             "imdb_id": "nm0329618",
             "note": null,
-            "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BYWEwMWU4YTItYmJlNC00YjBjLWEwNGYtOGE5Mzc1YzIyNmZjXkEyXkFqcGdeQXVyMTQyODQ3Njk@._V1_.jpg",
-              "height": 713,
-              "width": 750
-            }
+            "image": null
           }
         ],
         "notes": null

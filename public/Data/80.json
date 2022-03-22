@@ -3260,9 +3260,9 @@
             "imdb_id": "tt0812387",
             "note": null,
             "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BNDQxNzE3YjQtMWNiYS00MzEwLWIxMDUtMWIzYWZmZDM2YjZlXkEyXkFqcGdeQXVyOTM2ODgzMg@@._V1_.jpg",
-              "height": 868,
-              "width": 652
+              "url": "https://m.media-amazon.com/images/M/MV5BMGM4YmNkZDUtYzVkOS00NGVhLTliOWYtZTRlZjcxYzVhZTdjXkEyXkFqcGdeQXVyMjExNjgyMTc@._V1_.jpg",
+              "height": 1600,
+              "width": 1200
             }
           }
         ],
@@ -3330,11 +3330,7 @@
             "name": "Daniel Barber",
             "imdb_id": "nm2905562",
             "note": null,
-            "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BMjExMDIzNTk1Ml5BMl5BanBnXkFtZTgwMTIwOTg2MjE@._V1_.jpg",
-              "height": 2192,
-              "width": 1684
-            }
+            "image": null
           },
           {
             "name": "Matthew Brown",

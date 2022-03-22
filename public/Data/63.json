@@ -146,9 +146,9 @@
             "imdb_id": "tt0099077",
             "note": null,
             "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BMjI5NjEzMDYyMl5BMl5BanBnXkFtZTgwNjgwNTg4NjE@._V1_.jpg",
-              "height": 1089,
-              "width": 813
+              "url": "https://m.media-amazon.com/images/M/MV5BMWUxOTk2NzUtZDBjYi00MzIwLWFlODYtZjFmNDM5MjlkYjJjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+              "height": 1191,
+              "width": 800
             }
           }
         ],
@@ -1355,7 +1355,7 @@
             }
           }
         ],
-        "for": ["Mark Mori", "Susan Robinson"],
+        "for": ["Mark Mori", "Susan J. Robinson"],
         "for_enriched": [
           {
             "name": "Mark Mori",
@@ -1368,10 +1368,14 @@
             }
           },
           {
-            "name": "Susan Robinson",
-            "imdb_id": "nm0733125",
+            "name": "Susan J. Robinson",
+            "imdb_id": "nm12606651",
             "note": null,
-            "image": null
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMzIyOGYzNjUtNTdhOS00ZWU2LTkxNGEtZGE1ZGM0NTQ1NWNjXkEyXkFqcGdeQXVyOTkwNDkyMTA@._V1_.jpg",
+              "height": 1266,
+              "width": 1281
+            }
           }
         ],
         "notes": null
@@ -2063,9 +2067,9 @@
             "imdb_id": "tt0099487",
             "note": null,
             "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BNDUxN2I5NDUtZjdlMC00NjlmLTg0OTQtNjk0NjAxZjFmZTUzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
-              "height": 1422,
-              "width": 960
+              "url": "https://m.media-amazon.com/images/M/MV5BMWY2MGRkNjgtZDczNi00YWJjLTkwNmUtMTY0NTE5ZDhkZjgwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+              "height": 2915,
+              "width": 1969
             }
           }
         ],
@@ -2319,7 +2323,11 @@
             "name": "Leslie Bricusse",
             "imdb_id": "nm0108634",
             "note": "(lyrics)",
-            "image": null
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDYzMWI4MGMtOTg5Yy00OWZkLWIwOTYtMjY1ZDM3YWQ4YzFhXkEyXkFqcGdeQXVyMTA3MzQ4MTc0._V1_.jpg",
+              "height": 500,
+              "width": 380
+            }
           }
         ],
         "notes": "For the song \"Somewhere in My Memory\"."
@@ -2472,9 +2480,9 @@
             "imdb_id": "tt0099077",
             "note": null,
             "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BMjI5NjEzMDYyMl5BMl5BanBnXkFtZTgwNjgwNTg4NjE@._V1_.jpg",
-              "height": 1089,
-              "width": 813
+              "url": "https://m.media-amazon.com/images/M/MV5BMWUxOTk2NzUtZDBjYi00MzIwLWFlODYtZjFmNDM5MjlkYjJjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+              "height": 1191,
+              "width": 800
             }
           }
         ],
@@ -3169,9 +3177,9 @@
             "imdb_id": "tt0099077",
             "note": null,
             "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BMjI5NjEzMDYyMl5BMl5BanBnXkFtZTgwNjgwNTg4NjE@._V1_.jpg",
-              "height": 1089,
-              "width": 813
+              "url": "https://m.media-amazon.com/images/M/MV5BMWUxOTk2NzUtZDBjYi00MzIwLWFlODYtZjFmNDM5MjlkYjJjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+              "height": 1191,
+              "width": 800
             }
           }
         ],

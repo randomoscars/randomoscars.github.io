@@ -2362,10 +2362,10 @@
       },
       {
         "won": false,
-        "target": ["Bad Grandpa"],
+        "target": ["Jackass Presents: Bad Grandpa"],
         "target_enriched": [
           {
-            "name": "Bad Grandpa",
+            "name": "Jackass Presents: Bad Grandpa",
             "imdb_id": "tt3063516",
             "note": null,
             "image": {
@@ -2399,9 +2399,9 @@
             "imdb_id": "tt1210819",
             "note": null,
             "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BZjFiMTc2MTAtZDA0My00OGRmLTk5M2ItNTlmYTUwZmU2YmRiXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
-              "height": 1185,
-              "width": 800
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI3Mjk5MTUxOV5BMl5BanBnXkFtZTcwNTMyNzY3OQ@@._V1_.jpg",
+              "height": 2048,
+              "width": 1382
             }
           }
         ],
@@ -3101,9 +3101,9 @@
             "imdb_id": "nm0293634",
             "note": null,
             "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BMjQzODcwNzMzOV5BMl5BanBnXkFtZTgwMTkyMTY2MDI@._V1_.jpg",
-              "height": 1659,
-              "width": 3100
+              "url": "https://m.media-amazon.com/images/M/MV5BMTk5MDU0MjY5Nl5BMl5BanBnXkFtZTgwMDA4MDEzMTE@._V1_.jpg",
+              "height": 2048,
+              "width": 1518
             }
           }
         ],
@@ -3488,9 +3488,9 @@
             "imdb_id": "tt1210819",
             "note": null,
             "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BZjFiMTc2MTAtZDA0My00OGRmLTk5M2ItNTlmYTUwZmU2YmRiXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
-              "height": 1185,
-              "width": 800
+              "url": "https://m.media-amazon.com/images/M/MV5BMjI3Mjk5MTUxOV5BMl5BanBnXkFtZTcwNTMyNzY3OQ@@._V1_.jpg",
+              "height": 2048,
+              "width": 1382
             }
           }
         ],

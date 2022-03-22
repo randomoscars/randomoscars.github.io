@@ -1513,7 +1513,11 @@
             "name": "The End of the Game",
             "imdb_id": "tt0072939",
             "note": null,
-            "image": null
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BY2Y5OTkyYjUtNTgzYi00NWMzLThlMTItNzMyOGIzYzRmZTRjXkEyXkFqcGdeQXVyODgzNDIwODA@._V1_.jpg",
+              "height": 1334,
+              "width": 750
+            }
           }
         ],
         "for": ["Claire Wilbur", "Robin Lehman"],
@@ -2052,9 +2056,9 @@
             "imdb_id": "tt0073906",
             "note": null,
             "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BYWQyNzMyMDEtZDIyMS00MmMyLWFhOWEtZjQ4NWE4NGY1YjE5XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
-              "height": 2231,
-              "width": 1432
+              "url": "https://m.media-amazon.com/images/M/MV5BODA2YWFhMmMtMTRlZC00YTJlLWJlODEtNGEzMTBmYTA3MWNjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+              "height": 4206,
+              "width": 2768
             }
           }
         ],
@@ -3010,9 +3014,9 @@
             "imdb_id": "tt0073906",
             "note": null,
             "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BYWQyNzMyMDEtZDIyMS00MmMyLWFhOWEtZjQ4NWE4NGY1YjE5XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
-              "height": 2231,
-              "width": 1432
+              "url": "https://m.media-amazon.com/images/M/MV5BODA2YWFhMmMtMTRlZC00YTJlLWJlODEtNGEzMTBmYTA3MWNjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+              "height": 4206,
+              "width": 2768
             }
           }
         ],

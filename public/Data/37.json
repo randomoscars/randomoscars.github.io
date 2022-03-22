@@ -1874,9 +1874,9 @@
             "imdb_id": "tt0059197",
             "note": null,
             "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BOTM0NjgwMjQzN15BMl5BanBnXkFtZTcwMzk3MDQyMQ@@._V1_.jpg",
-              "height": 475,
-              "width": 261
+              "url": "https://m.media-amazon.com/images/M/MV5BOTFiZjkxY2EtMDEyMS00NjQ2LThmOWYtMTA5MDBmOTBiMjQ4XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+              "height": 2821,
+              "width": 1798
             }
           }
         ],
@@ -2043,7 +2043,11 @@
             "name": "Breaking the Habit",
             "imdb_id": "tt0057898",
             "note": null,
-            "image": null
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjUwMWYxNWItYmM0OC00M2FkLThiNDEtNTBhODhlMDQyYWM4XkEyXkFqcGdeQXVyMDYxMTUwNg@@._V1_.jpg",
+              "height": 1920,
+              "width": 1280
+            }
           }
         ],
         "for": ["Henry Jacobs", "John Korty"],
@@ -2117,9 +2121,9 @@
             "imdb_id": "tt0058150",
             "note": null,
             "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BMTQ2MzE0OTU3NV5BMl5BanBnXkFtZTcwNjQxNTgzNA@@._V1_.jpg",
-              "height": 1023,
-              "width": 682
+              "url": "https://m.media-amazon.com/images/M/MV5BZmJlMDg4NzYtMzNmNS00ZWIzLWIyMTItZGViOTZiMWQ0NzkyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+              "height": 3000,
+              "width": 1956
             }
           }
         ],
@@ -2198,7 +2202,11 @@
             "name": "Hamilton Luske",
             "imdb_id": "nm0527217",
             "note": null,
-            "image": null
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BOTMzZTFkYmItN2U3NS00MWMxLThhYmEtOGM5NGMyOGZlYWQzXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_.jpg",
+              "height": 600,
+              "width": 1180
+            }
           },
           {
             "name": "Eustace Lycett",

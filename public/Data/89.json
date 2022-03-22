@@ -3652,7 +3652,11 @@
             "name": "Donatella Palermo",
             "imdb_id": "nm0657550",
             "note": null,
-            "image": null
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BODA4YjMzMmMtMjgxOC00OWQyLTg2NGMtNDZlNDUyMDFiNWRlXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_.jpg",
+              "height": 798,
+              "width": 1200
+            }
           }
         ],
         "notes": null
@@ -4213,7 +4217,11 @@
             "name": "Aske Bang",
             "imdb_id": "nm2957173",
             "note": null,
-            "image": null
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNGE5ODRkZmMtNTc2MS00ZGI3LWE2ZDgtMTZjNzY0ZjM2YTA4XkEyXkFqcGdeQXVyMjE0MDcwMTM@._V1_.jpg",
+              "height": 2048,
+              "width": 1365
+            }
           }
         ],
         "notes": null
@@ -4298,9 +4306,9 @@
             "imdb_id": "tt3841424",
             "note": null,
             "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BMjA0MzQzNjM1Ml5BMl5BanBnXkFtZTgwNjM5MjU5NjE@._V1_.jpg",
-              "height": 11988,
-              "width": 8090
+              "url": "https://m.media-amazon.com/images/M/MV5BZDRlMzZkMWEtYWZlNy00ZDM3LWFjZTktMDIwYjZjMmQ1OTEzXkEyXkFqcGdeQXVyMjA0MzYwMDY@._V1_.jpg",
+              "height": 5994,
+              "width": 4045
             }
           }
         ],

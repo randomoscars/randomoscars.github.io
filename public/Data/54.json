@@ -883,9 +883,9 @@
             "imdb_id": "tt0082348",
             "note": null,
             "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BMTQ3OTA5NjY3OV5BMl5BanBnXkFtZTcwNjAxOTI3MQ@@._V1_.jpg",
-              "height": 500,
-              "width": 321
+              "url": "https://m.media-amazon.com/images/M/MV5BNmI4MDU0NDUtZTNmZC00YTYwLTk3NzgtMGFmYjg3N2VjODczXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+              "height": 2930,
+              "width": 1940
             }
           }
         ],
@@ -2330,9 +2330,9 @@
             "imdb_id": "tt0082398",
             "note": null,
             "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BMzQ4YzUzNGQtMDNkYS00NTk5LTkyMDgtNmVkMjg5MjIzNTdmXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_.jpg",
-              "height": 2714,
-              "width": 1786
+              "url": "https://m.media-amazon.com/images/M/MV5BN2RhOWEyM2UtNTYwMC00ZGUxLWFiMzktNTAzYjFjNmZlYzMyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+              "height": 2904,
+              "width": 1915
             }
           }
         ],
@@ -2678,7 +2678,11 @@
             "name": "Violet",
             "imdb_id": "tt0083293",
             "note": null,
-            "image": null
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZTBkYjc1MDUtOTc1Yy00NDgxLTk4OGItYWI1MWZmMWE4OTRkXkEyXkFqcGdeQXVyODgzNDIwODA@._V1_.jpg",
+              "height": 1012,
+              "width": 745
+            }
           }
         ],
         "for": ["Paul Kemp", "Shelley Levinson"],

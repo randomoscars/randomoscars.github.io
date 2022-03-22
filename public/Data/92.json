@@ -19,10 +19,10 @@
             }
           }
         ],
-        "for": ["Sin-ae Kwak", "Bong Joon Ho"],
+        "for": ["Kwak Sin-ae", "Bong Joon Ho"],
         "for_enriched": [
           {
-            "name": "Sin-ae Kwak",
+            "name": "Kwak Sin-ae",
             "imdb_id": "nm10113618",
             "note": null,
             "image": {
@@ -1247,7 +1247,7 @@
             }
           }
         ],
-        "for": ["Bong Joon Ho", "Jin-won Han"],
+        "for": ["Bong Joon Ho", "Han Jin-won"],
         "for_enriched": [
           {
             "name": "Bong Joon Ho",
@@ -1260,7 +1260,7 @@
             }
           },
           {
-            "name": "Jin-won Han",
+            "name": "Han Jin-won",
             "imdb_id": "nm8243301",
             "note": null,
             "image": {
@@ -2023,10 +2023,10 @@
             }
           }
         ],
-        "for": ["Ha-jun Lee", "Won-woo Cho"],
+        "for": ["Lee Ha-jun", "Won-woo Cho"],
         "for_enriched": [
           {
-            "name": "Ha-jun Lee",
+            "name": "Lee Ha-jun",
             "imdb_id": "nm4342766",
             "note": null,
             "image": {

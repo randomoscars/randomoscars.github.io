@@ -340,9 +340,9 @@
             "imdb_id": "tt0048947",
             "note": null,
             "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BNWYzNzM2NGItZmFiZS00MGI2LWJlYmItOWNmOTllZjRiNmY0XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_.jpg",
-              "height": 3564,
-              "width": 2520
+              "url": "https://m.media-amazon.com/images/M/MV5BYTdkZTVmYTctNmRkNi00YmQwLTk2MTYtNTkyNTQ0YWExM2JjXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+              "height": 755,
+              "width": 493
             }
           }
         ],
@@ -2395,10 +2395,10 @@
     "candidates": [
       {
         "won": true,
-        "target": ["La strada"],
+        "target": ["The Road"],
         "target_enriched": [
           {
-            "name": "La strada",
+            "name": "The Road",
             "imdb_id": "tt0047528",
             "note": null,
             "image": {
@@ -2774,9 +2774,9 @@
             "imdb_id": "tt0048947",
             "note": null,
             "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BNWYzNzM2NGItZmFiZS00MGI2LWJlYmItOWNmOTllZjRiNmY0XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_.jpg",
-              "height": 3564,
-              "width": 2520
+              "url": "https://m.media-amazon.com/images/M/MV5BYTdkZTVmYTctNmRkNi00YmQwLTk2MTYtNTkyNTQ0YWExM2JjXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+              "height": 755,
+              "width": 493
             }
           }
         ],
@@ -3245,9 +3245,9 @@
             "imdb_id": "tt0049510",
             "note": null,
             "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BMTMwODQyNDQ2OF5BMl5BanBnXkFtZTcwNzE2NDkxMQ@@._V1_.jpg",
-              "height": 475,
-              "width": 258
+              "url": "https://m.media-amazon.com/images/M/MV5BNWIwNTBhZjYtMjdiYy00Nzc1LWE5OGYtNjZlNjk1MTNhZmJmXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg",
+              "height": 1023,
+              "width": 670
             }
           }
         ],
@@ -3271,9 +3271,9 @@
             "imdb_id": "tt0049258",
             "note": null,
             "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BMTI1ODQyNzg2N15BMl5BanBnXkFtZTcwMzYwOTYzMQ@@._V1_.jpg",
-              "height": 500,
-              "width": 348
+              "url": "https://m.media-amazon.com/images/M/MV5BOTM5ZTFmMmYtZjE4MS00YjhiLTllMzgtMjU3MzlhNzkwYjMzXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg",
+              "height": 1041,
+              "width": 609
             }
           }
         ],
@@ -3297,9 +3297,9 @@
             "imdb_id": "tt0049380",
             "note": null,
             "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BMTMwNzExNTExOV5BMl5BanBnXkFtZTcwMzE2MzUxMQ@@._V1_.jpg",
-              "height": 475,
-              "width": 261
+              "url": "https://m.media-amazon.com/images/M/MV5BODVlYTg2ZjQtYjI3NS00ZGNiLWE3NDktYjEyMzBiMTFjMGJjXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg",
+              "height": 961,
+              "width": 634
             }
           }
         ],
@@ -3897,42 +3897,6 @@
       },
       {
         "won": false,
-        "target": ["La strada"],
-        "target_enriched": [
-          {
-            "name": "La strada",
-            "imdb_id": "tt0047528",
-            "note": null,
-            "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BYjUyOGMyMTQtYTM5Yy00MjFiLTk2OGItMWYwMDc2YmM1YzhiXkEyXkFqcGdeQXVyMjA0MzYwMDY@._V1_.jpg",
-              "height": 2978,
-              "width": 2143
-            }
-          }
-        ],
-        "for": ["Federico Fellini", "Tullio Pinelli"],
-        "for_enriched": [
-          {
-            "name": "Federico Fellini",
-            "imdb_id": "nm0000019",
-            "note": null,
-            "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BMjE0NDI1MDU5Nl5BMl5BanBnXkFtZTgwNjQ2ODMwMzE@._V1_.jpg",
-              "height": 1748,
-              "width": 1276
-            }
-          },
-          {
-            "name": "Tullio Pinelli",
-            "imdb_id": "nm0684083",
-            "note": null,
-            "image": null
-          }
-        ],
-        "notes": null
-      },
-      {
-        "won": false,
         "target": ["The Bold and the Brave"],
         "target_enriched": [
           {
@@ -3983,6 +3947,42 @@
               "height": 500,
               "width": 850
             }
+          }
+        ],
+        "notes": null
+      },
+      {
+        "won": false,
+        "target": ["The Road"],
+        "target_enriched": [
+          {
+            "name": "The Road",
+            "imdb_id": "tt0047528",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BYjUyOGMyMTQtYTM5Yy00MjFiLTk2OGItMWYwMDc2YmM1YzhiXkEyXkFqcGdeQXVyMjA0MzYwMDY@._V1_.jpg",
+              "height": 2978,
+              "width": 2143
+            }
+          }
+        ],
+        "for": ["Federico Fellini", "Tullio Pinelli"],
+        "for_enriched": [
+          {
+            "name": "Federico Fellini",
+            "imdb_id": "nm0000019",
+            "note": null,
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMjE0NDI1MDU5Nl5BMl5BanBnXkFtZTgwNjQ2ODMwMzE@._V1_.jpg",
+              "height": 1748,
+              "width": 1276
+            }
+          },
+          {
+            "name": "Tullio Pinelli",
+            "imdb_id": "nm0684083",
+            "note": null,
+            "image": null
           }
         ],
         "notes": null

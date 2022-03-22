@@ -6,7 +6,13 @@ Accesses the imdb page for individual years the Academy Awards were held and sto
 
 ## Requirements
 
-Developed for Python v3.7.3
+- Python v3.7.3 or greater
+- bs4 v4.8.2 (may require upgrading pip to install a specific version)
+- requests
+
+### Installing Python modules
+
+`python3 -m pip install moduleName`
 
 ## How to Run
 

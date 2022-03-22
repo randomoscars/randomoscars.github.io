@@ -846,9 +846,9 @@
             "imdb_id": "tt0104427",
             "note": null,
             "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BMDg2MTQ0YzYtNmVhMy00OTA4LTg2YzgtNGI2M2ViNGIwODYwXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
-              "height": 826,
-              "width": 558
+              "url": "https://m.media-amazon.com/images/M/MV5BOWNlMGRmYmEtZGNiZS00NzdiLTk2ZWUtZjEyY2U3NjM0MGRlXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+              "height": 2837,
+              "width": 1920
             }
           }
         ],
@@ -2213,9 +2213,9 @@
             "imdb_id": "tt0104427",
             "note": null,
             "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BMDg2MTQ0YzYtNmVhMy00OTA4LTg2YzgtNGI2M2ViNGIwODYwXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
-              "height": 826,
-              "width": 558
+              "url": "https://m.media-amazon.com/images/M/MV5BOWNlMGRmYmEtZGNiZS00NzdiLTk2ZWUtZjEyY2U3NjM0MGRlXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+              "height": 2837,
+              "width": 1920
             }
           }
         ],
@@ -2499,9 +2499,9 @@
             "imdb_id": "tt0103855",
             "note": null,
             "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BYjNhMGEwNDYtOTYxZC00NmY3LWI0ZmMtMDdmZTU2OTgzMDYwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
-              "height": 768,
-              "width": 520
+              "url": "https://m.media-amazon.com/images/M/MV5BYThkMTM4ZTMtN2M3OS00ODRjLTkxMTgtZTM4ZmZlNGZjOGIxXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+              "height": 2974,
+              "width": 1995
             }
           }
         ],
@@ -2539,9 +2539,9 @@
             "imdb_id": "tt0103855",
             "note": null,
             "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BYjNhMGEwNDYtOTYxZC00NmY3LWI0ZmMtMDdmZTU2OTgzMDYwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
-              "height": 768,
-              "width": 520
+              "url": "https://m.media-amazon.com/images/M/MV5BYThkMTM4ZTMtN2M3OS00ODRjLTkxMTgtZTM4ZmZlNGZjOGIxXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+              "height": 2974,
+              "width": 1995
             }
           }
         ],
@@ -2770,11 +2770,7 @@
             "name": "Stephen Woolley",
             "imdb_id": "nm0941262",
             "note": null,
-            "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BMTY4NDMwMDE5MF5BMl5BanBnXkFtZTgwMzM4OTYwNzE@._V1_.jpg",
-              "height": 428,
-              "width": 640
-            }
+            "image": null
           }
         ],
         "notes": null

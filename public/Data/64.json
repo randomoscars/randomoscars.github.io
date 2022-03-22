@@ -1665,9 +1665,9 @@
             "imdb_id": "tt0102975",
             "note": null,
             "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BYTM1ZDc0MDEtYjhhMC00ZWFmLThlMTYtOTI2MTdkZDVhODQwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
-              "height": 1500,
-              "width": 1010
+              "url": "https://m.media-amazon.com/images/M/MV5BYzJiZDdmODQtMDM0Yi00ZTcwLWJjMjItM2QxOWJjZDdmYmQ5XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+              "height": 2908,
+              "width": 1949
             }
           }
         ],
@@ -2232,9 +2232,9 @@
             "imdb_id": "tt0102975",
             "note": null,
             "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BYTM1ZDc0MDEtYjhhMC00ZWFmLThlMTYtOTI2MTdkZDVhODQwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
-              "height": 1500,
-              "width": 1010
+              "url": "https://m.media-amazon.com/images/M/MV5BYzJiZDdmODQtMDM0Yi00ZTcwLWJjMjItM2QxOWJjZDdmYmQ5XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+              "height": 2908,
+              "width": 1949
             }
           }
         ],
@@ -2580,7 +2580,11 @@
             "name": "Leslie Bricusse",
             "imdb_id": "nm0108634",
             "note": "(lyrics)",
-            "image": null
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMDYzMWI4MGMtOTg5Yy00OWZkLWIwOTYtMjY1ZDM3YWQ4YzFhXkEyXkFqcGdeQXVyMTA3MzQ4MTc0._V1_.jpg",
+              "height": 500,
+              "width": 380
+            }
           }
         ],
         "notes": "For the song \"When You're Alone\"."
@@ -2594,9 +2598,9 @@
             "imdb_id": "tt0102798",
             "note": null,
             "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BODM3MjA3NDM3M15BMl5BanBnXkFtZTgwMDc1NjUwMjI@._V1_.jpg",
-              "height": 755,
-              "width": 508
+              "url": "https://m.media-amazon.com/images/M/MV5BNjUxMzVhNjgtYTQxNS00Zjg3LThlYjctOGFlZjg0YmI1ZmYyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+              "height": 2969,
+              "width": 1988
             }
           }
         ],

@@ -1616,7 +1616,11 @@
             "name": "Gene Milford",
             "imdb_id": "nm0587332",
             "note": null,
-            "image": null
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZGE2NjU2NmYtNTgwMC00ZTQ3LThlODctYjRhMGJhNDY3M2IxXkEyXkFqcGdeQXVyMTA3MzQ4MTc0._V1_.jpg",
+              "height": 333,
+              "width": 500
+            }
           }
         ],
         "notes": null

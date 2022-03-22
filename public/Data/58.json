@@ -673,9 +673,9 @@
             "imdb_id": "tt0088846",
             "note": null,
             "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BMzIwM2IwYTItYmM4Zi00OWMzLTkwNjAtYWRmYWNmY2RhMDk0XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
-              "height": 876,
-              "width": 580
+              "url": "https://m.media-amazon.com/images/M/MV5BMDM0YTM3Y2UtNzY5MC00OTc4LThhZTYtMmM0ZGZjMmU1ZjdmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+              "height": 730,
+              "width": 500
             }
           }
         ],
@@ -2566,7 +2566,11 @@
             "name": "Chris Hayes",
             "imdb_id": "nm0370943",
             "note": "(music)",
-            "image": null
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BMmY0NWZhZmUtZGEzOS00YWE5LWIwZmYtZTM3YjQyZTY5YTdiXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+              "height": 1435,
+              "width": 1159
+            }
           },
           {
             "name": "Johnny Colla",
@@ -3543,9 +3547,9 @@
             "imdb_id": "tt0088846",
             "note": null,
             "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BMzIwM2IwYTItYmM4Zi00OWMzLTkwNjAtYWRmYWNmY2RhMDk0XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
-              "height": 876,
-              "width": 580
+              "url": "https://m.media-amazon.com/images/M/MV5BMDM0YTM3Y2UtNzY5MC00OTc4LThhZTYtMmM0ZGZjMmU1ZjdmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+              "height": 730,
+              "width": 500
             }
           }
         ],

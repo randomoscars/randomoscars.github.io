@@ -3345,11 +3345,7 @@
             "name": "Barry Morrow",
             "imdb_id": "nm0607454",
             "note": "(screenplay/story)",
-            "image": {
-              "url": "https://m.media-amazon.com/images/M/MV5BMTUxOTgyNjUzMV5BMl5BanBnXkFtZTgwNjE1MDI4MjE@._V1_.jpg",
-              "height": 1469,
-              "width": 1530
-            }
+            "image": null
           }
         ],
         "notes": null

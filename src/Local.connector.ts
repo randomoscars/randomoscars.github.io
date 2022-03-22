@@ -1,4 +1,4 @@
-import { OscarCategory, OscarYear } from './Models';
+import { CURRENT_YEAR, NO_OF_JSONS, OscarCategory, OscarYear } from './Models';
 import uniqBy from 'ramda/src/uniqBy';
 
 async function getOscarCategories(ceremonyNum: number): Promise<OscarYear> {
@@ -14,7 +14,7 @@ async function getOscarCategories(ceremonyNum: number): Promise<OscarYear> {
 
 export async function getAllCategories(): Promise<OscarCategory[]> {
   let categories: OscarCategory[] = [];
-  for (let i = 1; i <= 93; i++) {
+  for (let i = 1; i <= NO_OF_JSONS; i++) {
     const oscarCategories = await getOscarCategories(i);
     categories = categories.concat(oscarCategories);
   }
@@ -31,7 +31,7 @@ export async function getAwardDataWithRetry(
   if (awardData) {
     return awardData;
   }
-  if (year < 2021) {
+  if (year < CURRENT_YEAR) {
     return await getAwardDataWithRetry(categoryId, year + 1);
   }
   return undefined;

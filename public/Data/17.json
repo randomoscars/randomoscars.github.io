@@ -4426,7 +4426,11 @@
             "name": "Main Street Today",
             "imdb_id": "tt0037039",
             "note": null,
-            "image": null
+            "image": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZWM1YTRhMzktMTNjOC00MGU4LTlmMWItYWUzMTU1YjQzYTgxXkEyXkFqcGdeQXVyMDYxMTUwNg@@._V1_.jpg",
+              "height": 281,
+              "width": 375
+            }
           }
         ],
         "for": ["Jerry Bresler"],

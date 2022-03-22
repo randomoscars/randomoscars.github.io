@@ -743,7 +743,7 @@
             }
           }
         ],
-        "notes": "Christopher Plummer became the oldest winner of a competitive Oscar in an acting category, at 82, surpassing the achievement of Jessica Tandy."
+        "notes": null
       },
       {
         "won": false,
@@ -3296,10 +3296,10 @@
       },
       {
         "won": false,
-        "target": ["La Luna"],
+        "target": ["Boy on the Moon"],
         "target_enriched": [
           {
-            "name": "La Luna",
+            "name": "Boy on the Moon",
             "imdb_id": "tt1957945",
             "note": null,
             "image": {
